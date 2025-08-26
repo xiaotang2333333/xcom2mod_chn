@@ -1,0 +1,21 @@
+﻿[Archetypes.ARC_IA_SupplyCrate_Alloys XComInteractiveLevelActor]
+FriendlyDisplayName="Advent Supply Crate"
+
+[Archetypes.ARC_IA_SupplyCrate_Elerium XComInteractiveLevelActor]
+FriendlyDisplayName="Advent Supply Crate"
+
+[Archetypes.ARC_IA_SupplyCrate_Intel XComInteractiveLevelActor]
+FriendlyDisplayName="Advent Supply Crate"
+
+[Archetypes.ARC_IA_SupplyCrate_Loot XComInteractiveLevelActor]
+FriendlyDisplayName="Advent Supply Crate"
+
+[Archetypes.ARC_IA_SupplyCrate_Premium XComInteractiveLevelActor]
+FriendlyDisplayName="Advent Supply Crate"
+
+[Archetypes.ARC_IA_SupplyCrate_Standard XComInteractiveLevelActor]
+FriendlyDisplayName="Advent Supply Crate"
+
+[Archetypes.ARC_IA_SupplyCrate_Supplies XComInteractiveLevelActor]
+FriendlyDisplayName="Advent Supply Crate"
+

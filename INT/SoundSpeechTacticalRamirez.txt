@@ -1,0 +1,36 @@
+﻿[T_Setup_Phase_Combat_Tutorial_Ramirez_10 AkEvent]
+SpokenText="On the move."
+
+[T_Setup_Phase_Combat_Tutorial_Ramirez_25 AkEvent]
+SpokenText="No problem!"
+
+[T_Setup_Phase_Combat_Tutorial_Ramirez_26 AkEvent]
+SpokenText="You're still keepin' score, right?"
+
+[T_Tutorial_Ramirez_Concealed AkEvent]
+SpokenText="Outta sight. "
+
+[T_Tutorial_Ramirez_Confirmations_1 AkEvent]
+SpokenText="Roger that."
+
+[T_Tutorial_Ramirez_Confirmations_2 AkEvent]
+SpokenText="Solid copy."
+
+[T_Tutorial_Ramirez_Confirmations_3 AkEvent]
+SpokenText="Copy that."
+
+[T_Tutorial_Ramirez_Confirmations_4 AkEvent]
+SpokenText="Good to go."
+
+[T_Tutorial_Ramirez_Confirmations_5 AkEvent]
+SpokenText="Gettin' it done."
+
+[T_Tutorial_Ramirez_Confirmations_6 AkEvent]
+SpokenText="No need to ask twice."
+
+[T_Tutorial_Ramirez_Confirmations_7 AkEvent]
+SpokenText="Affirmative. "
+
+[T_Tutorial_Ramirez_Confirmations_8 AkEvent]
+SpokenText="Got it covered."
+

@@ -1,0 +1,21 @@
+﻿[Audio.Advanced_Bradford_William_Salyers_04_01_14_MOCAP_18 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.Bradford_William_Salyers_04_01_14_MOCAP_12 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.Bradford_William_Salyers_04_01_14_MOCAP_18 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+

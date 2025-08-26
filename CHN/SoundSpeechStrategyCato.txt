@@ -1,0 +1,35 @@
+﻿[S_Cato_AllEndings_Geoscape_BuildSupport AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_Cato_Gateway_ID_Intro AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_Cato_Gateway_Nag_HalfDone AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_Cato_Gateway_Nag_ID AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_Cato_Gateway_Nag_NewCouplet AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+

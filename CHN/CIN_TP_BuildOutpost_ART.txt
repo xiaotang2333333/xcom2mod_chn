@@ -1,0 +1,24 @@
+﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_21 XComInteractiveLevelActor]
+FriendlyDisplayName="变种人容器"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_22 XComInteractiveLevelActor]
+FriendlyDisplayName="变种人容器"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_23 XComInteractiveLevelActor]
+FriendlyDisplayName="变种人容器"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_24 XComInteractiveLevelActor]
+FriendlyDisplayName="变种人容器"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_25 XComInteractiveLevelActor]
+FriendlyDisplayName="变种人容器"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_26 XComInteractiveLevelActor]
+FriendlyDisplayName="变种人容器"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_27 XComInteractiveLevelActor]
+FriendlyDisplayName="变种人容器"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_28 XComInteractiveLevelActor]
+FriendlyDisplayName="变种人容器"
+

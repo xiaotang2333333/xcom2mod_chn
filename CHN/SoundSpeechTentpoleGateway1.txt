@@ -1,0 +1,91 @@
+﻿[S_TP_Gateway_Tentpole1_Central_01 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Gateway_Tentpole1_Central_01_LCR AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Gateway_Tentpole1_Central_02 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Gateway_Tentpole1_Central_03 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Gateway_Tentpole1_Central_04 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Gateway_Tentpole1_Central_05 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Gateway_Tentpole1_Commander_01 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Gateway_Tentpole1_Commander_02 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Gateway_Tentpole1_Shen_01 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Gateway_Tentpole1_Shen_02 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Gateway_Tentpole1_Shen_03 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Gateway_Tentpole1_Shen_04 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Gateway_Tentpole1_Shen_05 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+

@@ -1,0 +1,174 @@
+﻿[T_Facility_Propaganda_01_Speaker AkEvent]
+SpokenText="请记住，长老们一直与你同在。"
+
+[T_Facility_Propaganda_02_Speaker AkEvent]
+SpokenText="你受长老之命进行服务。"
+
+[T_Facility_Propaganda_03_Speaker AkEvent]
+SpokenText="长老们的意志是绝对的。"
+
+[T_Facility_Propaganda_04_Speaker AkEvent]
+SpokenText="你就是长老意志的化身。"
+
+[T_Facility_Propaganda_05_Speaker AkEvent]
+SpokenText="永远不要忘记长老们对你的目标。"
+
+[T_Facility_Propaganda_06_Speaker AkEvent]
+SpokenText="你之前的许多人已经牺牲了。很快你就会加入长老们。"
+
+[T_Facility_Propaganda_07_Speaker AkEvent]
+SpokenText="为你对长老们的服务感到骄傲。"
+
+[T_Facility_Propaganda_08_Speaker AkEvent]
+SpokenText="长老们看着你。长老们理解你。"
+
+[T_Facility_Propaganda_09_Speaker AkEvent]
+SpokenText="你力量的增长以忠诚为代价。"
+
+[T_Facility_Propaganda_10_Speaker AkEvent]
+SpokenText="在任何冲突中，长老们都站在你这一边。"
+
+[T_Facility_Propaganda_11_Speaker AkEvent]
+SpokenText="你就是长老们的左右手，他们意志力的体现。"
+
+[T_Facility_Propaganda_12_Speaker AkEvent]
+SpokenText="长老对你的赠与需要你无条件的服从。"
+
+[T_Facility_Propaganda_13_Speaker AkEvent]
+SpokenText="你的努力是至关重要的。没有了你，这个斗争永远都不会结束。"
+
+[T_Facility_Propaganda_14_Speaker AkEvent]
+SpokenText="你受长老们所束缚，就和他们受自己的力量所束缚一样。"
+
+[T_Facility_Propaganda_15_Speaker AkEvent]
+SpokenText="长老们的意志就是人民的意志。"
+
+[T_Facility_Propaganda_16_Speaker AkEvent]
+SpokenText="相信长老们，他们的眼界是无垠的。"
+
+[T_Facility_Propaganda_17_Speaker AkEvent]
+SpokenText="你的牺牲和长老自己的试验相比显得黯然失色。"
+
+[T_Facility_Propaganda_18_Speaker AkEvent]
+SpokenText="你是真的和平使者。"
+
+[T_Facility_Propaganda_19_Speaker AkEvent]
+SpokenText="长老们在这的目的是无私的，为了所有人的利益。"
+
+[T_Facility_Propaganda_20_Speaker AkEvent]
+SpokenText="永远不要忘了旧世界所犯的错误。"
+
+[T_Facility_Propaganda_21_Speaker AkEvent]
+SpokenText="你的服务长老们一直看在眼里。"
+
+[T_Facility_Propaganda_22_Speaker AkEvent]
+SpokenText="你是通往真正自由的第一步。"
+
+[T_Facility_Propaganda_23_Speaker AkEvent]
+SpokenText="你的付出是我们救赎的开端。"
+
+[T_Facility_Propaganda_24_Speaker AkEvent]
+SpokenText="永远不要因为我们的原因而放弃你的承诺。"
+
+[T_Facility_Propaganda_25_Speaker AkEvent]
+SpokenText="长老们将会指导你。"
+
+[T_Facility_Propaganda_26_Speaker AkEvent]
+SpokenText="你是长老们的傀儡。"
+
+[T_Facility_Propaganda_27_Speaker AkEvent]
+SpokenText="你行走在进步的道路上。"
+
+[T_Facility_Propaganda_28_Speaker AkEvent]
+SpokenText="长老们在下个世界等你。"
+
+[T_Facility_Propaganda_29_Speaker AkEvent]
+SpokenText="带着荣誉服务，知道长老们一直陪着你。"
+
+[T_Facility_Propaganda_30_Speaker AkEvent]
+SpokenText="你是长老们对这个世界的馈赠之一。"
+
+[T_Facility_Propaganda_31_Speaker AkEvent]
+SpokenText="你并不孤单。长老们不像变种人那样各有私心，长老们是一个整体。"
+
+[T_Facility_Propaganda_32_Speaker AkEvent]
+SpokenText="你是这世界的希望。"
+
+[T_Facility_Propaganda_33_Speaker AkEvent]
+SpokenText="长老们会指引你走向正确的道路。"
+
+[T_Facility_Propaganda_34_Speaker AkEvent]
+SpokenText="永远不要改变你对长老的忠诚。"
+
+[T_Facility_Propaganda_35_Speaker AkEvent]
+SpokenText="人性之光需要的是正直而非容忍。"
+
+[T_Facility_Propaganda_36_Speaker AkEvent]
+SpokenText="坚守立场，实现长老的意志。"
+
+[T_Facility_Propaganda_37_Speaker AkEvent]
+SpokenText="其实你就是长老的一员。"
+
+[T_Facility_Propaganda_38_Speaker AkEvent]
+SpokenText="我为那些胆敢反对你的人感到遗憾。"
+
+[T_Facility_Propaganda_39_Speaker AkEvent]
+SpokenText="背叛长老之人必将遭到报应。"
+
+[T_Final_Mission_Final_Set_Five_Speaker_03 AkEvent]
+SpokenText="浪费了这么多的时间，你留给我们的选择余地非常少。妥协的时间已经结束了。再见，指挥官。"
+
+[T_Final_Mission_Final_Set_Four_Speaker_04 AkEvent]
+SpokenText="还有时间，指挥官。别把这个视作投降，把这视为一次重整。"
+
+[T_Final_Mission_Final_Showdown_Begins_Speaker_05 AkEvent]
+SpokenText="你的坚持令人敬佩，但是这多累啊。是时候去接受已经摆在你面前的道路了，指挥官。"
+
+[T_Final_Mission_First_Set_Five_Speaker_01 AkEvent]
+SpokenText="你再一次拒绝了我们的智慧。但我们仍然给予你同情和宽容。但是就和所有事情都必须有个结果一样。我们再也不能容忍你的罪行了。"
+
+[T_Final_Mission_First_Set_Five_Speaker_03 AkEvent]
+SpokenText="还有其他方法。"
+
+[T_Final_Mission_First_Set_Four_Speaker_01 AkEvent]
+SpokenText="浪费了这么多时间在无用的反抗上，为了你自己的提高来战斗吧！就像我们事先预想的一样，你来到了这里。在你阻挠化身的制造所做出的努力中，你遵循了我们提出的道路，甚至超出了我们的高期待，指挥官。"
+
+[T_Final_Mission_First_Set_Four_Speaker_03 AkEvent]
+SpokenText="你真的相信那情况属实吗？"
+
+[T_Final_Mission_First_Set_One_Speaker_04 AkEvent]
+SpokenText="...如果他们来自一个更熟悉的地方..."
+
+[T_Final_Mission_First_Set_Six_Speaker AkEvent]
+SpokenText="你把我们视作你们世界的侵略者，但那绝非是我们的本意。你遇到的每一个物种，那些你们与之对抗并残忍杀害的外星人。我们都没有任何选择。我们的家园是这个世界上最古老的，也是第一个即将消耗殆尽的地方。如果那一天真的到来，上百万的生命将会被毁灭。"
+
+[T_Final_Mission_First_Set_Three_Speaker_02 AkEvent]
+SpokenText="变种人给予你的人民希望。一个更光明的未来。去变得更好。但是你仍然拒绝了。除了这个最好的礼物，我们还能提供什么呢？"
+
+[T_Final_Mission_First_Set_Two_Speaker AkEvent]
+SpokenText="这么多人冒着生命危险带你回来，指挥官，这是为了什么呢？更多暴力，更多战争，更多伤亡。当然了你的意义要比这些都重要的多。你现在拥有的形式是为了证明..."
+
+[T_Final_Mission_Middle_Set_Four_Speaker_01 AkEvent]
+SpokenText="当我们第一次来到地球时我们为一个破碎的世界而泣。为了在折磨中向众星祈求的种族而泣。我们回应了你们的呼唤。我们看到了你们真正的潜力。"
+
+[T_Final_Mission_Middle_Set_Four_Speaker_02 AkEvent]
+SpokenText="你们所称的第一次入侵仅仅只是一次测试罢了。你的人民并不像其中一些人认为的那样失败。反而你获得了巨大的成功。你只需要加入我们..."
+
+[T_Final_Mission_Middle_Set_Four_Speaker_04 AkEvent]
+SpokenText="我们什么也没有失去。因为我们最好的武器都回来了。"
+
+[T_Final_Mission_Middle_Set_One_Speaker_02 AkEvent]
+SpokenText="在这一神圣的地方我们可以号召无限多的援军部队。你将会被他们所淹没。但是我们的军队可以在任何时候撤退，指挥官。如果你肯重新加入我们的话，和平对你来说只是举手之劳。"
+
+[T_Final_Mission_Middle_Set_Three_Speaker_03 AkEvent]
+SpokenText="你都在说一些琐屑的事。我们绝不会动摇。你会看到这里勇敢的战士们为了我们的目标奋不顾身。他们不需要任何胁迫，因为每个人都知道一旦失败意味着所有都结束了。"
+
+[T_Final_Mission_Middle_Set_Three_Speaker_04 AkEvent]
+SpokenText="想想所有那些为了你的目标而牺牲的人，指挥官。这么多的朋友...这么多的盟友...为了什么..."
+
+[T_Final_Mission_Middle_Set_Two_Speaker AkEvent]
+SpokenText="几十年来你都是我们的一部分，指挥官。你的能力远不仅仅如此，但你还没领会你力量最真实的本质。回来吧，这样你的世界将会继续存在。反抗只会带来无穷的毁灭..."
+
+[T_Final_Mission_XCOM_Avatar_Has_Died_Speaker_01 AkEvent]
+SpokenText="另一个不必要的牺牲，就像许多你这类人一样。你怎么就是不听呢。"
+

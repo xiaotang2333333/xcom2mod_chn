@@ -1,0 +1,17 @@
+;汉化：aotix
+
+[X2Ability_DarkEldarCaptureAbility]
+KidnapHeader="奴役"
+KidnapTargetHeader="<XGParam:StrValue0!ChosenName/>"
+KidnapMessageBody="<XGParam:StrValue0/!ChosenName/>已被奴役<XGParam:StrValue1/!UnitName/>。"
+
+[X2EventListener_DarkEldarRaidersTacticalUI]
+DarkEldarRaidersTurn="黑暗灵族行动"
+
+[UIStrategyMapItem_DarkEldarRaidersBase]
+MapPin_Header="总部"
+MapPin_Tooltip=""
+
+[X2StrategyElement_DarkEldarRaidersRewards]
+m_strDiscoveryText="定位<XGParam:StrValue0/!BaseName/>"
+m_strActionText="摧毁<XGParam:StrValue0/!BaseName/>"

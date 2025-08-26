@@ -1,0 +1,3 @@
+﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_1 XComInteractiveLevelActor]
+FriendlyDisplayName="Van Door"
+

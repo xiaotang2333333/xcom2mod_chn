@@ -1,0 +1,581 @@
+﻿[Cen_AbductionWrapper_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们接收到当地的广播消息，显示在一个主要都会区出现了外星人活动，我们应该前往当地歼灭所有敌人。"
+Comment=""
+
+[Cen_AbductionWrapper_11 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="外星人活动持续袭卷着好几个主要城市。我们的回应对最小化蔓延恐慌是至关重要的..."
+Comment=""
+
+[Cen_AbductionWrapper_13 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="当地政府部队报告一起发生在一个人口密集的街区的外星人联合攻击事件，他们需要我们肃清那个地区..."
+Comment=""
+
+[Cen_AbductionWrapper_17 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="目前来自地面的最新消息指出，外星人正在市区内活动，我们应以最快的速度行动，前往当地肃清那个地区。"
+Comment=""
+
+[Cen_AbductionWrapper_22 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="外星人横行于街道间的同时，恐慌正在一个主要城市中四处蔓延，我们得快点去处理这个情况..."
+Comment=""
+
+[Cen_AbductionWrapper_25 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们仍收到传输消息，指出外星人正在他们其中一个主要市中心活动，我们应该以最快的速度行动，前往当地肃清那个地区。"
+Comment=""
+
+[Cen_AbductionWrapper_26 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们收到多起报告，显示外星人企图劫持的次数已增多，我们必须快点行动，减缓恐慌蔓延的速度。"
+Comment=""
+
+[Cen_AbductionWrapper_27 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="外星人不断在全球各主要城市劫持平民，我们得尽快前去进行部署。"
+Comment=""
+
+[Cen_AbductionWrapper_28 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们仍收到许多来自全球各城市报告，各地出现多起劫持事件，你们将在最新报告中的地点进行部署。"
+Comment=""
+
+[Cen_AbductionWrapper_29 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="外星人的劫持越来越肆无忌惮。我们收到多起在光天化日之下发生的攻击事件报告，我们是唯一可以对这种威胁采取反应措施的人，所以我们必需前往当地处理。"
+Comment=""
+
+[Cen_AbductionWrapper_30 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们刚收到另一起劫持报告，发生在人口密集的市中心，如果我们让外星人得逞，恐慌将会蔓延整个区域。"
+Comment=""
+
+[Cen_AlienBaseIntro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="多亏了瓦伦博士团队的研究成果以及工程部的顶尖技术，这把\"万能钥匙\"应该可以让你攻破外星基地的防御。但我们只有一次机会，请在行动前做好所有准备工作，确保一举拿下。"
+Comment=""
+
+[Cen_AssaultCemetaryIntro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="理事会截获一份报告，显示当地某些墓园出现可疑活动，据平民报告，有穿着深色服装的奇怪人士在那附近闲晃，他们想请我们找出事情真相..."
+Comment=""
+
+[Cen_AssaultOfficeIntro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="来自理事会的情报显示，我们其中一个离线数据储存点已失守，而且我们无法承受失去那些大型主机里面数据的后果，他们要我们进入那里并保护设施--消灭所有敌人。"
+Comment=""
+
+[Cen_AssaultOverpassIntro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="理事会的简报显示，这个区域的侦察直升机遭遇了敌方活动，而且听起来像是已经被击落了。他们不指望有任何生还者，所以这不是个救援任务...他们只要我们抹杀所有该区域中的外星人。"
+Comment=""
+
+[Cen_AssaultPierIntro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="理事会安排将一些敏感材料从一处偏远设施运送到总部去，我们的目标是不计代价地保护那批货物--将那些货柜中的东西顺利交到我们的科学家手中非常重要，歼灭一切阻碍你们前进的东西。"
+Comment=""
+
+[Cen_AssaultResearchPostIntro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="理事会刚传来消息...我们和一个监控外星人活动的前哨站失去联系，我们主要的目标是肃清那个设施，让它可以尽快恢复运作。"
+Comment=""
+
+[Cen_AssaultTruckStopIntro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="理事会的一位朋友转达了一个消息，有辆运送着异常货物的货车，可能已经被一队外星人拦截。我们不知道那批货物是什么，但如果它们想拿到手，我们就必须抢先得到它。歼灭所有敌人。"
+Comment=""
+
+[Cen_BombMissionCemeteryIntro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="突击一队，我们居然在墓园...侦测到了一个看起来像是电浆炸弹的东西。若要猜的话，我想外星人打算尽其所能得挑出一个最中心的位置。如果我们没能在武器充满之前将它拆除，附近的城市将会被夷为平地。"
+Comment=""
+
+[Cen_DropshipIntro_Argentina_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们接下来将前往阿根廷，那里的威胁看来是最急迫的。"
+Comment=""
+
+[Cen_DropshipIntro_Australia_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="澳洲发出了许多协助请求，所以那是我们下一个降落地点。"
+Comment=""
+
+[Cen_DropshipIntro_Base_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="多亏了瓦伦博士团队的研究成果以及工程部的顶尖技术，这把\"万能钥匙\"应该可以让你攻破外星基地的防御。但我们只有一次机会，请在行动前做好所有准备工作，确保一举拿下。"
+Comment=""
+
+[Cen_DropshipIntro_Brazil_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="巴西政府已向我们提出协助请求，所以那是我们前往的目的地。"
+Comment=""
+
+[Cen_DropshipIntro_Canada_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="这次任务的降落地点在加拿大。"
+Comment=""
+
+[Cen_DropshipIntro_China_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们正前往中国进行下一个任务。"
+Comment=""
+
+[Cen_DropshipIntro_Egypt_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们会将你们机降至埃及境内。"
+Comment=""
+
+[Cen_DropshipIntro_France_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="法国发出一个紧急任务请求。"
+Comment=""
+
+[Cen_DropshipIntro_Germany_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们的目标地点靠近德国边界。"
+Comment=""
+
+[Cen_DropshipIntro_India_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="这次执行任务的地区在印度。"
+Comment=""
+
+[Cen_DropshipIntro_Italy_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们这次的任务将在意大利执行。"
+Comment=""
+
+[Cen_DropshipIntro_Japan_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="你们正前往日本执行任务。"
+Comment=""
+
+[Cen_DropshipIntro_Mexico_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们将在墨西哥降落执行任务。"
+Comment=""
+
+[Cen_DropshipIntro_Nigeria_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="听好了，这次任务我们将把你们部署在尼日利亚境内。"
+Comment=""
+
+[Cen_DropshipIntro_Russia_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们这次将部署到俄罗斯执行任务。"
+Comment=""
+
+[Cen_DropshipIntro_SouthAfrica_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们这次将前往南非，而且我们需要尽快在那里降落。"
+Comment=""
+
+[Cen_DropshipIntro_UK_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="下个部署地点是英国。"
+Comment=""
+
+[Cen_DropshipIntro_US_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="做好部署准备，我们的任务区位于美国大陆境内。"
+Comment=""
+
+[Cen_Rescue_FallenHighwayIntro_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="联合国官员Peter Van Doorn和其随行人员，在一个附近桥梁的摧毁爆炸事件中被抓走了，而我们发现敌人聚集在该区域，我们需要你们确认范多恩先生是否还活着，并在那整个地方被破坏殆尽之前把他安全带回来。"
+Comment=""
+
+[Cen_Rescue_MuseumIntro01_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="大臣和他的保镖就藏在楼梯下面的轿车旁边。把大臣安全地带到天际游侠号，然后把他带回这里来。"
+Comment=""
+
+[Cen_RescueBoulevardIntro_2 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="你们正在找寻Anna Sing，她是唯一一个已知从外星人那里逃脱的人质，我们的任务是要定位她在街区中的位置，并带她离开那里。"
+Comment=""
+
+[Cen_RescueCommAlleyIntro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="此次任务的VIP姓名是威廉索恩，他是一名具有影响力的政客，且和外星人有勾结嫌疑，我们需要你们将他活着带回来...审讯。将其带至天际游侠号撤离。"
+Comment=""
+
+[Cen_RescuePierIntro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="理事会的报告指出，由卡洛克中士带领的一队战斗工程师发现环境污染是由外星人所造成的。他需要在靠近码头的另一端进行撤离，跟往常一样，我们应该排除沿途中遇到的所有阻碍。"
+Comment=""
+
+[Cen_RescueScienceLabIntro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="理事会认为马拉鲁基博士的研究价值极高。他们要求我们将他安全护送到撤离点，大鸟会在另一端合适的位置着陆来接应你们。"
+Comment=""
+
+[Cen_TerrorWrapper_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们收到报告，在人口密集的市中心有外星人的活动迹象，我们应该前往肃清区域，并将平民伤亡人数降到最低。"
+Comment=""
+
+[Cen_TerrorWrapper_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="外星人持续入侵人口稠密的地区，我们不能再让平民受到更进一步的伤亡，造成区域内的恐慌蔓延..."
+Comment=""
+
+[Cen_TerrorWrapper_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="数份令人担忧的报告显示，外星人正在一个主要城市中肆无忌惮地攻击平民。"
+Comment=""
+
+[Cen_TerrorWrapper_05 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="报告不断指出，外星人正在一个主要城市中进行活动，如果外星人是以平民为目标，那恐慌将会无限制地蔓延..."
+Comment=""
+
+[Cen_TerrorWrapper_06 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们接收到平民的通讯内容，显示外星人活动正在城市的居住区中扩散，我们应该快点前往那里，避免更多人民伤亡。"
+Comment=""
+
+[Cen_TerrorWrapper_07 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们接到消息，主要都会区的地方政府正与外星人交战，我们必须在情况难以控制之前排除威胁。"
+Comment=""
+
+[Cen_TerrorWrapper_08 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们收到一连串的报告，显示外星人正在市区攻击平民目标，我们已被要求尽快采取介入措施。"
+Comment=""
+
+[Cen_TerrorWrapper_09 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="外星人持续肆无忌惮地在人口稠密地区行动。而当地部队没有装备可以进行反击--我们必须尽快前去与敌人交战。"
+Comment=""
+
+[Cen_TerrorWrapper_10 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="外星人在市区内的攻击越来越残暴，如果我们不能阻止它们在当地的恐怖行动，恐慌将会在整个地区中蔓延。"
+Comment=""
+
+[Cen_TerrorWrapper_12 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="稍早有报告指出，外星人在他们其中一个主要城市中展开攻击，我们的部队已做好接受部署的准备。"
+Comment=""
+
+[Cen_TerrorWrapper_14 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们收到了更多外星人在城市内活动的报告，你们必须将地区内任何可能的平民伤亡降到最低。"
+Comment=""
+
+[Cen_TerrorWrapper_15 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们接到最新的消息，它指出在一个主要城市中发生了外星人攻击事件。我们得去排除威胁并防止更多平民伤亡..."
+Comment=""
+
+[Cen_TerrorWrapper_16 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="有来源显示，外星人正在一个人口密集区域攻击平民目标。我们越快消除敌人威胁，就能拯救越多人的生命。"
+Comment=""
+
+[Cen_TerrorWrapper_18 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们应该前去肃清那个地区...最新报告显示，外星人正在以平民为攻击目标。"
+Comment=""
+
+[Cen_TerrorWrapper_19 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="外星人正在攻击一个人口密集的都会区，我们必须消灭敌人，将平民的伤亡人数降到最低。"
+Comment=""
+
+[Cen_TerrorWrapper_20 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="看来外星人正在重要城市中大肆攻击平民目标，我们应该采取行动消除敌方威胁，否则恐慌将会蔓延。"
+Comment=""
+
+[Cen_TerrorWrapper_21 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="外星人大摇大摆地在街道间横行的报告数量持续攀升中，它们正在一个主要都会区攻击平民。"
+Comment=""
+
+[Cen_TerrorWrapper_23 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="外星人正在街道上肆无忌惮地攻击平民，我们正对大量这类报告作出回应。我们必须认真对待并尽快在恐慌进一步蔓延之前消灭它们。"
+Comment=""
+
+[Cen_TerrorWrapper_24 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="外星人正积极在多个主要城市以平民为目标进行攻击，而我们会让它们付出代价..."
+Comment=""
+
+[Cen_UFOCrashedWrapper_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="看来外星人坠毁在一个人烟稀少的地区。如果地区内有任何平民，希望他们能好好躲起来。"
+Comment=""
+
+[Cen_UFOCrashedWrapper_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="幽浮坠毁在一个小镇外的偏远地区，如果我们可以肃清坠毁地点，那应该能够防止任何平民伤亡。"
+Comment=""
+
+[Cen_UFOCrashedWrapper_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="看来上帝眷顾着我们--外星人坠毁在远离任何主要市中心的偏远地区，我们应该尽快前去肃清该地区。"
+Comment=""
+
+[Cen_UFOCrashedWrapper_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们的目标在偏远地区坠毁，但我们得在外星人开始抢救幸存者之前肃清现场..."
+Comment=""
+
+[Cen_UFOCrashedWrapper_05 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="外星人飞船着火坠毁了，我们已将其坠毁地点定位，位于一个没有大量居民的乡下地区，我们必须保护那艘飞船并歼灭所有生还者。"
+Comment=""
+
+[Cen_UFOCrashedWrapper_06 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="那艘幽浮坠毁在一个远离主要人口稠密区而且人烟稀少的地区，我们可以在对区域内平民造成有限危险的情况下肃清坠毁现场。"
+Comment=""
+
+[Cen_UFOCrashedWrapper_07 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="那个敌军单位坠毁在一个小镇外的偏远地区，我们应该进行部署并歼灭坠毁现场的所有敌人。"
+Comment=""
+
+[Cen_UFOCrashedWrapper_08 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们已经锁定外星人坠毁地点的坐标，很幸运的，周遭地区的居民人口非常少，我们应该以最快速度前去肃清那个地区。"
+Comment=""
+
+[Cen_UFOCrashedWrapper_09 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="看来外星人的坠毁地点落在偏远地区，如果我们快点行动，也许可以在外星人重整旗鼓之前肃清该地点。"
+Comment=""
+
+[Cen_UFOCrashedWrapper_10 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们已找到幽浮坠毁的方位，附近似乎没有什么居民，这是我们的大好机会，在它们有时间做好防御工事之前肃清这个地点。"
+Comment=""
+
+[Cen_UFOLandedWrapper_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="报告指出，幽浮坠毁在一个人口稀少的地区，我们必须提高警觉并歼灭入侵者。"
+Comment=""
+
+[Cen_UFOLandedWrapper_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="外星人飞船降落在一个偏远地区...肃清现场是我们的首要任务，跟往常一样，我们应歼灭地区内的所有敌人。"
+Comment=""
+
+[Cen_UFOLandedWrapper_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="看来幽浮降落在乡间，在其对当地居民造成威胁之前，我们必须肃清附近区域并歼灭所有剩余敌人。"
+Comment=""
+
+[Cen_UFOLandedWrapper_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们追踪到外星飞船降落的地点，此地点位于一个小镇外的偏远地区，我们应该前往肃清该地点，并清除所有能找到的敌人。"
+Comment=""
+
+[Cen_UFOLandedWrapper_05 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="外星人飞船降落在一个偏远地区，如此应有助于最小化周遭小区面临的风险，我们必须进行调查，并歼灭所有遇到的敌方部队。"
+Comment=""
+
+[Cen_UFOLandedWrapper_06 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们追踪到幽浮的降落地点位于一处偏僻的乡野之中，在外星人重整编队之前，我们得肃清现场。"
+Comment=""
+
+[Cen_UFOLandedWrapper_07 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们侦测到幽浮降落在一个偏远地区，远离任何平民居住区。预期应该会在降落地点周围遭遇敌方活动。"
+Comment=""
+
+[Cen_UFOLandedWrapper_08 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="看来外星人已成功将战舰降落在一处偏僻的乡野之中，我们应该以最快的速度行动，前往当地肃清区域。"
+Comment=""
+
+[Cen_UFOLandedWrapper_09 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们已找到外星人降落地点，它们这次降落在一个偏远地区...我们必须试着肃清那艘飞船并歼灭敌人。"
+Comment=""
+
+[Cen_UFOLandedWrapper_10 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们已定位出幽浮降落地点的所在之处...它们降落在一个位处乡下的偏僻地区，我们应该可以在外星人有时间行动之前肃清该地区。"
+Comment=""
+
+[TUT_XCOMDeployed_Dropship SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="你们已被部署至德国。祖鲁时间晚上七点，多个不明物体降落地球。排除了这些物体为坠毁卫星的可能性后，我们现在能确定它们实际上是从外星来的。受到撞击后不久，德国官方收到报告，撞击区域周围发生群众集体歇斯底里和天气异常事件。然而情况急转直下，晚上九点时，一艘载着德国军事侦察小队的直升机，在上报受到炮火攻击之后坠毁在该地区。如你们所知，德国是理事会的成员之一，而他们已经向我们提出援助请求，我们的任务是要到达现场评估情势，确认德国侦察小队目前的状态，并调查那个外星物体。指挥中心完毕。"
+Comment=""
+

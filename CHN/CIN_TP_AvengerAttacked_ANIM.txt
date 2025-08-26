@@ -1,0 +1,21 @@
+[Audio.AvengerAttacked_10_CPDREKLHPGRC_06 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.AvengerAttacked_20_CPDREKLHPGRC_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.AvengerAttacked_30_CPDREKLHPGRC_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+

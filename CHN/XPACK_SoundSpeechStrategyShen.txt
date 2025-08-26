@@ -1,0 +1,66 @@
+﻿[Play_X2_XP_S_SHN_Ambient_Musing_A AkEvent]
+SpokenText="这些天选者说起话来跟我们几乎一样，真让人毛骨悚然。不过根据我们的情报，在长老改造他们之前，他们跟我们似乎真的相差无几。"
+
+[Play_X2_XP_S_SHN_Ambient_Musing_B AkEvent]
+SpokenText="我想要仔细看看天选者猎手用的这把步枪，他能打得那么准肯定是在上头动手脚了。"
+
+[Play_X2_XP_S_SHN_Photobooth_Musing_A AkEvent]
+SpokenText="希望你准备好成为名人了。"
+
+[Play_X2_XP_S_SHN_Photobooth_Musing_B AkEvent]
+SpokenText="我觉得我们要再杀点外星人才能达到理想的效果。"
+
+[Play_X2_XP_S_SHN_Photobooth_Musing_C AkEvent]
+SpokenText="哦，这姿势不错。"
+
+[Play_X2_XP_S_SHN_Photobooth_Musing_D AkEvent]
+SpokenText="这灵感来源于变种人。"
+
+[Play_X2_XP_S_SHN_Photobooth_Musing_E AkEvent]
+SpokenText="你觉得长老会喜欢这玩意儿么？"
+
+[Play_X2_XP_S_SHN_Walkup_Chosen_Defeated AkEvent]
+SpokenText="至少我们知道天选者是可以被杀死的了，至少可以被暂时杀死。"
+
+[Play_X2_XP_S_SHN_Walkup_Chosen_Extracted AkEvent]
+SpokenText="不知道有没有什么方法能保护战场上的士兵不被天选者入侵大脑。"
+
+[Play_X2_XP_S_SHN_Walkup_Chosen_Killed_Stronghold AkEvent]
+SpokenText="至少这下我们清楚这个天选者是死透了，我都快以为他们能无限复活了。"
+
+[Play_X2_XP_S_SHN_Walkup_High_Level_Faction_Hero AkEvent]
+SpokenText="我很乐意看到我们与其他反抗军派系的合作进展的非常顺利，指挥官。他们的士兵帮了我们不少忙。"
+
+[Play_X2_XP_S_SHN_Walkup_Lost_Abandoned AkEvent]
+SpokenText="看来这些新派系打算向我们提供帮助，有时间的话我倒是很乐意去看看他们的武器装备。"
+
+[Play_X2_XP_S_SHN_Walkup_Lost_Encountered AkEvent]
+SpokenText="外星人还真是擅长把一个星球变成万圣节主题公园，给我们弄出了那么多的僵尸。"
+
+[Play_X2_XP_S_SHN_Walkup_Soldier_Captured AkEvent]
+SpokenText="没什么值得羞愧的，指挥官。我们清楚这对你来说有多么痛苦。"
+
+[Play_X2_XP_SHN_S_Combat_Genetics_Ready AkEvent]
+SpokenText="指挥官，我分析了我们与天选者的战斗记录，觉得我们可以制造一个设施，让我们的士兵学习天选者专用的战术。"
+
+[Play_X2_XP_SHN_S_Recovery_Center_Available AkEvent]
+SpokenText="指挥官，我画了几张蓝图，打算建造一个能让我们的士兵接受高级虚拟训练的设施，让他们克服自身的恐惧同时提升与队友间的默契，还能学到额外的战术能力。"
+
+[Play_X2_XP_SHN_S_Ring_Available AkEvent]
+SpokenText="指挥官，如今其他反抗军派系的成员也来到了复仇者号，我为你们准备了一个可以进行会议并制定未来计划的场所。"
+
+[Play_X2_XP_SHN_S_SITREP_Automated_Defense AkEvent]
+SpokenText="我们检测到该区域内有大量变种人控制信号，指挥官，他们很有可能在任务区附近部署了机器人单位，我们得保持警惕。"
+
+[Play_X2_XP_SHN_S_SITREP_High_Explosives AkEvent]
+SpokenText="指挥官，仪器检测到该区域内有极高的化学读数，可能到处都是有毒的化合物。如果我们不小心的话，整片区域可能会化为火海。"
+
+[Play_X2_XP_SHN_S_SITREP_Juggernaut AkEvent]
+SpokenText="指挥官，我们成功破译了这片区域内的变种人的通讯频道。如果我们派遣一个独立单位潜入任务区，就可以获得巨大的战术优势。"
+
+[Play_X2_XP_SHN_S_SITREP_Limited_Vis AkEvent]
+SpokenText="干扰并没有减弱，指挥官。任务区内有东西让读数居高不下 -- 好消息是，变种人也会受到影响。"
+
+[Play_X2_XP_SHN_S_SITREP_Resistance_Contacts AkEvent]
+SpokenText="指挥官，我收到了微弱的信号 -- 地面上有人想要联系我们，但我没法辨识出是谁。请保持警惕，随时准备迎战。"
+

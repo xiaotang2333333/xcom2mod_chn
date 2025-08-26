@@ -1,0 +1,18 @@
+﻿[Archetypes.ARC_IA_BlacksiteVial XComInteractiveLevelActor]
+FriendlyDisplayName="Purification Centrifuge"
+
+[Archetypes.ARC_IA_BroadcastStationBase XComInteractiveLevelActor]
+FriendlyDisplayName="Network Control"
+
+[Archetypes.ARC_IA_FlightDevice XComInteractiveLevelActor]
+FriendlyDisplayName="Power Converter"
+
+[Archetypes.ARC_IA_ForgeStasisTube XComInteractiveLevelActor]
+FriendlyDisplayName="Stasis Tube"
+
+[Archetypes.ARC_IA_HackableAlienComputerBase XComInteractiveLevelActor]
+FriendlyDisplayName="Distress Beacon"
+
+[Archetypes.ARC_IA_HackableStationBase XComInteractiveLevelActor]
+FriendlyDisplayName="Network Terminal"
+

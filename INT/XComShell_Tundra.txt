@@ -1,0 +1,12 @@
+﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_10 XComInteractiveLevelActor]
+FriendlyDisplayName="Secure Door"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_7 XComInteractiveLevelActor]
+FriendlyDisplayName="Secure Door"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_8 XComInteractiveLevelActor]
+FriendlyDisplayName="Secure Door"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_9 XComInteractiveLevelActor]
+FriendlyDisplayName="Secure Door"
+

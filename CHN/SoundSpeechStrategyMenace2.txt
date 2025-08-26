@@ -1,0 +1,6 @@
+﻿[S_Intro_Menace2_01 AkEvent]
+SpokenText="接近位置。"
+
+[S_Intro_Menace2_02 AkEvent]
+SpokenText="你是对的，他们今天的确是忙得不可开交。"
+

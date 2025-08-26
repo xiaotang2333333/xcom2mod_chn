@@ -1,0 +1,1271 @@
+﻿[Play_X2_XP_CEN_1st_Stronghold_Capacitor_Damaged AkEvent]
+SpokenText="那就继续加把劲！"
+
+[Play_X2_XP_CEN_1st_Stronghold_Monolith_Damaged_Only_1 AkEvent]
+SpokenText="希望这是个好兆头。"
+
+[Play_X2_XP_CEN_1st_Stronghold_Monolith_Damaged_Only_2 AkEvent]
+SpokenText="那我们就趁现在集中火力攻击那个天选者。"
+
+[Play_X2_XP_CEN_2nd_Stronghold_Capacitor_Damaged AkEvent]
+SpokenText="明白。这就组织攻击。"
+
+[Play_X2_XP_CEN_2nd_Stronghold_Monolith_Damaged_Only AkEvent]
+SpokenText="这下你们知道该做什么了吧。干掉那个怪物。"
+
+[Play_X2_XP_CEN_3rd_Stronghold_Capacitor_Damaged AkEvent]
+SpokenText="那说明我们就快成功了。继续攻击。"
+
+[Play_X2_XP_CEN_3rd_Stronghold_Monolith_Damaged_Only AkEvent]
+SpokenText="正合我意，博士。"
+
+[Play_X2_XP_CEN_Destroy_Monolith_Nag AkEvent]
+SpokenText="明白，我们必须优先摧毁电容器。"
+
+[Play_X2_XP_CEN_T_1st_Stronghold_Chosen_Dead AkEvent]
+SpokenText="干得好，今天我们为反抗军和人类沉重打击了外星人。长老不是什么神，他们的孩子也不是。是时候把消息传出去了。"
+
+[Play_X2_XP_CEN_T_1st_Stronghold_First_Chosen_False_Death_1 AkEvent]
+SpokenText="博士..."
+
+[Play_X2_XP_CEN_T_1st_Stronghold_First_Chosen_False_Death_2 AkEvent]
+SpokenText="怪不得这些家伙死不了。"
+
+[Play_X2_XP_CEN_T_1st_Stronghold_First_Contact AkEvent]
+SpokenText="嗯，反正今天也没打算偷偷摸摸的。干掉这些家伙吧。"
+
+[Play_X2_XP_CEN_T_1st_Stronghold_Gameplay_Begins AkEvent]
+SpokenText="我们现在是深入虎穴了，士兵们。小心前行。"
+
+[Play_X2_XP_CEN_T_1st_Stronghold_Mission_Intro_1 AkEvent]
+SpokenText="好了伙计们，保持警惕，记住任务目标。一定要杀掉那家伙...不惜一切代价。"
+
+[Play_X2_XP_CEN_T_1st_Stronghold_Mission_Intro_2 AkEvent]
+SpokenText="那我们就朝那儿去。"
+
+[Play_X2_XP_CEN_T_1st_Stronghold_Post_Chosen_Reveal AkEvent]
+SpokenText="好了，既然我们上次能干掉这些家伙，这次也没问题。今天我们必须跟他拼个你死我活。"
+
+[Play_X2_XP_CEN_T_1st_Stronghold_Squad_Teleports AkEvent]
+SpokenText="干得好，威胁者1-5，另一头见。"
+
+[Play_X2_XP_CEN_T_1st_Stronghold_Teleporter_Sighted AkEvent]
+SpokenText="明白，看来我们有办法离开这里了。"
+
+[Play_X2_XP_CEN_T_2nd_Stronghold_Chosen_Dead AkEvent]
+SpokenText="又一个天选者死了，人类离夺回地球更近了一步。这都是多亏了你。干得好。"
+
+[Play_X2_XP_CEN_T_2nd_Stronghold_First_Chosen_False_Death AkEvent]
+SpokenText="好的，博士，把它炸烂吧。"
+
+[Play_X2_XP_CEN_T_2nd_Stronghold_First_Contact AkEvent]
+SpokenText="我们都清楚他们会抵抗的。都明白自己该做什么吧！"
+
+[Play_X2_XP_CEN_T_2nd_Stronghold_Gameplay_Begins AkEvent]
+SpokenText="做好准备，伙计们。你们知道接下来会出现什么吧。"
+
+[Play_X2_XP_CEN_T_2nd_Stronghold_Mission_Intro_1 AkEvent]
+SpokenText="我们已经不是第一次来这种设施，所以天选者应该已经知道我们来了。当然这种事之前就没有阻止我们，这次也不会。你知道该怎么做。"
+
+[Play_X2_XP_CEN_T_2nd_Stronghold_Mission_Intro_2 AkEvent]
+SpokenText="明白。出发！"
+
+[Play_X2_XP_CEN_T_2nd_Stronghold_Post_Chosen_Reveal AkEvent]
+SpokenText="好了，威胁者，你知道该怎么做。决一死战的时刻到了。"
+
+[Play_X2_XP_CEN_T_2nd_Stronghold_Squad_Teleports AkEvent]
+SpokenText="我们都用过这玩意儿，准备传送。"
+
+[Play_X2_XP_CEN_T_2nd_Stronghold_Teleporter_Sighted AkEvent]
+SpokenText="已收到坐标。我们走。"
+
+[Play_X2_XP_CEN_T_3rd_Stronghold_Chosen_Dead AkEvent]
+SpokenText="干得漂亮。没有了天选者，长老也就没有了保镖。是时候找他们算账了。"
+
+[Play_X2_XP_CEN_T_3rd_Stronghold_First_Chosen_False_Death AkEvent]
+SpokenText="又是那种电容器。我们要是想干掉这家伙就必须赶紧摧毁它。"
+
+[Play_X2_XP_CEN_T_3rd_Stronghold_First_Contact AkEvent]
+SpokenText="那个天选者正在为他的最后一战做准备呢。让我们击穿他的护甲，一劳永逸地做掉他。"
+
+[Play_X2_XP_CEN_T_3rd_Stronghold_Gameplay_Begins AkEvent]
+SpokenText="那东西很快就会出现了。装弹上膛！"
+
+[Play_X2_XP_CEN_T_3rd_Stronghold_Mission_Intro AkEvent]
+SpokenText="这是一个邀请，博士。最后一战的邀请。咱们可不能让人家干等着。"
+
+[Play_X2_XP_CEN_T_3rd_Stronghold_Post_Chosen_Reveal AkEvent]
+SpokenText="我们付出了那么多的努力，终于走到了今天这步。胜败不论，这场战斗必须在今天结束。"
+
+[Play_X2_XP_CEN_T_3rd_Stronghold_Squad_Teleports AkEvent]
+SpokenText="已开始传送，让我们把这只怪物送回地狱吧。"
+
+[Play_X2_XP_CEN_T_3rd_Stronghold_Teleporter_Sighted AkEvent]
+SpokenText="那我们就赶紧走吧。"
+
+[Play_X2_XP_CEN_T_Assassin_Starts_Map_A AkEvent]
+SpokenText="我们探测到了天选者刺客的能量信号，她正在朝小队的位置移动，指挥官。"
+
+[Play_X2_XP_CEN_T_Assassin_Starts_Map_B AkEvent]
+SpokenText="小心了，来者是天选者刺客，她正在朝目标区域移动。"
+
+[Play_X2_XP_CEN_T_Assassin_Starts_Map_C AkEvent]
+SpokenText="天选者刺客正在靠近你们的位置，都给我保持警惕。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_All_Siege_Destroyed AkEvent]
+SpokenText="我们已经摧毁了敌人所有的攻城用装备。干得太漂亮了，指挥官。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_Cannon_Down_Turrets_Remain AkEvent]
+SpokenText="它们的主炮瘫痪了，但我们起飞前还得对付那些遥控炮台。摧毁它们吧！"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_Cannon_Power_Destroyed AkEvent]
+SpokenText="干得好，发电机已摧毁，它们没法用那加农炮了。现在我们只要把剩下的敌人清理掉就好了。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_Complete_Success AkEvent]
+SpokenText="我们已经摧毁了敌人所有的对飞船用武器，可以起飞了。干得太漂亮了，指挥官。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_First_Turret_Destroyed AkEvent]
+SpokenText="我们干掉了一个炮塔，但还要对付其他的。小心敌人包抄。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_Heavy_Loss_Avenger_Dmg AkEvent]
+SpokenText="我们不仅人员损失惨重，而且飞船也损伤不小，但是在你的努力下，我们总算是幸存下来了，指挥官。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_LOS_First_Turret AkEvent]
+SpokenText="那些炮台虽然看起来只是用来分散我们注意力的东西，但要是让它们持续射击飞船，最终也会造成伤害，所以我们得摧毁它们。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_LOS_Generator AkEvent]
+SpokenText="移动发电器已进入射程范围，靠近并摧毁它，这样我们就能瘫痪那门加农炮了。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_LOS_Second_Turret AkEvent]
+SpokenText="我们又看到了一座遥控炮台，摧毁它吧。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_Mission_Intro AkEvent]
+SpokenText="所有成员注意！这不是演习！天选者正准备在地面上用重型武器发动一场突袭。做好保卫飞船的准备！我们得干掉它们的重武器！"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_Mission_Success_Avenger_Dmg AkEvent]
+SpokenText="威胁已清除，指挥官，但复仇者号在此过程也受了不小的损伤。我们之后得在安全的地方停靠一会儿，修复船体。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_Mission_Success_Some_Losses AkEvent]
+SpokenText="不少勇敢的战士为保护飞船付出了生命的代价，但他们的牺牲让我们的抗争得以继续。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_Siege_Emplacement AkEvent]
+SpokenText="飞船周围探测到敌人运来了攻城用装备，我们得在它们打穿船体前摧毁这些武器！"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_Squad_Heavy_Losses AkEvent]
+SpokenText="防守部队损失惨重，指挥官！如果他们死了，飞船也得完蛋。我们得重新考虑一下战术了。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_Squad_Wipe AkEvent]
+SpokenText="防守部队全部阵亡，指挥官！我们现在没法阻止天选者了...为你效劳是我的荣幸。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_Turret_Nag_A AkEvent]
+SpokenText="它们还真是不缺火力，我们得在那些炮台击穿船体前摧毁它们。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_Turret_Nag_B AkEvent]
+SpokenText="我们必须在那些炮台射穿我们飞船的外壳前干掉它们，指挥官。"
+
+[Play_X2_XP_CEN_T_Chosen_Avenger_Turret_Nag_C AkEvent]
+SpokenText="我们不能让那些遥控炮台持续攻击飞船，必须处理掉它们。"
+
+[Play_X2_XP_CEN_T_Chosen_Captures_Soldier AkEvent]
+SpokenText="天选者抓走了我们的士兵！只要一有机会我们就得去营救他们，不然天选者必然会获得关于我们的新情报。"
+
+[Play_X2_XP_CEN_T_Chosen_Dazes_Soldier_A AkEvent]
+SpokenText="我们有士兵倒下了！快点让他们站起来！"
+
+[Play_X2_XP_CEN_T_Chosen_Dazes_Soldier_B AkEvent]
+SpokenText="我们有位士兵昏迷了，我们需要让他清醒过来！"
+
+[Play_X2_XP_CEN_T_Chosen_Dazes_Soldier_C AkEvent]
+SpokenText="有士兵倒下了，在天选者接近前赶到他身边！"
+
+[Play_X2_XP_CEN_T_Chosen_Dazes_Soldier_D AkEvent]
+SpokenText="士兵倒下了！快去帮帮他！"
+
+[Play_X2_XP_CEN_T_Chosen_Dazes_Soldier_E AkEvent]
+SpokenText="我们得帮帮那个昏迷的战士，指挥官！"
+
+[Play_X2_XP_CEN_T_Chosen_Extracts_Knowledge AkEvent]
+SpokenText="天选者得逞了，虽然不知他们获取的情报是什么，但他们肯定会用这情报来找到我们。赶紧离开这里吧。"
+
+[Play_X2_XP_CEN_T_Chosen_First_Engage AkEvent]
+SpokenText="这些天选者比起一般的变种人反应要快得多。我们得小心布置我们的进攻，随时准备应对他们的反击。"
+
+[Play_X2_XP_CEN_T_Chosen_Incapacitate_Soldier AkEvent]
+SpokenText="该死，我们有士兵倒下了。他们现在无法应对天选者的攻击，必须立刻进行援助！"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Civ_Casualties_Clear AkEvent]
+SpokenText="平民伤亡人数过多，指挥官，这个反抗军支部应该是没法恢复过来了。我们应该营救剩下的平民然后肃清这片区域内的敌人，但还是要小心行动。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Civ_Casualties_Failed AkEvent]
+SpokenText="虽然我们肃清了这里的敌人，但今天太多无辜的人死于非命了。这样的结果可说不上成功。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Civ_Secure_Success AkEvent]
+SpokenText="威胁者1-5，你们已经救出了全部平民且感应器未探测到其余敌人。干得漂亮。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Civilian_Pod AkEvent]
+SpokenText="小队位置附近有大量被困的平民。感应器显示敌军正在高速接近中，我们必须在外星人屠杀那些无辜的人前把他们保护起来。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Execution_Teams AkEvent]
+SpokenText="指挥官，变种人丝毫没有手软的意思，他们部署在任务区域内的部队为了杀死平民竟然对我们的攻击视而不见。干掉这帮王八蛋！"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Final_Objective AkEvent]
+SpokenText="这些外星人想要杀鸡儆猴 -- 他们派出部队准备清剿躲藏在你们位置附近的幸存者。别让他们再杀害无辜的人！"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_First_Objective AkEvent]
+SpokenText="有一批反抗军士兵被困在我们附近。向那里推进，击退来袭的外星人军队。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_First_Resistance_Team AkEvent]
+SpokenText="干得好，你找到反抗军火力小组了，他们会帮忙保护平民的。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Mission_Abort AkEvent]
+SpokenText="确认，任务中止。今天我们也无能为力了。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Mission_Intro AkEvent]
+SpokenText="这些天选者中的一人正领兵袭击这片区域内的一个反抗军营地。他们已经尽力还击了，但我们得帮忙保护被困在里面的市民。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Near_Loss_Nag_A AkEvent]
+SpokenText="生还者几乎都死光了，我们只能尽力帮助剩下的人了。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Near_Loss_Nag_B AkEvent]
+SpokenText="我们必须阻止他们对平民的攻击，不然我们就没人可救了。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Near_Loss_Nag_C AkEvent]
+SpokenText="这些外星人还完全不在乎杀害无辜平民。我们得让他们付出代价。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Near_Loss_Nag_D AkEvent]
+SpokenText="他们快把平民们屠杀光了，指挥官。我们得抓紧了。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Rescue_Contributions AkEvent]
+SpokenText="我们应该尽量营救这个营地里的所有人，我相信之后他们肯定会愿意报答我们的。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Resistance_Team_Dead AkEvent]
+SpokenText="反抗军火力小组阵亡了，指挥官。我们应该去保护被困在这附近的平民。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Resistance_Team_Fights AkEvent]
+SpokenText="他们已经竭尽所能了，但光靠他们自己撑不了多久。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Resistance_Team_Final AkEvent]
+SpokenText="这些士兵还没有放弃抵抗，他们还在阻挡着外星人的攻势"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Resistance_Team_Secure AkEvent]
+SpokenText="反抗军小队脱困了，他们会帮助其他生还者的。"
+
+[Play_X2_XP_CEN_T_Chosen_Retaliate_Squad_Wipe AkEvent]
+SpokenText="指挥官，威胁者1-5全员阵亡！外星人一个活口都没留下。"
+
+[Play_X2_XP_CEN_T_Chosen_Reveal_Bad_A AkEvent]
+SpokenText="天选者得逞了！"
+
+[Play_X2_XP_CEN_T_Chosen_Reveal_Bad_B AkEvent]
+SpokenText="该死，天选者要跑了！"
+
+[Play_X2_XP_CEN_T_Chosen_Reveal_Bad_C AkEvent]
+SpokenText="我们现在没法阻止他了！"
+
+[Play_X2_XP_CEN_T_Chosen_Reveal_Engaged_A AkEvent]
+SpokenText="我们被天选者发现了，准备战斗！"
+
+[Play_X2_XP_CEN_T_Chosen_Reveal_Engaged_B AkEvent]
+SpokenText="那是天选者，小心了！"
+
+[Play_X2_XP_CEN_T_Chosen_Reveal_Engaged_C AkEvent]
+SpokenText="是长老的天选者之一！"
+
+[Play_X2_XP_CEN_T_Chosen_Reveal_Good_A AkEvent]
+SpokenText="干得好，天选者逃跑了！"
+
+[Play_X2_XP_CEN_T_Chosen_Reveal_Good_B AkEvent]
+SpokenText="我们把天选者打跑了！"
+
+[Play_X2_XP_CEN_T_Chosen_Reveal_Good_C AkEvent]
+SpokenText="天选者脚底抹油了！"
+
+[Play_X2_XP_CEN_T_Chosen_Reveal_Targets AkEvent]
+SpokenText="天选者正在瞄准我们的士兵，指挥官！"
+
+[Play_X2_XP_CEN_T_Chosen_Starts_Beh_Assn AkEvent]
+SpokenText="看起来天选者过来找我们了。保持警惕，提高戒备！"
+
+[Play_X2_XP_CEN_T_Chosen_Starts_Beh_Non_Assn AkEvent]
+SpokenText="天选者是不会让我们轻易获胜的。小心行事，谨慎推进。我们得过去干掉他们。"
+
+[Play_X2_XP_CEN_T_Chosen_Starts_Map_A AkEvent]
+SpokenText="是长老的天选者，估计他也没打算轻易放过我们。得尽快完成任务了。"
+
+[Play_X2_XP_CEN_T_Chosen_Starts_Map_B AkEvent]
+SpokenText="是长老的天选者之一，这下任务变得更危险了。不要被他发现，想办法干掉他。"
+
+[Play_X2_XP_CEN_T_Chosen_Starts_Map_C AkEvent]
+SpokenText="指挥官，有个天选者在这里。我们得在他破坏我们的行动前先下手为强干掉他。"
+
+[Play_X2_XP_CEN_T_Chosen_Starts_Map_D AkEvent]
+SpokenText="我们刚收到了一个特殊的信号，是天选者的信号。除非我们先处理掉他，不然他肯定会给我们制造麻烦的。"
+
+[Play_X2_XP_CEN_T_Chosen_Starts_Map_E AkEvent]
+SpokenText="长老肯定是收到了我们这次行动的风声，他们派了个天选者过来。我们应该尽量抢先追踪到他，在他引起太多麻烦前先干掉他。"
+
+[Play_X2_XP_CEN_T_Chosen_Subs_Engage AkEvent]
+SpokenText="我们都清楚该怎么办。盯紧那个天选者，他随时都有可能行动！"
+
+[Play_X2_XP_CEN_T_Chosen_Summary_Capture AkEvent]
+SpokenText="我们中的一员被天选者俘虏了，他很有可能会泄漏我们下一次行动的情报。我们应该联系当地的反抗军，看看能不能策划一次救援行动。"
+
+[Play_X2_XP_CEN_T_Chosen_Summary_Defeated AkEvent]
+SpokenText="干得好，指挥官！我们把天选者赶回了老家，打得他们屁滚尿流。他们要是还敢回来，我们就再让他们见识下我们的厉害。"
+
+[Play_X2_XP_CEN_T_Chosen_Summary_Extraction AkEvent]
+SpokenText="天选者又得到了不少情报，指挥官。如果他们继续这样，复仇者号的位置就会暴露了。我们必须避免这一情况的发生。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Alert_Status_Increaing AkEvent]
+SpokenText="我们探测到设施内的通讯频率上升了，它们注意到不对劲了。不过我们暂时还没有暴露，可以的话尽量避免与外星人交战。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Cell_Spotted AkEvent]
+SpokenText="那就是他们用来关押我们士兵的牢房了。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Comp_Maximum_Alert AkEvent]
+SpokenText="注意，该设施达到了最高警戒状态，它们发送出了求助信号，我们探测到多艘运输工具正在朝这里聚集。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Comp_On_Alert AkEvent]
+SpokenText="设施内的外星人发现你们了，它们开始搜索了。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Conceal_Broken AkEvent]
+SpokenText="我们不是来这里战斗的，而是来这里找我们的士兵的，找到后要马上离开这里，所以尽量保持低姿态。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Conceal_Broken_ALT AkEvent]
+SpokenText="他们起疑了，但我们依旧可以避免不必要的战斗。保持低姿态，找到被俘的士兵。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Down_Soldier_Acquired AkEvent]
+SpokenText="干得好，我们可不能把士兵抛弃在战场上。他们的伤虽然有点重，但应该还撑得住。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Down_Soldier_Dead AkEvent]
+SpokenText="指挥官，被俘的士兵阵亡了。我们已经没有什么可以做的了。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Down_Soldier_EVAC AkEvent]
+SpokenText="我们已获取目标，是时候把大家撤出来了。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Down_Soldier_No_Hack AkEvent]
+SpokenText="算了，重要的是我们找到了进入的办法。救回被俘的士兵，然后就离开这里。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Facility_Spotted AkEvent]
+SpokenText="位置已确认，我们的士兵就被困在前方的设施中。小心敌人巡逻队，这次我们要尽量避免引起它们的注意。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Firebrand_In_Position AkEvent]
+SpokenText="红恶魔已就位。设施已进入全面警戒状态，赶快撤离！"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Firebrand_On_Standby AkEvent]
+SpokenText="红恶魔随时准备撤出地面上的队员，指挥官，但她只要一靠近这里，外星人就会进入高度警戒状态。除非我们救下了目标或是情况非常紧急，我们应该避免呼叫红恶魔。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_First_Enemy_Pod AkEvent]
+SpokenText="记住，可以的话尽量不要惊动敌人。如果开始交火，我们可能就有麻烦了。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Mission_Accomplished AkEvent]
+SpokenText="任务目标全部达成，我们成功了。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Mission_Intro AkEvent]
+SpokenText="那位掌握了最新情报的特工就被关押在前方的设施中。这次我们拥有隐蔽的优势，所以说应该尽量不惊动敌人进入那个设施。如果被它们发现，那任务会困难许多。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Operative_Not_Recovered AkEvent]
+SpokenText="我们没能救出他，任务失败。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Operative_Recovered_Heavy_Losses AkEvent]
+SpokenText="我们的特工安全了，但为此我们付出了沉重的代价，指挥官。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Operative_Recovered_Squad_Wipe AkEvent]
+SpokenText="虽然我们从变种人的设施中救出了特工，但为此搭上了整支小队。这样可算不上成功，指挥官。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Squad_Wipe AkEvent]
+SpokenText="援救小队全员阵亡，指挥官，他们牺牲了。"
+
+[Play_X2_XP_CEN_T_Comp_Rescue_Transport_Inbound AkEvent]
+SpokenText="变种人部队正在朝你们的位置靠近，看来你们已经被发现了。"
+
+[Play_X2_XP_CEN_T_Compound_Rescue_Dropship_Intro_A AkEvent]
+SpokenText="多亏了我们的反抗军朋友，我们找到了上次行动中被俘虏的士兵。他似乎被关押在某个安全等级很高的变种人设施内，营救他的最好办法就是悄悄地进去。如果我们惊动安保队，那就会热闹了。"
+
+[Play_X2_XP_CEN_T_Compound_Rescue_Dropship_Intro_B AkEvent]
+SpokenText="经过我们一番努力，我们确定被俘虏的那名士兵被关押在这片区域内的一个高安全等级变种人拘禁中心内。如果我们想要救出他，最好还是安静地进去，不惊动那里数量庞大的安保警卫队。"
+
+[Play_X2_XP_CEN_T_Compound_Rescue_Dropship_Intro_C AkEvent]
+SpokenText="我们已经确认上次行动中被俘虏的那名士兵正被关押在附近的一个高安全等级的变种人设施内。如果我们试图用武力夺回他，恐怕很快就会抵挡不住源源不断的敌方支援。最好的办法还是悄悄进去，尽可能不引起它们的注意。"
+
+[Play_X2_XP_CEN_T_Covert_Escape_Captain_Dead AkEvent]
+SpokenText="干得好，我们干掉了变种人反应小队的队长，多争取到了一点时间。"
+
+[Play_X2_XP_CEN_T_Covert_Escape_Kill_Captain AkEvent]
+SpokenText="有机会的话，试试看能不能干掉变种人反应小队的队长 -- 这样应该能让他们慢下来。"
+
+[Play_X2_XP_CEN_T_Covert_Escape_Last_Operative AkEvent]
+SpokenText="地面上只剩一个特工了，我们得接他离开这里！"
+
+[Play_X2_XP_CEN_T_Covert_Escape_Many_Enemies_Reminder AkEvent]
+SpokenText="这整片区域里满是变种人特工，而且他们不会轻易放跑你们。别被他们抓到，快赶到撤离点就行。"
+
+[Play_X2_XP_CEN_T_Covert_Escape_Mission_Intro AkEvent]
+SpokenText="幽灵一号，你的小队暴露了！我们探测到变种人的反应小队正在前往你们的位置。"
+
+[Play_X2_XP_CEN_T_Covert_Escape_Objective_Indicated AkEvent]
+SpokenText="你们没多少时间可以浪费了，快离开掩体，冲向撤离点！"
+
+[Play_X2_XP_CEN_T_Covert_Escape_Operative_Dead AkEvent]
+SpokenText="我们有人阵亡了，但剩下的人仍有机会逃出生天。"
+
+[Play_X2_XP_CEN_T_Covert_Escape_Operative_Down AkEvent]
+SpokenText="有特工阵亡了，指挥官。可以的话我们是应该营救他们，但也不能为此搭上我们的人。"
+
+[Play_X2_XP_CEN_T_Covert_Escape_Partial_Squad_Recovery AkEvent]
+SpokenText="我们没法救出所有人，但也已经尽力了。"
+
+[Play_X2_XP_CEN_T_Covert_Escape_Squad_Extracted AkEvent]
+SpokenText="幽灵一号的所有成员都已成功撤出。"
+
+[Play_X2_XP_CEN_T_Covert_Escape_Squad_Wipe AkEvent]
+SpokenText="指挥官，幽灵一号全员阵亡，他们都死了。"
+
+[Play_X2_XP_CEN_T_Destroy_Monolith_Callout AkEvent]
+SpokenText="看来我们的机会来了。把那玩意儿给我炸碎。"
+
+[Play_X2_XP_CEN_T_Eliminate_Field_Command_Dropship_Intro_A AkEvent]
+SpokenText="反抗军中一个可靠的线人确认了一个变种人高阶军官将为巡逻经过这片区域。这是我们大幅干扰变种人指挥机关，拖延他们当前行动的好机会，我们只需要消灭那个军官就好了。"
+
+[Play_X2_XP_CEN_T_Eliminate_Field_Command_Dropship_Intro_B AkEvent]
+SpokenText="我们发现了一个打乱变种人行动，拖延他们当前计划的大好机会 -- 它们的一个战地指挥官决定来这附近实地考察 -- 我们要保证他离开的时候被装在裹尸袋里。降落后，找到目标，尽快消灭之。"
+
+[Play_X2_XP_CEN_T_Eliminate_Field_Command_Dropship_Intro_C AkEvent]
+SpokenText="我们收到反抗军的战场线报，这附近出现了一个周围没有多少士兵护送的变种人高阶军官。这可是我们打乱它们当前行动，撼动它们指挥机关的好机会。你们的任务是小心行事，消灭那名军官。"
+
+[Play_X2_XP_CEN_T_Extract_Supplies_Dropship_Intro_A AkEvent]
+SpokenText="我们收到可靠的线报称变种人正在该区域内进行物资补给。它们打算将补给箱空运出那里，如果我们行动够快，说不定能抢到几个。标记那些箱子，搬运就交给红恶魔了。"
+
+[Play_X2_XP_CEN_T_Extract_Supplies_Dropship_Intro_B AkEvent]
+SpokenText="最新情报显示变种人在从这片区域的一个仓库转移补给箱时碰到了点问题，给了我们利用这一延迟的机会。找到它们的补给箱，用发信器标记上。红恶魔会收到信号，抢走货物的。"
+
+[Play_X2_XP_CEN_T_Extract_Supplies_Dropship_Intro_C AkEvent]
+SpokenText="情报称变种人今天在进行物资补给，因此对我们来说今天是抢夺它们补给的绝佳机会。部署到地面后，找到变种人的补给箱，再用发信器标记它们。红恶魔会处于待命状态，随时准备空运走那些货物。"
+
+[Play_X2_XP_CEN_T_First_Assassin_Sighting AkEvent]
+SpokenText="那是长老的一个天选者。根据我们的情报，她是冲散兵来的。"
+
+[Play_X2_XP_CEN_T_First_Bond_Zone AkEvent]
+SpokenText="这两人的合作完美无间。只要让他们在战场上保持密切，他们将获得羁绊成长带来的诸多战术优势。"
+
+[Play_X2_XP_CEN_T_First_Bonded_Soldiers AkEvent]
+SpokenText="看起来我们这两位士兵在战斗中很有默契。如果你把他们布置在一起，他们一定能互相关照的，指挥官。"
+
+[Play_X2_XP_CEN_T_First_Chosen_Sabotage AkEvent]
+SpokenText="我们被攻击了，指挥官！天选者利用他们获得关于我们动向的信息，正在尝试击落我们的飞船！"
+
+[Play_X2_XP_CEN_T_First_Dasher_A AkEvent]
+SpokenText="这家伙好像不像其他几个那样虚弱，我看他行动非常迅速--注意武器射程。"
+
+[Play_X2_XP_CEN_T_First_Dasher_B AkEvent]
+SpokenText="这家伙比其他几个要快得多，你们小心点，不注意的话可能真会被他们抓到。"
+
+[Play_X2_XP_CEN_T_First_Howler_Sighting AkEvent]
+SpokenText="这些家伙发出的噪音会吸引更多怪物过来，我们得注意不去惊扰它们。"
+
+[Play_X2_XP_CEN_T_First_Hunter_Sighting AkEvent]
+SpokenText="那是长老的猎手，根据我们获得的情报，他是一个拥有惊人追踪技巧的神射手。"
+
+[Play_X2_XP_CEN_T_First_Lost_Seen_A AkEvent]
+SpokenText="他们看起来并不像是我们之前遭遇的灵能僵尸 -- 他们是另一种存在。"
+
+[Play_X2_XP_CEN_T_First_Lost_Seen_B AkEvent]
+SpokenText="这些人...过了那么久还在活动，会不会是因为入侵发生以来长期受到这些舱体的直接影响，变成了...这种东西。"
+
+[Play_X2_XP_CEN_T_First_Priest AkEvent]
+SpokenText="我一直好奇变种人建在市中心的教堂是啥样的。连祭司都派出来对付我们了，看来他们已经狗急跳墙了。"
+
+[Play_X2_XP_CEN_T_First_Purifier AkEvent]
+SpokenText="变种人似乎建立了专门处理失魂者的部队。有时候旧世界的科技还是挺好用的。"
+
+[Play_X2_XP_CEN_T_First_Seen_Adv_Purifier_M1 AkEvent]
+SpokenText="指挥官，变种人使用的燃料肯定相当易燃。尽量不要给他们引爆这些燃料罐的机会。"
+
+[Play_X2_XP_CEN_T_First_Seen_Lost_1 AkEvent]
+SpokenText="等等。他们是...人类吗？"
+
+[Play_X2_XP_CEN_T_First_Tired_Soldier AkEvent]
+SpokenText="我们有一名士兵快筋疲力尽了。如果他能抽得出空的话，我们应该让他休息几天再回到战斗中。"
+
+[Play_X2_XP_CEN_T_First_Warlock_Sighting AkEvent]
+SpokenText="报告显示那应该是长老的术士，他拥有的灵能量几乎与长老相同。"
+
+[Play_X2_XP_CEN_T_Gatecrasher_Has_Reaper AkEvent]
+SpokenText="看来沃尔克派出了一个死神来帮助我们执行这次任务了。"
+
+[Play_X2_XP_CEN_T_Gatecrasher_Has_Skirmisher AkEvent]
+SpokenText="有个散兵来支援我们了。"
+
+[Play_X2_XP_CEN_T_Gatecrasher_Has_Templar AkEvent]
+SpokenText="圣殿骑士的追随者之一已就位，准备协助我们。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_All_VIPs_Collected_EVAC AkEvent]
+SpokenText="该区域内没有其他VIP或是反抗军特工了，你们可以准备撤离了。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_Dropship_Intro_A AkEvent]
+SpokenText="我们收到反抗军的朋友的消息，他们有人被变种人部队追杀至这附近的一座废弃的城市。很显然他们的小队被迫分开，现在联系也中断了。我们只知道他们的大概方位，不过反抗军派了一名士兵来帮我们搜寻他们。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_Dropship_Intro_B AkEvent]
+SpokenText="我们反抗军中的一位联络人请求我们的紧急支援。变种人逼一部分反抗军躲藏进这附近一座旧城的遗址内，并且反抗军还失去了与他们的联系。我们不知道他们的确切方位，不过该派系派出了一名士兵来协助我们的营救行动。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_Dropship_Intro_C AkEvent]
+SpokenText="我们从反抗军派系之一收到了紧急求助信号。他们有人受到变种人的攻击，被迫躲藏在一座废弃的旧城中。他们在确定汇合点前就失去了联系，所以他们需要我们主导这场救援行动。该派系也派出了一名他们的士兵来协助行动。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_EVAC_Point_Indicated AkEvent]
+SpokenText="确保目标的安全后，就将他们转移至指定坐标等待撤离。大家都小心一点。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_Extraction_Point_Compromised AkEvent]
+SpokenText="威胁者1-5，原撤离点已无法使用。我们会将新的撤离点的坐标发给你们。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_First_Lost_Respond_VIP_Cries AkEvent]
+SpokenText="感应器显示有失魂者正在朝VIP移动，他们被那边的声音吸引过去了。我们动作得快一点了，指挥官。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_First_VIP_Linked AkEvent]
+SpokenText="他是我们要找的联络人之一，但我们还需要在这里找到其他联络人。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_Mission_Complete AkEvent]
+SpokenText="任务完成，指挥官。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_Mission_Start AkEvent]
+SpokenText="VIP和我们的反抗军联络人被困在该区域内的某处。当务之急是先找到他们，但也要看看附近有没有别的生还者。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_Primary_VIP_Linked AkEvent]
+SpokenText="威胁者1-5，你已经救下了主要目标，可能的话也援助一下其他特工，但一定要把我们的联络人送到撤离点。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_Primary_VIP_Secure AkEvent]
+SpokenText="收到，VIP已登上红恶魔。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_Primary_VIP_Spotted AkEvent]
+SpokenText="目标VIP出现在了我们视线中。记住，优先把他安全地送到撤离点，不能让他出事。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_Secondary_VIP_Linked AkEvent]
+SpokenText="看起来你找到了该区域内的另一个反抗军特工，他们看到你肯定乐坏了吧。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_Squad_Extracted_VIP_Dead AkEvent]
+SpokenText="指挥官，我们救下了我们的小队，但VIP因此丧命。不论如何，我们只能坚持下去了。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_Squad_Wiped AkEvent]
+SpokenText="突击小队全员阵亡，指挥官！我们失去了这支队伍。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_VIP_Cries_Comment_A AkEvent]
+SpokenText="很显然我们的联络人并不清楚失魂者的习性。如果他们动静还那么大，就得付出血的教训了。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_VIP_Cries_Comment_B AkEvent]
+SpokenText="让我们的VIP闭嘴。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_VIP_Cries_Comment_C AkEvent]
+SpokenText="我知道他们很紧张，但喊得越响死得越快。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_VIP_Extracted_Awaiting_Squad AkEvent]
+SpokenText="指挥官，我们应该让剩下的队员尽快到达撤离点，拖得时间越长，他们就越危险。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_VIP_Extracted_Squad_Dead AkEvent]
+SpokenText="我们成功救下了VIP，但为此几个好兵付出了生命的代价。希望他们的牺牲是值得的。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_VIP_Is_Dead AkEvent]
+SpokenText="VIP阵亡...只能希望反抗军没有他们也撑得住了。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_Warning_High_Lost AkEvent]
+SpokenText="该区域内满是活动信号，指挥官。地面上似乎到处都是失魂者。"
+
+[Play_X2_XP_CEN_T_Gather_Survivors_Warning_High_Lost_Level_2 AkEvent]
+SpokenText="地面上失魂者的数量已经超出了我们感应器的可侦测范围了。稍有不慎突击小队就会被他们用数量碾压。"
+
+[Play_X2_XP_CEN_T_LA_Wrapper AkEvent]
+SpokenText="死神和散兵这数年来处于敌对状态，因此具体的碰头地点只有小部分人知道。你要派出两支小队，分别与两个派系会合，然后直接前往会谈地点。这座城市已经从官方的名册中抹除了，因此应该不会有太多变种人部队。但你还是要小心点，我们已经有20多年没有涉足那里了。"
+
+[Play_X2_XP_CEN_T_LNA_LNA_Part1_First_Encounter_Ends_1 AkEvent]
+SpokenText="同意。继续前往汇合点吧。"
+
+[Play_X2_XP_CEN_T_LNA_Lost_Misc_A AkEvent]
+SpokenText="我的天啊，这些玩意儿到处都是！"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Escape_Trouble_1 AkEvent]
+SpokenText="虽然撤离点近在咫尺，但那些东西似乎不会轻易放跑你们。"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Final_Unit_Exits_1 AkEvent]
+SpokenText="之后的路应该就没有危险了。二号小队正在迎接莫克斯的路上。前往汇合点，等他们过来。"
+
+[Play_X2_XP_CEN_T_LNA_Part1_LoadOut AkEvent]
+SpokenText="这两支派系都已同意让一支双人小队护送他们前往汇合点。希望在我们的士兵的监视下他们能放下自相残杀的念头。我们已经让他们在该区域内停火，准备会面了，不过，我们还是要做好最坏的打算。"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Lost_Combat_Eight_1 AkEvent]
+SpokenText="博士，你的意思是？"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Lost_Combat_Five_1 AkEvent]
+SpokenText="我已经迫不及待想要见到他了。"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Lost_Combat_Nine_1 AkEvent]
+SpokenText="我对变种人是创造它们的元凶一点也不惊讶，博士。"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Lost_Combat_Seven_1 AkEvent]
+SpokenText="我提醒你一下，过去20年来外星人一直把我们打得找不着北。你难道不觉得我们应该做出新的尝试了吗？"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Lost_Combat_Three_1 AkEvent]
+SpokenText="一整座城市里的人类...就这么变成了这些东西。"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Lost_Pod_Reveals_1 AkEvent]
+SpokenText="那些东西，看起来还保留着人形。"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Lost_Sound_Warning_1 AkEvent]
+SpokenText="无需质疑。快前往汇合点！"
+
+[Play_X2_XP_CEN_T_LNA_Part1_LostGone_NoEscape_1 AkEvent]
+SpokenText="那我们就别在此逗留，赶紧前往撤离坐标点吧。"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Mission_Setup_1 AkEvent]
+SpokenText="正在上传汇合点坐标，我们规划了一条路途最短的路线。联系我们的那个散兵叫莫克斯，但除此之外我们对他几乎一无所知。"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Mission_Setup_2 AkEvent]
+SpokenText="我很确定那场战斗双方都有伤亡，安娜。这就是我们派人护送你们的原因了。"
+
+[Play_X2_XP_CEN_T_LNA_Part1_More_Lost_Reveals_1 AkEvent]
+SpokenText="这座城里到底还有多少这种怪物？！"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Opening_Base_View AkEvent]
+SpokenText="我们现在还不清楚联络人准备等我们多久，指挥官，因此我建议我们尽快出发。所有可用的士兵都做好了出战准备。"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Post_Fog_Pod_1 AkEvent]
+SpokenText="我们见证过当时的情景，博士，你运气算好的，没有看到那时的景象。"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Post_Fog_Pod_2 AkEvent]
+SpokenText="汇合点还在前方。动作都麻利点。我可不想碰到泰根刚才提到的那些\"异常生命信号\"..."
+
+[Play_X2_XP_CEN_T_LNA_Part1_Pre_Fog_Pod_1 AkEvent]
+SpokenText="回到这里真好之类的话我还真说不出口啊。这么大一座城市就这样留给敌人，被遗忘了那么多年。"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Second_Wave_Lost_1 AkEvent]
+SpokenText="明白。自由开火。干掉它们！"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Skyranger_Briefing AkEvent]
+SpokenText="死神和散兵这数年来一直处于敌对状态，因此具体的碰头地点只有小部分人知道。你要派出两支小队，分别与两个派系会合，然后直接前往会谈地点。这座城市已经从官方的名册中抹除了，因此应该不会有太多变种人部队。但你还是要小心点，我们已经有20多年没有涉足那里了。"
+
+[Play_X2_XP_CEN_T_LNA_Part1_Unit_One_Exits AkEvent]
+SpokenText="首个单位已经就位，但大家不能就此放松。更多失魂者正在过来的路上。"
+
+[Play_X2_XP_CEN_T_LNA_Part2_All_Units_Exit_1 AkEvent]
+SpokenText="先行者和一号小队应该就在前面等你们。我知道这项任务遭遇了诸多困难，但我希望最后的结果值得我们费这么一番功夫。"
+
+[Play_X2_XP_CEN_T_LNA_Part2_Defeat_Purifier_Pod_1 AkEvent]
+SpokenText="没意见。出发吧。"
+
+[Play_X2_XP_CEN_T_LNA_Part2_Hold_Position AkEvent]
+SpokenText="好吧，坚持住，把那些东西干掉。我这就给你们找条新路线！"
+
+[Play_X2_XP_CEN_T_LNA_Part2_Lost_Counter_One_1 AkEvent]
+SpokenText="我们有所发现了，再给我一分钟。"
+
+[Play_X2_XP_CEN_T_LNA_Part2_Lost_Counter_Three_1 AkEvent]
+SpokenText="这片区域比我们预想的还要复杂。我们还需要一点时间。"
+
+[Play_X2_XP_CEN_T_LNA_Part2_Lost_Counter_Two_1 AkEvent]
+SpokenText="我知道，就快好了。"
+
+[Play_X2_XP_CEN_T_LNA_Part2_New_Evac_Point_1 AkEvent]
+SpokenText="我们找到了一条能够让你们安全抵达汇合点的新路线。失魂者依然在往这里聚集，你们快走吧。"
+
+[Play_X2_XP_CEN_T_LNA_Part2_Post_Big_Bang_1 AkEvent]
+SpokenText="虽然我们把净化者们干掉了，但撤离点也不能用了。"
+
+[Play_X2_XP_CEN_T_LNA_Part2_Post_Big_Bang_2 AkEvent]
+SpokenText="那你还把净化者的燃料车炸了？！"
+
+[Play_X2_XP_CEN_T_LNA_Part2_Post_MeetSkirm_1 AkEvent]
+SpokenText="与先行者在前方汇合。尽快穿过这片区域，但要保持警惕。我总觉得这座城里还为我们准备了别的惊喜。"
+
+[Play_X2_XP_CEN_T_LNA_Part2_Post_Purifier_Reveal_1 AkEvent]
+SpokenText="我可不记得以前看到过这些东西。"
+
+[Play_X2_XP_CEN_T_LNA_Part2_Post_Purifier_Reveal_2 AkEvent]
+SpokenText="我没意见。干掉他们吧！"
+
+[Play_X2_XP_CEN_T_LNA_Part2_Pre_Purifier_Reveal_1 AkEvent]
+SpokenText="又是那些怪物？"
+
+[Play_X2_XP_CEN_T_LNA_Part2_Purifier_Explodes AkEvent]
+SpokenText="你还真没夸大其词，这些燃料桶真的会爆炸。对付这些东西的时候小心点，不要冒不必要的险。"
+
+[Play_X2_XP_CEN_T_LNA_Part2_Unit_One_Exit AkEvent]
+SpokenText="好了，大家动作快点儿。失魂者很快就会过来。"
+
+[Play_X2_XP_CEN_T_LNA_Part2_Unit_Two_Exit AkEvent]
+SpokenText="走了两个，还差一个。让我们赶快离开这里。"
+
+[Play_X2_XP_CEN_T_LNA_Part3_Combat_Four_1 AkEvent]
+SpokenText="我是觉得我们早就受够了长老的宽恕了。"
+
+[Play_X2_XP_CEN_T_LNA_Part3_Combat_Six_1 AkEvent]
+SpokenText="今天与你一见，女士，我深感荣幸。"
+
+[Play_X2_XP_CEN_T_LNA_Part3_Combat_Three_1 AkEvent]
+SpokenText="这口号喊得比我都好啊。"
+
+[Play_X2_XP_CEN_T_LNA_Part3_Move_to_Evac AkEvent]
+SpokenText="那我们得赶紧把你们从那儿撤出来。红恶魔已前往撤离点。都动起来！"
+
+[Play_X2_XP_CEN_T_LNA_Part3_Post_Assassin_Cloak AkEvent]
+SpokenText="我可不喜欢这声音。"
+
+[Play_X2_XP_CEN_T_LNA_Part3_Post_RedezAssassin_1 AkEvent]
+SpokenText="虽然我不想不懂装懂，但我很确定那玩意儿是被长老派来阻止我们结盟的。可不能让她得逞啊。"
+
+[Play_X2_XP_CEN_T_LNA_Part3_Return_to_Base_1 AkEvent]
+SpokenText="莫克斯为了确保我们结盟的成功牺牲了自己。希望他没有白送这条命。"
+
+[Play_X2_XP_CEN_T_LNA_Part3_Turn_Two_1 AkEvent]
+SpokenText="你们已经和这些家伙交手多久了？"
+
+[Play_X2_XP_CEN_T_LNA_Play3_Assassin_Teleport_1 AkEvent]
+SpokenText="你们看到...那家伙了吗？！"
+
+[Play_X2_XP_CEN_T_LNA_Play3_Assassin_Teleport_2 AkEvent]
+SpokenText="她会这么做倒也正常。看看我们能否向她学习吧！"
+
+[Play_X2_XP_CEN_T_LNA_Play3_Fifth_Unit_Evac AkEvent]
+SpokenText="很好，就差一个我们就能一起回家了！"
+
+[Play_X2_XP_CEN_T_LNA_Play3_First_Unit_Evac AkEvent]
+SpokenText="干得好，但你们还得继续撤离其他人员。我不清楚我们还能在这里呆多久。"
+
+[Play_X2_XP_CEN_T_LNA_Play3_Fourth_Unit_Evac AkEvent]
+SpokenText="好了，伙计们，红恶魔没法在这儿待一辈子。快点儿！"
+
+[Play_X2_XP_CEN_T_LNA_Play3_Lost_Battle_Seven_1 AkEvent]
+SpokenText="相信我，博士。他们清楚的。"
+
+[Play_X2_XP_CEN_T_LNA_Play3_Lost_Battle_Six_1 AkEvent]
+SpokenText="红恶魔已就位，但撤离区的情况比我们预料的要更糟糕。咱们可快没时间了啊。"
+
+[Play_X2_XP_CEN_T_LNA_Play3_Post_Lost_Reveal_1 AkEvent]
+SpokenText="我们应该没法把那玩意儿关掉吧。"
+
+[Play_X2_XP_CEN_T_LNA_Play3_Second_Unit_Evac AkEvent]
+SpokenText="这该死的城市里的所有怪物再过几分钟就会过来了，分秒必争啊。"
+
+[Play_X2_XP_CEN_T_LNA_Play3_Third_Unit_Evac AkEvent]
+SpokenText="就快全部撤离了，继续！"
+
+[Play_X2_XP_CEN_T_LNA_Purifiers_1 AkEvent]
+SpokenText="我可不记得以前看到过这种东西..."
+
+[Play_X2_XP_CEN_T_LNA_Purifiers_2 AkEvent]
+SpokenText="我没意见，干掉他们吧！"
+
+[Play_X2_XP_CEN_T_Lost_Approaching AkEvent]
+SpokenText="看起来失魂者非常接近我们的位置，指挥官！准备迎战！"
+
+[Play_X2_XP_CEN_T_Lost_First_Howl AkEvent]
+SpokenText="这些失魂者似乎对声音非常敏感。战斗的响声可能会引来更多失魂者。"
+
+[Play_X2_XP_CEN_T_Lost_Howl_Warning AkEvent]
+SpokenText="感应器显示它们到处都是，失魂者马上就要来了！"
+
+[Play_X2_XP_CEN_T_Neutralize_Comm_ADVENT_EVAC_Approach AkEvent]
+SpokenText="我们探测到了变种人运输工具的信号，它们想要营救那个将军。别让它们得逞了。"
+
+[Play_X2_XP_CEN_T_Neutralize_Comm_ADVENT_EVAC_Blocked AkEvent]
+SpokenText="干得好，想跑，没那么容易。"
+
+[Play_X2_XP_CEN_T_Neutralize_Comm_ADVENT_EVAC_Ready AkEvent]
+SpokenText="变种人的运输工具已经到达了撤离点，别让那个将军跑了！"
+
+[Play_X2_XP_CEN_T_Neutralize_Comm_Eliminate_Hostiles AkEvent]
+SpokenText="我们得消灭这片区域内剩下的敌人，不能让他们回收将军的尸体。"
+
+[Play_X2_XP_CEN_T_Neutralize_Comm_General_Escaped AkEvent]
+SpokenText="那个将军跑掉了，怕是以后都没有这样的好机会了。"
+
+[Play_X2_XP_CEN_T_Neutralize_Comm_General_Killed AkEvent]
+SpokenText="威胁者1-5，击杀已确认。这才像话。"
+
+[Play_X2_XP_CEN_T_Neutralize_Comm_General_Near_EVAC AkEvent]
+SpokenText="变种人将军正在接近撤离点，别让他溜了！"
+
+[Play_X2_XP_CEN_T_Neutralize_Comm_General_Spotted AkEvent]
+SpokenText="目标身份确认，就是那位将军。在他逃跑之前干掉他，这样的机会可是千载难逢的。"
+
+[Play_X2_XP_CEN_T_Neutralize_Comm_Mission_Aborted AkEvent]
+SpokenText="任务已确认中止，带剩下的士兵回家吧。"
+
+[Play_X2_XP_CEN_T_Neutralize_Comm_Mission_Accomplished AkEvent]
+SpokenText="确认完毕，任务完成。"
+
+[Play_X2_XP_CEN_T_Neutralize_Comm_Mission_Failed AkEvent]
+SpokenText="我们白白浪费了这么一个消灭变种人将军的好机会，这样的机会可不是天天都能有的。"
+
+[Play_X2_XP_CEN_T_Neutralize_Comm_Mission_Intro AkEvent]
+SpokenText="威胁者1-5，我们追踪那个变种人将军和护送他的小队来到了这里，但我们没能确定他的具体位置。扫荡这片区域，将目标连带其他碍事的敌人一起消灭。"
+
+[Play_X2_XP_CEN_T_Neutralize_Comm_Squad_Heavy_Losses AkEvent]
+SpokenText="照这样下去小队很快就撑不住了，指挥官。你应该趁现在撤出幸存者。"
+
+[Play_X2_XP_CEN_T_Neutralize_Comm_Squad_Wipe AkEvent]
+SpokenText="状态全部静默。威胁者1-5被敌人消灭了。"
+
+[Play_X2_XP_CEN_T_Post_Mission_Chosen_Sorta_Killed_A AkEvent]
+SpokenText="干得漂亮，指挥官。虽然我们没有一劳永逸地干掉天选者，但至少这次我们击退了他。"
+
+[Play_X2_XP_CEN_T_Post_Mission_Chosen_Sorta_Killed_B AkEvent]
+SpokenText="虽然我估计我们很快就会再见到他，但他肯定没料到我们今天的攻势会这么凶猛，指挥官。"
+
+[Play_X2_XP_CEN_T_Post_Mission_Chosen_Sorta_Killed_C AkEvent]
+SpokenText="我们证明了天选者并不是无敌的，接下来，我们只要把他们一劳永逸地干掉就行了。"
+
+[Play_X2_XP_CEN_T_Post_Mission_Chosen_Sorta_Killed_D AkEvent]
+SpokenText="我觉得我们应该给击败这个天选者的士兵好好放一假。估计很快就会再见到那个家伙的。"
+
+[Play_X2_XP_CEN_T_Post_Mission_Chosen_Sorta_Killed_E AkEvent]
+SpokenText="我们今天让天选者见识到了反抗军的厉害，指挥官。接下来我们只要找到他，再一劳永逸地干掉他就好了。"
+
+[Play_X2_XP_CEN_T_Post_Mission_Extracted_Knowledge_A AkEvent]
+SpokenText="不幸的是，天选者得到了他们想要的东西，用来追踪到复仇者号位置的信息，指挥官。"
+
+[Play_X2_XP_CEN_T_Post_Mission_Extracted_Knowledge_B AkEvent]
+SpokenText="天选者从我们的士兵大脑中提取到了大量信息，他们离找到你又近了一步，指挥官。"
+
+[Play_X2_XP_CEN_T_Post_Mission_Extracted_Knowledge_C AkEvent]
+SpokenText="有了从我们士兵大脑中提取到的信息，天选者离抓到你又近了一步，指挥官。"
+
+[Play_X2_XP_CEN_T_Post_Mission_Soldier_Captured_A AkEvent]
+SpokenText="天选者活捉了我们的一个士兵，我们得和反抗军通力合作才能救回他。"
+
+[Play_X2_XP_CEN_T_Post_Mission_Soldier_Captured_B AkEvent]
+SpokenText="我们有个士兵被天选者俘虏了，指挥官。要是想营救他我们就必须和反抗军合作。"
+
+[Play_X2_XP_CEN_T_Post_Mission_Soldier_Captured_C AkEvent]
+SpokenText="天选者俘虏了我们的一名士兵，指挥官。我们应该和反抗军的线人联系，组织一场营救行动。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Escort_Extracted_A AkEvent]
+SpokenText="我们撤出了VIP的护送人员，等我们治好他的伤，他应该就能投入战斗了。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Escort_Extracted_B AkEvent]
+SpokenText="我们救下了VIP的护送人员。我们这就给她包扎一下，让她重返战场。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Expedition_Reached AkEvent]
+SpokenText="红恶魔已就位，快在你们耗尽子弹前退回出口撤离！感应器探测到的热能信号已经超过了极限！"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Mission_Accomplished AkEvent]
+SpokenText="我们成功救下了考察队，指挥官。反抗军肯定会乐意听到这个好消息的。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Mission_Intro AkEvent]
+SpokenText="反抗军的考察队就在离你们位置不远处，且VIP正在使用遥控炮塔抵御失魂者的攻势。通往该区域的路线只有一条，所以你们要尽快与目标汇合，将他们护送到撤离点的入口。这地方全是失魂者，别跟他们纠缠太久。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Nag_Move_To_EVAC_A AkEvent]
+SpokenText="威胁者1-5，继续向撤离点推进。不管用什么方法，你们都要尽可能削弱一些失魂者，它们数量太多了。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Nag_Move_To_EVAC_B AkEvent]
+SpokenText="我们必须离开这片区域，指挥官，失魂者冒出来的速度比我们杀他们的速度要快得多。跟它们战斗没有任何意义。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Nag_Pickup_Disabled AkEvent]
+SpokenText="指挥官，我们可以让小队尝试营救倒下的士兵，但这会让撤离变得更为艰难，失魂者可还在追着我们呢。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Reminder_Return_To_EVAC AkEvent]
+SpokenText="救下考察队后，你们得回到进来时的入口准备撤离。别被失魂者捉到，将通往红恶魔的路线清空出来。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Targets_Dead_Before_Link AkEvent]
+SpokenText="威胁者1-5，VIP和护送人员均已阵亡，前往撤离点。那儿已经没人可救了。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Turret_Almost_Out AkEvent]
+SpokenText="他们的炮塔就快没有弹药了，指挥官。我们得利索点！"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Turret_Deactivated AkEvent]
+SpokenText="VIP不能操控炮塔的话，失魂者很快就会占领这片区域。它们已经在靠近了！"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Turret_Destroyed_Before_Link AkEvent]
+SpokenText="保护考察队的炮塔被摧毁了，我们快没时间了！"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Turret_Out_Ammo AkEvent]
+SpokenText="保护考察队的炮塔没有弹药了...他们现在没法抵挡失魂者了。威胁者1-5，全速赶往他们的位置！"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Turret_Running_Low AkEvent]
+SpokenText="考察队的弹药量有限，一旦耗尽弹药失魂者就会把他们大卸八块。我们得在那之前找到他们。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_Vip_Dead_After_Link AkEvent]
+SpokenText="VIP死了，指挥官，我们应该让队员们到撤离点去，该回家了。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_VIP_Killed_Before_Link AkEvent]
+SpokenText="威胁者1-5，VIP已阵亡，尽力营救护送队的成员，我们不能抛下任何人。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_VIP_Killed_Squad_Extracted AkEvent]
+SpokenText="我们撤出了小队成员，但VIP死了。今天反抗军运气不佳。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_VIP_Killed_Squad_Wipe AkEvent]
+SpokenText="指挥官，VIP阵亡了，我们的小队也为了保护他而全部牺牲。这样的失败我们不能再经历一次了。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_VIP_Linked_Escort_Available AkEvent]
+SpokenText="VIP安全了，指挥官。如果我们腾的出手，应该把护送人员也接应一下。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_VIP_Linked_Escort_Dead AkEvent]
+SpokenText="VIP身份已核实，前往撤离点吧。"
+
+[Play_X2_XP_CEN_T_Recover_Exp_VIP_Secure_Squad_Wipe AkEvent]
+SpokenText="我们成功救下VIP了，指挥官，但任务过程中损失了许多优秀的队员。"
+
+[Play_X2_XP_CEN_T_Recover_Expedition_Dropship_Intro_A AkEvent]
+SpokenText="一支由反抗军精英领导的考察队发现他们被困在一片有失魂者出没的区域内。他们虽然现在还撑得住，但情势似乎越来越糟糕了。反抗军已经请求我们竭尽所能救出他们了。"
+
+[Play_X2_XP_CEN_T_Recover_Expedition_Dropship_Intro_B AkEvent]
+SpokenText="反抗军派系之一派了一支考察队前往一个被失魂者占据的区域。我也不知道他们去那儿干嘛，但现在他们被困住了，因此反抗军请求我们的支援。我们也得小心被失魂者困住才行。"
+
+[Play_X2_XP_CEN_T_Recover_Expedition_Dropship_Intro_C AkEvent]
+SpokenText="我们收到反抗军让我们协助营救一位VIP的请求，他在一片满是失魂者的区域考察时被困住了。目前他们周围都是失魂者，并且快支撑不下去了。我们得尽快赶往那里，组织一场救援行动，你们可别让失魂者抓到。"
+
+[Play_X2_XP_CEN_T_Recover_Expedition_VIP_EVAC_XCOM_Gone AkEvent]
+SpokenText="红恶魔已将VIP安全护送到天际游侠号上。"
+
+[Play_X2_XP_CEN_T_Recover_Expedition_VIP_EVAC_XCOM_Plays AkEvent]
+SpokenText="VIP已安全登上天际游侠，是时候把剩下的士兵撤出来了，指挥官。"
+
+[Play_X2_XP_CEN_T_Resistance_Contacts_SITREP_Met_A AkEvent]
+SpokenText="干得好，那是我们反抗军的联络人没错。"
+
+[Play_X2_XP_CEN_T_Resistance_Contacts_SITREP_Met_B AkEvent]
+SpokenText="确实是反抗军联络人之一。"
+
+[Play_X2_XP_CEN_T_Sabotage_Trans_Almost_DC AkEvent]
+SpokenText="变种人就快切断连接了，我们快没时间了！"
+
+[Play_X2_XP_CEN_T_Sabotage_Trans_Charges_Planted AkEvent]
+SpokenText="信号已确认，X4炸药已启动。"
+
+[Play_X2_XP_CEN_T_Sabotage_Trans_Eliminate_Enemies_Cutoff AkEvent]
+SpokenText="X4炸药已启动，但外星人依旧在尝试切断该信号发射器的连接。在它们得逞前干掉它们。"
+
+[Play_X2_XP_CEN_T_Sabotage_Trans_Hostiles_Down_Plant_Charges AkEvent]
+SpokenText="我们没有检测到该区域内有其他敌人，去部署炸药吧。"
+
+[Play_X2_XP_CEN_T_Sabotage_Trans_Last_Chance_Transmitter AkEvent]
+SpokenText="威胁者1-5，它们就快切断信号发射器的连接了，这是我们最后的机会。"
+
+[Play_X2_XP_CEN_T_Sabotage_Trans_Last_Relay_Destroyed AkEvent]
+SpokenText="我们没有检测到其他中继器，只能争取到这些时间了，指挥官。"
+
+[Play_X2_XP_CEN_T_Sabotage_Trans_Mission_Aborted AkEvent]
+SpokenText="确认，任务中止。没能达成目标真是太遗憾了。"
+
+[Play_X2_XP_CEN_T_Sabotage_Trans_Mission_Accomplished AkEvent]
+SpokenText="信号发射器已摧毁，干得好，指挥官。"
+
+[Play_X2_XP_CEN_T_Sabotage_Trans_Mission_Intro AkEvent]
+SpokenText="变种人在这片区域内建造了一个直接与它们的主信息网络连接的灵能信号发射器。我们的情报员认为在它处于连接状态时摧毁它可以对它们的系统造成沉重打击。在外星人中断连接前安置炸药吧。"
+
+[Play_X2_XP_CEN_T_Sabotage_Trans_Squad_Heavy_Losses AkEvent]
+SpokenText="我们损失惨重，指挥官，或许应该在把整个小队都搭上前撤出剩下的队友。"
+
+[Play_X2_XP_CEN_T_Sabotage_Trans_Squad_Wipe AkEvent]
+SpokenText="我们失去了与小队的联系，指挥官，他们全都牺牲了。"
+
+[Play_X2_XP_CEN_T_Sabotage_Trans_Trans_Spotted AkEvent]
+SpokenText="已确认信号发射器方位。在外星人切断连接前安置X4炸药。"
+
+[Play_X2_XP_CEN_T_Sabotage_Trans_Transmitter_Disconnected AkEvent]
+SpokenText="太晚了，他们切断了这个信号发射器的连接，我们错失良机了。"
+
+[Play_X2_XP_CEN_T_Sabotage_Trans_Transmitter_Not_Destroyed AkEvent]
+SpokenText="我们失去了这个干扰变种人网络的机会，我可不觉得我们还会有这样的机会。"
+
+[Play_X2_XP_CEN_T_Sabotage_Transmitter_Dropship_Intro_A AkEvent]
+SpokenText="在最近一次侦查行动中，我们的反抗军朋友发现了有个城市下方的隧道内有个巨型变种人信号发射器。没错，摧毁该信号发射器会对该地区内的变种人网络造成毁灭性打击，因此这正是我们的打算。"
+
+[Play_X2_XP_CEN_T_Sabotage_Transmitter_Dropship_Intro_B AkEvent]
+SpokenText="我们发现附近的一个市中心下方的隧道内传来了异常读数，侦察队也确认变种人在那里安装了某种巨型的信号发射器。沈和泰根都认为如果我们在它还与变种人网络连接时摧毁它，就能瘫痪它们在该区域内的所有行动。"
+
+[Play_X2_XP_CEN_T_Sabotage_Transmitter_Dropship_Intro_C AkEvent]
+SpokenText="我们的目的地是附近的一个市中心下方的隧道。读数显示变种人在地下深处设置了某种信号发射器，而且它们还以为没人发现，所以估计守备不会很严密。如果我们能把它炸了，整个区域内的变种人行动都会受到大幅干扰吧。"
+
+[Play_X2_XP_CEN_T_SITREP_Advanced AkEvent]
+SpokenText="变种人派来了一些特种部队来对付我们，不过他们并没有带增援。应该并不难对付，指挥官。"
+
+[Play_X2_XP_CEN_T_SITREP_Ambush AkEvent]
+SpokenText="指挥官，虽然我们料到了变种人在目标区域为我们准备了陷阱，但除了肃清目标以外我们也没有别的选择了。只能做好应对一切袭击的准备了。"
+
+[Play_X2_XP_CEN_T_SITREP_Black_Ops AkEvent]
+SpokenText="变种人还不知道我们来了，指挥官，我们成功躲过了他们的雷达侦测。如果我们能在敌人惊动其他人前干掉他们，我们就能继续处于隐蔽状态。"
+
+[Play_X2_XP_CEN_T_SITREP_Breadcrumb AkEvent]
+SpokenText="虽然我们已经知道这附近有第二个目标了，指挥官，但我们尚未能够将它定位。如果我们先前往第一个目标，途中说不定能发现一点线索。"
+
+[Play_X2_XP_CEN_T_SITREP_Dual_Objectives AkEvent]
+SpokenText="我们收到消息称变种人在此区域内还有个目标，要完成任务我们必须把两个目标通通处理掉，这样我们才不会暴露，指挥官。"
+
+[Play_X2_XP_CEN_T_SITREP_Loot_Chests AkEvent]
+SpokenText="我们收到最新情报称变种人在任务区内贮藏了许多原料，但具体位置没有确定。虽然时间紧迫，但可能的话我们还是应该把那些物资回收了。"
+
+[Play_X2_XP_CEN_T_SITREP_Phalanx AkEvent]
+SpokenText="最新的扫描结果显示变种人的部队聚集在了一起，似乎是要全力守卫目标区域的样子。我们可以把它们困在那里再一举歼灭。"
+
+[Play_X2_XP_CEN_T_SITREP_Shadow_Squad AkEvent]
+SpokenText="小队已就位并处于隐蔽状态。即使小队中有人被发现，任务区的环境应该也能保证其他人不会被发现。"
+
+[Play_X2_XP_CEN_T_SITREP_Show_Force AkEvent]
+SpokenText="看来变种人是把所有士兵都派过来了，指挥官。该区域内到处都是变种人步兵 -- 这会是场硬仗。"
+
+[Play_X2_XP_CEN_T_SITREP_Squad_Split AkEvent]
+SpokenText="红恶魔即将到达任务区，但小队成员还四散在各处。虽然杀出条血路也不是不行，但可以的话还是集合一下比较好，指挥官。"
+
+[Play_X2_XP_CEN_T_SITREP_Strength_One AkEvent]
+SpokenText="小队成员的位置太过分散，指挥官。我们得肃清这片区域，再到汇合点集合小队。"
+
+[Play_X2_XP_CEN_T_SITREP_Waves AkEvent]
+SpokenText="看来变种人是把能派的兵都派过来了。雷达扫描到了无数信号，指挥官。"
+
+[Play_X2_XP_CEN_T_Squad_Engages_Chosen_A AkEvent]
+SpokenText="我们看见天选者了，是时候干掉他了。"
+
+[Play_X2_XP_CEN_T_Squad_Engages_Chosen_B AkEvent]
+SpokenText="天选者已进入射程范围，可不要打偏了。"
+
+[Play_X2_XP_CEN_T_Squad_Engages_Chosen_C AkEvent]
+SpokenText="天选者已就位，该做掉他了。"
+
+[Play_X2_XP_CEN_T_Squad_Engages_Chosen_D AkEvent]
+SpokenText="天选者进入你们的射程范围了，把他干掉吧。"
+
+[Play_X2_XP_CEN_T_Squad_Engages_Chosen_E AkEvent]
+SpokenText="天选者已进入预定伏击位置，该出击了。"
+
+[Play_X2_XP_CEN_T_STIREP_Incomplete_Intel AkEvent]
+SpokenText="指挥官，我们虽然知道目标在这片区域内，但没能确定它的具体位置，得让小队成员自己去搜寻了。"
+
+[Play_X2_XP_CEN_T_Stronghold_Chosen_Healing_Attack_Sarcoph AkEvent]
+SpokenText="天选者在用那东西自我再生！如果我们不摧毁它们的能量来源，就永远没法击败他。"
+
+[Play_X2_XP_CEN_T_Stronghold_Dropship_Intro_A AkEvent]
+SpokenText="我们也是时候主动去找天选者了。有关该设施的情报几乎为零。事实上，你们可能是首批涉足于此的人类。这可能不是最理想的状况，但却是我们仅有的干掉这些东西的机会。祝你们好运，并且一切小心。"
+
+[Play_X2_XP_CEN_T_Stronghold_Dropship_Intro_B AkEvent]
+SpokenText="我们准备再对长老的宠物天选者发动一次突袭。如果我们能再干掉一个天选者，就能狠狠打击外星人征服我们世界的计划。之前的那次任务并不简单，所以这次也一样。保持警惕，准备应对任何情况，干掉那家伙。"
+
+[Play_X2_XP_CEN_T_Stronghold_Dropship_Intro_C AkEvent]
+SpokenText="我们已做好了彻底清除天选者威胁的准备，估计这会是一场硬仗。变种人可是很记仇的，我们这次的目标又是长老最后的宠物。他们的抵抗应该会很顽强，一定要专注完成目标。这一刻我们已经等了很久了。"
+
+[Play_X2_XP_CEN_T_Stronghold_LOS_Ascension_Chamber AkEvent]
+SpokenText="我一点也不喜欢这东西。都小心了。"
+
+[Play_X2_XP_CEN_T_Stronghold_LOS_Sarcophagus AkEvent]
+SpokenText="那是什么？好像是某种专为天选者准备的特殊静滞舱？怪不得我们不管朝他们怎么攻击都没办法彻底杀死他们。"
+
+[Play_X2_XP_CEN_T_Stronghold_Mission_Complete AkEvent]
+SpokenText="虽然很艰难，但我们成功了，指挥官，这下长老肯定得气炸了。"
+
+[Play_X2_XP_CEN_T_Subsequent_Lost_Spawned_A AkEvent]
+SpokenText="指挥官，我们检测到该区域断断续续地传出读数；应该是那些感染者。天知道他们是什么东西，做好战斗准备。"
+
+[Play_X2_XP_CEN_T_Subsequent_Lost_Spawned_B AkEvent]
+SpokenText="该区域内有微弱的生命迹象...留意下有没有失魂者出现，我们现在手头上的麻烦已经够多了。"
+
+[Play_X2_XP_CEN_T_Subsequent_Lost_Spawned_C AkEvent]
+SpokenText="我们检测到了微弱的生命迹象，不像是外星人。提高警惕，任务区附近很可能有失魂者。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_ADVENT_Airlifted_First_Crate AkEvent]
+SpokenText="变种人已经运走了第一个箱子，如果我们还想要剩下的箱子，就得麻利点儿了。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_ADVENT_Marked_First_Crates AkEvent]
+SpokenText="变种人已经标记了几个补给箱，等待空运了，如果我们行动够迅速，就能自己标记它们，阻止它们被运走。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_ADVENT_Marked_LoS_Crate AkEvent]
+SpokenText="威胁者1-5，你离变种人刚标记的那个箱子不远。试试看能不能在他们呼叫空运前抢走它。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_ADVENT_Marked_More_Crates AkEvent]
+SpokenText="它们正在全速努力来运走这些箱子，如果我们想抢走它们，就得尽快行动了。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_Dont_Destroy_Crates AkEvent]
+SpokenText="除非它们让我们别无选择，不然我们应该尽量避免伤到那些箱子，免得弄坏里头的东西。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_First_Crate_Recovered AkEvent]
+SpokenText="红恶魔马上过来，继续标记那些箱子，威胁者1-5。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_First_Crate_Sighted AkEvent]
+SpokenText="那就是我们的目标之一了，去把发信器黏在上面，好让红恶魔定位并回收。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_Intro AkEvent]
+SpokenText="变种人军队正将一批补给空运出这片区域，这是我们把这批补给占为己有的机会。找到并用发信器标记那些补给箱，剩下的事交给红恶魔就好。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_Late_Crate_Recovered AkEvent]
+SpokenText="这是该区域内的最后一个补给箱了。威胁者1-5，你可以撤离了，既然我们已经完成了任务目标，那还是不要在此多加逗留为妙。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_Mission_Aborted AkEvent]
+SpokenText="任务已中止，指挥官。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_Mission_Complete AkEvent]
+SpokenText="状况已确认，任务完成。干得漂亮。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_No_Additional_Enemies AkEvent]
+SpokenText="我们没有发现敌人有派增援过来，快趁此机会获取那些箱子。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_No_Supplies_Recovered AkEvent]
+SpokenText="我们没能回收到任何补给，变种人得逞了。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_Squad_Wiped AkEvent]
+SpokenText="突击小队全员阵亡，指挥官！我们失去了这支小队。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_Supplies_Recovered_Heavy_Losses AkEvent]
+SpokenText="指挥官，我们虽然成功回收到了变种人补给，但为此损失了一支突击小队。我们为这个行动付出的代价实在是太大了。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_XCOM_Marked_ADVENT_crate AkEvent]
+SpokenText="干得好，变种人的定位装置已破坏，我们的发信器已激活。回收就交给红恶魔吧。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_XCOM_Marked_First_Crate AkEvent]
+SpokenText="我们收到了发信器传来的稳定信号，红恶魔正在过来的路上。"
+
+[Play_X2_XP_CEN_T_Supply_Extract_XCOM_Taking_Losses AkEvent]
+SpokenText="我们损失惨重，指挥官，或许应该在把整个小队都搭上前中止任务。"
+
+[Play_X2_XP_CEN_T_Swarm_Ambush_Begins AkEvent]
+SpokenText="我们探测到有多名敌人正在靠近你的位置，这是场埋伏！坚持住！"
+
+[Play_X2_XP_CEN_T_Swarm_Dropship_Intro_A AkEvent]
+SpokenText="我们收到反抗军传来的消息，他们的一名精锐在市中心附近活动时引起了变种人的怀疑。他在脱逃后躲进了该城市地下隧道内的临时安全屋。变种人依旧在这片区域内搜索，但我们得渗透进去救出VIP。时刻注意敌方动向。"
+
+[Play_X2_XP_CEN_T_Swarm_Dropship_Intro_B AkEvent]
+SpokenText="反抗军的一位VIP在附近的市中心活动时受到了变种人军队的攻击，逃入了隧道中。目前他被困在安全屋中，所以我们得把他救出来。保持警惕，小心敌人动向。"
+
+[Play_X2_XP_CEN_T_Swarm_Dropship_Intro_C AkEvent]
+SpokenText="反抗军请求我们协助他们的一个营救VIP的行动，那名VIP目前被变种人困在市中心下方的隧道内。我不知道目标在那里做什么，但既然反抗军需要我们的帮助，我们当然义不容辞。该区域内很有可能会出现敌军，招子都放亮点。"
+
+[Play_X2_XP_CEN_T_Swarm_EVAC_Compromised AkEvent]
+SpokenText="威胁者1-5，你们的撤离点已无法使用，请等待我发给你们新的撤离坐标。"
+
+[Play_X2_XP_CEN_T_Swarm_EVAC_Is_Ready AkEvent]
+SpokenText="红恶魔已就位，等待撤离中，快在事态进一步恶化前离开那儿！"
+
+[Play_X2_XP_CEN_T_Swarm_EVAC_Remaining_Squad AkEvent]
+SpokenText="是时候在小队被那些该死的东西咬死前撤出他们了。"
+
+[Play_X2_XP_CEN_T_Swarm_Faction_Soldier_Linked AkEvent]
+SpokenText="那就是反抗军的联络人，有了他们的帮助任务应该能顺利不少。"
+
+[Play_X2_XP_CEN_T_Swarm_Mission_Accomplished AkEvent]
+SpokenText="任务完成得非常好。"
+
+[Play_X2_XP_CEN_T_Swarm_Mission_Intro AkEvent]
+SpokenText="反抗军VIP就藏在你们附近的隧道中。其中一名外勤特工也在场，准备协助你们的援救行动。红恶魔待命中，但我们设立一个可行撤离点的机会不多。"
+
+[Play_X2_XP_CEN_T_Swarm_No_EVAC_Reminder_Warning AkEvent]
+SpokenText="指挥官，请牢记，无论情况有多艰险，在任务结束前我们都无法撤离。"
+
+[Play_X2_XP_CEN_T_Swarm_No_Reinforcements_left AkEvent]
+SpokenText="我们探测到它们的兵力缩减了，看来它们暂时不会派增援过来了。在它们改变主意前尽快完成任务吧。"
+
+[Play_X2_XP_CEN_T_Swarm_Reinforcements_Dropping AkEvent]
+SpokenText="指挥官，我们探测到敌人的增援部队正在向小队的位置靠近。"
+
+[Play_X2_XP_CEN_T_Swarm_Secured_VIP_Squad_Lost AkEvent]
+SpokenText="我们成功救出了VIP，但在任务过程中损失了几名精锐，代价真是太大了。"
+
+[Play_X2_XP_CEN_T_Swarm_Squad_Secure_VIP_Lost AkEvent]
+SpokenText="小队没有危险了，但VIP死了。我们的反抗军朋友怕是不会满意的。"
+
+[Play_X2_XP_CEN_T_Swarm_Squad_Wipe AkEvent]
+SpokenText="威胁者1-5全数阵亡，我们失去了这支小队，指挥官。"
+
+[Play_X2_XP_CEN_T_Swarm_VIP_Dead_EVAC_Now AkEvent]
+SpokenText="我们失去了VIP，是时候撤离了！"
+
+[Play_X2_XP_CEN_T_Swarm_VIP_Dead_Hold_For_EVAC AkEvent]
+SpokenText="VIP阵亡，坚持住，红恶魔即将过来接应你们。"
+
+[Play_X2_XP_CEN_T_Swarm_VIP_Extracted AkEvent]
+SpokenText="确认，VIP已登上红恶魔。"
+
+[Play_X2_XP_CEN_T_Swarm_VIP_Linked_Up AkEvent]
+SpokenText="已确认VIP身份，红恶魔正在准备接应。"
+
+[Play_X2_XP_CEN_T_Tutorial_Dazed_And_Revived AkEvent]
+SpokenText="看起来天选者把我们的一位士兵击晕了。我们需要有人帮帮他，让他免受天选者的攻击。"
+
+[Play_X2_XP_CEN_T_Tutorial_Hunter_Tracking_Shot AkEvent]
+SpokenText="威胁者1-5，天选者猎手正在远程瞄准你们的位置，你们必须在被他狙击前寻找掩体。"
+
+[Play_X2_XP_CEN_T_Tutorial_Hunter_Tracking_Shot_ALT AkEvent]
+SpokenText="都给我把头低下！猎手正在远程瞄准你们的位置，脱离危险的唯一途径就是离开他的视野范围。"
+
+[Play_X2_XP_CEN_T_Will_System_A AkEvent]
+SpokenText="我们的士兵经历的痛苦了太多，得让他们恢复恢复再回到战场。"
+
+[Play_X2_XP_CEN_T_Will_System_B AkEvent]
+SpokenText="我们把士兵用的太狠了，得给他们点时间处理一下心理问题。"
+
+[Play_X2_XP_CEN_T_Will_System_C AkEvent]
+SpokenText="等他们回到基地，我们得让他们好好恢复一下，生理上和心理上都是。"
+
+[Play_X2_XP_CEN_T_Will_System_D AkEvent]
+SpokenText="任何人都会感受到战斗的压力。等他们回家，我们就放他们一个长假吧。"
+
+[Play_X2_XP_CEN_T_Will_System_E AkEvent]
+SpokenText="我们应当预料到士兵会受战斗压力的影响。只要给他们一定时间，他们自然会恢复的。"
+
+[Play_X2_XP_CEN_T_XCOM_Killed_Chosen AkEvent]
+SpokenText="干得漂亮，指挥官，没有检测到进一步的天选者迹象了。我感觉他们这次还没有死透，但至少我们狠狠挫败了他们的计划。"
+
+[Play_X2_XP_CENTRAL_T_LNA_Lost_1 AkEvent]
+SpokenText="什么？谁发现我们了？"
+
+[Play_X2_XP_T_Neutralize_Comm_Enemy_Down_Comm_Up AkEvent]
+SpokenText="该区域内敌人已被全部肃清，但变种人战地指挥官尚未处理。是时候对付主要目标了。"
+
+[Play_X2_XP_CEN_CIN_LA_Skirmisher_Reveal_1 AkEvent]
+SpokenText="看来我们有麻烦了--汇合点已暴露。保持警惕，检查一下-"
+
+[Play_X2_XP_CEN_CIN_LA_Skirmisher_Reveal_2 AkEvent]
+SpokenText="遇敌！注意！"
+
+[Play_X2_XP_CEN_CIN_LA_Skirmisher_Reveal_2_ALT_A AkEvent]
+SpokenText="怎么回事！？"
+
+[Play_X2_XP_CEN_CIN_LA_Skirmisher_Reveal_2_ALT_B AkEvent]
+SpokenText="我们碰到了个更大的麻烦-"
+
+[Play_X2_XP_CEN_CIN_LA_Skirmisher_Reveal_3 AkEvent]
+SpokenText="那应该就是我们的接头人--或者说接应人了。先行者已经出发，不要让她等太久了。"
+
+[Play_X2_XP_CEN_CIN_LA_Skirmisher_Reveal_3_trim AkEvent]
+SpokenText="那应该就是我们的人 -- 准确说是联络人了。"
+
+[Play_X2_XP_CEN_CIN_LA_Skirmisher_Reveal_4 AkEvent]
+SpokenText="好吧，全体出发，汇合点就在不远处了。"
+
+[Play_X2_XP_CEN_CIN_LA_Reaper_Reveal_1 AkEvent]
+SpokenText="继续前往第一组坐标点，火恶魔和二号小队会前往下一个投放点。"
+
+[Play_X2_XP_CEN_CIN_LA_Reaper_Reveal_1_ALT_A AkEvent]
+SpokenText="就是这里了。提高警惕。"
+
+[Play_X2_XP_TYG_CIN_LA_Reaper_Reveal_2 AkEvent]
+SpokenText="检测到前方区域生物信号上升。"
+
+[Play_X2_XP_CEN_CIN_LA_Reaper_Reveal_3 AkEvent]
+SpokenText="变种人？"
+
+[Play_X2_XP_CEN_CIN_LA_Reaper_Reveal_4 AkEvent]
+SpokenText="不确定，但应该不是。不过我还是建议大家保持警惕。虽然这片区域早已废弃，但似乎并不是无人居住。"
+
+[Play_X2_XP_CEN_CIN_LA_Reaper_Reveal_5 AkEvent]
+SpokenText="明白。"
+
+[Play_X2_XP_CEN_CIN_LA_Reaper_Reveal_6 AkEvent]
+SpokenText="我们到了。保持警惕。"
+
+[Play_X2_XP_CEN_CIN_LA_Reaper_Reveal_9 AkEvent]
+SpokenText="你们都放下武器。我们都是有着同一目的的同志。"
+
+[Play_X2_XP_CEN_CIN_LA_REAPER_REVEAL_4_ALT_A AkEvent]
+SpokenText="明白。大家保持警惕，这座城市说是被遗弃了但不代表这里没有生命。"
+
+[Play_X2_XP_CEN_CIN_LA_REAPER_REVEAL_4_ALT_B AkEvent]
+SpokenText="明白。大家保持警惕，看起来这座城市并不是像我们所想的那样被遗弃了。"
+
+[Play_X2_XP_CEN_CIN_LA_REAPER_REVEAL_4_ALT_C AkEvent]
+SpokenText="就猜到你要说这事了。大家保持警惕，这座城市说是被遗弃了但不代表这里没有生命。"
+
+[Play_X2_XP_CEN_CIN_LA_REAPER_REVEAL_4_ALT_D AkEvent]
+SpokenText="就猜到你要说这事了。大家保持警惕，看起来这座城市并不是像我们所想的那样被遗弃了。"
+
+[Play_X2_XP_CEN_CIN_LA_REAPER_REVEAL_4_ALT_E AkEvent]
+SpokenText="这样我就知道我们来对地方了。 大家保持警惕，我感觉这座城市不是如之前我们所相信的那样被遗弃了。"
+
+[Play_X2_XP_CEN_CIN_LA_REAPER_REVEAL_4_ALT_F AkEvent]
+SpokenText="这样我就知道我们来对地方了。 大家保持警惕，这座城市可能不是入之前我们所相信的那样被遗弃了。"
+
+[Play_X2_XP_CEN_CIN_LA_REAPER_REVEAL_4_ALT_M AkEvent]
+SpokenText="这样我就知道我们来对地方了。大家保持警惕，这座城市说是被遗弃了但不代表这里没有生命。"

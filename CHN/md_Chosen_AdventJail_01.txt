@@ -1,0 +1,24 @@
+﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_14 XComInteractiveLevelActor]
+FriendlyDisplayName="牢房门"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_15 XComInteractiveLevelActor]
+FriendlyDisplayName="牢房门"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_16 XComInteractiveLevelActor]
+FriendlyDisplayName="牢房门"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_17 XComInteractiveLevelActor]
+FriendlyDisplayName="牢房门"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_18 XComInteractiveLevelActor]
+FriendlyDisplayName="牢房门"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_19 XComInteractiveLevelActor]
+FriendlyDisplayName="牢房门"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_20 XComInteractiveLevelActor]
+FriendlyDisplayName="牢房门"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_8 XComInteractiveLevelActor]
+FriendlyDisplayName="牢房门"
+

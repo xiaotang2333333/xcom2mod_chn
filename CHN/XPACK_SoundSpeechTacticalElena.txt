@@ -1,0 +1,165 @@
+﻿[Play_X2_XP_ELENA_CIN_LA_Reaper_Reveal_7 AkEvent]
+SpokenText="这是沃尔克送你们的礼物。在我们死神之间，这可是一种珍馐。"
+
+[Play_X2_XP_ELENA_CIN_LA_Reaper_Reveal_7_ALT_A AkEvent]
+SpokenText="如果你们饿了，这些肉还有的是。"
+
+[Play_X2_XP_ELENA_CIN_LA_Reaper_Reveal_7_ALT_B AkEvent]
+SpokenText="如果你们饿了，这些肉还有的是。"
+
+[Play_X2_XP_ELENA_CIN_LA_Reaper_Reveal_8 AkEvent]
+SpokenText="反应能力很出色。不过反应过头了。你们在这儿很安全。非常安全。"
+
+[Play_X2_XP_ELENA_CIN_LA_Reaper_Reveal_8_ALT AkEvent]
+SpokenText="反应很快，但没必要。"
+
+[Play_X2_XP_ELENA_CIN_LA_Reaper_Reveal_8_TrimB AkEvent]
+SpokenText="你们在这儿很安全。"
+
+[Play_X2_XP_ELENA_CIN_LA_Reaper_Reveal_8_trimC AkEvent]
+SpokenText="非常安全。"
+
+[Play_X2_XP_ELENA_CIN_LA_Reaper_Reveal_10 AkEvent]
+SpokenText="很好。我们倒要看看你们的散兵是不是这么想的。"
+
+[Play_X2_XP_ELENA_CIN_LA_Reaper_Reveal_10_ALT AkEvent]
+SpokenText="好。我们倒要看看你们的散兵是不是这么想的。"
+
+[Play_X2_XP_ELENA_CIN_LA_Reaper_Reveal_10_trim AkEvent]
+SpokenText="我们倒要看看你们的散兵是不是这么想的。"
+
+[Play_X2_XP_ELENA_CIN_LA_Reaper_Reveal_11 AkEvent]
+SpokenText="你们的出现已经惊动了他们。我们必须动作快点。这个营地就交给我的部下了。来吧。"
+
+[Play_X2_XP_ELENA_T_ASSN_Captures_Elena_Convo_A_2 AkEvent]
+SpokenText="你会发现我对你和你们的神只有憎恶之情。"
+
+[Play_X2_XP_ELENA_T_Extract_Know_Elena_Convo_A_2 AkEvent]
+SpokenText="你知道再多也没法改变你们的未来，外星人。"
+
+[Play_X2_XP_ELENA_T_Extract_Know_Elena_Convo_B_2 AkEvent]
+SpokenText="我的人民绝不会投降。"
+
+[Play_X2_XP_ELENA_T_HNTR_Captures_Elena_Convo_A_2 AkEvent]
+SpokenText="你要是以为我会向你开口就大错特错了。"
+
+[Play_X2_XP_ELENA_T_LNA_Lost_1 AkEvent]
+SpokenText="该死！我们动作太慢了。他们发现我们了。"
+
+[Play_X2_XP_ELENA_T_LNA_Lost_2 AkEvent]
+SpokenText="被遗忘的人。失魂者。不能让它们靠近！"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Elena_Grenade AkEvent]
+SpokenText="迫不得已，并且相当危险。失魂者听得见所有动静。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Escape_Trouble_1 AkEvent]
+SpokenText="它们从不轻易放弃..."
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Escape_Trouble_1_ALT_A AkEvent]
+SpokenText="死神也不会轻易放弃。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Escape_Trouble_1_ALT_B AkEvent]
+SpokenText="我们会按时与你们的变种人宠物碰头的。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Final_Unit_Exits_1 AkEvent]
+SpokenText="哦，我都等不及了。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_First_Encounter_Ends_1 AkEvent]
+SpokenText="我们暂时取得了胜利，但肯定还有别的失魂者在往这儿过来。我们得离开这里。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_First_Lost_Kill AkEvent]
+SpokenText="那些怪物最可怕的地方就在于他们庞大的数量。不过他们很容易被击毙，所以只要我们仔细瞄准，一定能取得胜利。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Lost_Combat_Five_1 AkEvent]
+SpokenText="我们冒了这么大的风险就是为了见普拉塔尔·莫克斯一面。他要是不像你说的那样，我会亲手杀了他。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Lost_Combat_Four AkEvent]
+SpokenText="这些怪物比变种人还要可怕。他们没有目的性，也不知恐惧为何物。他们仅仅是活着罢了。如果我们不尽快击败外星人，终有一天也会变成失魂者。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Lost_Combat_One_1 AkEvent]
+SpokenText="当人类政府陷落时，有数百万人失去了食物的来源。很多人都逃往这样的城市搜刮食物。他们没有听从我们的警告。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Lost_Combat_Seven_1 AkEvent]
+SpokenText="多年以来我们一直在狩猎他们，我们幸存了下来。现在你却要为了你的和平梦搭上我们的存亡。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Lost_Combat_Seven_2 AkEvent]
+SpokenText="光靠嘴上功夫可没办法杀死这群怪物..."
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Lost_Combat_Six_1 AkEvent]
+SpokenText="一大群失魂者。我们必须在它们过来前继续前进。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Lost_Combat_Three_1 AkEvent]
+SpokenText="是的，死亡就是我们给予他们的最后的仁慈。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Lost_Combat_Two AkEvent]
+SpokenText="我的部下曾经遭遇过这些怪物。他们乍看上去似乎没什么头脑，但听力非常发达。成群结队出没时相当致命。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Lost_Infinite AkEvent]
+SpokenText="我们不能在这儿耗着。对付它们，我们最大的优势是速度，而不是火力。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Lost_Pod_Reveals_1 AkEvent]
+SpokenText="没时间后悔了，这还有别的东西！"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Lost_Pod_Reveals_2 AkEvent]
+SpokenText="他们身为人类的那一部分早在数年前就死透了。现在留下的是被外星人侵蚀剩下的躯壳。而且这种东西往往成群结队出没。对他们决不能手下留情！"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Lost_Sound_Warning_1 AkEvent]
+SpokenText="战斗的声音会把它们全给引来。我们得尽快离开这个地方。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_LostGone_NoEscape_1 AkEvent]
+SpokenText="暂时而已。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Mission_Setup_1 AkEvent]
+SpokenText="莫克斯？普拉塔尔·莫克斯！他的处刑小队在战争初期曾将我们一整个营地的人屠杀殆尽。你居然有脸带他来见我？！"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Mission_Setup_2 AkEvent]
+SpokenText="我会和你们去汇合点的。具体的事到时候再说。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_More_Lost_Reveals_1 AkEvent]
+SpokenText="多到够把我们生吞活剥了，所以我们一定要小心。我的部下在这些区域内必须迅速移动就是为了避开这些东西，这是我们生存的秘诀。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Player_Grenade AkEvent]
+SpokenText="失魂者虽然没什么脑子，但它们对声音可敏感的很。发出这种噪音风险是很大的。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Pre_Fog_Pod_2 AkEvent]
+SpokenText="死神们从不忘记，这个地方只能让我们将外星人全部剿灭的欲望更加强烈。"
+
+[Play_X2_XP_ELENA_T_LNA_Part1_Second_Wave_Lost_1 AkEvent]
+SpokenText="这些怪物真是无处不在！如果我们不能躲过它们，那就只能杀光它们了..."
+
+[Play_X2_XP_ELENA_T_LNA_Part3_Combat_Five_1 AkEvent]
+SpokenText="是啊，怪物，你太可悲了。"
+
+[Play_X2_XP_ELENA_T_LNA_Part3_Combat_Two_1 AkEvent]
+SpokenText="嗯...或许我们之间的相似之处比我们原先以为的要多。"
+
+[Play_X2_XP_ELENA_T_LNA_Part3_Lost_Reinforcement_1 AkEvent]
+SpokenText="也就是说，那家伙把这座城里所有剩下的失魂者都叫过来吃饭了。"
+
+[Play_X2_XP_ELENA_T_LNA_Part3_Post_RedezAssassin_1 AkEvent]
+SpokenText="长老的猎犬今天会在此丧命的。"
+
+[Play_X2_XP_ELENA_T_LNA_Part3_Return_to_Base_1 AkEvent]
+SpokenText="他没有。我保证。"
+
+[Play_X2_XP_ELENA_T_LNA_Part3_Turn_One_1 AkEvent]
+SpokenText="是的，但和这个有所不同。它--他把狩猎我们当成是一种娱乐，似乎比我们自己更了解我们的行事风格。"
+
+[Play_X2_XP_ELENA_T_LNA_Part3_Turn_Three_1 AkEvent]
+SpokenText="如果这家伙跟她的兄弟一样，那我们就得不间断的攻击她。这些东西对伤口不屑一顾，他们简直像是不知死亡为何物似的。"
+
+[Play_X2_XP_ELENA_T_LNA_Part3_Turn_Two_1 AkEvent]
+SpokenText="他们是在数年前突然出现的。要不是他们，我们早就夺回我们的家园了！"
+
+[Play_X2_XP_ELENA_T_LNA_Play3_Lost_Battle_Four_1 AkEvent]
+SpokenText="总有一天我们会把这里夺回来的。"
+
+[Play_X2_XP_ELENA_T_LNA_Play3_Lost_Battle_Six_1 AkEvent]
+SpokenText="让她尽可能撑住，我们会过来的。"
+
+[Play_X2_XP_ELENA_T_LNA_Play3_Lost_Battle_Three_1 AkEvent]
+SpokenText="我相信你..."
+
+[Play_X2_XP_ELENA_T_LNA_Play3_Lost_Battle_Two_1 AkEvent]
+SpokenText="这城里到底还有多少这种怪物？！"
+

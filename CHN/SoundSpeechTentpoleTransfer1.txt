@@ -1,0 +1,56 @@
+﻿[S_TP_Transfer_Tentpole1_Central_01 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Transfer_Tentpole1_Central_02 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Transfer_Tentpole1_Central_03 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Transfer_Tentpole1_Central_04 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Transfer_Tentpole1_Commander_01 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Transfer_Tentpole1_Commander_02 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Transfer_Tentpole1_Commander_03 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[S_TP_Transfer_Tentpole1_Commander_04 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+

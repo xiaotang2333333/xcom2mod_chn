@@ -1,0 +1,3 @@
+﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_5 XComInteractiveLevelActor]
+FriendlyDisplayName="Chosen Sarcophagus"
+

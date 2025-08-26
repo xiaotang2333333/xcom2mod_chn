@@ -1,0 +1,291 @@
+﻿[Play_X2_XP_WRLK_S_ADVENT_Tower_Available AkEvent]
+SpokenText="你们竟敢进入变种人的指挥中心，进入这保障和平的神殿？我要让你们为此生不如死。"
+
+[Play_X2_XP_WRLK_S_Assault_Avenger_First AkEvent]
+SpokenText="我终于来到了你的大本营，你们人类希望的象征，我们的眼中钉，肉中刺。"
+
+[Play_X2_XP_WRLK_S_Assault_Avenger_Subs AkEvent]
+SpokenText="我很乐意再次得到一个结束你这场永不停歇的环球航行的机会。你是时候把这艘飞船还给我们了。"
+
+[Play_X2_XP_WRLK_S_Assaulting_Bastion_First AkEvent]
+SpokenText="我们终于到达了那些胆敢忤逆长老的狂徒的避难所前。趁着自己还有口气在，赶紧向我求饶吧。"
+
+[Play_X2_XP_WRLK_S_Assaulting_Bastion_Subs_A AkEvent]
+SpokenText="我决不允许有人忤逆了长老后还活着。所有躲避在此的人都得死！"
+
+[Play_X2_XP_WRLK_S_Assaulting_Bastion_Subs_B AkEvent]
+SpokenText="没有任何避难所能够庇护胆敢忤逆长老的人。他们都得在虚空中受到无尽的折磨！"
+
+[Play_X2_XP_WRLK_S_Avatar_Meter_High AkEvent]
+SpokenText="很快，长老们的宏图就会完成，化身将会降临地球，完成预言。"
+
+[Play_X2_XP_WRLK_S_Chosen_Knowledge_Complete AkEvent]
+SpokenText="我很快就会来找你了，指挥官，到时候你和你那微不足道的军队就无处可藏了！"
+
+[Play_X2_XP_WRLK_S_Chosen_Knowledge_Halfway AkEvent]
+SpokenText="我已经摸透了你的行事手腕，指挥官，很快我就会把你和你从长老那里偷走的东西夺回来。"
+
+[Play_X2_XP_WRLK_S_Chosen_Leveled_Up AkEvent]
+SpokenText="长老们给予了我祝福，不，他们给予了我力量！我现在比以往要强大许多，而我绝不会辜负他们的期望！"
+
+[Play_X2_XP_WRLK_S_Covert_Action_Cancelled_Plans AkEvent]
+SpokenText="到了最后，你们今天的成功不会有任何意义。我对长老的忠诚是无法被动摇的！"
+
+[Play_X2_XP_WRLK_S_Dark_Event_Complete_A AkEvent]
+SpokenText="看来你又遭遇了新的挑战，指挥官。别怕，以你的才能，一定能轻松应对长老的试炼吧。"
+
+[Play_X2_XP_WRLK_S_Dark_Event_Complete_B AkEvent]
+SpokenText="好好享受这小插曲吧，指挥官，我才是你真正的对手。"
+
+[Play_X2_XP_WRLK_S_Dark_Event_Complete_C AkEvent]
+SpokenText="这不过是一场试炼而已。对你的耐力的测试时永无止境的，指挥官。你的士兵真的准备好应对未来的挑战了吗？"
+
+[Play_X2_XP_WRLK_S_Dark_Event_Complete_D AkEvent]
+SpokenText="你虽然完成了这一挑战，但又付出了怎样的代价呢，指挥官？"
+
+[Play_X2_XP_WRLK_S_Dark_Event_Complete_E AkEvent]
+SpokenText="这只是一次简单的测试，长老宏伟蓝图中的一个小插曲罢了。你那强大的军队肯定能轻松应对它吧？"
+
+[Play_X2_XP_WRLK_S_Enter_Chosen_Territory AkEvent]
+SpokenText="这么说，你想要主动袭击我了？我等着你的到来，指挥官。"
+
+[Play_X2_XP_WRLK_S_Geoscape_Favored AkEvent]
+SpokenText="长老们凭其无尽的智慧，将我选为了真正的天选之子。这个世界就是他们送我的礼物，而我的世界不欢迎你们。"
+
+[Play_X2_XP_WRLK_S_Philosophy_A AkEvent]
+SpokenText="我是长老用自身的精华、自身的力量创造出来的，是他们麾下最为强大的勇士。虽然神明有许多子嗣，但我才是他们意识的真正贯彻者，而他们也赐予了我他人无法驾驭的强大力量。"
+
+[Play_X2_XP_WRLK_S_Philosophy_B AkEvent]
+SpokenText="我的同胞已经迷失了，他们沉溺于自身野心，判断错误百出。他们的错误会让长老意识到我才是真正的天选者，只有我能继承他们的衣钵，成为这个新世界的绝对统治者。"
+
+[Play_X2_XP_WRLK_S_Philosophy_C AkEvent]
+SpokenText="尽管不知道长老是否意识到，我曾窥探过长老们所能触及的力量。那份力量与他们是密不可分的，是一种超越了常识的存在。虽然我无法看到我们的未来，但我相信我们的未来一定与虚空交缠在一起。"
+
+[Play_X2_XP_WRLK_S_Photo_Booth_Taunt_Thres_Change_A AkEvent]
+SpokenText="他们真是太可悲了，执行你那愚蠢的战术，最后只能落到敌人手里。"
+
+[Play_X2_XP_WRLK_S_Photo_Booth_Taunt_Thres_Change_B AkEvent]
+SpokenText="你自己应该最理解当俘虏有多么痛苦吧，指挥官，但你却依然让士兵为你的失败付出代价，被敌人抓获。"
+
+[Play_X2_XP_WRLK_S_Photo_Booth_Taunt_Thres_Change_C AkEvent]
+SpokenText="我就好奇了，指挥官，如果你的失败会导致你自己而不是你的士兵被抓，你是不是就会更上点心？"
+
+[Play_X2_XP_WRLK_S_Player_Built_Shadow_Chamber AkEvent]
+SpokenText="你打算拿这些简陋的机器做什么，指挥官？长老们对你的小算盘一清二楚，你什么都做不了。"
+
+[Play_X2_XP_WRLK_S_Player_Contacted_Reaper_HQ AkEvent]
+SpokenText="你们竟然和你们人类中最残忍的杀手结盟了？为了阻挠长老们的宏图，你们做出了如此下贱之举，真是一群伪君子。"
+
+[Play_X2_XP_WRLK_S_Player_Contacted_Skirmisher_HQ AkEvent]
+SpokenText="那群背叛长老的变节者脑后可是长着反骨的，我建议你们别跟他们扯上关系，这是为你们自己好。"
+
+[Play_X2_XP_WRLK_S_Player_Contacted_Templar_HQ AkEvent]
+SpokenText="长老们清楚你们接触了那帮狡猾的圣殿骑士。但你们要是以为他们的帮助能对这场战场产生什么显著的影响就大错特错了。"
+
+[Play_X2_XP_WRLK_S_Player_Found_Forge_Coords AkEvent]
+SpokenText="就算收到了情报，指挥官，有时候也还是不深入调查为妙。如果你愿意白白牺牲你的士兵，那就不顾一切地继续前进吧。"
+
+[Play_X2_XP_WRLK_S_Player_Found_Gate_Coords AkEvent]
+SpokenText="你找到的这件道具是你们这些人类无法掌控的。你们根本不知道擅自摆弄它会有什么后果。"
+
+[Play_X2_XP_WRLK_S_Player_Killed_Avatar AkEvent]
+SpokenText="你毁坏了长老最伟大的发明之一，你应该被永远囚禁于虚空中！"
+
+[Play_X2_XP_WRLK_S_Player_Killed_Codex AkEvent]
+SpokenText="你摧毁的是装着长老智慧的容器，你也因此永远失去了理解其中知识的机会。"
+
+[Play_X2_XP_WRLK_S_Player_Near_Forge_Region AkEvent]
+SpokenText="别再干扰长老们的宏图了，这是为你们自己好，不然你们会后悔的，指挥官。就此止步吧。"
+
+[Play_X2_XP_WRLK_S_Player_Near_Gate_Region AkEvent]
+SpokenText="我警告过你不要碰长老的神器，但你执意这么做。别以为我们还会继续袖手旁观下去！"
+
+[Play_X2_XP_WRLK_S_Player_Recovered_Forge_Body AkEvent]
+SpokenText="你们打算拿偷来的东西做什么？恐怕你们发育不完全的头脑根本理解不了你们从锻造厂偷来的事物吧？"
+
+[Play_X2_XP_WRLK_S_Player_Recovered_Gate AkEvent]
+SpokenText="我警告过你不要擅动长老们的神器，你却一次又一次地掠夺他们最伟大的的发明。你们会为你们的无耻行为付出代价的！"
+
+[Play_X2_XP_WRLK_S_Post_Chosen_Killed_A AkEvent]
+SpokenText="我同胞的死亡也不能阻止我前进的步伐！我对长老的忠诚是永恒的！"
+
+[Play_X2_XP_WRLK_S_Post_Chosen_Killed_B AkEvent]
+SpokenText="我才不会浪费我宝贵的时间去给我那死去的同胞哀悼呢，这毕竟是他们自己选择的道路，而他们对长老们的忠诚度决定了他们的命运。"
+
+[Play_X2_XP_WRLK_S_Post_Chosen_Killed_C AkEvent]
+SpokenText="我的同胞沉溺于欺诈和自我获利，不出意外地没能执行长老的任务。我可不会被俗事分心。"
+
+[Play_X2_XP_WRLK_S_Post_Chosen_Killed_D AkEvent]
+SpokenText="我不会为我死去的同胞落泪，他们的死兆已经显露许久，也是时候回归虚空了。"
+
+[Play_X2_XP_WRLK_S_Post_Chosen_Killed_E AkEvent]
+SpokenText="你杀死了我同胞中的一人，做到了无数人都做不到的事。好好享受这次胜利吧，你很快就没机会了。"
+
+[Play_X2_XP_WRLK_S_Post_Combat_Chosen_Success_A AkEvent]
+SpokenText="如果我们这次交手说明了什么，那就是你能坚持的时间恐怕比我预料的都要短了。"
+
+[Play_X2_XP_WRLK_S_Post_Combat_Chosen_Success_B AkEvent]
+SpokenText="看来，你有点名不副实啊，指挥官，你要学的战争之道还有很多呢。"
+
+[Play_X2_XP_WRLK_S_Post_Combat_Chosen_Success_C AkEvent]
+SpokenText="接受现实吧，指挥官。你不如我强，你们反抗军的弱点也开始暴露了。"
+
+[Play_X2_XP_WRLK_S_Post_Combat_Chosen_Success_D AkEvent]
+SpokenText="我忍不住质疑长老们对你那所谓的才能的肯定了，指挥官。目前看来你在战略上的造诣并不如我。"
+
+[Play_X2_XP_WRLK_S_Post_Combat_Chosen_Success_E AkEvent]
+SpokenText="是你低估了我的能力，还是你的部队就这点实力，指挥官？"
+
+[Play_X2_XP_WRLK_S_Post_Combat_XCOM_Success_A AkEvent]
+SpokenText="你是不是更自信了？你的士兵是不是更信任你的战术了？很好。骄兵必败。"
+
+[Play_X2_XP_WRLK_S_Post_Combat_XCOM_Success_B AkEvent]
+SpokenText="你今天的胜利对于这场战争来说无足轻重。别得意忘形了。"
+
+[Play_X2_XP_WRLK_S_Post_Combat_XCOM_Success_C AkEvent]
+SpokenText="我对长老的信仰能够让我克服任何战场上的失败带来的苦楚。"
+
+[Play_X2_XP_WRLK_S_Post_Combat_XCOM_Success_D AkEvent]
+SpokenText="你的士兵今天战斗得很勇猛，指挥官，可惜他们的努力无法阻止长老未来的宏图。"
+
+[Play_X2_XP_WRLK_S_Post_Combat_XCOM_Success_E AkEvent]
+SpokenText="向你的友军宣传你今天的胜利吧，他们虚无的希望只会让我报效长老的心态更为急切！"
+
+[Play_X2_XP_WRLK_S_Retaliation_Blade_A AkEvent]
+SpokenText="如果他们愿意讨好长老，在他们面前下跪忏悔，那神明或许会宽恕他们。"
+
+[Play_X2_XP_WRLK_S_Retaliation_Blade_B AkEvent]
+SpokenText="拒绝服从我就逼他们服从！"
+
+[Play_X2_XP_WRLK_S_Retaliation_Blade_C AkEvent]
+SpokenText="我不会放过，更不会饶恕亵渎我的神明的人！"
+
+[Play_X2_XP_WRLK_S_Retaliation_Blade_D AkEvent]
+SpokenText="他们的痛苦完全是可以避免的，但他们拒绝长老的和平，只有一死。"
+
+[Play_X2_XP_WRLK_S_Retaliation_Blade_E AkEvent]
+SpokenText="他们的忠诚给他们带来了什么好处？你会保护他们吗？来啊，让我见识见识你的厉害！"
+
+[Play_X2_XP_WRLK_S_Retaliation_Complete_A AkEvent]
+SpokenText="那么多人都为了你牺牲，连你所谓的无辜的人也不例外。你还打算抗争到什么时候，指挥官？"
+
+[Play_X2_XP_WRLK_S_Retaliation_Complete_B AkEvent]
+SpokenText="你难道不理解忤逆长老的代价吗？这个居住地的牺牲还不足以让你改变做派吗？"
+
+[Play_X2_XP_WRLK_S_Retaliation_Complete_C AkEvent]
+SpokenText="许多人都为你的罪行付出了生命的代价，而丧钟只会越来越响。你还不愿意向长老投降吗，指挥官？"
+
+[Play_X2_XP_WRLK_S_Retaliation_Complete_D AkEvent]
+SpokenText="要是你老老实实当长老的麾下勇士，就不会死这么多无辜的人了。"
+
+[Play_X2_XP_WRLK_S_Retaliation_Complete_E AkEvent]
+SpokenText="今天失去性命的人，都是因为忤逆长老而死，因此神明是不会怜悯他们的。"
+
+[Play_X2_XP_WRLK_S_Sabotage_Failed_A AkEvent]
+SpokenText="你逃出了我的掌心，不过这只是暂时的。"
+
+[Play_X2_XP_WRLK_S_Sabotage_Failed_B AkEvent]
+SpokenText="继续你的游戏吧，你迟早会无处可逃的。"
+
+[Play_X2_XP_WRLK_S_Sabotage_Failed_C AkEvent]
+SpokenText="我虽然失败了，但我不会就此放弃。"
+
+[Play_X2_XP_WRLK_S_Sabotage_Failed_D AkEvent]
+SpokenText="不管你躲在哪，我都有耐心等待下次打击你的机会！"
+
+[Play_X2_XP_WRLK_S_Sabotage_Failed_E AkEvent]
+SpokenText="你确实挺狡猾，但你总有一天会跪倒在长老面前的。"
+
+[Play_X2_XP_WRLK_S_Sabotage_Success_A AkEvent]
+SpokenText="在长老的祝福下，我诅咒了你们那飞翔的避难所，是时候承受后果了。"
+
+[Play_X2_XP_WRLK_S_Sabotage_Success_B AkEvent]
+SpokenText="你们的反抗行为一直以来都依赖长老的发明。而现在，他们的发明背叛了你们！"
+
+[Play_X2_XP_WRLK_S_Sabotage_Success_C AkEvent]
+SpokenText="你们那可鄙的战争机器抛弃了你们！"
+
+[Play_X2_XP_WRLK_S_Sabotage_Success_D AkEvent]
+SpokenText="你们的启示之路将布满险境。"
+
+[Play_X2_XP_WRLK_S_Sabotage_Success_E AkEvent]
+SpokenText="没人逃得出长老的手心。"
+
+[Play_X2_XP_WRLK_S_Soldier_Captured_A AkEvent]
+SpokenText="我暂时还不会杀死这个俘虏，指挥官，等他没用了后就不一定了。在那之后，一切都看长老的意思。"
+
+[Play_X2_XP_WRLK_S_Soldier_Captured_B AkEvent]
+SpokenText="鉴于你的名头，我还真没想到上次交锋能抓到俘虏。不过，长老们肯定会乐意接受他的知识的。"
+
+[Play_X2_XP_WRLK_S_Soldier_Captured_C AkEvent]
+SpokenText="虽然抓俘虏这种事我更愿意交给长老们的下等仆从，但为了长老，我愿意采取一切必要的手段。"
+
+[Play_X2_XP_WRLK_S_Soldier_Captured_D AkEvent]
+SpokenText="只要让你的士兵看一眼虚空，他可能就会立刻崩溃，全部交代。"
+
+[Play_X2_XP_WRLK_S_Soldier_Captured_E AkEvent]
+SpokenText="等这个俘虏跟我分享完你的秘密，我该拿他怎么办呢？或许该拿他去喂长老养的野兽？"
+
+[Play_X2_XP_WRLK_S_Soldier_Captured_Post_Covert_A AkEvent]
+SpokenText="你以为我不会发现你派人偷偷协助你的友军吗？你就把这名俘虏当成是我对你的警告吧！"
+
+[Play_X2_XP_WRLK_S_Soldier_Captured_Post_Covert_B AkEvent]
+SpokenText="企图欺骗我的下场就是让一个你那不知情的士兵受到折磨，他的忠诚换来的是你的抛弃。"
+
+[Play_X2_XP_WRLK_S_Soldier_Rescued_A AkEvent]
+SpokenText="你对受困中的友军的忠诚着实让人钦佩，他们的感谢之情应该足以弥补你在营救过程中的损失了吧。"
+
+[Play_X2_XP_WRLK_S_Soldier_Rescued_B AkEvent]
+SpokenText="真是一次果敢的营救行动，指挥官，肯定让你们这帮乌合之众士气大增吧。"
+
+[Play_X2_XP_WRLK_S_Soldier_Rescued_C AkEvent]
+SpokenText="你的士兵肯定非常乐意回到你那安全的飞船上，希望他能从心理创伤中恢复吧。"
+
+[Play_X2_XP_WRLK_S_Threshold_Taunts_Level_Four_A AkEvent]
+SpokenText="时机终于成熟！乞求长老们的怜悯吧，他们麾下最强大的勇士即将降临在你面前！"
+
+[Play_X2_XP_WRLK_S_Threshold_Taunts_Level_Four_B AkEvent]
+SpokenText="你们很快就会感受到长老的怒火。是时候接受他们的审判了，而我将执行对你们的刑罚！"
+
+[Play_X2_XP_WRLK_S_Threshold_Taunts_Level_Four_C AkEvent]
+SpokenText="需要的情报我已经全部知道，是时候行动了！"
+
+[Play_X2_XP_WRLK_S_Threshold_Taunts_Level_Three_A AkEvent]
+SpokenText="我很快将会对你的反抗军和你那可笑的计划了如指掌。"
+
+[Play_X2_XP_WRLK_S_Threshold_Taunts_Level_Three_B AkEvent]
+SpokenText="你那为颠覆长老制定的计划可越来越透明了，指挥官。"
+
+[Play_X2_XP_WRLK_S_Threshold_Taunts_Level_Three_C AkEvent]
+SpokenText="你的秘密就像长老的力量一般源源不断地传给我，这一切很快就会结束了。"
+
+[Play_X2_XP_WRLK_S_Threshold_Taunts_Level_Two_A AkEvent]
+SpokenText="我对你的战术和抵抗的手段越来越熟悉了。"
+
+[Play_X2_XP_WRLK_S_Threshold_Taunts_Level_Two_B AkEvent]
+SpokenText="我很快就会集齐必要的情报，终结你对长老的反抗。"
+
+[Play_X2_XP_WRLK_S_Threshold_Taunts_Level_Two_C AkEvent]
+SpokenText="你最好对自己的秘密保护得周全些，不然你很快就没什么秘密了。"
+
+[Play_X2_XP_WRLK_S_XCOM_Covert_Action_Ambushed AkEvent]
+SpokenText="你们的隐秘行动失败了，为此你们会付出沉重的代价。"
+
+[Play_X2_XP_WRLK_S_XCOM_Fame_Spreading AkEvent]
+SpokenText="似乎有越来越多的人类开始知道你们那负隅顽抗的行为，还当成是希望了，可惜这些你们的虚名是无法改变他们的命运的。"
+
+[Play_X2_XP_WRLK_S_XCOM_Lost_Mission AkEvent]
+SpokenText="你的这场惨败会为我成为长老的真正继承者铺平道路。"
+
+[Play_X2_XP_WRLK_S_XCOM_Lost_Stronghold AkEvent]
+SpokenText="你斗胆擅闯长老赐予我的圣地，但却还是被我击溃，然后落荒而逃！你要是觉得我会让你再次闯入我的堡垒就大错特错了。"
+
+[Play_X2_XP_WRLK_S_XCOM_Lost_Veteran_A AkEvent]
+SpokenText="他们对你很忠诚，指挥官，能够毫不犹豫、从不抱怨地为一个虚无缥缈的目标去战斗，去牺牲。我相信你肯定会很想念他们的。"
+
+[Play_X2_XP_WRLK_S_XCOM_Lost_Veteran_B AkEvent]
+SpokenText="失去一个如此忠诚的仆从，肯定让你很难受吧，指挥官，经验那么丰富的人怕是很难再找了。"
+
+[Play_X2_XP_WRLK_S_XCOM_Recovered_Fragment AkEvent]
+SpokenText="你们真的以为我会怕你们发现这事？你们再小心谨慎也没法改变命运。"
+

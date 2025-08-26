@@ -1,0 +1,72 @@
+
+[AR115Bomber X2AbilityTemplate]
+LocFriendlyName="远程破坏者"
+LocLongDescription="这个单位获得远程启动和远程终结技能。这些技能允许士兵不暴露自身的引爆爆炸物。"
+LocHelpText="这个单位获得远程启动和远程终结技能。这些技能允许士兵不暴露自身的引爆爆炸物。"
+LocPromotionPopupText="<Bullet/> 远程启动 - 引爆环境中的一个易爆物，使其伤害和爆炸半径翻倍。不会暴露死神。<br/><Bullet/> 远程终结 - 引爆敌人身上的爆炸物。不会暴露<Ability:ClassName/>。 两个技能彼此共享冷却时间。"
+
+[A115FuseSneakShot X2AbilityTemplate]
+LocFriendlyName="远程终结"
+LocLongDescription="引爆敌人身上的爆炸物。不会暴露<Ability:ClassName/>。如果单位有远程启动技能，则与之共享冷却时间。"
+LocHelpText="引爆敌人身上的爆炸物。不会暴露<Ability:ClassName/>。如果单位有远程启动技能，则与之共享冷却时间。"
+LocFlyOverText=""
+LocPromotionPopupText="<Bullet/> 确保小队成员远离爆炸范围！<br/><Bullet/> 远程启动需<Ability:SelfAmmoCost/> 个弹药点，且冷却时间为<Ability:SelfCooldown/>回合。<br/><Bullet/>如果单位有远程启动技能，则与之共享冷却时间。".<br/><Bullet/>不会暴露<Ability:ClassName/>。<br/>"
+
+[R115ExplosiveShot X2AbilityTemplate]
+LocFriendlyName="爆炸射击"
+LocLongDescription="发射爆炸的子弹，伤害目标附近的所有敌人。"
+LocHelpText="发射爆炸的子弹，伤害目标附近的所有敌人。"
+LocFlyOverText="爆炸！"
+LocPromotionPopupText="<Bullet/>需要<Ability:SELFCOOLDOWN/>回合冷却时间。"
+
+[A115Hitandrun X2AbilityTemplate]
+LocFriendlyName="快闪射击"
+LocLongDescription="使用主武器向侧翼目标进行标准射击后，获得每回合一次的额外移动。"
+LocHelpText="使用主武器向侧翼目标进行标准射击后，获得每回合一次的额外移动。"
+LocFlyOverText="快闪射击"
+LocPromotionPopupText="<Bullet/> 激活奔袭战术后，快闪射击无法使用。<br/><Bullet/> 从连环杀戮和死神天降获得的全部奖励行动点将首先授予士兵。<br/>"
+
+[BloodTrail X2AbilityTemplate]
+LocFriendlyName="血迹追踪"
+LocLongDescription="若目标此回合已受过伤，则射击造成伤害+<Ability:BLOODTRAILDAMAGE/> 。同时有50%几率对有机目标造成强力的流血效果，造成持续伤害。"
+LocHelpText="若目标此回合已受过伤，则射击造成伤害+<Ability:BLOODTRAILDAMAGE/> 。同时有50%几率对有机目标造成强力的流血效果，造成持续伤害。"
+LocPromotionPopupText="<Bullet/> 只适用于敌人受伤的同一回合。<br/><Bullet/> 流血效果有<Ability:BLOOD_TRAIL_BLEEDING_NUM_TURNS/> 回合冷却时间，造成<Ability:BLOOD_TRAIL_BLEEDING_TICK_DMG/>-<Ability:BLOOD_TRAIL_BLEEDING_TICK_DMG_PLUS/> 每回合伤害。<br/><Bullet/> 提前计划与队友合作攻击，最大限度地发挥血迹追踪的效果。<br/>"
+
+[Distraction X2AbilityTemplate]
+LocFriendlyName="分散注意力"
+LocLongDescription="阔剑地雷爆炸将瘫痪半径内任何单位的主武器，迫使他们重新装弹。另外，如果用阔剑地雷杀死人，死神将进入暗影状态。"
+LocHelpText="阔剑地雷爆炸将瘫痪半径内任何单位的主武器，迫使他们重新装弹。另外，如果用阔剑地雷杀死人，死神将进入暗影状态。"
+LocPromotionPopupText="<Bullet/> 分散注意力不能瘫痪一些武器，例如变种人净化者的火焰喷射器。<br/><Bullet/> 无论哪个士兵击发阔剑地雷，造成击杀后均可激活该效果。<br/>"
+
+[SoulReaper X2AbilityTemplate]
+LocFriendlyName="放逐"
+LocLongDescription="向一名目标持续开火直至将其击毙或耗尽弹药。暴露死神的位置。"
+LocHelpText="向一名目标持续开火直至将其击毙或耗尽弹药。暴露死神的位置。"
+LocFlyoverText="放逐"
+LocPromotionPopupText="<Bullet/> 放逐的每次射击都将单独计算命中率和暴击率。<br/><Bullet/> 放逐每次任务只可使用一次。<br/><Bullet/> 用扩展弹匣升级你的维克托步枪以提升放逐的杀伤力。<br/><Bullet/> 弹匣内只有一发子弹时不可使用放逐。<br/>"
+
+[HomingMine X2AbilityTemplate]
+LocFriendlyName="追踪地雷"
+LocLongDescription="将阔剑地雷附着于一名敌人（不会惊动敌人）。追踪地雷会在敌人受到伤害时爆炸。"
+LocHelpText="将阔剑地雷附着于一名敌人（不会惊动敌人）。追踪地雷会在敌人受到伤害时爆炸。"
+LocPromotionPopupText="<Bullet/> 针对身上附着了地雷的敌人的射击必定会命中。<br/><Bullet/> 追踪地雷和普通版阔剑地雷能力共享使用次数。<br/><Bullet/> 破片加成也适用于追踪地雷。<br/><Bullet/> 分散注意力的瘫痪武器效果，也适用于追踪地雷。<br/>"
+
+[ShadowRising X2AbilityTemplate]
+LocFriendlyName="暗影守卫"
+LocLongDescription="死神在侦察方面变得更有效率。死神能藏在更多的阴影中，敌人对他的察觉半径更小。当被平民发现时，不再破坏隐蔽。"
+LocHelpText="死神在侦察方面变得更有效率。死神能藏在更多的阴影中，敌人对他的察觉半径更小。当被平民发现时，不再破坏隐蔽。"
+LocPromotionPopupText="<Bullet/> 死神能藏在更多的阴影中，敌人对他的察觉半径更小。<br/><Bullet/> 死神的察觉半径减少25%。<br/>"
+
+[SuperReapSneak X2AbilityTemplate]
+LocFriendlyName="隐匿单位"
+LocHelpText="在阴影中减少敌人察觉半径25%。"
+LocLongDescription="在阴影中减少敌人察觉半径25%"
+
+
+
+
+
+
+
+
+

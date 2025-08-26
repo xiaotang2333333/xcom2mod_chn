@@ -1,0 +1,987 @@
+﻿[CENTRAL_Flight_Device_Bridge_Transition AkEvent]
+SpokenText="Looks like Shen got that converter up and running, when you get a chance, we're ready for you on the bridge. "
+
+[CENTRAL_Generic_Commander_Bridge_A AkEvent]
+SpokenText="Commander to the bridge. "
+
+[CENTRAL_Generic_Commander_Bridge_B AkEvent]
+SpokenText="Commander, you're needed on the bridge. "
+
+[CENTRAL_Generic_Commander_Chamber_A AkEvent]
+SpokenText="Commander to the Shadow Chamber."
+
+[CENTRAL_Generic_Commander_Chamber_B AkEvent]
+SpokenText="Commander, you're needed in the Shadow Chamber. "
+
+[CENTRAL_Generic_Commander_Engineering_A AkEvent]
+SpokenText="Commander to Engineering. "
+
+[CENTRAL_Generic_Commander_Engineering_B AkEvent]
+SpokenText="Commander, you're needed in engineering. "
+
+[CENTRAL_Generic_Commander_Lab_A AkEvent]
+SpokenText="Commander to the Research Lab."
+
+[CENTRAL_Generic_Commander_Lab_B AkEvent]
+SpokenText="Commander, you're needed down in the lab. "
+
+[CENTRAL_Generic_Commander_Quarters_A AkEvent]
+SpokenText="Commander to quarters. "
+
+[CENTRAL_Generic_Commander_Quarters_B AkEvent]
+SpokenText="Commander, you're needed in your quarters. "
+
+[Central_NoFilename_RealWarForAChange AkEvent]
+SpokenText="and give the aliens a real war for a change. "
+
+[Central_Strategy_Ambient_Contraband AkEvent]
+SpokenText="I don't know where people are getting those damn ADVENT burgers, but if I find another wrapper stuffed under one of these command  consoles, there's going to be hell to pay."
+
+[S_Avenger_Ambient_Central_AlienInvasionB_01 AkEvent]
+SpokenText="I never got around to asking you, Doctor, but uh...what exactly did you do before the invasion?"
+
+[S_Avenger_Ambient_Central_AlienInvasionB_02 AkEvent]
+SpokenText="Then I'd say we're lucky to have you with us."
+
+[S_Avenger_Ambient_Central_AlienInvasionC_01 AkEvent]
+SpokenText="At least we don't have to worry about keeping the Council happy anymore, even with the Spokesman lurking in the shadows."
+
+[S_Avenger_Ambient_Central_ChipFunctionB_01 AkEvent]
+SpokenText="I hope you're keeping that chip from the Commander under lock and key..."
+
+[S_Avenger_Ambient_Central_ChipFunctionB_02 AkEvent]
+SpokenText="Good, let's keep it that way."
+
+[S_Avenger_Ambient_Central_CityMigrationB_01 AkEvent]
+SpokenText="ADVENT's got their propaganda machine working overtime...we're still seeing a steady flow of migrants heading into the cities."
+
+[S_Avenger_Ambient_Central_CityMigrationB_02 AkEvent]
+SpokenText="...And I'm not sure I'd trade having a chip in my head for a few hot meals and the cure for the common cold."
+
+[S_Avenger_Ambient_Central_CityMigrationB_03 AkEvent]
+SpokenText="You're wrong about that, Doctor. We can offer them freedom, even if it means they have to endure the pains of being human."
+
+[S_Avenger_Ambient_Central_CrewDis AkEvent]
+SpokenText="We're making progress against the aliens, and it sounds like we're starting to get the civilians attention in the colonies. It's important that the crew knows people out there need us, and want us to help turn this thing around. They have to know there's a reason to endure all this."
+
+[S_Avenger_Ambient_Central_Quick_01 AkEvent]
+SpokenText="Most of our new recruits have never worked in close quarters like the Avenger. Before the war, we might have had time for training, but now...they're gonna have to pick things up on the fly."
+
+[S_Avenger_Ambient_Central_Quick_02 AkEvent]
+SpokenText="We've been picking up some weird transmissions lately; it sounds a little like German, but it's hard to tell."
+
+[S_Avenger_Ambient_Central_Quick_03 AkEvent]
+SpokenText="We should talk to that hustler running the black market; maybe she can help us out restocking the bar."
+
+[S_Avenger_Ambient_Central_Quick_04 AkEvent]
+SpokenText="I don't blame Shen for wanting to keep an eye on Tygan, but at this point, we need all the help we can get."
+
+[S_Avenger_Ambient_Central_Quick_05 AkEvent]
+SpokenText="I have to hand it to 'em, what these recruits lack in experience, they make up for in grit."
+
+[S_Avenger_Ambient_Central_Quick_06 AkEvent]
+SpokenText="There's been plenty of gripes about my flying, but I don't see anybody else steppin' up other than the autopilot."
+
+[S_Avenger_Ambient_Central_Quick_07 AkEvent]
+SpokenText="It's dark, it's dank, and it's mostly metal. This ship isn't all that different from the old base."
+
+[S_Avenger_Ambient_Central_Quick_08 AkEvent]
+SpokenText="Maybe once this is all over, we should take this ship and go colonize one of their planets."
+
+[S_Avenger_Ambient_Central_Quick_09 AkEvent]
+SpokenText="I can see the allure of the ADVENT therapy clinic, a few minutes under the knife and you've got a clean bill of health. Too bad you need a chip to get in."
+
+[S_Avenger_Ambient_Central_Quick_10 AkEvent]
+SpokenText="The ADVENT propaganda machine is running full steam; we're picking up their transmissions even way out in the middle of nowhere."
+
+[S_Avenger_Ambient_Central_Quick_11 AkEvent]
+SpokenText="I've warned the crew to stay away from the ADVENT meat rations; we still don't know what they're putting in that stuff."
+
+[S_Avenger_Ambient_Central_ShenFather_01 AkEvent]
+SpokenText="You know, I probably wouldn't be alive today if it weren't for your father. He was something of a miracle worker."
+
+[S_Avenger_Ambient_Central_ShenFather_02 AkEvent]
+SpokenText="We owe you both a debt of gratitude."
+
+[S_Avenger_Ambient_Central_ShenFather_03 AkEvent]
+SpokenText="You'll get no argument there."
+
+[S_Avenger_Ambient_Central_ShenFatherB_01 AkEvent]
+SpokenText="Your old man would be proud of what we've managed to do here...what you've managed to do with this ship."
+
+[S_Avenger_Ambient_Central_ShenFatherB_02 AkEvent]
+SpokenText="Trust me, he knew. If there was one thing your father always kept in mind, it was his faith in humanity. He knew we could win, on our own terms."
+
+[S_Avenger_Ambient_Central_ShenFatherB_03 AkEvent]
+SpokenText="Aside from this getting this ship up and running, which was mostly Dr. Shen's work, I haven't felt particularly useful in a long time. I'm more than happy to leave the hard decisions to the Commander."
+
+[S_Avenger_Ambient_Central_ShenFatherB_04 AkEvent]
+SpokenText="I did my best to get the new recruits ready for what they're going up against, but having the Commander back is a bigger confidence boost than any speech."
+
+[S_Avenger_Ambient_Central_ShenFatherB_05 AkEvent]
+SpokenText="With the Commander running things, I've got plenty of time to focus on learning to fly this boat."
+
+[S_Avenger_Ambient_Central_ShensPrideB_01 AkEvent]
+SpokenText="You've done a helluva job keeping this ship together, Doctor."
+
+[S_Avenger_Ambient_Central_ShensPrideB_02 AkEvent]
+SpokenText="I doubt they thought anyone could get this heap airborne again."
+
+[S_Avenger_Ambient_Central_Spokesman AkEvent]
+SpokenText="Before he made contact, I just assumed the Spokesman had died or moved on after the council dissolved. From what little he's told me, it sounds like he managed to gain a position within the ADVENT government early on, if only to start leaking Intel to the resistance."
+
+[S_Avenger_Ambient_Central_SpokesmanB AkEvent]
+SpokenText="The Spokesman took a big risk getting inside ADVENT, enough for me to believe he's loyal to our cause. There may still be a few skeptics in the movement, but we've got bigger things to worry about than a man on a screen."
+
+[S_Avenger_Attack_Central_01_Setup_Phase AkEvent]
+SpokenText="I've lost power! We're goin' down fast!"
+
+[S_Avenger_Attack_Central_02_Setup_Phase AkEvent]
+SpokenText="Shen"
+
+[S_Avenger_Attack_Central_03_Setup_Phase AkEvent]
+SpokenText="SHEN!"
+
+[S_Avenger_Attack_Central_04_Setup_Phase AkEvent]
+SpokenText="Someone get me a damage report!"
+
+[S_Avenger_Attack_Central_05_Setup_Phase AkEvent]
+SpokenText="Only One?"
+
+[S_Avenger_Attack_Central_06_Setup_Phase AkEvent]
+SpokenText="They don't want us. They want the ship. Isn't there some way you can override it?"
+
+[S_Avenger_Attack_Central_07_Setup_Phase AkEvent]
+SpokenText="Commander, we're gonna have to do this the old fashioned way. Destroying that spike is our only chance at getting outta here. We can't let the aliens take this ship!"
+
+[S_Avenger_Central_First_Avatar_Facility AkEvent]
+SpokenText="We need to take out that alien facility before they have time to shift their operations."
+
+[S_Avenger_Central_First_Avatar_RepeatA AkEvent]
+SpokenText="Alien facility coordinates locked-in, Commander"
+
+[S_Avenger_Central_First_Avatar_RepeatB AkEvent]
+SpokenText="Commander, we've located one of their facilities."
+
+[S_Avenger_Central_No_Soldiers AkEvent]
+SpokenText="Commander, there's no one left to deploy! We have to get some new recruits in here!"
+
+[S_Avenger_Central_Not_Enough_Soldiers AkEvent]
+SpokenText="We're getting thin on manpower, Commander. We should check with Resistance HQ for new recruits."
+
+[S_Avenger_Central_Post_Final_Tentpole AkEvent]
+SpokenText="Commander, target coordinates are locked in - we're ready to move."
+
+[S_Blacksite_Horror_Central_01 AkEvent]
+SpokenText="...still can't believe it's come to this."
+
+[S_Blacksite_Horror_Central_02 AkEvent]
+SpokenText="They're slaughtering us, Doctor. What could be worse?!"
+
+[S_Blacksite_Horror_Central_03 AkEvent]
+SpokenText="There must be thousands of them."
+
+[S_Blacksite_Horror_Central_04 AkEvent]
+SpokenText="Avatar."
+
+[S_Blacksite_Horror_Central_05 AkEvent]
+SpokenText="Just what exactly is in that vial."
+
+[S_Blacksite_Horror_Central_06 AkEvent]
+SpokenText="Doctor."
+
+[S_Blacksite_Horror_Central_07 AkEvent]
+SpokenText="That's...that's impossible."
+
+[S_Blacksite_Horror_Central_08 AkEvent]
+SpokenText="But...why do this?"
+
+[S_Blacksite_Horror_Central_09 AkEvent]
+SpokenText="That's a start."
+
+[S_Blacksite_Horror_Central_10 AkEvent]
+SpokenText="Then I strongly suggest we pay them a visit, Commander."
+
+[S_Blacksite_Horror_Central_11 AkEvent]
+SpokenText="And after we find what we're looking for we shut this entire damn operation down forever."
+
+[S_BlacksiteTransmission_Central AkEvent]
+SpokenText="Commander, we have priority-one transmission coming in through on a secure channels. It's the resistance..."
+
+[S_Broadcast_Marked_On_Geoscape_Central AkEvent]
+SpokenText="If we're going to infiltrate the ADVENT network tower, we'll have to use a smaller squad, try to draw less attention to ourselves than we already do."
+
+[S_Broadcast_Mission_Appears_Central AkEvent]
+SpokenText="We have the target site locked in, Commander. This is our chance to strike at ADVENT's heart. Once we control the network tower, we can finally show the world what the aliens are doing. There's no turning back after this."
+
+[S_Broadcast_Mission_No_Turning_Back_Central AkEvent]
+SpokenText="Commander, once we move on the ADVENT network tower, it's all or nothing. We won't have time to advance our research or deal with the wounded. We should only deploy once we're fully prepared."
+
+[S_Broadcast_Truth_Central_01 AkEvent]
+SpokenText="Well done, Doctor..."
+
+[S_Broadcast_Truth_Central_02 AkEvent]
+SpokenText="Shen? How're we looking?"
+
+[S_Broadcast_Truth_Central_03 AkEvent]
+SpokenText="Working on it."
+
+[S_Broadcast_Truth_Central_04 AkEvent]
+SpokenText="Good. Better make this count!"
+
+[S_Broadcast_Truth_Central_05 AkEvent]
+SpokenText="Get me a damage report! Did it work? "
+
+[S_Build_Outpost_Long_Central_01 AkEvent]
+SpokenText="Signal's coming in loud and clear, Haven."
+
+[S_Build_Outpost_Long_Central_02 AkEvent]
+SpokenText="Welcome to the fight."
+
+[S_Commander_Awakens_Central_01_Setup_Phase AkEvent]
+SpokenText="Good. Then let's get on with it."
+
+[S_Commander_Awakens_Central_02_Setup_Phase AkEvent]
+SpokenText="Just like 20 years ago......we were still callin' it a war back then"
+
+[S_Commander_Awakens_Central_03_Setup_Phase AkEvent]
+SpokenText="...we had no idea what was coming."
+
+[S_Commander_Awakens_Central_04_Setup_Phase AkEvent]
+SpokenText="No Plan B here people. Do it."
+
+[S_Commander_Awakens_Central_05_Setup_Phase AkEvent]
+SpokenText="Told 'em it would take more than that to keep you down."
+
+[S_Commander_Awakens_Central_06_Setup_Phase AkEvent]
+SpokenText="Welcome back...Commander."
+
+[S_Commander_Awakens_Central_07_Setup_Phase AkEvent]
+SpokenText="Glad to see you're finally coming out it. Don't envy the headache you must have though..."
+
+[S_Commander_Awakens_Central_08_Setup_Phase AkEvent]
+SpokenText="Still, can't fault DR. Tygan. Especially as no one's even attempted something' like this before."
+
+[S_Commander_Awakens_Central_09_Setup_Phase AkEvent]
+SpokenText="Easy - we're still not entirely sure what they did to you...that chip was buried halfway into your skull."
+
+[S_Commander_Awakens_Central_10_Setup_Phase AkEvent]
+SpokenText="Lost a lot of good soldiers looking for you over the years. Almost gave up hope you were still out there. Acted on the intel as soon as I got word."
+
+[S_Commander_Awakens_Central_11_Setup_Phase AkEvent]
+SpokenText="Not sure what you remember but a lot's changed. Did the best I could but the last 20 years have been tough without you."
+
+[S_Commander_Awakens_Central_12_Setup_Phase AkEvent]
+SpokenText="You feel like catching up, Shen has the archive up and running on your terminal."
+
+[S_Commander_Awakens_Central_13_Setup_Phase AkEvent]
+SpokenText="Otherwise, I'd go see Dr. Tygan when you're ready. There's some things you should know. He'll be better at explaining them than me."
+
+[S_Commander_Awakens_Central_14_Setup_Phase AkEvent]
+SpokenText="It's damn good to have you back, Commander."
+
+[S_Commander_Awakens_Central_15_Setup_Phase AkEvent]
+SpokenText="...we were still callin' it a war back then"
+
+[S_Dark_Volunteer_01_Central_01 AkEvent]
+SpokenText="Go right ahead."
+
+[S_Dark_Volunteer_01_Central_01a AkEvent]
+SpokenText="Perfect. We can finally shut this Avatar project down for good. "
+
+[S_Dark_Volunteer_01_Central_02 AkEvent]
+SpokenText="And that's where we come in."
+
+[S_Dark_Volunteer_01_Central_03 AkEvent]
+SpokenText="You're serious?"
+
+[S_Dark_Volunteer_01_Central_04 AkEvent]
+SpokenText="So...what's the catch?"
+
+[S_Dark_Volunteer_01_Central_05 AkEvent]
+SpokenText="So you wanna operate one of these things...by remote control."
+
+[S_Dark_Volunteer_01_Central_06 AkEvent]
+SpokenText="That was different. The stasis suit..."
+
+[S_Dark_Volunteer_01_Central_07 AkEvent]
+SpokenText="Most likely is not good enough, Doctor."
+
+[S_Dark_Volunteer_01_Central_08 AkEvent]
+SpokenText="We need to come up with a game plan before we charge through the enemy's front door."
+
+[S_Dark_Volunteer_01_Central_09 AkEvent]
+SpokenText="Which will give you some time to think about this, Commander."
+
+[S_Dark_Volunteer_02_Central_01 AkEvent]
+SpokenText="Shen. Watched you go over this thing 50 times. Take a breath."
+
+[S_Dark_Volunteer_02_Central_02 AkEvent]
+SpokenText="Give em hell Commander..."
+
+[S_Dark_Volunteer_02_Central_03 AkEvent]
+SpokenText="Patch me through. Alright people. The world got its wake up call."
+
+[S_Dark_Volunteer_02_Central_04 AkEvent]
+SpokenText="And now they know the truth."
+
+[S_Dark_Volunteer_02_Central_05 AkEvent]
+SpokenText="ADVENT is a lie. And their time is up. They've got a full-fledged war on their hands now!"
+
+[S_Dark_Volunteer_02_Central_06 AkEvent]
+SpokenText="While the aliens struggle to contain our world, we're gonna make a move on theirs."
+
+[S_Dark_Volunteer_02_Central_07 AkEvent]
+SpokenText="It won't be easy."
+
+[S_Dark_Volunteer_02_Central_08 AkEvent]
+SpokenText="But you're used to that."
+
+[S_Dark_Volunteer_02_Central_09 AkEvent]
+SpokenText="You did what was needed. You never gave up the fight."
+
+[S_Dark_Volunteer_02_Central_10 AkEvent]
+SpokenText="You are XCOM."
+
+[S_Dark_Volunteer_02_Central_11 AkEvent]
+SpokenText="And you're gonna end this!"
+
+[S_Dark_Volunteer_02_Central_12 AkEvent]
+SpokenText="Humanity is counting on us people."
+
+[S_Dark_Volunteer_02_Central_13 AkEvent]
+SpokenText="Good luck. ­Commander."
+
+[S_Equip_New_Item_SquadSelect_Engineering_Tutorial_Central AkEvent]
+SpokenText="Commander, it looks like Shen prepped a Medikit for us, we should equip one of our soldiers with it before they deploy."
+
+[S_First_Council_Mission_Geoscape_Central AkEvent]
+SpokenText="Although we have allies scattered in cities throughout the globe who are willing to share their knowledge of ADVENT's operations, the aliens are actively pursuing them. It will be up to you to ensure the safety of our operatives, Commander. Good luck."
+
+[S_First_Flight_Central_01_Setup_Phase AkEvent]
+SpokenText="Commander, good. We got a situation here."
+
+[S_First_Flight_Central_02_Setup_Phase AkEvent]
+SpokenText="Despite all of ADVENT's efforts, resistance cells continue to operate across the world."
+
+[S_First_Flight_Central_03_Alt_Setup_Phase AkEvent]
+SpokenText="Despite all of ADVENT's efforts, there are still people out there who refuse to believe their lie."
+
+[S_First_Flight_Central_03_Setup_Phase AkEvent]
+SpokenText="And a couple of them are asking for our help. But, we can't get to both of them in time."
+
+[S_First_Flight_Central_04_Setup_Phase AkEvent]
+SpokenText="Who said anything about the Skyranger."
+
+[S_First_Flight_Central_05_Setup_Phase AkEvent]
+SpokenText="Shen - status report. Are we ready?"
+
+[S_First_Flight_Central_06_Setup_Phase AkEvent]
+SpokenText="You heard the lady."
+
+[S_First_LandedUFO_Geoscape_Central AkEvent]
+SpokenText="Commander, we have the position of a vulnerable UFO that set down in this region. If we move fast, there's a chance we could recover a nice haul of supplies and equipment from that ship."
+
+[S_First_Retaliation_Geoscape_Central AkEvent]
+SpokenText="Commander, we have a squad ready to move on the Resistance Haven currently under siege by the aliens. Give the word and we'll move out."
+
+[S_First_Sabotage_Geoscape_Central AkEvent]
+SpokenText="Commander, now that we've established contact with the local resistance, we've got the details we need to move on the aliens' facility. This is our chance to set back their work on the Avatar project."
+
+[S_First_Scientist_Received_Central AkEvent]
+SpokenText="Thank you for sending additional support staff to assist me, Commander. I'll make sure they are put to good use."
+
+[S_First_Supply_Raid_Geoscape_Central AkEvent]
+SpokenText="Commander, we just got word that the resistance hit an ADVENT supply line. We have an opportunity to salvage some high value materials, assuming we can clear out the alien forces guarding the site first."
+
+[S_Forge_marked_on_Geoscape_Central AkEvent]
+SpokenText="Commander, we have the coordinates of the alien Forge facility, I've marked its position on the map. We'll need to contact the local resistance before we can attempt to move in though."
+
+[S_Fortress_Marked_On_Geoscape_Central AkEvent]
+SpokenText="Commander, we've picked up the rough coordinates of a previously unknown alien facility. They went to a lot of trouble to keep this one under the radar, I think we may have found the end of the line."
+
+[S_Golden_Path_Musings_Advent_Central_01 AkEvent]
+SpokenText="I've gotta hand it to the aliens, the invasion was one thing, all their advanced technology, they had the drop on us for sure. But ADVENT, they're something we could never have prepared for, even with better gear. Between the propaganda, the handouts, and a seemingly endless supply of reinforcing "peacekeepers," they're nothing but trouble for an upstart resistance movement."
+
+[S_Golden_Path_Musings_Blacksite_Horror_Central_01 AkEvent]
+SpokenText="The aliens have always been monsters. From the very beginning, it was one failed science experiment after another. Even with the ADVENT forces, they try to disguise it, but they're no different underneath all that armor. And now it comes to this. An entire facility dedicated to wiping us out, and not just that, but turning us into what? Some kind of concentrate they're using for god knows. We should have known the Elders would return. We should have known they never left."
+
+[S_Golden_Path_Musings_Dying_Ethereals_Central_01 AkEvent]
+SpokenText="For a second there, Tygan had my hopes up, with all his talk of the Elders dying I thought we might have caught a break. I should have known it wasn't gonna be that simple. And of course their solutions always seem to revolve around experimenting on us, destroying the planet, or some combination of the two. As far as I can tell, this might be our chance at ending them once and for all. If we stop the cure, we stop the Elders."
+
+[S_Golden_Path_Musings_Risistance_Central_01 AkEvent]
+SpokenText="From what I've heard, the resistance has already seen a boost in their recruitment efforts after word of the Commander's arrival got around. They've needed a leader just as much as we have, and now they'll be expecting us to hit the aliens where it hurts. Not that I'm worried, we've got plenty of people itching to take on ADVENT. Things are just getting interesting."
+
+[S_GP_Avatar_Bar_Geoscape_Central AkEvent]
+SpokenText="We're tracking the aliens' progress on this Avatar Project here; if they finish what they've started, it sounds like it'll be the end for all of us."
+
+[S_GP_Avatar_Reveal_Comm_Feeder_Central AkEvent]
+SpokenText="Commander, we have a priority message coming through, it looks like an encoded signal from the resistance. Patching it through to your quarters now."
+
+[S_GP_Doom_Rising_Central AkEvent]
+SpokenText="Commander, if we want to set back the aliens' work on the Avatar Project, we should hit one of their facilities as soon as possible."
+
+[S_GP_First_Alien_Facility_Buit_Central AkEvent]
+SpokenText="The aliens have just finished a new facility tied to the Avatar Project, Commander. If we can make contact with resistance forces in the region, we could move on that facility and set back the aliens' work."
+
+[S_GP_PreBlacksite_Objective_Ambient_CEN AkEvent]
+SpokenText="We've had our suspicions, but before now we've never had the resources to investigate the possibility of clandestine ADVENT facilities built up outside the cities centers. Now that we've gotten word of this black site, I have to admit, I'm worried about what we might find. They could be doing anything in there. "
+
+[S_GP_PreBroadcast_Objective_Ambient_CEN AkEvent]
+SpokenText="It looks like we've finally got a shot at breaking ADVENT's hold over the hearts and minds of the civilian population living in those cities, but it won't be easy. Without the Commander, we never would have made it this far, but now we have to see this thing through to the end, no matter the costs. "
+
+[S_GP_PreCaptain_Objective_Ambient_CEN AkEvent]
+SpokenText="ADVENT's Officers might be more resourceful than your average trooper, but I doubt our own forces will have any trouble bringing in a test subject for Tygan to look at, especially since he's not asking for a live one. There's not a whole lot that surprises me these days, but I'm definitely curious to see if the chip we pulled from the Commander really is connected to the ones ADVENT's been using in their Captains. "
+
+[S_GP_PreForge_Objective_Ambient_CEN AkEvent]
+SpokenText="Shen managed to pull a set of encoded coordinates from the vial we recovered at the alien Blacksite, and it looks like we're headed towards another as of yet unidentified facility. There are a bunch of theories floating around as to what we'll find, but at this point I'm not ready to commit to anything until I see for myself. "
+
+[S_GP_PreFortress_Objective_Ambient_CEN AkEvent]
+SpokenText="We've gone as far as we can, it's time we go through this gateway of theirs and see what the aliens are really hiding on the other side. If our past experiences are any indication, we need to be prepared to throw everything we've got at 'em. "
+
+[S_GP_PreLiveCodex_Objective_Ambient_CEN AkEvent]
+SpokenText="Tygan insists our forces should have no trouble disabling a Codex in the field, at least long enough for us to hack into the ADVENT network. The hard part will be convincing our troops not to kill this thing as soon as it appears; no one is ever particularly excited about trying to get up close and personal when it comes to these obscure alien species, except maybe our Rangers.  "
+
+[S_GP_PrePsiGate_Objective_Ambient_CEN AkEvent]
+SpokenText="I don't like the fact that we're chasing another set of coordinates into the middle of nowhere. We've done it before, and we didn't like what we found then either. Wilderness or not, the aliens could be setting up an ambush or worse for all we know. Our people will be prepped and ready for a fight, I just wish we had more to go on. "
+
+[S_Humans_Obsolete_Central_01 AkEvent]
+SpokenText="Just like the one we found the Commander in..."
+
+[S_Humans_Obsolete_Central_02 AkEvent]
+SpokenText="See your local Advent recruiter today."
+
+[S_Humans_Obsolete_Central_03 AkEvent]
+SpokenText="The future begins with you."
+
+[S_Humans_Obsolete_Central_04 AkEvent]
+SpokenText="You mean clones? No wonder they just keep coming."
+
+[S_Humans_Obsolete_Central_05 AkEvent]
+SpokenText="Left open for what?"
+
+[S_Humans_Obsolete_Central_06 AkEvent]
+SpokenText="Human Material. You mean the stuff we found at the Blacksite facility."
+
+[S_Humans_Obsolete_Central_07 AkEvent]
+SpokenText="So, we have been fighting ourselves all along."
+
+[S_Humans_Obsolete_Central_08 AkEvent]
+SpokenText="The screening process at the clinics. Avatar."
+
+[S_Humans_Obsolete_Central_09 AkEvent]
+SpokenText="I know Doctor. Continue your research. Let us know if you find anything else."
+
+[S_Intro_Central_01 AkEvent]
+SpokenText="I'm on my way"
+
+[S_Intro_Central_03 AkEvent]
+SpokenText="Stay focused"
+
+[S_Intro_Central_04 AkEvent]
+SpokenText="Prep Gatecrasher, 60 seconds"
+
+[S_Intro_Central_06 AkEvent]
+SpokenText="Now."
+
+[S_Loot_Mission_Wrapper_Central AkEvent]
+SpokenText="We've pinpointed the location of an ADVENT facility housing the flight system component Shen needs. Infiltrate the site, secure the target, and get back to the ship before the aliens realize what we've done."
+
+[S_Missing_Supply_Cache_Central AkEvent]
+SpokenText="Commander, the Resistance has a hidden cache of resources stashed outside of ADVENT's reach, but that means we'll have to fly over and scan the area if we want to recover this stuff for ourselves."
+
+[S_Old_Gods_02_Central_01 AkEvent]
+SpokenText="Is that...an Elder. Haven't seen one in at least a decade - outside of those monuments Advent keeps puttin' up in their honor."
+
+[S_Old_Gods_02_Central_02 AkEvent]
+SpokenText="So they're dying. Sounds like our job just got a whole lot easier."
+
+[S_Old_Gods_02_Central_03 AkEvent]
+SpokenText="What's the catch?"
+
+[S_Old_Gods_02_Central_04 AkEvent]
+SpokenText="A cure? "
+
+[S_Old_Gods_02_Central_05 AkEvent]
+SpokenText="The invasion. The occupation. ADVENT. A giant lab experiment. And we're the rats."
+
+[S_Old_Gods_02_Central_06 AkEvent]
+SpokenText="Avatar. We need those files."
+
+[S_Old_Gods_02_Central_07 AkEvent]
+SpokenText="Or blow the entire ship to hell this time around."
+
+[S_Old_Gods_02_Central_08 AkEvent]
+SpokenText="That we can arrange Doctor."
+
+[S_Old_Gods_02_Central_09 AkEvent]
+SpokenText="This won't be easy Commander, but if anyone can pull it off, it's you. I'll have a squad ready to go on your order."
+
+[S_Pre_Final_Mission_Broadcast_Central_01 AkEvent]
+SpokenText="On Screen."
+
+[S_Pre_Final_Mission_Broadcast_Central_02 AkEvent]
+SpokenText="You heard me. He's taking a big risk contacting us like this."
+
+[S_Pre_Final_Mission_Broadcast_Central_03 AkEvent]
+SpokenText="Sound doable?"
+
+[S_PreFinalMission_MissionUI_Geoscape_Central AkEvent]
+SpokenText="This is it, Commander. It's time we put an end to this, once and for all."
+
+[S_Psi_Gate_marked_on_Geoscape_Central AkEvent]
+SpokenText="I've marked the location Shen pulled from the Codex, Commander. It's a remote region, out in the woods away from any populated areas. We'll need to contact the local resistance forces if we want to get a closer look."
+
+[S_Psi_Network_Central_01_GoldenPath AkEvent]
+SpokenText="I take it this was easier than your last procedure, Doctor?"
+
+[S_Psi_Network_Central_02_GoldenPath AkEvent]
+SpokenText="What kind of differences?"
+
+[S_Psi_Network_Central_03_GoldenPath AkEvent]
+SpokenText="They were using you against us."
+
+[S_Psi_Network_Central_04_GoldenPath AkEvent]
+SpokenText="Network?"
+
+[S_Psi_Network_Central_05_GoldenPath AkEvent]
+SpokenText="Or a weakness..."
+
+[S_Psi_Network_Central_06_GoldenPath AkEvent]
+SpokenText="I'm guessing that won't be easy."
+
+[S_Psi_Network_Central_07_GoldenPath AkEvent]
+SpokenText="Like I said, not easy."
+
+[S_Psi_Network_Central_08_GoldenPath AkEvent]
+SpokenText="Still, it's the best lead we've got. Your call, Commander."
+
+[S_Retaliation_Central_01_Setup_Phase AkEvent]
+SpokenText="Our pleasure, Denmother. Enjoy it while it lasts."
+
+[S_Retaliation_Central_02_Setup_Phase AkEvent]
+SpokenText="You got that part right."
+
+[S_Retaliation_Central_03_Setup_Phase AkEvent]
+SpokenText="Raise that outpost!"
+
+[S_Retaliation_Central_04_Setup_Phase AkEvent]
+SpokenText="You've got incoming on approach! They're right on..."
+
+[S_Retaliation_Central_05_Setup_Phase AkEvent]
+SpokenText="They don't stand a chance..."
+
+[S_Retaliation_Central_06_Setup_Phase AkEvent]
+SpokenText="Commander, we should get a squad ready to deploy..."
+
+[S_Retaliation_Central_07_Setup_Phase AkEvent]
+SpokenText="RAISE THE ALARM! GET YOUR PEOPLE OUT OF THERE!"
+
+[S_Setup_Phase_Armory_Promote_Jane_Central AkEvent]
+SpokenText="Commander, Jane Kelly was instrumental in the op to get you back. She earned enough experience for a promotion, we should take care of that now."
+
+[S_Setup_Phase_Blacksite_Bridge_Matinee_Central AkEvent]
+SpokenText="We just got word from the resistance, they've managed to locate an ADVENT Blacksite we've heard rumors about. I've locked in the coordinates, but we have a problem."
+
+[S_Setup_Phase_Facility_Adds_Doom_Central AkEvent]
+SpokenText="Commander, the aliens are still moving forward on the Avatar project. Taking out that facility would deal a serious blow to their efforts. "
+
+[S_Setup_Phase_First_Geoscape_Central AkEvent]
+SpokenText="The aliens may have the world in their grip, but it's about time we change that. Right now the resistance is scattered in small pockets. Our first step is to get connected."
+
+[S_Setup_Phase_First_Geoscape_Hideout_Central AkEvent]
+SpokenText="This is our current position. We're grounded, but if we can get the last piece of this puzzle for Shen, we may actually see this thing fly."
+
+[S_Setup_Phase_First_Geoscape_Mission_Site_Central AkEvent]
+SpokenText="Unfortunately, the piece we're after is inside a heavily guarded ADVENT facility. There's no way around it, we're heading into a fight."
+
+[S_Setup_Phase_First_Geoscape_Ready_Deploy_Central AkEvent]
+SpokenText="The squad is ready to deploy on your order, Commander."
+
+[S_Setup_Phase_First_Living_Quarters_Central AkEvent]
+SpokenText="For most of our soldiers, the living quarters on board the Avenger are a step up from the conditions they've had to live with on the ground."
+
+[S_Setup_Phase_First_Memorial_Central AkEvent]
+SpokenText="We've done what we can to honor our fallen soldiers, Commander. It's not much, but it gives our people a chance to pay their respects."
+
+[S_Setup_Phase_First_Rumor_Central AkEvent]
+SpokenText="Commander, one of our resistance contacts just tipped us off to a site that may be worth investigating."
+
+[S_Setup_Phase_First_Scan_Central AkEvent]
+SpokenText="Already getting a read on a few regions. We can't be everywhere at once Commander. We need to choose our moves carefully, help our allies while disrupting enemy operations to build the resistance."
+
+[S_Setup_Phase_Forge_Coordinates_But_No_Contact_Central AkEvent]
+SpokenText="Commander, we have a fix on the location of the alien Forge facility, but we'll still need to establish contact with the local resistance forces before we can move in to investigate."
+
+[S_Setup_Phase_Fortress_Adds_Doom_Central AkEvent]
+SpokenText="Commander, the aliens continue to make progress on the Avatar project. If we're going to slow them down we'll need to move fast. "
+
+[S_Setup_Phase_Geoscape_Avenger_Focus_Central AkEvent]
+SpokenText="We shouldn't wait too long on that Commander. We have to start making contact with other regions soon if we're going to build a global resistance and take on ADVENT."
+
+[S_Setup_Phase_Geoscape_Avenger_Parked_Central AkEvent]
+SpokenText="Commander, our current position is here, just outside resistance headquarters. When we're not on the move this will serve as our home and our source of supplies."
+
+[S_Setup_Phase_Geoscape_Avenger_Parked_Central_ALT AkEvent]
+SpokenText="Commander, our current position is here, just outside resistance headquarters. When we're not on the move this will serve as our home and source of supplies. The councilman has traced the alien blacksite to this region. Unfortunately, we don't have its exact coordinates yet. If we're going to have any chance of finding this facility we'll need to make contact with the local resistance cell nearby. Tygan has a theory about how we might reach out to them without getting the aliens' attention but, we'll need to give him time to conduct his research. We shouldn't wait too long on that Commander. We have to start making contact with other regions soon if we're going to build a global resistance and take on ADVENT."
+
+[S_Setup_Phase_Geoscape_Blacksite_Focus_Central AkEvent]
+SpokenText="The councilman has tracked the alien blacksite to this region. Unfortunately, we don't have its exact coordinates yet. If we're going to have any chance of finding this facility we'll need to make contact with the local resistance cell nearby. Tygan has a theory about how we might reach out to them without getting the aliens' attention but, we'll need to give him time to conduct his research."
+
+[S_Setup_Phase_Geoscape_Blacksite_Region_Contact_Made_Central AkEvent]
+SpokenText="Commander, we've established contact with the local resistance, and we can move on the ADVENT Blacksite on your order. We should make sure our troops are fully equipped and ready for a tough mission, I'm guessing security will be tight at the facility."
+
+[S_Setup_Phase_Geoscape_Blacksite_Region_Focus_Central AkEvent]
+SpokenText="Now that we've established a link, we can use our Intel resources to make contact with the local resistance cell in this region. Aside from getting us into the Blacksite, our access to supplies should improve now that we've expanded our reach."
+
+[S_Setup_Phase_Geoscape_First_GOP_Central AkEvent]
+SpokenText="We're ready to start making moves, Commander. By hitting ADVENT wherever we find them we can help strengthen the global resistance movement. In return they'll contribute material support to help fuel our operations. I think it's about time we see what this thing can do."
+
+[S_Setup_Phase_Geoscape_First_GOP_Central_ALT AkEvent]
+SpokenText="We're ready to start making moves Commander. By hitting ADVENT wherever we find them we can help strengthen the resistance. In return, they'll contribute material and personnel to support our operations. "
+
+[S_Setup_Phase_Geoscape_First_Make_Contact_Central AkEvent]
+SpokenText="After we pay the initial Intel cost to make contact, we'll have to scan the region for a few days before the local resistance cell comes out of hiding. Once we find them, we'll be up and running in the new region."
+
+[S_Setup_Phase_Geoscape_Objectives_Appear_Central AkEvent]
+SpokenText="I'm tracking our current operational objectives here. If you need a more detailed breakdown, I have everything patched through to the Archive terminal in your quarters. Looks like you won't have time for that just yet though, we're picking up an incoming transmission from the resistance, sounds like they've got some new information for us."
+
+[S_Setup_Phase_Geoscape_Objectives_Appear_Central_ALT AkEvent]
+SpokenText="Looks like you won't have time for that just yet though. Remote reconaissance may have found something not far from our current position."
+
+[S_Setup_Phase_Geoscape_Player_Leaves_Without_Scanning_Central AkEvent]
+SpokenText="Commander, we'll need to completely scan this region before we can establish contact with the local resistance. I'd advise we stick around and finish the job, but the choice is yours."
+
+[S_Setup_Phase_Geoscape_Resistance_Comms_Focus_Central AkEvent]
+SpokenText="It's time we fired up the new comm. system. Let's make the call and see who answers."
+
+[S_Setup_Phase_Geoscape_Scan_Attempt_With_Timed_Mission_Central AkEvent]
+SpokenText="Commander, we have a mission available that's reliant on time-sensitive information. We can always finish our scans later, but failing to take on the mission could have serious repercussions for the resistance movement."
+
+[S_Setup_Phase_Lab_Transition_Central AkEvent]
+SpokenText="Looks like Tygan made progress on his research. We should meet him in the lab. "
+
+[S_Setup_Phase_Multiple_Missions_Available_Central AkEvent]
+SpokenText="Alright, Commander, we've got multiple options in terms of what to take on first, but those decisions are up to you. Our latest mission objectives will always be updated here, if you want a more detailed look the archive in your quarters has the full rundown available. In the meantime, we'll be monitoring resistance comms for any new leads. As a matter of fact, it looks like we might have one now..."
+
+[S_Setup_Phase_New_Ability_Confirmed_Central AkEvent]
+SpokenText="We're off to a good start. Our troops will only get stronger as they gain experience."
+
+[S_Setup_Phase_Pass_time_Geoscape_Central AkEvent]
+SpokenText="By selecting a scan site on the Geoscape, you can use the Avenger's onboard sensors to scan the area for information while passing time. You can also pass time by scanning for Intel at Resistance HQ."
+
+[S_Setup_Phase_Pass_time_Geoscape_Central_ALT AkEvent]
+SpokenText="While we prepare for new operations and continue our research we can pass time by scanning at sites like this one. On your order we'll start our scans on the surrounding area. "
+
+[S_Setup_Phase_Pass_time_Geoscape_Specific_Alt_Central AkEvent]
+SpokenText="Commander, while we're waiting for new missions or the completion of our research, we can pass time by scanning at sites like this one. On your order we'll start our scans of the surrounding area."
+
+[S_Setup_Phase_Psi_Gate_Coordinates_But_No_Contact_Central AkEvent]
+SpokenText="We've locked in the coordinates Shen and Tygan pulled from the Codex, Commander, but we'll have to make contact with the local resistance cell before we can move to investigate the site."
+
+[S_Setup_Phase_Radio_Relay_Bridge_Matinee_Central AkEvent]
+SpokenText="According to the latest report from Dr. Tygan, we should be able to boost the range of the resistance comms. network using radio relay towers."
+
+[S_Setup_Phase_Recruit_Soldiers_After_Meeting_Resistance_Central AkEvent]
+SpokenText="Now that we've established contact with the local resistance forces, we can recruit new operatives from their ranks to bolster our own forces."
+
+[S_Setup_Phase_Resistance_Comms_Bridge_Matinee_Central AkEvent]
+SpokenText="Tygan just sent word, the new resistance communications network is fully operational. Now we just have to spread the word."
+
+[S_Setup_Phase_Soldier_Walkup_Promote_Central AkEvent]
+SpokenText="A few of our people earned well-deserved promotions, Commander. I'm guessing Shen will probably want to have a word with you, too."
+
+[S_Setup_Phase_Welcome_to_Avenger_Post_Research_Central AkEvent]
+SpokenText="That research will keep Tygan busy for a while. In the meantime, you might want to head down to the Armory."
+
+[S_Skipped_or_Failed_Mission_Central AkEvent]
+SpokenText="Local resistance forces in this region have gone into hiding after the recent setback, Commander. We'll have to wait for them to regroup before we can try to make contact again."
+
+[S_Skulljack_Objective_Active_Not_Equipped_B_Central AkEvent]
+SpokenText="Commander, we'll need to have one of our troops equip the Skulljack for use in the field if we're going to make any progress towards our current objective."
+
+[S_Skulljack_Objective_Active_Not_Equipped_Central AkEvent]
+SpokenText="Commander, Tygan and Shen aren't going to be happy if we don't put the Skulljack to good use. We should have one of our soldiers equip it before they deploy."
+
+[S_Support_Advent_Progress_Warning_Central_01 AkEvent]
+SpokenText="Commander, the aliens have made significant progress towards their goals. New ADVENT facilities are cropping up around the world."
+
+[S_Support_Ambient_Musings_Misc_Central_01 AkEvent]
+SpokenText="We're picking up an unsecured transmission from some clown calling himself Van Doorn...doesn't sound like the kind of recruit we're looking for."
+
+[S_Support_Ambient_Musings_Misc_Central_02 AkEvent]
+SpokenText="The new uniform isn't bad considering, but sometimes I do miss that damn sweater."
+
+[S_Support_Ambient_Musings_Misc_Central_03 AkEvent]
+SpokenText="With all that's been going on, we've never really had time to consider the possibility, but I have to believe Vahlen is still out there somewhere. She wasn't the type to let the collapse of XCOM stop her research."
+
+[S_Support_Avenger_Lands_First_Contact_Central AkEvent]
+SpokenText="Commander, using the Intel collected so far, we've managed to locate a resistance cell operating out of this region. It will take us some time to scan for their exact position though."
+
+[S_Support_Avoid_UFOs_Central_01 AkEvent]
+SpokenText="We need to choose our flight paths carefully, Commander. The Avenger may be tough, but not tough to dogfight with a fully-crewed UFO. We should do our best to avoid contact wherever possible."
+
+[S_Support_Begin_Scanning_Activity_Central AkEvent]
+SpokenText="Commander, the Avenger's remote scanning capabilities will help us search the area for clues or other resources. It's going to take some time though, we've got a lot of ground to cover."
+
+[S_Support_Blacksite_Mission_Locked_Central AkEvent]
+SpokenText="Commander, we have a lead on the alien Blacksite, but we'll have to rely on the local resistance to actually get us into the facility. We should try to make contact with their forces in the region as soon as possible, it's the only way we're going to find out what's behind this so-called Avatar project."
+
+[S_Support_Class_Callouts_Central_01 AkEvent]
+SpokenText="The Ranger serves as our primary reconnaissance unit, capable of moving independently in concealment while engaging enemies at close range."
+
+[S_Support_Class_Callouts_Central_02 AkEvent]
+SpokenText="Serving as our demolitions experts, the Grenadiers provide heavy ordinance delivery whenever and wherever we need it."
+
+[S_Support_Class_Callouts_Central_03 AkEvent]
+SpokenText="Operating some of our most advanced equipment, Specialists deploy robotic drones on the battlefield that can be outfitted for combat or field medic duty."
+
+[S_Support_Class_Callouts_Central_04 AkEvent]
+SpokenText="Just like it sounds, our sharpshooters engage enemy targets with pinpoint accuracy from extreme range. They're also trained in pistol marksmanship for the occasional close encounter."
+
+[S_Support_Class_Callouts_Psi_Central AkEvent]
+SpokenText="Depending on who you ask, Psionics could be considered the alien's greatest strength. Now our own Psi Operatives can tap into that same power."
+
+[S_Support_Contact_Blacksite_Region_Central AkEvent]
+SpokenText="Commander, we've established contact with the local resistance, and we're ready to move on the alien Blacksite on your order."
+
+[S_Support_Established_Contact_Mission_Available_Central_01 AkEvent]
+SpokenText="We've made contact with resistance forces, Commander, and they've already got something they could use our help with."
+
+[S_Support_Established_Contact_Mission_Blacksite_Central_01 AkEvent]
+SpokenText="Commander, we've established contact with the local resistance forces in this area - and they're willing to lead us to the ADVENT Blacksite."
+
+[S_Support_Established_Contact_Mission_Forge_Central_01 AkEvent]
+SpokenText="We've made initial contact with the resistance operatives working this area, Commander. They're going show us how to get into the alien Forge facility."
+
+[S_Support_Established_Contact_Mission_PsiGate_Central AkEvent]
+SpokenText="We've established contact with the local resistance forces in this region, Commander. We're ready to move on the coordinates we pulled from the Codex."
+
+[S_Support_Final_Avatar_Countdown_Central AkEvent]
+SpokenText="Commander, we're almost out of time! The Avatar project is entering its final stages. The only way we're going to slow the Elders' progress is by destroying one of their facilities. We have to move fast or everything we've worked towards will be lost."
+
+[S_Support_First_Alien_Facility_Constructed_Central AkEvent]
+SpokenText="Commander, we've received word that the aliens have completed a facility devoted to their work on the Avatar project. If we can establish contact with the local resistance forces in this region, we can make a move on that facility and destroy it to set back the aliens' operation."
+
+[S_Support_First_Armored_Enemy_Sighted_Central AkEvent]
+SpokenText="I doubt your standard rounds will even penetrate that thing's armor, you're gonna have to use grenades to take it down."
+
+[S_Support_First_Dark_Events_Central AkEvent]
+SpokenText="Commander, we have Intel suggesting the aliens are working on developments that threaten our ability to stop the Avatar project. We can conduct guerrilla operations to disrupt one of these efforts, but we'll have to choose carefully, we don't have the resources to intercede everywhere."
+
+[S_Support_First_Doom_Central AkEvent]
+SpokenText="Commander, by compiling our intelligence reports, we can attempt to track the aliens progress towards completing the Avatar project. If they reach the end of this gauge, then we're already too late."
+
+[S_Support_First_Guerilla_Operation_Central AkEvent]
+SpokenText="Commander, as the resistance continues to grow, we'll have a better chance of finding openings to strike back at ADVENT. As it is, we've already identified a potential target to disrupt the aliens' operations in this region. Our window of opportunity is limited, so we'll have to move fast."
+
+[S_Support_First_Hidden_Doom_Central AkEvent]
+SpokenText="Commander, we have multiple unconfirmed reports that the aliens are making progress towards the Avatar project at a facility we haven't managed to locate yet. We have to keep working if we're going to uncover the aliens plan."
+
+[S_Support_First_Radio_Relays_Central AkEvent]
+SpokenText="Commander, we can now construct radio relays in any region where we've made contact with the local resistance."
+
+[S_Support_First_Regions_Available_Central AkEvent]
+SpokenText="Commander, we can now work to establish contact with local resistance groups operating out of regions around the globe. Once we've collected sufficient Intel to make contact, we'll need to scan the target region for the operative's signal."
+
+[S_Support_Geoscape_Connections_Central AkEvent]
+SpokenText="Commander, we can track the progress of our efforts to contact resistance groups around the world using the Hologlobe's mapping system. We can also use this information to plot future moves against the aliens."
+
+[S_Support_Great_Mission_Central_01 AkEvent]
+SpokenText="I never had any doubts about your capabilities, Commander. Excellent work as always."
+
+[S_Support_Great_Mission_Central_02 AkEvent]
+SpokenText="I told the troops to expect the best, and that's what you've shown them, Commander. Well done."
+
+[S_Support_Great_Mission_Central_03 AkEvent]
+SpokenText="Morale is sure to be high after an operation like that. Great work, Commander."
+
+[S_Support_Great_Mission_Central_04 AkEvent]
+SpokenText="Impressive work, Commander - the aliens are probably still wondering what hit 'em."
+
+[S_Support_Great_Mission_Central_05 AkEvent]
+SpokenText="We really put a hurt on the aliens this time, Commander. They won't forget it."
+
+[S_Support_Great_Mission_Central_06 AkEvent]
+SpokenText="One by one, we're evening up the score, Commander. Good work out there."
+
+[S_Support_Great_Mission_Central_07 AkEvent]
+SpokenText="Our troops are makin' it look easy out there, Commander, all thanks to you."
+
+[S_Support_Great_Mission_Central_08 AkEvent]
+SpokenText="Good work out there, Commander - we're one step closer to taking back our planet."
+
+[S_Support_Great_Mission_Central_09 AkEvent]
+SpokenText="I can't imagine the aliens are too happy about this one, Commander. Helluva job."
+
+[S_Support_Great_Mission_Central_10 AkEvent]
+SpokenText="We're taking ADVENT apart, one mission at a time, Commander. Impressive work."
+
+[S_Support_Multiple_Mission_Sites_Available_Central AkEvent]
+SpokenText="Commander, with the number of contacts we've established, we're getting requests for support from multiple sites around the world. Unfortunately, we only have the resources to respond to one of them. The decision is yours."
+
+[S_Support_No_Supply_Income_Central AkEvent]
+SpokenText="Commander, we currently have no new supplies coming in, we'll need to seek out new means of replenishing our resources."
+
+[S_Support_Region_High_Alert_Central_01 AkEvent]
+SpokenText="Commander, ADVENT is on high alert in this area, there's no way we can follow-up on that operation now; the coordinates have been cleared."
+
+[S_Support_Reminder_Alien_Facilities_Constructed_Central_01 AkEvent]
+SpokenText="Commander, the aliens aren't slowing down. They've already got multiple facilities operating across the globe - we're running out of time."
+
+[S_Support_Reminder_Make_Contact_Central_01 AkEvent]
+SpokenText="Commander, we've got local resistance forces waiting to make contact - but we'll have to make the first move."
+
+[S_Support_Reminder_Need_More_Intel_Central_01 AkEvent]
+SpokenText="Commander, as of right now, we don't have enough Intel to get a solid bearing on the local resistance forces in that area."
+
+[S_Support_Soldier_Shaken_Central AkEvent]
+SpokenText="Commander, the ongoing stress of combat can shake up even the best of our soldiers. As long as we keep 'em healthy, I'm sure they'll recover given time."
+
+[S_Support_Squad_Select_Wounded_Soldiers_Central AkEvent]
+SpokenText="Commander, we can't afford to let this operation get away from us, even if it means sending our wounded forces back into combat. We have to succeed, at all costs."
+
+[S_Support_Tough_Mission_Central_01 AkEvent]
+SpokenText="There has to be more we can do, we can't afford too many more operations like that."
+
+[S_Support_Tough_Mission_Central_02 AkEvent]
+SpokenText="This one was ugly, Commander. Losses like that cost us more than just manpower."
+
+[S_Support_Tough_Mission_Central_03 AkEvent]
+SpokenText="It'll be tough for the crew to move past this, Commander. We'll have to work harder in the future."
+
+[S_Support_Tough_Mission_Central_04 AkEvent]
+SpokenText="We took some heavy losses out there, Commander. We need to make sure this doesn't happen again."
+
+[S_Support_Tough_Mission_Central_05 AkEvent]
+SpokenText="That didn't go so well, Commander. We need to assess our tactics, upgrade our gear - whatever it takes."
+
+[S_Support_UFO_Inbound_Evasive_Maneuvers_Central AkEvent]
+SpokenText="Commander! That UFO contact has us locked in! We have to take evasive maneuvers! "
+
+[S_Support_UFO_Inbound_Now_Hunting_Central AkEvent]
+SpokenText="Commander, remote reconnaissance indicates the aliens have a UFO hunting for our position. We need to be careful about where pick our flight paths."
+
+[S_Support_UFO_Inbound_Shot_Down_Central AkEvent]
+SpokenText="We're going down, Commander! UFO contact has disabled our systems! Brace yourselves! "
+
+[S_Support_UFO_Inbound_UFO_Evaded_Central AkEvent]
+SpokenText="We're in the clear, Commander. No further sign of the pursuing UFO."
+
+[S_Victory_Central_01 AkEvent]
+SpokenText="I'd say that was worth the trip."
+
+[S_Victory_Central_02 AkEvent]
+SpokenText="You heard her people, MOVE!"
+
+[S_Victory_Central_03 AkEvent]
+SpokenText="Shen, tell me you've got a Plan B here."
+
+[S_Victory_Central_04 AkEvent]
+SpokenText="That was fast...nice work."
+
+[S_Victory_Central_05 AkEvent]
+SpokenText="Commander, whatever it is your doing, its working. Just make sure to save enough juice for your own trip home."
+
+[S_Victory_Central_06 AkEvent]
+SpokenText="Commander! You okay! We just lost-"
+
+[S_Victory_Central_07 AkEvent]
+SpokenText="What the hell is happening here Doctor!"
+
+[S_Victory_Central_08 AkEvent]
+SpokenText="Then sever the connection!"
+
+[S_Victory_Central_09 AkEvent]
+SpokenText="Mission accomplished, Commander."
+
+[S_Welcome_HQ_Central_01_Setup_Phase AkEvent]
+SpokenText="I heard you Shen. When we get the thing, you'll be the first to know."
+
+[S_Welcome_HQ_Central_02_Setup_Phase AkEvent]
+SpokenText="Commander. Give me a second."
+
+[S_Welcome_HQ_Central_03_Setup_Phase AkEvent]
+SpokenText="Execute Echelon Protocol!"
+
+[S_Welcome_HQ_Central_04_Setup_Phase AkEvent]
+SpokenText="I had wanted that to be a little more ceremonious, but we've got something."
+
+[S_Welcome_HQ_Central_05_Setup_Phase AkEvent]
+SpokenText="Shen's been ridin' us for months now to find this "hybrid magnetic power converter" thing."
+
+[S_Welcome_HQ_Central_06_Setup_Phase AkEvent]
+SpokenText="ADVENT finally has one we can get at, though I doubt they'll be in the mood to give it up. If we can bring this "converter" back in one piece, we might actually get this place up and running. Not to mention get Shen off my back for a few days."
+
+[S_Welcome_HQ_Central_07_Setup_Phase AkEvent]
+SpokenText="A squad is prepped and ready to launch on your order, Commander. Just give the word."
+
+[S_Welcome_HQ_NS_Central_01 AkEvent]
+SpokenText="Commander, good to see you on your feet again. Welcome to the Bridge. The nerve center of our operation."
+
+[S_Welcome_HQ_NS_Central_02 AkEvent]
+SpokenText="The aliens have our entire world in their grip. ADVENT controls everything - government, communications, industry, not to mention the military. And it's on us to take it all back."
+
+[S_Welcome_HQ_NS_Central_03 AkEvent]
+SpokenText="Resources and time are tight Commander. It will be up to you to decide how to best use both. The ship is yours."
+
+[S_Welcome_Resistance_Incoming_Trans_Central AkEvent]
+SpokenText="Commander, we have a secure transmission coming through, source unknown. Patching it through to your quarters."
+
+[S_Wild_Central_01 AkEvent]
+SpokenText="Incoming message for you Commander. Patching it through to your quarters now."
+
+[S_Wild_Central_02 AkEvent]
+SpokenText="Got an urgent communication coming in for you now Commander."
+
+[S_Wild_Central_03 AkEvent]
+SpokenText="Priority message coming through Commander, putting it on screen now."
+
+[S_Wild_Central_04 AkEvent]
+SpokenText="Looks like we better get started Commander. I'll be on the bridge when you're ready."
+
+[S_Wild_Central_05 AkEvent]
+SpokenText="Yes!"
+
+[S_Wild_Central_06 AkEvent]
+SpokenText="We're ready to start making moves Commander. I think it's about time we see what this thing can do."
+
+[S_Wild_Central_07 AkEvent]
+SpokenText="Got a lead on this "Hybrid Magnetic Power Convertor" thing that Shens been pushing us to find."
+
+[S_Wild_Central_08 AkEvent]
+SpokenText="Local reconnaissance has tracked the device to an ADVENT convoy nearby. They're within range, but won't be for much longer."
+
+[S_Wild_Central_09 AkEvent]
+SpokenText="Local Comms have gone dark. Not sure exactly what went down there, but I'm guessing it's not good. These people bought us the time we need, we'd better make it count."
+
+[S_Wild_Central_10 AkEvent]
+SpokenText="Commander, detecting heavy fire near the convoy's last position. Accessing remote surveillance now."
+
+[S_Wild_Central_11 AkEvent]
+SpokenText="Getting reports that the convoy is making a break from its position. Local forces are preparing to engage..."
+
+[S_Wild_Central_12 AkEvent]
+SpokenText="Dammit!"
+
+[S_Wounded_Soldiers_Can_Go_Central AkEvent]
+SpokenText="Commander, we can deploy some of our wounded troops back into combat if you feel it's necessary. This operation is critical to our efforts, we may not have much of a choice if we want to proceed."
+
+[Strategy_New_Objective_Generic_Central_A AkEvent]
+SpokenText="It looks like we've got our work cut out for us, Commander. "
+
+[Strategy_New_Objective_Generic_Central_B AkEvent]
+SpokenText="I've updated our latest operational objectives, Commander. "
+
+[Strategy_New_Objective_Generic_Central_C AkEvent]
+SpokenText="We're making progress, Commander. I've updated our objectives based on our latest findings. "
+
+[Strategy_New_Objective_Generic_Central_D AkEvent]
+SpokenText="I'm keeping tabs on all of our operations, Commander. Our people are standing by for your orders. "
+
+[Strategy_New_Objective_Generic_Central_E AkEvent]
+SpokenText="We're ready to move when you are, Commander. I've updated our objectives based on the latest information. "
+
+[Strategy_New_Objective_Generic_Central_F AkEvent]
+SpokenText="Commander, I've updated our current objectives based on the most recent findings. "
+

@@ -1,0 +1,33 @@
+﻿[Play_X2_XP_BET_T_Gather_Survivors_Dropship_Inro_A AkEvent]
+SpokenText="Some of my kind were forced into the old city by those loyal to the Elders. They live for now, but our time runs short. One of them possesses great knowledge the Resistance would be worse to lose. If you locate and retrieve our allies, we would be in your debt."
+
+[Play_X2_XP_BET_T_Gather_Survivors_Dropship_Inro_B AkEvent]
+SpokenText="I am grateful for your assistance. The Elders' forces have pursued some of my kind into a dangerous expanse of the old city. One of them is a brilliant mind, capable of great things. If you would aid in their rescue, you would honor our alliance greatly."
+
+[Play_X2_XP_BET_T_Gather_Survivors_Dropship_Inro_C AkEvent]
+SpokenText="We appreciate your response. A valuable agent and our escort were discovered by the Elders' and forced to seek shelter in the old city. Our time runs short, aid my allies, and we will do what we can to honor your service."
+
+[Play_X2_XP_BET_T_Gather_Survivors_First_ADVENT_Sighted AkEvent]
+SpokenText="The Elders' puppets are near to you. No mercy for those who cannot be unchained."
+
+[Play_X2_XP_BET_T_Gather_Survivors_Mission_Complete AkEvent]
+SpokenText="Our trust in your word grows with each battle fought well. Good work, Commander."
+
+[Play_X2_XP_BET_T_Gather_Survivors_XCOM_Links_Faction_Soldier AkEvent]
+SpokenText="Bortala! It is good to see a lost ally now in the company of our new friends."
+
+[Play_X2_XP_BET_T_How_To_Use_Skirmisher AkEvent]
+SpokenText="We, the Skirmishers, were created by the false gods of this world to serve and die as their puppets. We retain all that we were and more, and our prowess in battle serves us well in our cause. In close combat, none can stand opposed to us."
+
+[Play_X2_XP_BET_T_Swarm_Dropship_Intro_A AkEvent]
+SpokenText="We have used shelters deep in the tunnels beneath the Elders' cities since the first of my kind were freed. An important ally has fled to the safety of one such shelter, but now the Elders' puppets are closing in. One of my kind is near to assist in your efforts, do what you can to aid our shared cause."
+
+[Play_X2_XP_BET_T_Swarm_Dropship_Intro_B AkEvent]
+SpokenText="The tunnels below the Elders' cities have long provided shelter for my kind. The Elders' servants pursue an ally into hiding there, and only one of my kind is near to aid in their rescue. I would not ask you to put yourselves at risk, do as your instincts tell you."
+
+[Play_X2_XP_BET_T_Swarm_Dropship_Intro_C AkEvent]
+SpokenText="There are many tunnels beneath the Elders' cities, and among those tunnels are the hidden shelters of my kind. A freed member of ADVENT has fled to the tunnels under our promise of protection, but the Elders' have sent their forces in pursuit. My operative is not far from them, they will assist you in the rescue."
+
+[Play_X2_XP_BET_T_Swarm_Mission_Complete AkEvent]
+SpokenText="You have further strengthened the bonds of our alliance. I thank you."
+

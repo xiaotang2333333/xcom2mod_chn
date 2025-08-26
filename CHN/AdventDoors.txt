@@ -1,0 +1,6 @@
+﻿[Archetypes.ARC_AdventSecureDoor_x1 XComInteractiveLevelActor]
+FriendlyDisplayName="安全门"
+
+[Archetypes.ARC_AdventSecureDoor_x2 XComInteractiveLevelActor]
+FriendlyDisplayName="安全门"
+

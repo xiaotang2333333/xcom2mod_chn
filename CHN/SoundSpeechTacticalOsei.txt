@@ -1,0 +1,111 @@
+﻿[T_Setup_Phase_Combat_Tutorial_Osei_02 AkEvent]
+SpokenText="避难所，粉碎者-1已就位。没有遇到敌人。这里很安静。"
+
+[T_Setup_Phase_Combat_Tutorial_Osei_05 AkEvent]
+SpokenText="收到，正在前进。"
+
+[T_Setup_Phase_Combat_Tutorial_Osei_06 AkEvent]
+SpokenText="就位，但在这里我会暴露的。"
+
+[T_Setup_Phase_Combat_Tutorial_Osei_08 AkEvent]
+SpokenText="前面那个地点看起来能全部遮掩；继续前进。"
+
+[T_Setup_Phase_Combat_Tutorial_Osei_16 AkEvent]
+SpokenText="他们大概不会给我们很多选择。"
+
+[T_Setup_Phase_Combat_Tutorial_Osei_17 AkEvent]
+SpokenText="提醒我要谢谢那个老头。"
+
+[T_Setup_Phase_Combat_Tutorial_Osei_19 AkEvent]
+SpokenText="我看到他们了。"
+
+[T_Setup_Phase_Combat_Tutorial_Osei_20 AkEvent]
+SpokenText="请求允许攻击。"
+
+[T_Setup_Phase_Combat_Tutorial_Osei_23 AkEvent]
+SpokenText="威胁者-1已暴露。"
+
+[T_Setup_Phase_Combat_Tutorial_Osei_27 AkEvent]
+SpokenText="不！威胁者-2阵亡了！她死了！"
+
+[T_Setup_Phase_Combat_Tutorial_Osei_29 AkEvent]
+SpokenText="你想这样玩吗？行！"
+
+[T_Setup_Phase_Combat_Tutorial_Osei_30 AkEvent]
+SpokenText="我才不要那样出去！"
+
+[T_Setup_Phase_Combat_Tutorial_Osei_31 AkEvent]
+SpokenText="怎么回事？！"
+
+[T_Setup_Phase_Combat_Tutorial_Osei_57 AkEvent]
+SpokenText="快走！我在这里拖住他们。"
+
+[T_Tutorial_Osei_Concealed AkEvent]
+SpokenText="阴影之中。"
+
+[T_Tutorial_Osei_Confirmations_1 AkEvent]
+SpokenText="明白。"
+
+[T_Tutorial_Osei_Confirmations_2 AkEvent]
+SpokenText="收到了。"
+
+[T_Tutorial_Osei_Confirmations_3 AkEvent]
+SpokenText="没问题。"
+
+[T_Tutorial_Osei_Confirmations_4 AkEvent]
+SpokenText="准备好了。"
+
+[T_Tutorial_Osei_Confirmations_5 AkEvent]
+SpokenText="已完成。"
+
+[T_Tutorial_Osei_Confirmations_6 AkEvent]
+SpokenText="没必要说两次。"
+
+[T_Tutorial_Osei_Confirmations_7 AkEvent]
+SpokenText="收到。"
+
+[T_Tutorial_Osei_Confirmations_8 AkEvent]
+SpokenText="命令执行中。"
+
+[T_Tutorial_Osei_WILD_01 AkEvent]
+SpokenText="我现在可以隐蔽了。"
+
+[T_Tutorial_Osei_WILD_02 AkEvent]
+SpokenText="我盯着他们。"
+
+[T_Tutorial_Osei_WILD_03 AkEvent]
+SpokenText="正在行动。"
+
+[T_Tutorial_Osei_WILD_04 AkEvent]
+SpokenText="尝尝这个！"
+
+[T_Tutorial_Osei_WILD_05 AkEvent]
+SpokenText="想击中我？没那么容易！"
+
+[T_Tutorial_Osei_WILD_06 AkEvent]
+SpokenText="我不会让他们觉得容易的。"
+
+[T_Tutorial_Osei_WILD_07 AkEvent]
+SpokenText="保持隐蔽。"
+
+[T_Tutorial_Osei_WILD_08 AkEvent]
+SpokenText="他们现在或许想给我们个选择。"
+
+[T_Tutorial_Osei_WILD_09 AkEvent]
+SpokenText="他们正在逼近我！"
+
+[T_Tutorial_Osei_WILD_10 AkEvent]
+SpokenText="他们不会这样轻易扳倒我的。"
+
+[T_Tutorial_Osei_WILD_11 AkEvent]
+SpokenText="是不是？让他们尝尝这个！"
+
+[T_Tutorial_Osei_WILD_12 AkEvent]
+SpokenText="是的，长官。"
+
+[T_Tutorial_Osei_WILD_13 AkEvent]
+SpokenText="你不用对我说两遍。"
+
+[T_Tutorial_Osei_WILD_14 AkEvent]
+SpokenText="我马上照办。"
+

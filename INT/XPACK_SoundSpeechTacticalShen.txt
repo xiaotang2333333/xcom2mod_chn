@@ -1,0 +1,39 @@
+﻿[Play_X2_XP_SHN_T_Chosen_Avenger_Cannon_Hit_Critical AkEvent]
+SpokenText="There are fractures in the Avenger's power core! One more hit and it'll go critical!"
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_Cannon_Primed AkEvent]
+SpokenText="The ADVENT power cells are at maximum charge, Commander. Their cannon is primed and ready to fire."
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_Cannon_Primed_Final_Hit AkEvent]
+SpokenText="Their cannon is primed and ready to fire again! We can't survive another hit!"
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_Chosen_Cannon_Power AkEvent]
+SpokenText="They're powering the cannon with a supplementary generator on board that truck. It will probably take them some time to build the charge, if we can take that thing out the cannon itself will be useless."
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_Chosen_Cannon_Sighted AkEvent]
+SpokenText="Commander, that Chosen brought some sort of massive artillery cannon with it. There's no way we can take off while that thing is operational."
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_First_Cannon_Hit AkEvent]
+SpokenText="We've got system failures across the board, Commander! We can't take hits like that!"
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_Power_Core_Critical AkEvent]
+SpokenText="I can't stop it now! The core is breached!"
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_Subs_Cannon_Hit_A AkEvent]
+SpokenText="I can barely keep our systems online! We have to take out that gun!"
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_Subs_Cannon_Hit_B AkEvent]
+SpokenText="We may never get this ship off the ground again if we don't stop that cannon!"
+
+[Play_X2_XP_SHN_T_SITREP_Automated_Defense AkEvent]
+SpokenText="We've confirmed our previous readings, Commander. Be on alert for robotic enemies moving near that position."
+
+[Play_X2_XP_SHN_T_SITREP_High_Explosives AkEvent]
+SpokenText="Remember, Commander, there are extremely volatile materials scattered throughout this area-we need to make sure our troops are clear of any possible explosions."
+
+[Play_X2_XP_SHN_T_SITREP_Limited_Vis AkEvent]
+SpokenText="There's some kind of interference throughout that area throwing off our sensors. We've got limited visibility and weak comm. signals. Be careful out there."
+
+[Play_X2_XP_SHN_T_SITREP_Location_Scout AkEvent]
+SpokenText="Commander, we managed to access an old reconnaissance satellite passing over the AO - we've got a complete picture of the area - there shouldn't be any surprises on this one."
+

@@ -1,0 +1,140 @@
+[S_Dark_Volunteer_02_Central_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Central_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Central_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Central_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Central_05 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Central_06 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Central_07 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Central_08 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Central_09 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Central_10 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Central_11 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Central_12 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Central_13 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Comm_Officer_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Shen_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Shen_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Shen_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Tygan_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Tygan_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[S_Dark_Volunteer_02_Tygan_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+

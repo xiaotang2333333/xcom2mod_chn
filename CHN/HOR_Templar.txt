@@ -1,0 +1,9 @@
+﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_10 XComInteractiveLevelActor]
+FriendlyDisplayName="变种人容器"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_11 XComInteractiveLevelActor]
+FriendlyDisplayName="变种人容器"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_9 XComInteractiveLevelActor]
+FriendlyDisplayName="变种人容器"
+

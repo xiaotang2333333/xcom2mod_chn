@@ -1,0 +1,111 @@
+﻿[Play_X2_XP_MOX_CIN_LA_Skirmisher_Reveal_1 AkEvent]
+SpokenText="克拉克萨德。"
+
+[Play_X2_XP_MOX_CIN_LA_Skirmisher_Reveal_2 AkEvent]
+SpokenText="变种人...\"傀儡\"。"
+
+[Play_X2_XP_MOX_CIN_LA_Skirmisher_Reveal_3 AkEvent]
+SpokenText="霍斯塔拉佛顿。"
+
+[Play_X2_XP_MOX_CIN_LA_Skirmisher_Reveal_4 AkEvent]
+SpokenText="它们被派到这儿来是为了清除\"德拉克-坦\"-也就是\"失魂者\"。具体细节不明。汇合点暂时还没有暴露。"
+
+[Play_X2_XP_MOX_CIN_LA_Skirmisher_Reveal_4_trimA AkEvent]
+SpokenText="它们被派到这儿来是为了清除\"德拉克-坦\"-也就是\"失魂者\"。"
+
+[Play_X2_XP_MOX_CIN_LA_Skirmisher_Reveal_4_trimB AkEvent]
+SpokenText="汇合点暂时还没有暴露。"
+
+[Play_X2_XP_MOX_CIN_LA_Skirmisher_Reveal_5 AkEvent]
+SpokenText="那里不受伪神的束缚，为了让我的同胞都能说出这句话，我什么都愿意做。即便是与你们的...死神坐下来对谈也不例外。"
+
+[Play_X2_XP_MOX_CIN_LA_Skirmisher_Reveal_6 AkEvent]
+SpokenText="好了，我们该走了。"
+
+[Play_X2_XP_MOX_CIN_LA_Skirmisher_Reveal_6_ALT AkEvent]
+SpokenText="好了，我们得走了。"
+
+[Play_X2_XP_MOX_T_LNA_LNA_Part2_Purifier_Weapon_Info_1 AkEvent]
+SpokenText="是的，但失魂者可不会用枪。用来生成这种电浆射线的装置的外壳很脆弱，一旦破裂就会产生爆炸。"
+
+[Play_X2_XP_MOX_T_LNA_Lost_Misc_A AkEvent]
+SpokenText="它们的数量太多了！我们想活命就必须继续前进。"
+
+[Play_X2_XP_MOX_T_LNA_Lost_Misc_B AkEvent]
+SpokenText="爆炸声会刺激到失魂者。他们现在肯定冲我们来了。"
+
+[Play_X2_XP_MOX_T_LNA_Part2_All_Units_Exit_1 AkEvent]
+SpokenText="这得看死神的表现了。"
+
+[Play_X2_XP_MOX_T_LNA_Part2_Dasher_Callout_1 AkEvent]
+SpokenText="德拉克-拉。疾行者。他们可不像其他失魂者那样行动迟缓。"
+
+[Play_X2_XP_MOX_T_LNA_Part2_Defeat_Purifier_Pod_1 AkEvent]
+SpokenText="我们已让这组巡逻队解脱。愿他们不会白死。我们必须继续前进，完成任务。"
+
+[Play_X2_XP_MOX_T_LNA_Part2_Lost_Counter_Four_1 AkEvent]
+SpokenText="消灭他们，是我唯一能接受的东西。快找出口。"
+
+[Play_X2_XP_MOX_T_LNA_Part2_Lost_Counter_One_1 AkEvent]
+SpokenText="那就再等你一分钟。"
+
+[Play_X2_XP_MOX_T_LNA_Part2_Lost_Counter_Three_1 AkEvent]
+SpokenText="明白。坚守位置中。"
+
+[Play_X2_XP_MOX_T_LNA_Part2_Lost_Counter_Two_1 AkEvent]
+SpokenText="我们没法在这里守上一辈子，XCOM。请你们快一点。"
+
+[Play_X2_XP_MOX_T_LNA_Part2_New_Evac_Point_1 AkEvent]
+SpokenText="没有问题。"
+
+[Play_X2_XP_MOX_T_LNA_Part2_Post_Big_Bang_1 AkEvent]
+SpokenText="是失魂者，战斗的声音让它们兴奋了。它们很容易受到噪音的吸引。"
+
+[Play_X2_XP_MOX_T_LNA_Part2_Post_Big_Bang_2 AkEvent]
+SpokenText="我们也是别无选择。找个别的出口，失魂者交给我们对付。"
+
+[Play_X2_XP_MOX_T_LNA_Part2_Post_MeetSkirm_1 AkEvent]
+SpokenText="我们今天最不用担心的就是惊喜，你们带来的那些死神才麻烦。"
+
+[Play_X2_XP_MOX_T_LNA_Part2_Post_Purifier_Reveal_1 AkEvent]
+SpokenText="看到就怪了。净化者被创造出来只有一个目的：应对德拉克·坦，也就是失魂者。我们必须在他们叫来支援前消灭这组巡逻队。"
+
+[Play_X2_XP_MOX_T_LNA_Part3_Combat_One_1 AkEvent]
+SpokenText="神也是会死的。"
+
+[Play_X2_XP_MOX_T_LNA_Part3_Combat_Three_1 AkEvent]
+SpokenText="我们已经不再是你主子手下的牵线木偶了。很快整个世界都会看穿他们满口的胡言。"
+
+[Play_X2_XP_MOX_T_LNA_Part3_Combat_Two_1 AkEvent]
+SpokenText="我拒绝这所谓的完美是因为它是以我们的自由为代价存在的。"
+
+[Play_X2_XP_MOX_T_LNA_Part3_Post_RedezAssassin_1 AkEvent]
+SpokenText="赞成。"
+
+[Play_X2_XP_MOX_T_LNA_Part3_Turn_One_1 AkEvent]
+SpokenText="你们死神以前遇到过这样的家伙？"
+
+[Play_X2_XP_MOX_T_LNA_Part3_Turn_Three_1 AkEvent]
+SpokenText="是的，我也见识过他们的能力。我曾经对她造成过致命的重伤，但她却依旧活了下来，而且比之前更为强大。"
+
+[Play_X2_XP_MOX_T_LNA_Plasma_Purifiers_1 AkEvent]
+SpokenText="是的，但失魂者可不会用枪。用来生成这种电浆射线的装置的外壳很脆弱，一旦破裂就会爆炸。"
+
+[Play_X2_XP_MOX_T_LNA_Play3_Lost_Battle_Five_1 AkEvent]
+SpokenText="长老想阻挠我们的联盟，光是靠区区失魂者可不够。"
+
+[Play_X2_XP_MOX_T_LNA_Play3_Lost_Battle_Four_1 AkEvent]
+SpokenText="如果死神都像你一样勇猛，那你们确实有机会。"
+
+[Play_X2_XP_MOX_T_LNA_Play3_Lost_Battle_Three_1 AkEvent]
+SpokenText="这座城市没有陷落的时候我还没诞生。但我也能感觉出这个地方，这些人发生了巨变。"
+
+[Play_X2_XP_MOX_T_LNA_Play3_Lost_Battle_Two_1 AkEvent]
+SpokenText="变种人这几年来多次派遣过净化者扫荡这些城市。但这些失魂者依旧幸存了下来，不仅如此，数量还越来越多。我们也不清楚这其中的缘由。"
+
+[Play_X2_XP_MOX_T_LNA_Play3_Post_Lost_Reveal_1 AkEvent]
+SpokenText="这些舱体的聚变反应堆芯即使是以变种人20年前的标准来看都可以说极不稳定。我强烈反对摆弄它们。"
+
+[Play_X2_XP_Mox_T_LNA_Purifiers_1 AkEvent]
+SpokenText="净化者。变种人用于解决失魂者的工具。我们必须在他们叫来支援前消灭这组巡逻队。"
+

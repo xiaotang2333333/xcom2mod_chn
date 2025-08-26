@@ -1,0 +1,91 @@
+﻿[CivFemaleScream01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[CivFemaleScream02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[CivFemaleScream03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[CivFemaleScream04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[CivFemaleScream05 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[CivFemaleScream06 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[CivFemaleScream07 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[CivFemaleScream08 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[CivFemaleScreamOffScreen01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[CivFemaleScreamOffScreen02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[CivFemaleScreamOffScreen03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[CivFemaleScreamOffScreen04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[CivFemaleScreamOffScreen05 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+

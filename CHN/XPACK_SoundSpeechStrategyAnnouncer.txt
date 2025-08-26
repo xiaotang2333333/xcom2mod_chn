@@ -1,0 +1,180 @@
+﻿[Play_X2_XP_S_PROP_Generic_Failure_A AkEvent]
+SpokenText="变种人维和部队将在今天傍晚受到发言人的嘉奖。没有工作的市民需强制参加嘉奖典礼。"
+
+[Play_X2_XP_S_PROP_Generic_Failure_B AkEvent]
+SpokenText="今天变种人维和部队再次对叛军的破坏企图予以了狠狠的还击，成功保护了我们的基因诊疗所。发言人相信变种人的和平信息终将传遍整个地球。"
+
+[Play_X2_XP_S_PROP_Generic_Failure_C AkEvent]
+SpokenText="多亏了你们的努力，所有区域内的叛乱活动都显著下降。市中心之间的交通禁令已被解除。请大家记住，及时举报可以收到奖励。"
+
+[Play_X2_XP_S_PROP_Generic_Failure_D AkEvent]
+SpokenText="今天变种人维和部队们对XCOM叛乱分子造成了沉重打击，展现了他们无与伦比的自信，也说明了这所谓的反抗军组织已经快覆灭了。大家还不快预约前往当地的变种人汉堡店，一同庆祝一番？"
+
+[Play_X2_XP_S_PROP_Generic_Failure_E AkEvent]
+SpokenText="变种人征兵数再次达到了历史新高。管理层官员将为对抗XCOM取得的战略成功奖励维和部队双倍的补给。立刻去当地的变种人征兵官处报名吧。"
+
+[Play_X2_XP_S_PROP_Generic_Success_A AkEvent]
+SpokenText="据变种人官员所说，叛乱分子最近在市中心外发动的袭击对于变种人的外部建设项目和扩展项目影响甚微。据报道市民志愿移民者已达到历史新高。"
+
+[Play_X2_XP_S_PROP_Generic_Success_B AkEvent]
+SpokenText="发言人表扬了忠诚的市民今天\"勇敢向那些为了旧世界抛弃正确价值观的人反抗\"的行为。接下来，请让我们为今天被XCOM杀害的维和部队士兵默哀三分钟。"
+
+[Play_X2_XP_S_PROP_Generic_Success_C AkEvent]
+SpokenText="所有变种人基因诊疗所明天会因设备升级而暂时关闭。认为其关闭是叛乱分子的破坏所造成的报告已被官方确认为是叛乱分子散播的假消息。"
+
+[Play_X2_XP_S_PROP_Generic_Success_D AkEvent]
+SpokenText="变种人官员已确认今天本地维和部队的紧急调动行为是一次有计划的演习。请广大市民不必惊慌。所有的交火及伤亡都是帮助变种人部队训练的场景模拟。"
+
+[Play_X2_XP_S_PROP_Generic_Success_E AkEvent]
+SpokenText="变种人官员宣布本月的征兵量上升。请有志向的市民前往最近的征兵中心。请记住，我们只有齐心协力，才能共创辉煌。"
+
+[Play_X2_XP_S_PROP_Neutralize_Failure_A AkEvent]
+SpokenText="今天变种人维和部队确认了一起对平民工人发动的谋杀未遂事件，快速阻止了犯罪的正是我们的维和部队，牵涉到其中的嫌疑人都已被拘留，等候审问。"
+
+[Play_X2_XP_S_PROP_Neutralize_Failure_B AkEvent]
+SpokenText="多亏了变种人的基因疗法，这几位受到了XCOM叛乱分子袭击的市民大难不死。基因疗法：让大家身心和谐。还不快去附近的诊所看看！"
+
+[Play_X2_XP_S_PROP_Neutralize_Failure_C AkEvent]
+SpokenText="维和部队制止了XCOM今天对平民目标发起的暗杀企图。事件结束后，有数名同情XCOM的市民被拘留，等候问询中。"
+
+[Play_X2_XP_S_PROP_Neutralize_Failure_D AkEvent]
+SpokenText="变种人维和部队今天从XCOM叛乱分子的魔爪中拯救了几位忠诚的市民。请为在当地努力尽责的维和部队鼓掌！"
+
+[Play_X2_XP_S_PROP_Neutralize_Failure_E AkEvent]
+SpokenText="维和部队今天再次展现出了他们对统一事业的努力，制止了犯罪组织XCOM的一项袭击企图。管理层提醒大家，我们对于伤害杰出变种人市民的行为是绝对的零容忍。"
+
+[Play_X2_XP_S_PROP_Neutralize_Success_A AkEvent]
+SpokenText="变种人管理层再次提醒大家，XCOM最近一次针对变种人平民工人采取的暗杀行动不值得引起大家的恐慌。变种人维和部队已经着手逮捕犯人了。"
+
+[Play_X2_XP_S_PROP_Neutralize_Success_B AkEvent]
+SpokenText="根据官方消息，有人协助了XCOM这次针对无辜平民工人暗杀行动。请大家及时将看到的可疑行为举报给距离最近的维和部队士兵。"
+
+[Play_X2_XP_S_PROP_Neutralize_Success_C AkEvent]
+SpokenText="今天再一次发生了忠诚变种人市民被XCOM罪犯杀害的惨剧。所有市民都需强制出席追悼会。"
+
+[Play_X2_XP_S_PROP_Neutralize_Success_D AkEvent]
+SpokenText="经变种人官方确认，今天袭击了那位前途似锦的市民的正是名为XCOM的犯罪组织。尽管事后XCOM的叛乱分子逃离了现场，维和部队已经向我们保证他们必定会将这些罪犯绳之以法。"
+
+[Play_X2_XP_S_PROP_Neutralize_Success_E AkEvent]
+SpokenText="今天XCOM的分裂分子又一次袭击了一位遵纪守法的变种人市民。请所有目击者立刻前往变种人维和部队处报告。"
+
+[Play_X2_XP_S_PROP_Rescue_Failure_A AkEvent]
+SpokenText="今天叛乱分子对变种人拘留中心发动的鲁莽袭击以失败告终。为了大家的安全着想，我们已经增加了巡逻员的数量。"
+
+[Play_X2_XP_S_PROP_Rescue_Failure_B AkEvent]
+SpokenText="XCOM叛乱分子今天妄图侵入我们的一个秘密康复中心。但变种人军队威武地击退了他们，康复中心内受到惊吓的病人对他们表示了感激。"
+
+[Play_X2_XP_S_PROP_Rescue_Failure_C AkEvent]
+SpokenText="变种人部队对于自己能够保护忠诚市民不受伤害充满了自豪之情。今天，XCOM叛乱分子未能释放拘留中的危险罪犯，并且好好地被上了一课。干得好，维和部队！"
+
+[Play_X2_XP_S_PROP_Rescue_Failure_D AkEvent]
+SpokenText="变种人军队再一次击退了XCOM对一间秘密拘留中心发动的袭击。管理层很自信他们能够从关押在设施内的危险囚犯中获取XCOM行动的信息。"
+
+[Play_X2_XP_S_PROP_Rescue_Failure_E AkEvent]
+SpokenText="今天发生了一件出人意料的事，许多叛乱分子主动向维和部队投降，要求进入复健中心。变种人官员对这些曾经的XCOM成员能够弃暗投明表示了欣慰之情。"
+
+[Play_X2_XP_S_PROP_Rescue_Success_A AkEvent]
+SpokenText="变种人维和部队今天在数名危险的囚犯逃离一家秘密的附件设施牢房之后发布了世界范围的安全警告。请广大市民目击到他们后第一时间向最近的维和部队士兵报告。"
+
+[Play_X2_XP_S_PROP_Rescue_Success_B AkEvent]
+SpokenText="今天逃离了拘留设施的囚犯携有武装且极度危险。变种人建议广大市民避免与他们产生任何形式的接触。为保证大家的安全，今晚执行宵禁。"
+
+[Play_X2_XP_S_PROP_Rescue_Success_C AkEvent]
+SpokenText="变种人需要大家的帮助将今天早些时候逃离牢房的犯人绳之以法。请记住：未能识别出犯人或未上报维和部队将被视为共犯论处。"
+
+[Play_X2_XP_S_PROP_Rescue_Success_D AkEvent]
+SpokenText="今天XCOM叛乱分子对变种人英勇的军队发动的袭击虽然导致了几名危险的囚犯逃脱，但维和部队为了大家的安全着想已开始逐户排查。"
+
+[Play_X2_XP_S_PROP_Rescue_Success_E AkEvent]
+SpokenText="今天在复健中心遭到XCOM叛乱分子袭击后，维和部队已在全市展开动员。任何有共犯嫌疑的人都将被立即拘留，接受问询。"
+
+[Play_X2_XP_S_PROP_Retaliation_Failure_A AkEvent]
+SpokenText="今天对一个外部居住地采取的迁移行动在叛乱分子的干涉下演变成了一场灾难，整个居住地都被他们化为火海。尽管我们并不清楚XCOM的目标是否是居住地本身，但我们还是必须遗憾地通知大家居住地内没有发现人类幸存者。"
+
+[Play_X2_XP_S_PROP_Retaliation_Failure_B AkEvent]
+SpokenText="变种人维和部队今天在一个非法居住地遭遇了叛军派系。在成功消灭敌人后，他们发现了数十把枪械和将它们分发给邻近市中心居民的计划。发言人为他们成功阻止了又一场XCOM可能造成的悲剧表彰了他们。"
+
+[Play_X2_XP_S_PROP_Retaliation_Failure_C AkEvent]
+SpokenText="变种人维和部队今天非常惊讶地发现叛乱组织XCOM再次摧毁了一个边远的居住地。发言人坚持继续支援该区域，派遣了额外的巡逻员帮助当地幸存的居民。"
+
+[Play_X2_XP_S_PROP_Retaliation_Failure_D AkEvent]
+SpokenText="变种人维和部队今天成功捣毁了一个叛军训练营地。安保部队遭遇了猛烈的抵抗，没有生还者。变种人高层认为，他们今天的行动终于给一片被绝望和暴力统治的区域带来了和平。"
+
+[Play_X2_XP_S_PROP_Retaliation_Failure_E AkEvent]
+SpokenText="XCOM的暴力分子今天早些时候再次杀害了一个边境居住地内的所有居民。变种人官员认为这是资源纠纷激化导致的。请广大市民避免与该犯罪组织的任何接触。"
+
+[Play_X2_XP_S_PROP_Retaliation_Success_A AkEvent]
+SpokenText="有多名目击者都声称他们看到了不明反抗军人员对变种人维和部队发动了大规模的攻击，说明变种人军队在和平清理未授权居民地时受到了伏击。官方尚未公布伤亡人数。"
+
+[Play_X2_XP_S_PROP_Retaliation_Success_B AkEvent]
+SpokenText="变种人管理层再次向大家保证，XCOM叛乱分子最近对维和部队发起的残忍突袭并不能阻止我们规范外部环境的决心。管理层致力于为所有人创造一个更为安全的世界。"
+
+[Play_X2_XP_S_PROP_Retaliation_Success_C AkEvent]
+SpokenText="变种人维和部队回应了他们在外部地区遭遇叛乱分子袭击的报告。尽管他们战斗得相当英勇，但因为XCOM的埋伏，还是有叛乱分子躲过了逮捕。"
+
+[Play_X2_XP_S_PROP_Retaliation_Success_D AkEvent]
+SpokenText="今天变种人官员获悉，一个曾被认为早已无人居住的外部居住地现被叛乱分子当成了避风港。尽管维和部队的侦查小队受到了叛军派系的突袭，变种人军队将会很快组织起新的清剿行动。"
+
+[Play_X2_XP_S_PROP_Retaliation_Success_E AkEvent]
+SpokenText="今天变种人外派小队在携带当地居民急需的医用品补给拜访一个贫困边境居住地时遭到了XCOM的袭击，一场慈善行动就这样变成了悲剧。追悼会将在今天晚些时候举行。"
+
+[Play_X2_XP_S_PROP_Sabotage_Failure_A AkEvent]
+SpokenText="来自平民线人的警告让变种人维和部队成功击退了XCOM今天对变种人通信系统发动的袭击。宵禁正式终止。请记住，这样的表现是可以获得我们的奖励的。"
+
+[Play_X2_XP_S_PROP_Sabotage_Failure_B AkEvent]
+SpokenText="维和部队今天早些时候制止了一起叛乱分子对本地基础设施的破坏事件。变种人官员认为犯罪组织XCOM对这起失败的袭击负责。即日起安全检查点将会增设至以往的三倍。"
+
+[Play_X2_XP_S_PROP_Sabotage_Failure_C AkEvent]
+SpokenText="今天暂时的功率起伏现象是由当地市中心的扩建引起的。变种人官员请广大市民不要散播叛乱分子破坏未遂的谣言。"
+
+[Play_X2_XP_S_PROP_Sabotage_Failure_D AkEvent]
+SpokenText="维和部队今天阻止了XCOM罪犯抢夺当地基础设施内资源的企图。变种人官员认为这次的行动非常成功。"
+
+[Play_X2_XP_S_PROP_Sabotage_Failure_E AkEvent]
+SpokenText="反抗军的暴乱分子今天也没能破坏变种人的服务设施，发言人将维和部队的成功归结于市民的合作。"
+
+[Play_X2_XP_S_PROP_Sabotage_Success_A AkEvent]
+SpokenText="广大市民，请注意，因本区域内的基础设施近期遭到袭击，我们将无法在部分市中心供应特定食物及药品。请联系当地官员获取更多信息。"
+
+[Play_X2_XP_S_PROP_Sabotage_Success_B AkEvent]
+SpokenText="请广大市民注意 -- 保持警惕是你们的职责。未能举报在基础设施附近目击到的可疑行为将被判处拘留或是逐出市中心的刑罚。感谢大家的合作！"
+
+[Play_X2_XP_S_PROP_Sabotage_Success_C AkEvent]
+SpokenText="所有出现在今天叛乱分子的袭击现场的市民都必须立即向维和部队报告，接受问询。变种人基因诊疗所将会检验你使体内的有害生化物质。这是一项命令。"
+
+[Play_X2_XP_S_PROP_Sabotage_Success_D AkEvent]
+SpokenText="今天因犯罪组织XCOM对我们造成的攻击，请广大市民准备应对全市出现的大规模断电现象。变种人向我们保证他们会尽快恢复电力。"
+
+[Play_X2_XP_S_PROP_Sabotage_Success_E AkEvent]
+SpokenText="为大家的安全考虑，在电力系统升级完成前，市中心所有的交通设施都将被暂时停用。若要获得详细声明，请联系离你最近的变种人维和部队士兵。"
+
+[Play_X2_XP_S_PROP_Swarm_Failure_A AkEvent]
+SpokenText="一小簇变种人维和部队面对数量远超己方的敌军英勇奋战，成功挫败了这群所谓的反抗军的伏击企图。他们认为自己幸存的关键在于对长老的坚定信仰。"
+
+[Play_X2_XP_S_PROP_Swarm_Failure_B AkEvent]
+SpokenText="XCOM叛乱分子最近一次在我们城市的街道引发暴力与混乱的企图宣告破产。维和部队会继续在该区域内滞留，为广大市民提供帮助。"
+
+[Play_X2_XP_S_PROP_Swarm_Failure_C AkEvent]
+SpokenText="今天市内发生了一起叛乱分子攻击变种人维护部队的暴力事件。市民目击者对维和部队在防止平民伤亡的同时还能击退入侵者表示了由衷的赞美。"
+
+[Play_X2_XP_S_PROP_Swarm_Failure_D AkEvent]
+SpokenText="变种人官员对今天向我们提供情报，协助我们挫败XCOM叛乱分子今天的行动的市民线人表示诚挚的谢意。所有受影响区域内的公共交通设施已经恢复。"
+
+[Play_X2_XP_S_PROP_Swarm_Failure_E AkEvent]
+SpokenText="叛乱分子今天拒绝向变种人维和部队投降，导致更多人死于非命。尽管发言人认为发生了暴力冲突令他很遗憾，他认为我们还是离结束这场战争并开始真正的和平\"近了一步\"。"
+
+[Play_X2_XP_S_PROP_Swarm_Success_A AkEvent]
+SpokenText="变种人向广大市民保证，尽管叛乱分子最近的袭击对我们的维和部队造成了一定的伤亡，但他们仍然会将保护你们的安全和安宁放在首位。"
+
+[Play_X2_XP_S_PROP_Swarm_Success_B AkEvent]
+SpokenText="一位通敌者今日在XCOM激进派的进攻过程中从回收部队中逃脱了。在变种人维和部队的英勇介入之下，平民的伤亡被降低到了最低程度的。我们已派出额外的回收部队追缉逃犯。"
+
+[Play_X2_XP_S_PROP_Swarm_Success_C AkEvent]
+SpokenText="维和部队今天又突袭了一个与XCOM罪犯有牵连的安全屋。虽然行动获得了成功，变种人官员已确认部分共犯在逃。请广大市民第一时间向最近的维和部队士兵报告任何可疑迹象。"
+
+[Play_X2_XP_S_PROP_Swarm_Success_D AkEvent]
+SpokenText="维和部队今天对一场XCOM袭击予以了勇猛的还击，在他们的干涉下，人员伤亡有限，为此他们获得了发言人的亲口赞美。"
+
+[Play_X2_XP_S_PROP_Swarm_Success_E AkEvent]
+SpokenText="今天维和部队和XCOM叛乱分子发生武装冲突的报告被变种人官员确认为虚假信息。请广大市民在调查完成前远离该区域。"
+

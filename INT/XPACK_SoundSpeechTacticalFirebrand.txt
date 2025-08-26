@@ -1,0 +1,18 @@
+﻿[Play_X2_XP_FIRE_T_Airlift_in_Progress AkEvent]
+SpokenText="Airlift in progress. "
+
+[Play_X2_XP_FIRE_T_Crate_in_Tow AkEvent]
+SpokenText="ADVENT supply crate in tow."
+
+[Play_X2_XP_FIRE_T_Crate_Secure AkEvent]
+SpokenText="Supply crate secure."
+
+[Play_X2_XP_FIRE_T_Holding_Position AkEvent]
+SpokenText="Firebrand holding position."
+
+[Play_X2_XP_FIRE_T_In_Position_Extraction AkEvent]
+SpokenText="Firebrand in position for extraction."
+
+[Play_X2_XP_FIRE_T_On_Deck AkEvent]
+SpokenText="Firebrand on deck."
+

@@ -1,0 +1,3 @@
+﻿[Archetypes.ARC_IA_SupplyCrate XComInteractiveLevelActor]
+FriendlyDisplayName="Advent Supply Crate"
+

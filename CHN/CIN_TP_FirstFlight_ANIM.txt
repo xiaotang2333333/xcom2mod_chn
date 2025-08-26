@@ -1,0 +1,35 @@
+[Audio.FirstFlight_22A_Central01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.FirstFlight_22B_Ops01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.FirstFlight_22C_Central02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.FirstFlight_22D_Shen01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.FirstFlight_22E_Central03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+

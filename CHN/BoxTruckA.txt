@@ -1,0 +1,3 @@
+﻿[Archetypes.ARC_BoxTruckA_DoorBack XComInteractiveLevelActor]
+FriendlyDisplayName="车门"
+

@@ -1,0 +1,210 @@
+﻿[Play_X2_XP_KAL_S_Ambush_A AkEvent]
+SpokenText="天选者埋伏了我们，指挥官！我们得把剩下的人撤出去！"
+
+[Play_X2_XP_KAL_S_Covert_Action_Complete_A AkEvent]
+SpokenText="我们已经完成了你最近下达的任务，指挥官。"
+
+[Play_X2_XP_KAL_S_First_Res_Op_Geoscape AkEvent]
+SpokenText="圣殿骑士中的一员需要你协助，指挥官。"
+
+[Play_X2_XP_KAL_S_Generic_Confirmation_A AkEvent]
+SpokenText="如您所愿，指挥官。"
+
+[Play_X2_XP_KAL_S_Influence_Increased_A AkEvent]
+SpokenText="反抗军的力量在增长，指挥官。我们将继续努力。"
+
+[Play_X2_XP_KAL_S_Met AkEvent]
+SpokenText="我们听说过你的大名，指挥官。我们期待直接见证你的风采。"
+
+[Play_X2_XP_KAL_S_New_Covert_Actions_A AkEvent]
+SpokenText="指挥官，加强反抗军的新机会出现了。"
+
+[Play_X2_XP_KAL_S_Support_Great_Mission_01 AkEvent]
+SpokenText="我们并肩作战后确实变得更为强大。你的战略技巧之高明是毋庸置疑的，指挥官。"
+
+[Play_X2_XP_KAL_S_Support_Tough_Mission_01 AkEvent]
+SpokenText="或许你并不如传说中的那般出色，指挥官。希望这次失败只是个偶然。"
+
+[Play_X2_XP_KAL_S_Templar_Class_Intro AkEvent]
+SpokenText="我的部下能够理解我们这次合作的价值，指挥官。长老们把我们当作实验用的小白鼠。为报此仇，我们将夺回我们的力量，用它来反抗他们。"
+
+[Play_X2_XP_S_KAL_Ambient_Blacksite AkEvent]
+SpokenText="长老们会对我们人类做这些可怕实验并没有出乎我的意料之外，但这还是让他们的面貌变得更加丑恶了。现在我们知道了，他们想要的不仅是我们的力量和我们的世界，还有我们人类的基因。"
+
+[Play_X2_XP_S_KAL_Ambient_Forge AkEvent]
+SpokenText="长老从我们的世界中夺走了太多事物，而他们还会将夺来的东西经过令人无法忍受的邪恶处理改造成更为险恶的存在。"
+
+[Play_X2_XP_S_KAL_Ambient_Philosophy AkEvent]
+SpokenText="灵能在我们的世界中流动，掌握了这份力量的圣殿骑士比其他任何人类都要强。等我们把长老从这地球上赶走，我们就会真正夺回这份被他们留下的力量。"
+
+[Play_X2_XP_S_KAL_Ambient_PsiGate AkEvent]
+SpokenText="很显然长老就是用这些传送门源源不断地把他们的军队运送到我们的世界里，再派他们夺走我们人类的财产。我建议就地摧毁这些传送门。"
+
+[Play_X2_XP_S_KAL_Ambient_Reaper_Musing AkEvent]
+SpokenText="死神们没有信仰，也没有兴趣守护他们目不能及的世界。但他们的行动确实激怒了长老，让长老的仆从感到了恐惧。从这点来说，他们作为盟友还是有价值的，前提是他们不背叛我们。"
+
+[Play_X2_XP_S_KAL_Ambient_Skirmisher_Musing AkEvent]
+SpokenText="我的追随者始终不愿信任这些曾为长老效命的家伙，实在很难想象他们会反抗他们昔日的神明。我们必须时刻保持警惕，不过至少目前他们对复仇的渴望能够帮助我们。"
+
+[Play_X2_XP_S_KAL_Chosen_Killed_Stronghold AkEvent]
+SpokenText="所有的圣殿骑士欠你一个人情，指挥官，你做到了别人连想都不敢想的是 -- 杀死一个长老的恶童。你的英勇事迹会鼓舞我的部下，让他们更为自信地反抗长老，将他们踢进虚空！"
+
+[Play_X2_XP_S_KAL_Confirm_Covert_Action_A AkEvent]
+SpokenText="明白，指挥官，我的追随者会感谢你的士兵的支援的。"
+
+[Play_X2_XP_S_KAL_Confirm_Covert_Action_B AkEvent]
+SpokenText="我们这就开始隐秘行动，指挥官。"
+
+[Play_X2_XP_S_KAL_Confirm_Covert_Action_C AkEvent]
+SpokenText="我的追随者会完美完成这项任务的。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Ambushed_A AkEvent]
+SpokenText="我们在执行隐秘行动时遇到了埋伏，指挥官，我会去找部下调查详情。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Ambushed_B AkEvent]
+SpokenText="虽然我们的士兵幸存了下来，指挥官，但长老军队今天的这场伏击让我们无功而返了。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Ambushed_C AkEvent]
+SpokenText="长老越来越害怕我们的行动了，他们的埋伏证明了这点。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Complete_A AkEvent]
+SpokenText="我们的合作行动成功了，指挥官。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Complete_B AkEvent]
+SpokenText="我们的任务成功了。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Complete_C AkEvent]
+SpokenText="我们的合作果然对反抗事业大有帮助。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Fragment_Gain_A AkEvent]
+SpokenText="我们又获得有关长老养的那几个臭崽子的情报了。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Fragment_Gain_B AkEvent]
+SpokenText="我们万众一心的反抗军又获得了大量有关那些正在猎杀我们的天选者的情报。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Fragment_Gain_C AkEvent]
+SpokenText="我们又收到了关于天选者和他们的计划的信息。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Hero_Grant_A AkEvent]
+SpokenText="基于我们最近的共同行动，我最得力的追随者之一决定加入你，与你共同在第一线战斗。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Hero_Grant_B AkEvent]
+SpokenText="指挥官，在亲眼见证了你的小队在战斗中的英姿后，一位圣殿骑士勇士想要加入你们的小队参加战斗。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Hero_Grant_C AkEvent]
+SpokenText="指挥官，由于此前共同的成功行动，一位英勇的圣殿骑士想要加入你与长老的战斗中。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Order_Gain_A AkEvent]
+SpokenText="我们在这场反抗长老的战役中尽心尽力，也因此获得了新的能力。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Order_Gain_B AkEvent]
+SpokenText="我的追随者和你的士兵都获得了新的能力，这下只要你有需求，反抗军就能执行难度更高的任务了。"
+
+[Play_X2_XP_S_KAL_Covert_Action_Order_Gain_C AkEvent]
+SpokenText="我们的成功为你创造了全新的战机，指挥官。"
+
+[Play_X2_XP_S_KAL_Faction_Encountered AkEvent]
+SpokenText="我把你看作是拥有相同敌人的友军。我的追随者想要与与流动在地球和其人民中的灵能力量取得平衡。我们在自己开发出来的装备的协助下引导灵能，为被长老和他们的仆从所害的受害者讨回正义。"
+
+[Play_X2_XP_S_KAL_Faction_Leader_Intro AkEvent]
+SpokenText="啊，指挥官，你不觉得，我们是时候谈一谈了吗。我是盖斯特，圣殿骑士团的领袖。但我相信你已经知道这点了。这儿的人都听说过我的事迹。我们欢迎你随时来这里做客，指挥官。你是人类之中最理解长老真正力量的。你直接接触到了他们的思维，听到过他们的声音，所以你肯定清楚，我们决不能让他们得逞。我在此代表所有圣殿骑士宣布我们愿意向你提供协助，只要我们齐心协力，必将所向披靡。"
+
+[Play_X2_XP_S_KAL_First_Order_Screen AkEvent]
+SpokenText="我的追随者在逗留在这个世界的短暂时光中学到了许多东西。有了你的指引，他们一定能找到反抗长老的新途径，让反抗军变得更为强大。"
+
+[Play_X2_XP_S_KAL_First_Order_Screen_Slot_Open AkEvent]
+SpokenText="指挥官，你现在可以向我的追随者下达额外的命令了。"
+
+[Play_X2_XP_S_KAL_Influence_Gained_HIGH_A AkEvent]
+SpokenText="我的追随者越来越信任你的能力了，指挥官。"
+
+[Play_X2_XP_S_KAL_Influence_Gained_HIGH_B AkEvent]
+SpokenText="信任XCOM和其领袖果然没有错。"
+
+[Play_X2_XP_S_KAL_Influence_Gained_HIGH_C AkEvent]
+SpokenText="我们会一同变强，扳倒长老。"
+
+[Play_X2_XP_S_KAL_Influence_Gained_MED_A AkEvent]
+SpokenText="我们对你的信任在渐渐加强，指挥官。"
+
+[Play_X2_XP_S_KAL_Influence_Gained_MED_B AkEvent]
+SpokenText="我们会越来越信任彼此的。"
+
+[Play_X2_XP_S_KAL_Influence_Gained_MED_C AkEvent]
+SpokenText="我的追随者开始信任你了，指挥官。"
+
+[Play_X2_XP_S_KAL_New_Covert_Actions_Available_A AkEvent]
+SpokenText="我发现了可以对长老造成打击的新机会，有兴趣的话就来问我吧。"
+
+[Play_X2_XP_S_KAL_New_Covert_Actions_Available_B AkEvent]
+SpokenText="出现了个可以对长老的计划造成干扰的机会，我的追随者已经迫不及待了。"
+
+[Play_X2_XP_S_KAL_New_Covert_Actions_Available_C AkEvent]
+SpokenText="我们有机会重创长老，只要你下达许可就行，指挥官。"
+
+[Play_X2_XP_S_KAL_Res_Op_Failure_A AkEvent]
+SpokenText="我们的失败会给反抗军带来不利的影响。"
+
+[Play_X2_XP_S_KAL_Res_Op_Failure_B AkEvent]
+SpokenText="即便是失败了，我们也不能失去信心。"
+
+[Play_X2_XP_S_KAL_Res_Op_Failure_C AkEvent]
+SpokenText="这次失败可能会让我的追随者产生动摇。"
+
+[Play_X2_XP_S_KAL_Res_Op_Failure_D AkEvent]
+SpokenText="我们的士气正经受考验，但我们的意志依然坚定。"
+
+[Play_X2_XP_S_KAL_Res_Op_Failure_E AkEvent]
+SpokenText="我们必须从这次失败中吸取经验教训。"
+
+[Play_X2_XP_S_KAL_Res_Op_Help_Needed_A AkEvent]
+SpokenText="指挥官，我需要你帮助我们反抗军执行一个关键性的行动。"
+
+[Play_X2_XP_S_KAL_Res_Op_Help_Needed_B AkEvent]
+SpokenText="我的追随者中有数人在战场上碰到了麻烦。要是你能帮助他们，肯定能提升他们战胜敌人的成功率。"
+
+[Play_X2_XP_S_KAL_Res_Op_Help_Needed_C AkEvent]
+SpokenText="外星人一直在压制我的追随者，但如果你能施以援手，这次任务的风险应该会降低。"
+
+[Play_X2_XP_S_KAL_Res_Op_Help_Needed_D AkEvent]
+SpokenText="我的追随者需要的帮助超出了我可以提供的范围。你愿意助我们一臂之力吗，指挥官？"
+
+[Play_X2_XP_S_KAL_Res_Op_Help_Needed_E AkEvent]
+SpokenText="身为你的友军，我请求你支援我的追随者。"
+
+[Play_X2_XP_S_KAL_Res_Op_Success_A AkEvent]
+SpokenText="任务成功了，指挥官。"
+
+[Play_X2_XP_S_KAL_Res_Op_Success_B AkEvent]
+SpokenText="我的追随者们都以你的成功为荣。"
+
+[Play_X2_XP_S_KAL_Res_Op_Success_C AkEvent]
+SpokenText="你今天做得很好。"
+
+[Play_X2_XP_S_KAL_Res_Op_Success_D AkEvent]
+SpokenText="听到你成功的消息反抗军一定会兴奋不已。"
+
+[Play_X2_XP_S_KAL_Res_Op_Success_E AkEvent]
+SpokenText="你的表现让我们对你战术的质疑烟消云散了。"
+
+[Play_X2_XP_S_KAL_Res_Order_Confirm_A AkEvent]
+SpokenText="我的追随者会服从你的命令。"
+
+[Play_X2_XP_S_KAL_Res_Order_Confirm_B AkEvent]
+SpokenText="我会传达你的命令。"
+
+[Play_X2_XP_S_KAL_Res_Order_Confirm_C AkEvent]
+SpokenText="圣殿骑士愿意追随你。"
+
+[Play_X2_XP_S_KAL_Res_Order_Confirm_D AkEvent]
+SpokenText="明白，指挥官。"
+
+[Play_X2_XP_S_KAL_Res_Order_Confirm_E AkEvent]
+SpokenText="已经在做了。"
+
+[Play_X2_XP_S_KAL_Walkup_Captured_Soldier_Rescue AkEvent]
+SpokenText="对友军的同情是将我们与外星人区分开来的许多特征之一。"
+
+[Play_X2_XP_S_KAL_Walkup_Faction_Only AkEvent]
+SpokenText="你从长老那不朽的仆从身上取得的胜利，肯定能唤起那些以为长老之子是无敌的人心中的希望。"
+

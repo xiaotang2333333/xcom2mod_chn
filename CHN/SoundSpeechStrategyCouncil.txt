@@ -1,0 +1,273 @@
+﻿[NoID_JBailey_20151016_AdventIsNotTaking AkEvent]
+SpokenText="变种人很重视一名长老的死亡，结果就是他们极快地加速了化身计划最终阶段的进度。他们正计划对所有不重要的人类生命进行消灭。马上就会开始。"
+
+[NoID_JBailey_20151016_TheAliensContinue AkEvent]
+SpokenText="外星人的化身计划仍在继续，且即将完成，我们一定要不惜一切代价阻止他们。"
+
+[S_ALT_Mediocre_Council AkEvent]
+SpokenText="很不幸，指挥官，你的努力并没有什么用。"
+
+[S_Alt_Valhalla_Council AkEvent]
+SpokenText="我会亲自带你到英灵殿。你会感受到荣耀和不朽。"
+
+[S_Avatar_Project_Council_01 AkEvent]
+SpokenText="你好，指挥官。"
+
+[S_Avatar_Project_Council_02 AkEvent]
+SpokenText="看起来你最近的活动似乎引起了变种人的注意。敌人正向我们逼近。"
+
+[S_Avatar_Project_Council_03 AkEvent]
+SpokenText="变种人正在全球范围内将大量资源和人力都转移到隐秘的设施中去。这些行动的细节都是高度机密，然而它们都有个共同点。它们的文件中都重复着一个单词：化身。"
+
+[S_Avatar_Project_Council_04 AkEvent]
+SpokenText="我相信我们之前发现的黑地设施是这个化身计划的一部分。通过对敌人的监视我们追踪到了一个新的设施，它就在你的移动指挥中心范围内。当地反抗军可以给我们提供详细情报。"
+
+[S_Avatar_Project_Council_05 AkEvent]
+SpokenText="假如敌人这次成功了，肯定会带来灾难性的后果。我相信你会采取一切必要手段来消除这个威胁的，指挥官。"
+
+[S_Blacksite_Council_Spokesman_01 AkEvent]
+SpokenText="在见识过黑地设施里的杰作之后，结果比我想象中的可能要更加棘手。不管那是什么，总之外星人正在做一项很恐怖的任务。我觉得还是让你来负责调查吧，指挥官。"
+
+[S_BlacksiteCommunique_Council AkEvent]
+SpokenText="指挥官，自从变种人殖民地建成后恐怕已有上百万的人失踪了。我们找到了很多条线索...所有线索都指向了这个设施。我希望你能调查。"
+
+[S_BlacksiteMissionSpawn_Council AkEvent]
+SpokenText="该区域的反抗军会将你带到具体位置，但你得先与他们联络才行。这仅仅是个开始，指挥官；你的领导将会指引整个星球的人类。"
+
+[S_BlacksiteRegionContactMade_Council AkEvent]
+SpokenText="很高兴了解到你已经联络上了本地的反抗军，指挥官。他们应该能帮助你进入到外星人的设施里面。"
+
+[S_BlacksiteRegionContactReminder_Council AkEvent]
+SpokenText="指挥官，你应该尽快和当地反抗军网络取得联系。毫无疑问外星人们正按他们的计划开始行动了。"
+
+[S_First_Council_Mission_Geoscape_Council AkEvent]
+SpokenText="尽管我们的盟友们分散在全球各个城市，并且愿意分享各自掌握的有关变种人行动的情报，但外星人正积极追捕他们。你是保障我们人员安全的关键，指挥官。祝你好运。"
+
+[S_Forge_Council_Spokesman_01 AkEvent]
+SpokenText="你在锻造设施内的发现令人很不安，指挥官。假使外星人以某种方式在筹备或是强化整体军备的话，那我们在战场上击败他们的难度就会大得多。我想请你和你的队伍继续调查下去。"
+
+[S_GP_Alien_Facility_Selected_Council AkEvent]
+SpokenText="外星人花了许多资源和时间在这个计划上，指挥官。如果成功了，那就意味着人类文明的终结。"
+
+[S_GP_Doom_Lowered_Council_Blacksite_A AkEvent]
+SpokenText="干得不错，指挥官。毫无疑问，摧毁黑地会减缓外星人的进程。但对我们来说，时间还是很紧张。"
+
+[S_GP_Doom_Lowered_Council_Blacksite_B AkEvent]
+SpokenText="干得漂亮，指挥官。毫无疑问，黑地被摧毁无疑会减缓外星人前进的步伐，但我们必须继续保持警惕。"
+
+[S_GP_Doom_Lowered_Council_Blacksite_C AkEvent]
+SpokenText="你做得很好，指挥官。尽管你重创了外星人在黑地的成果，但还有许多工作需要做。"
+
+[S_GP_Doom_Lowered_Council_Blacksite_D AkEvent]
+SpokenText="摧毁了黑地是场重大胜利，也重创了外星人的行动，指挥官。但我们没有什么时间了。"
+
+[S_GP_Doom_Lowered_Council_Blacksite_E AkEvent]
+SpokenText="您在摧毁外星人黑地任务中所做的努力值得赞美，但我觉得黑地还不是我们最糟的问题，指挥官。我们必须时刻保持警惕。"
+
+[S_GP_Doom_Lowered_Council_Forge_A AkEvent]
+SpokenText="失去设施后，毫无疑问外星人的工作遭到了重创。我们现在得给他们致命一击了，指挥官。"
+
+[S_GP_Doom_Lowered_Council_Forge_B AkEvent]
+SpokenText="他们设施的毁坏以及这些样本，意味着我们取得了想象中的胜利。"
+
+[S_GP_Doom_Lowered_Council_Forge_C AkEvent]
+SpokenText="我确信未知样本的取回以及设施的摧毁意味着转折点的到来，指挥官，干得漂亮。"
+
+[S_GP_Doom_Lowered_Council_Forge_D AkEvent]
+SpokenText="这个设施看起来对外星人来说很重要，指挥官。外星人的这次挫败以及丢失了你的队伍收集的样本毫无疑问会减缓化身计划的进行。"
+
+[S_GP_Doom_Lowered_Council_Forge_E AkEvent]
+SpokenText="你的努力没有白费，指挥官。设施的摧毁和外星人样本的收集毫无疑问地打击了他们的化身计划进程。"
+
+[S_GP_Doom_Lowered_Council_KillAvatar_A AkEvent]
+SpokenText="你的军队遭遇的那些生物很明显对外星人来说至关重要。我希望你的军队可以找出那到底是什么，指挥官。"
+
+[S_GP_Doom_Lowered_Council_KillAvatar_B AkEvent]
+SpokenText="你的军队遭遇的那些特殊生物很可能是外星人化身计划中至关重要的一环，指挥官。你干得漂亮。"
+
+[S_GP_Doom_Lowered_Council_KillAvatar_C AkEvent]
+SpokenText="外星人在这里的失利将是对他们化身计划的一次重创。干得漂亮，指挥官。"
+
+[S_GP_Doom_Lowered_Council_KillAvatar_D AkEvent]
+SpokenText="目前为止你的军队抵御了外星人的每一次威胁。不过，地球仍未被解放，我们仍需保持警惕，这个位未知的物体或许是关键所在。"
+
+[S_GP_Doom_Lowered_Council_KillAvatar_E AkEvent]
+SpokenText="干得漂亮，指挥官。你的军队在这次打败未知物体的战斗中再一次证明了自己的贡献。希望你们可以发现这个物体同化身计划的联系。"
+
+[S_GP_Doom_Lowered_Council_KillCodex_A AkEvent]
+SpokenText="你的军队很好地击溃了外星人最近的一次袭击，干得漂亮，希望你收集的东西能派上用场。"
+
+[S_GP_Doom_Lowered_Council_KillCodex_B AkEvent]
+SpokenText="你成功延缓了化身计划，指挥官。我们希望你获得的资源会帮助你揭开外星人的计划。"
+
+[S_GP_Doom_Lowered_Council_KillCodex_C AkEvent]
+SpokenText="干得漂亮，指挥官。这个生物的死亡以及对其大脑的复原会大大地延缓外星人的化身计划。"
+
+[S_GP_Doom_Lowered_Council_KillCodex_D AkEvent]
+SpokenText="我赞赏你的军队击退这些生物的表现，指挥官。外星人还得需要不少时间来恢复。"
+
+[S_GP_Doom_Lowered_Council_KillCodex_E AkEvent]
+SpokenText="你们击退的生物看起来对外星人来说很重要，指挥官。希望我们收集的剩余样本会对我们自己也同样有所帮助。"
+
+[S_GP_Doom_Lowered_Council_PsiGate_A AkEvent]
+SpokenText="回收的外星人灵能器具或许对我们未来的努力至关重要。干得漂亮，指挥官。我相信你的小队会尽快展开必要调查。"
+
+[S_GP_Doom_Lowered_Council_PsiGate_B AkEvent]
+SpokenText="这个不寻常的器具或许是找出外星人真正意图的关键，指挥官。感谢你为此作出的努力。"
+
+[S_GP_Doom_Lowered_Council_PsiGate_C AkEvent]
+SpokenText="外星人显然不想让这件东西被发现。毫无疑问它的失去对外星人来说是一次重创。"
+
+[S_GP_Doom_Lowered_Council_PsiGate_D AkEvent]
+SpokenText="你的军队成功地获得了这个外星器具，指挥官。我相信在进一步调查之后可以发现它对我们寻找真相的帮助是无价的。"
+
+[S_GP_Doom_Lowered_Council_PsiGate_E AkEvent]
+SpokenText="毫无疑问外星人不得不承受这个外星器具的损失，同时，我相信你可以最终寻找到真相。"
+
+[S_Liberation_Network_One_Council_02 AkEvent]
+SpokenText="变种人在对你撒谎。"
+
+[S_Pre_Final_Mission_Broadcast_Spokesman_01 AkEvent]
+SpokenText="你好，指挥官。赞美你和你的船员。你们重建抵抗网络以及揭露化身计划的努力值得敬佩。我只希望我能给你们带来好消息。"
+
+[S_Pre_Final_Mission_Broadcast_Spokesman_02 AkEvent]
+SpokenText="变种人非常了解你们的最新发现，考虑到现在剩余人口会是一种负担，他们正计划对所有不重要的人类生命进行消灭。马上就会开始。"
+
+[S_Pre_Final_Mission_Broadcast_Spokesman_03 AkEvent]
+SpokenText="很快变种人的发言人会公布一项基因疗法的重大突破，一种对目前人类疾病的最终疗法。全球几十亿的人都会前往基因诊疗所，而他们不会再回来了。"
+
+[S_Pre_Final_Mission_Broadcast_Spokesman_04 AkEvent]
+SpokenText="通过线人，我成功截获了他们的战术数据，以及进入变种人网络塔的密码。而发言人的演讲也会通过此设施向全球人民直播，所有的变种人网络都会收到，我们必须利用他们的狂妄自大来对付他们。"
+
+[S_Pre_Final_Mission_Broadcast_Spokesman_05 AkEvent]
+SpokenText="我给你们的信息能让泰根博士和沈总工程师从内部控制传输装置并且干扰他们整个网络。"
+
+[S_Pre_Final_Mission_Broadcast_Spokesman_06 AkEvent]
+SpokenText="我希望这次能够扰乱对方军队，从而能让你们的最终进攻获得成功，我最后想再要求一件事。"
+
+[S_Pre_Final_Mission_Broadcast_Spokesman_07 AkEvent]
+SpokenText="用你们所知的一切，让整个世界知道真相，叫醒他们，在无人可以再听到真相之前，让它公诸于世。"
+
+[S_Pre_Final_Mission_Broadcast_Spokesman_08 AkEvent]
+SpokenText="看来我们都没有多少时间了。"
+
+[S_Pre_Final_Mission_Broadcast_Spokesman_09 AkEvent]
+SpokenText="再会，指挥官。"
+
+[S_Psi_Gate_Council_Spokesman_01 AkEvent]
+SpokenText="就你的小队在战场上的见闻来看，指挥官，很明显可以推断出这个灵能通道能够让外星人进行远距离运输。由你来查明它如何运作的，以及这个通道究竟通往何处。"
+
+[S_Skipped_or_Failed_Mission_Council AkEvent]
+SpokenText="指挥官，这里的反抗军已经因为最近的挫败而隐藏起来了。如果你想要再联系他们，你必须等他们重新组织才行。"
+
+[S_Support_Facility_Failed_Council_01 AkEvent]
+SpokenText="很不幸你没能摧毁外星人设施，指挥官。我们需要另寻方法来减缓化身计划的进程。"
+
+[S_Support_Facility_Failed_Council_02 AkEvent]
+SpokenText="尽管我很感激你的军队的努力，指挥官。但外星人设施没有被摧毁，他们仍然可以继续进行化身计划的研究。"
+
+[S_Support_Facility_Failed_Council_03 AkEvent]
+SpokenText="摧毁外星人的设施失败，他们将继续在化身计划上取得进展。我们需要另寻方案，你还得更努力，指挥官。"
+
+[S_Support_Facility_Failed_Council_04 AkEvent]
+SpokenText="摧毁外星人设施的失败令人失望，指挥官。我相信你会调整并改进方案，等待另一个机会。"
+
+[S_Support_Facility_Failed_Council_05 AkEvent]
+SpokenText="很遗憾你的军队没能摧毁外星人的设施，指挥官。外星人化身计划会继续进行。"
+
+[S_Support_Facility_Success_Council_01 AkEvent]
+SpokenText="你的队伍在摧毁外星人设施方面做得非常好，指挥官。毫无疑问，你的努力延缓了他们的化身计划进程。"
+
+[S_Support_Facility_Success_Council_02 AkEvent]
+SpokenText="外星人的设施现在是一片废墟，指挥官。干得漂亮。你的努力毫无疑问延缓了外星人在化身计划上的进展。"
+
+[S_Support_Facility_Success_Council_03 AkEvent]
+SpokenText="摧毁这个设施是覆灭化身计划的重要一步，指挥官。你的军队值得称赞。"
+
+[S_Support_Facility_Success_Council_04 AkEvent]
+SpokenText="因为外星人设施遭到破坏，他们的化身计划很可能遭到了巨大挫折，至少现在是这样。干得漂亮，指挥官。"
+
+[S_Support_Facility_Success_Council_05 AkEvent]
+SpokenText="你的军队干得很好，指挥官。摧毁设施会减缓外星人化身计划的进程，也给我们更多时间来开展反抗军运动。"
+
+[S_Support_First_Resistance_Goods_Council AkEvent]
+SpokenText="指挥官，为了帮助你，我们已经在指挥部收集了额外的资源和人员供你使用。"
+
+[S_Support_Great_Mission_Council_01 AkEvent]
+SpokenText="干得好，指挥官。你的努力将继续支持着整个世界的抵抗运动。"
+
+[S_Support_Great_Mission_Council_02 AkEvent]
+SpokenText="又一次令人钦佩的行动，指挥官。你完全超出了我的期望。"
+
+[S_Support_Great_Mission_Council_03 AkEvent]
+SpokenText="你对反抗军的指挥做得相当不错，指挥官。"
+
+[S_Support_Great_Mission_Council_04 AkEvent]
+SpokenText="考虑到目前的有限资源，指挥官，你成功地超出了我的期望，做得好。"
+
+[S_Support_Great_Mission_Council_05 AkEvent]
+SpokenText="你和你的队员今天又成功地重创了外星人，指挥官，干得漂亮。"
+
+[S_Support_Misc_Council_01 AkEvent]
+SpokenText="你好，指挥官。"
+
+[S_Support_Misc_Council_02 AkEvent]
+SpokenText="祝你好运，指挥官。"
+
+[S_Support_Misc_Council_03 AkEvent]
+SpokenText="XCOM万岁。"
+
+[S_Support_Misc_Council_04 AkEvent]
+SpokenText="变种人是个谎言。"
+
+[S_Support_Misc_Council_05 AkEvent]
+SpokenText="超世纪谍杀案。"
+
+[S_Support_Misc_Council_06 AkEvent]
+SpokenText="结束了，指挥官。"
+
+[S_Support_Status_Report_Grade_A_Council_01 AkEvent]
+SpokenText="我对你领导的反抗军有着很高的期望，指挥官--而你做得比我想象的更加出色。"
+
+[S_Support_Status_Report_Grade_B_Council_01 AkEvent]
+SpokenText="你已经在过去几个月里对抗外星人的活动中取得了相当大的进展，指挥官。我希望你的努力会带领我们走向成功。"
+
+[S_Support_Status_Report_Grade_C_Council_01 AkEvent]
+SpokenText="你在过去几个月里对抗外星人的成果意义非凡，指挥官，但要清除这些外星威胁，我们需要做得更好。"
+
+[S_Support_Status_Report_Grade_D_Council_01 AkEvent]
+SpokenText="领导反抗军是一个艰难的任务，指挥官--而你目前的行动让我们怀疑我们是否做出了正确的选择。我们需要做得更好。"
+
+[S_Support_Status_Report_Grade_F_Council_01 AkEvent]
+SpokenText="我理解你处在一个艰难的境地，指挥官，但上个月连续的失败让我们非常不安。我们需要巨大的改进。"
+
+[S_Support_Tough_Mission_Council_01 AkEvent]
+SpokenText="行动很艰难，指挥官。我相信你会回顾整个战术以避免下次犯同样的错误。"
+
+[S_Support_Tough_Mission_Council_02 AkEvent]
+SpokenText="我明白你所面临的情况并不理想，指挥官，但我们应该做的更好的。反抗军都指望着你。"
+
+[S_Support_Tough_Mission_Council_03 AkEvent]
+SpokenText="不乐观的结果不仅仅会影响到你的船员，也会影响到整个反抗军，指挥官。如果我们想阻止外星威胁，我们必须做得更好。"
+
+[S_Support_Tough_Mission_Council_04 AkEvent]
+SpokenText="虽然你处在一个困难的位置上，指挥官，但希望你能成功的期望还是很高的。你需要回顾下所用的战术并在未来将损失最小化。"
+
+[S_Support_Tough_Mission_Council_05 AkEvent]
+SpokenText="你肯定会在我们的这场战争中经历各种困难的行动，指挥官。但我们只能迎面而上，我们必须做得更好。"
+
+[S_Victory_Council_01 AkEvent]
+SpokenText="敌占区的人们，请你们坚守阵地，继续战斗。我向你们保证，援军就快来了。"
+
+[S_Welcome_Resistance_CouncilSpokesman_01_Setup_Phase AkEvent]
+SpokenText="你好，指挥官。你所知道的理事会已经不复存在了。所有成员都已经向变种人组织倒戈。"
+
+[S_Welcome_Resistance_CouncilSpokesman_02_Setup_Phase AkEvent]
+SpokenText="只有一个例外。真高兴再次见到你。在你被俘获的日子里，我从从内部做了所有能做的来帮助反抗军网络。我们的努力也为最近解救你的行动提供了信息。不过，也造成了一些意料之外的后果。在你被释放后，变种人军队的行动次数有了显著增加。那些不受欢迎的客人们显然有什么目的。"
+
+[S_Welcome_Resistance_CouncilSpokesman_03_Setup_Phase AkEvent]
+SpokenText="你现在看到的是全世界失踪平民的机密报告。这个数目还在上升。我们怀疑他们正在被转移到某个秘密设施中。然而，这个猜想还未经证实，只有一个词在他们文件中被反复提及：\"化身\"。这个计划源于最高级别的变种人。我们确信这些失踪事件和外星人对你的兴趣是有关联的。"
+
+[S_Welcome_Resistance_CouncilSpokesman_04_Setup_Phase AkEvent]
+SpokenText="\"时间很紧迫，指挥官。我们需要你统领整个世界的抵抗运动，与当地组织建立联系并将他们纳入麾下，找出化身计划的真正内容并阻止它，从而拯救世界。时间不等人。祝你好运，指挥官。\n\""
+

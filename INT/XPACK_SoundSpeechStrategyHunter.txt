@@ -1,0 +1,282 @@
+﻿[Play_X2_XP_HNTR_S_ADVENT_Tower_Available AkEvent]
+SpokenText="I prefer to steer clear of that tower myself, there's some strange energy surrounding that place."
+
+[Play_X2_XP_HNTR_S_Assault_Avenger_First AkEvent]
+SpokenText="Ever since I first heard of this Avenger of yours, I've been dying to get a look at it up close. Go ahead - roll out the red carpet for me."
+
+[Play_X2_XP_HNTR_S_Assault_Avenger_Subs AkEvent]
+SpokenText="You managed to hold me for a while, but this time I'm grounding that ship of yours for good."
+
+[Play_X2_XP_HNTR_S_Assaulting_Bastion_First AkEvent]
+SpokenText="You had to expect I'd come for your friends eventually, Commander. I can't have them out there spreading word of your exploits, now can I?"
+
+[Play_X2_XP_HNTR_S_Assaulting_Bastion_Subs_A AkEvent]
+SpokenText="They knew what they were getting themselves into when they joined up with your resistance. The Elders don't have mercy to spare for anyone."
+
+[Play_X2_XP_HNTR_S_Assaulting_Bastion_Subs_B AkEvent]
+SpokenText="If I can't get to you directly, Commander, then I think it's time I root out all these little friends of yours skulking around out here."
+
+[Play_X2_XP_HNTR_S_Avatar_Meter_High AkEvent]
+SpokenText="Looks like the Elders are getting close to finishing their precious Avatar. I don't imagine that will be good for you and your friends."
+
+[Play_X2_XP_HNTR_S_Chosen_Knowledge_Complete AkEvent]
+SpokenText="Better make peace with the gods, Commander. I'm on my way."
+
+[Play_X2_XP_HNTR_S_Chosen_Knowledge_Halfway AkEvent]
+SpokenText="I'm getting closer every day, you've left quite the trail of destruction. At this rate I'll be touring the Avenger in no time."
+
+[Play_X2_XP_HNTR_S_Chosen_Leveled_Up AkEvent]
+SpokenText="I was good before, but this is something else entirely. I'm on a whole other level."
+
+[Play_X2_XP_HNTR_S_Covert_Action_Cancelled_Plans AkEvent]
+SpokenText="That's alright, I've got other plans for you anyway."
+
+[Play_X2_XP_HNTR_S_Dark_Event_Complete_A AkEvent]
+SpokenText="Things just don't seem to be going your way."
+
+[Play_X2_XP_HNTR_S_Dark_Event_Complete_B AkEvent]
+SpokenText="I hope you're not feeling overwhelmed by all the activity."
+
+[Play_X2_XP_HNTR_S_Dark_Event_Complete_C AkEvent]
+SpokenText="Next time perhaps you should pay more attention to these things."
+
+[Play_X2_XP_HNTR_S_Dark_Event_Complete_D AkEvent]
+SpokenText="I can think of several ways you could have prevented this situation."
+
+[Play_X2_XP_HNTR_S_Dark_Event_Complete_E AkEvent]
+SpokenText="It's not like you weren't warned about this, Commander."
+
+[Play_X2_XP_HNTR_S_Enter_Chosen_Territory AkEvent]
+SpokenText="And just where do you think you're going? If it's a fight you're after, you better bring everything you've got."
+
+[Play_X2_XP_HNTR_S_Geoscape_Favored AkEvent]
+SpokenText="If the Elders are favoring me, the other two must have really failed to impress them. I guess it's time I take this is a little more seriously."
+
+[Play_X2_XP_HNTR_S_Philosophy_A AkEvent]
+SpokenText="I tend to keep things simple: choose a target, pick up their trail, and then, when the time is right, I strike without warning! Think of it as mercy, most of them don't even have time to notice they're dead."
+
+[Play_X2_XP_HNTR_S_Philosophy_B AkEvent]
+SpokenText="The Elders don't make a habit of looking for me, we haven't been on the best of terms since they found I had been hunting some of their pets in my spare time. It's so hard to find a challenge these days, I just thought maybe I'd come up with something new."
+
+[Play_X2_XP_HNTR_S_Philosophy_C AkEvent]
+SpokenText="I'm not entirely sure what I'll do with this world once the Elders' go about their merry way. It might make for an interesting game reserve, maybe I'll just turn whoever survives loose on each other and see how it goes."
+
+[Play_X2_XP_HNTR_S_Photo_Booth_Taunt_Thres_Change_A AkEvent]
+SpokenText="Just look at this poor sap-all they ever wanted was to serve and fight for their Commander, and look where it got them."
+
+[Play_X2_XP_HNTR_S_Photo_Booth_Taunt_Thres_Change_B AkEvent]
+SpokenText="This is a good look for them, don't you think? The mighty XCOM warrior reduced to their true form."
+
+[Play_X2_XP_HNTR_S_Photo_Booth_Taunt_Thres_Change_C AkEvent]
+SpokenText="Despite the embarrassment of having been captured, your soldier has held up remarkably well. At least so far."
+
+[Play_X2_XP_HNTR_S_Player_Built_Shadow_Chamber AkEvent]
+SpokenText="I suppose that's one way to approach a problem you can't solve, just build a machine do it for you."
+
+[Play_X2_XP_HNTR_S_Player_Contacted_Reaper_HQ AkEvent]
+SpokenText="Just what are you and the Reapers up to, Commander? I've heard they'll eat just about anything, if they don't turn on you first."
+
+[Play_X2_XP_HNTR_S_Player_Contacted_Skirmisher_HQ AkEvent]
+SpokenText="If you thought the Elders were unhappy with you before, just wait till they hear you're working with those ADVENT goons that broke free somehow."
+
+[Play_X2_XP_HNTR_S_Player_Contacted_Templar_HQ AkEvent]
+SpokenText="If you ask me, these Templars are just as crazy as my brother. What is it about Psionic energy that seems to drive them so completely mad?"
+
+[Play_X2_XP_HNTR_S_Player_Found_Forge_Coords AkEvent]
+SpokenText="I'm warning you, if you insist on sending your people in there Commander, you'll be bringing them home in pieces."
+
+[Play_X2_XP_HNTR_S_Player_Found_Gate_Coords AkEvent]
+SpokenText="If I were you, I'd leave it alone, Commander. You have no idea what's waiting for you down this path."
+
+[Play_X2_XP_HNTR_S_Player_Killed_Avatar AkEvent]
+SpokenText="Killing one of the Avatars has certainly gotten the Elders' attention. They would never have let me take one as a trophy, that's for sure."
+
+[Play_X2_XP_HNTR_S_Player_Killed_Codex AkEvent]
+SpokenText="I'm impressed, I've always found those extra-dimensional beings to be especially irritating to hunt down."
+
+[Play_X2_XP_HNTR_S_Player_Near_Forge_Region AkEvent]
+SpokenText="You just can't leave well enough alone, can you? It's obvious where you're going, but I don't think you'll like what you find there."
+
+[Play_X2_XP_HNTR_S_Player_Near_Gate_Region AkEvent]
+SpokenText="Didn't I warn you about pursuing the Elders' artifacts? You're not leaving me a lot of options, and your soldiers are the ones who will pay the price."
+
+[Play_X2_XP_HNTR_S_Player_Recovered_Forge_Body AkEvent]
+SpokenText="I didn't know you were in the habit of snatching bodies, Commander. Now that you've got it, what exactly do you plan on doing with that thing anyway?"
+
+[Play_X2_XP_HNTR_S_Player_Recovered_Gate AkEvent]
+SpokenText="You just don't know when to leave well enough alone, do you, Commander? Go ahead, open the gate, I dare you."
+
+[Play_X2_XP_HNTR_S_Post_Chosen_Killed_A AkEvent]
+SpokenText="My siblings and I have had our differences, but still, I would never have expected either of them to go down like this."
+
+[Play_X2_XP_HNTR_S_Post_Chosen_Killed_B AkEvent]
+SpokenText="They were no pushovers, my siblings that is, so I guess you must be a little dangerous after all."
+
+[Play_X2_XP_HNTR_S_Post_Combat_Chosen_Success_A AkEvent]
+SpokenText="At least now you understand what you're up against. I hope you'll come up with something better next time around."
+
+[Play_X2_XP_HNTR_S_Post_Combat_Chosen_Success_B AkEvent]
+SpokenText="So you had a tough day, don't lose hope, Commander. If you quit now, who am I going to play with?"
+
+[Play_X2_XP_HNTR_S_Post_Combat_Chosen_Success_C AkEvent]
+SpokenText="I haven't had this much fun in years. Adjust your tactics a bit, and you might actually be a challenge for me."
+
+[Play_X2_XP_HNTR_S_Post_Combat_Chosen_Success_D AkEvent]
+SpokenText="You'll just have to tell your troops it was a temporary setback. You wouldn't want them getting too demoralized."
+
+[Play_X2_XP_HNTR_S_Post_Combat_Chosen_Success_E AkEvent]
+SpokenText="Did you think you were just going to walk all over me? There's a reason the Elders saved the best for last."
+
+[Play_X2_XP_HNTR_S_Post_Combat_XCOM_Success_A AkEvent]
+SpokenText="I had to expect you'd at least win a few of these little battles, the Elders wouldn't have wasted this much time if you were completely inept."
+
+[Play_X2_XP_HNTR_S_Post_Combat_XCOM_Success_B AkEvent]
+SpokenText="It's always exciting when someone defies expectations, and you've certainly done a good job at that."
+
+[Play_X2_XP_HNTR_S_Post_Combat_XCOM_Success_C AkEvent]
+SpokenText="I'm not big on surprises, and yet somehow I didn't see this coming."
+
+[Play_X2_XP_HNTR_S_Post_Combat_XCOM_Success_D AkEvent]
+SpokenText="Enjoy your victory, Commander, you've earned it. Just don't expect me to take this lying down."
+
+[Play_X2_XP_HNTR_S_Post_Combat_XCOM_Success_E AkEvent]
+SpokenText="Next time I won't go easy on you."
+
+[Play_X2_XP_HNTR_S_Retaliation_Blade_A AkEvent]
+SpokenText="Did your friends think I wouldn't notice this little quaint little refuge of theirs?"
+
+[Play_X2_XP_HNTR_S_Retaliation_Blade_B AkEvent]
+SpokenText="You led them down this path, Commander, and now your friends are going to pay the price."
+
+[Play_X2_XP_HNTR_S_Retaliation_Blade_C AkEvent]
+SpokenText="You should have known I'd be coming for your friends eventually."
+
+[Play_X2_XP_HNTR_S_Retaliation_Blade_D AkEvent]
+SpokenText="I hope at least a few of them down there know how to fight, there's no sport in shooting fish in a barrel."
+
+[Play_X2_XP_HNTR_S_Retaliation_Blade_E AkEvent]
+SpokenText="Looks like it's time for a little target practice."
+
+[Play_X2_XP_HNTR_S_Retaliation_Complete_A AkEvent]
+SpokenText="Normally I'd avoid picking on civilians, but you're really starting to get on the Elders' nerves, and they're just not going to let this go."
+
+[Play_X2_XP_HNTR_S_Retaliation_Complete_B AkEvent]
+SpokenText="I know you keep track of your soldiers, but what about all those civilians, Commander? Any idea how many you've lost out there?"
+
+[Play_X2_XP_HNTR_S_Retaliation_Complete_C AkEvent]
+SpokenText="The Elders don't spend a lot of time worrying about the difference between soldiers and civilians. It's all the same in the end."
+
+[Play_X2_XP_HNTR_S_Retaliation_Complete_D AkEvent]
+SpokenText="Hunting down civilians hiding in their homes doesn't make for much sport, but it's the only way I'm going to keep the Elders off my back."
+
+[Play_X2_XP_HNTR_S_Retaliation_Complete_E AkEvent]
+SpokenText="If this is what it takes to draw you out of hiding, Commander, then the Elders are more than willing to keep up the pressure."
+
+[Play_X2_XP_HNTR_S_Sabotage_Failed_A AkEvent]
+SpokenText="Hmmm...that didn't exactly work out as planned."
+
+[Play_X2_XP_HNTR_S_Sabotage_Failed_B AkEvent]
+SpokenText="I thought that would have worked pretty well. Go figure."
+
+[Play_X2_XP_HNTR_S_Sabotage_Failed_C AkEvent]
+SpokenText="I'll have to come up with something better next time."
+
+[Play_X2_XP_HNTR_S_Sabotage_Failed_D AkEvent]
+SpokenText="So, you saw through that one eh? You must think you're pretty clever."
+
+[Play_X2_XP_HNTR_S_Sabotage_Failed_E AkEvent]
+SpokenText="That's alright, I'm sure I'll get another chance soon enough."
+
+[Play_X2_XP_HNTR_S_Sabotage_Success_A AkEvent]
+SpokenText="It may have been a dirty trick, but you have to admit, it was effective."
+
+[Play_X2_XP_HNTR_S_Sabotage_Success_B AkEvent]
+SpokenText="Take it as a compliment, I'm doing whatever I can to slow you down."
+
+[Play_X2_XP_HNTR_S_Sabotage_Success_C AkEvent]
+SpokenText="You're not the only ones who can pull off a little sabotage."
+
+[Play_X2_XP_HNTR_S_Sabotage_Success_D AkEvent]
+SpokenText="Maybe the resistance could learn something from me."
+
+[Play_X2_XP_HNTR_S_Sabotage_Success_E AkEvent]
+SpokenText="I've had a lot time to come up with these tricks."
+
+[Play_X2_XP_HNTR_S_Soldier_Captured_A AkEvent]
+SpokenText="Dragging this prisoner along is only going to slow me down. You better hope they tell me something interesting, otherwise it's lights out."
+
+[Play_X2_XP_HNTR_S_Soldier_Captured_B AkEvent]
+SpokenText="Have I mentioned how I much I dislike playing jailer?"
+
+[Play_X2_XP_HNTR_S_Soldier_Captured_C AkEvent]
+SpokenText="I generally prefer not to collect human specimens, despite what the Elders may do in their spare time."
+
+[Play_X2_XP_HNTR_S_Soldier_Captured_D AkEvent]
+SpokenText="Taking captives is always an ugly business. I'd rather follow the blood trail than worry about keeping prisoners alive."
+
+[Play_X2_XP_HNTR_S_Soldier_Captured_E AkEvent]
+SpokenText="I'm guessing you'd rather get this one back alive, am I right, Commander? Maybe if you're lucky."
+
+[Play_X2_XP_HNTR_S_Soldier_Captured_Post_Covert_A AkEvent]
+SpokenText="Did you really think you could sneak by me? Me?! I have to say I'm a bit insulted. I'll try not to take it out on your friend though."
+
+[Play_X2_XP_HNTR_S_Soldier_Captured_Post_Covert_B AkEvent]
+SpokenText="I suppose you had to take the shot, but I doubt this is the outcome your comrade was hoping for."
+
+[Play_X2_XP_HNTR_S_Soldier_Rescued_A AkEvent]
+SpokenText="I'm so enjoying this little game of ours, I take your soldier captive, and sure enough you swoop in for the daring rescue. The question is, what happens next?"
+
+[Play_X2_XP_HNTR_S_Soldier_Rescued_B AkEvent]
+SpokenText="They probably wouldn't have told me anything useful anyway."
+
+[Play_X2_XP_HNTR_S_Soldier_Rescued_C AkEvent]
+SpokenText="So you took them back eh? I'm sure you'll send them right back into combat too-- lucky them."
+
+[Play_X2_XP_HNTR_S_Threshold_Taunts_Level_Four_A AkEvent]
+SpokenText="You should have covered your tracks before it was too late...as it stands, the great hunt will soon draw to a close."
+
+[Play_X2_XP_HNTR_S_Threshold_Taunts_Level_Four_B AkEvent]
+SpokenText="Get your guns out, Commander, it's time we finally had a look at this ship of yours up close-no more hiding."
+
+[Play_X2_XP_HNTR_S_Threshold_Taunts_Level_Four_C AkEvent]
+SpokenText="Finally the pursuit is over, now the real fun starts. I'll be there soon, Commander."
+
+[Play_X2_XP_HNTR_S_Threshold_Taunts_Level_Three_A AkEvent]
+SpokenText="I'm hot on your trail, Commander. A few more pieces to this little puzzle and I'll be there before you know it."
+
+[Play_X2_XP_HNTR_S_Threshold_Taunts_Level_Three_B AkEvent]
+SpokenText="You've been leaving a lot of loose ends untied, and the trail is fresher than ever."
+
+[Play_X2_XP_HNTR_S_Threshold_Taunts_Level_Three_C AkEvent]
+SpokenText="There are only so many places you can hide, Commander, and I'm runnin' out of places to check."
+
+[Play_X2_XP_HNTR_S_Threshold_Taunts_Level_Two_A AkEvent]
+SpokenText="I've tracked my prey across time itself, do you really think there's any place you can hide from me on this world?"
+
+[Play_X2_XP_HNTR_S_Threshold_Taunts_Level_Two_B AkEvent]
+SpokenText="If there's one thing the Elders' blessed me with, it's patience. In this case, things are already moving faster than I had expected."
+
+[Play_X2_XP_HNTR_S_Threshold_Taunts_Level_Two_C AkEvent]
+SpokenText="I admire your tenacity, but at this rate your days are numbered."
+
+[Play_X2_XP_HNTR_S_XCOM_Covert_Action_Ambushed AkEvent]
+SpokenText="Did you think you were just going to sneak right on by? Not likely."
+
+[Play_X2_XP_HNTR_S_XCOM_Fame_Spreading AkEvent]
+SpokenText="You're becoming famous, Commander. Your reputation is spreading beyond the resistance, and soon the whole world will be watching. Are you ready to put on a show?"
+
+[Play_X2_XP_HNTR_S_XCOM_Lost_Mission AkEvent]
+SpokenText="You have to admit, that was a little ugly. How do you manage to convince these recruits to join after a mission like that?"
+
+[Play_X2_XP_HNTR_S_XCOM_Lost_Stronghold AkEvent]
+SpokenText="You had your shot, Commander, and I certainly can't blame you for taking it. But, what would it say about me if I were to let you waltz right into my stronghold like that again? It wouldn't be pretty, so don't bother trying."
+
+[Play_X2_XP_HNTR_S_XCOM_Lost_Veteran_A AkEvent]
+SpokenText="It's never easy losing a soldier under your command, much less one you've committed so much time to. I guess you better be more careful, Commander."
+
+[Play_X2_XP_HNTR_S_XCOM_Lost_Veteran_B AkEvent]
+SpokenText="It must be difficult losing a valued asset, a friend, and a compatriot all at once. Still, be honest, you've already lined up their replacement, haven't you?"
+
+[Play_X2_XP_HNTR_S_XCOM_Recovered_Fragment AkEvent]
+SpokenText="So you figured out a new trick eh? I'm not sure it will do you any good. It's certainly not going to scare me off."
+

@@ -1,0 +1,24 @@
+﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_10 XComInteractiveLevelActor]
+FriendlyDisplayName="Secure Door"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_3 XComInteractiveLevelActor]
+FriendlyDisplayName="Secure Door"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_4 XComInteractiveLevelActor]
+FriendlyDisplayName="Secure Door"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_5 XComInteractiveLevelActor]
+FriendlyDisplayName="Secure Door"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_6 XComInteractiveLevelActor]
+FriendlyDisplayName="Secure Door"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_7 XComInteractiveLevelActor]
+FriendlyDisplayName="Secure Door"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_8 XComInteractiveLevelActor]
+FriendlyDisplayName="Secure Door"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_9 XComInteractiveLevelActor]
+FriendlyDisplayName="Secure Door"
+

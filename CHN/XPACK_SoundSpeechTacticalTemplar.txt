@@ -1,0 +1,6 @@
+﻿[Play_X2_XP_TMPL_T_Chosen_Captures_Templar_Response AkEvent]
+SpokenText="这份力量是为了守护所有人类而存在的，你们那扭曲的追求并不是我们同胞或是世界的答案。"
+
+[Play_X2_XP_TMPLM1_T_Extract_Know_Templar_Convo_A_2 AkEvent]
+SpokenText="所有圣殿骑士知道的我都知道。你们只是伪神的道具而已。"
+

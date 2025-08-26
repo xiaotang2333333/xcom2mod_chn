@@ -1,0 +1,1704 @@
+﻿[Play_X2_XP_WRLK_T_1st_Stronghold_Post_Intro AkEvent]
+SpokenText="如此勇气、如此决心，真是狂妄自大。你们竟然敢踏足这个神圣的庙宇，竟敢将神之子当成目标！你们的自大就是你们的败因。"
+
+[Play_X2_XP_WRLK_T_2nd_Stronghold_Post_Intro AkEvent]
+SpokenText="看来弑神者来继续他们的工作了。你们这群渺小人类还真是勇敢。来吧，感受真正的永生者的力量吧..."
+
+[Play_X2_XP_WRLK_T_3rd_Stronghold_Post_Intro AkEvent]
+SpokenText="的确，我的兄弟姐妹不过是长老荣光下的残影罢了。来吧，XCOM，我要让你们看看真正的神之子的力量！"
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_A AkEvent]
+SpokenText="去吧，用实际行动报效长老吧。"
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_B AkEvent]
+SpokenText="我们为长老的荣耀而战。"
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_C AkEvent]
+SpokenText="我们会以长老之名清除这个世界的污浊。"
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_D AkEvent]
+SpokenText="没有信仰之人必须灭亡！"
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_E AkEvent]
+SpokenText="我们穿越时间和空间，都是为了服侍长老。"
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_F AkEvent]
+SpokenText="发挥你们的作用，向人类示威吧！"
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_G AkEvent]
+SpokenText="将长老的仁慈赐予无神的异教徒。"
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_H AkEvent]
+SpokenText="上！消灭那些胆敢忤逆长老的人！"
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_I AkEvent]
+SpokenText="进军的时刻到了。"
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_J AkEvent]
+SpokenText="我们将掐灭反抗的星火。"
+
+[Play_X2_XP_WRLK_T_Avatar_Almost_Complete_A AkEvent]
+SpokenText="你快没时间了，指挥官。长老的终极杰作，化身，就快准备好了。"
+
+[Play_X2_XP_WRLK_T_Avatar_Almost_Complete_B AkEvent]
+SpokenText="长老最伟大的发明就快完成了，指挥官。你很快就能亲眼见识到化身了。"
+
+[Play_X2_XP_WRLK_T_Avatar_Almost_Complete_C AkEvent]
+SpokenText="很快我就能掌控地球了，指挥官。化身即将准备就绪，你的反抗行为也将到此为止。"
+
+[Play_X2_XP_WRLK_T_Avenger_Assault_Avenger_Critical AkEvent]
+SpokenText="你的回归与我的飞升，都近在咫尺了，指挥官！"
+
+[Play_X2_XP_WRLK_T_Avenger_Assault_First_Cannon_Hit AkEvent]
+SpokenText="长老有许多种惩戒罪人的手段，这不过是其中之一。"
+
+[Play_X2_XP_WRLK_T_Avenger_Assault_Generator_Destroyed AkEvent]
+SpokenText="尽管挣扎吧，你们是无法躲过长老之怒的。"
+
+[Play_X2_XP_WRLK_T_Avenger_Assault_On_Victory AkEvent]
+SpokenText="长老会把我认作他们真正的勇士！他们的最佳杰作！"
+
+[Play_X2_XP_WRLK_T_Avenger_Assault_Turret_Destroyed AkEvent]
+SpokenText="你什么都改变不了，什么都阻止不了！"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_A AkEvent]
+SpokenText="长老的仆从们 -- 来吧！"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_B AkEvent]
+SpokenText="来吧，小兵们！向我效忠就是向长老效忠！"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_C AkEvent]
+SpokenText="又有小兵来效忠长老了。"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_D AkEvent]
+SpokenText="我召唤长老无穷无尽的后备队！"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_E AkEvent]
+SpokenText="他们会像效忠我的主人一样效忠我。"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_F AkEvent]
+SpokenText="为了胜利，长老可以不惜一切代价。"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_G AkEvent]
+SpokenText="长老，再派小兵来支援我吧！"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_H AkEvent]
+SpokenText="长老无尽的仆从来增援我了。"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_I AkEvent]
+SpokenText="我感激长老对我的肯定及援助。"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_J AkEvent]
+SpokenText="托长老的福，我的增援到了！"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_High_Rank_A AkEvent]
+SpokenText="这名士兵身上的伤痕说明了他是个经验丰富的战士 -- 一个身经百战的老兵。他们的情报肯定能派上用处。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_High_Rank_B AkEvent]
+SpokenText="你就这样对待你手下最忠诚的士兵？随便抛弃在战场上？"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_High_Rank_C AkEvent]
+SpokenText="你对伤员的消极态度直接导致了这名经验丰富的战士被我们俘虏。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Jane AkEvent]
+SpokenText="长老对这个名叫简·凯莉的惯犯太熟悉了。不知这位深受你信任的密友会知道些什么情报。一起来探索吧，指挥官？"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Multiple_Soldiers_A AkEvent]
+SpokenText="你的每次失败都会导致士兵被我俘虏，而失去他们的羞愧之情也只会愈演愈烈。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Multiple_Soldiers_B AkEvent]
+SpokenText="虽然我不喜欢亲自动手处理这种鸡毛蒜皮的小事，但你一而再再而三地放任士兵被我俘虏，我也没法拒绝。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Multiple_Soldiers_C AkEvent]
+SpokenText="你有那么多士兵被俘虏，好好想想他们还能保守你的秘密多久吧，指挥官。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Psi_Op_A AkEvent]
+SpokenText="窃取长老之力不说还用这份力量来反抗他们，要不是你所知道的情报弥足珍贵，我早就当场处决你了。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Psi_Op_B AkEvent]
+SpokenText="你让这个士兵误入歧途了，指挥官。要理解长老的灵能首先要自己精通灵能，而你并没有这样的能力，所以教出来的人都是半桶水。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Psi_Op_C AkEvent]
+SpokenText="没有收到长老的祝福就使用长老之力的人必须受尽永世的折磨！"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Reaper_A AkEvent]
+SpokenText="你们猎杀，亵渎过许多长老的子民，而现在，你们就得把你们在那段时光里知道的所有东西统统告诉我。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Reaper_B AkEvent]
+SpokenText="看来暗影背叛了你，死神，所以你干脆背叛反抗军好了。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Reaper_C AkEvent]
+SpokenText="你会后悔自己忤逆过长老的，死神。你们当初就该好好地在野外游荡。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Reaper_D AkEvent]
+SpokenText="死神...长老非常熟悉你们野蛮的战斗方式，但现在，我们可以真正了解你们的异常行为究竟达到了何种程度了！"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Skirmisher_A AkEvent]
+SpokenText="你别以为我会忘记你们背叛过长老，但你现在拥有的反抗军情报倒是比你本人的战斗能力要有价值的多。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Skirmisher_B AkEvent]
+SpokenText="要是让我来选，我会亲手宰了你，叛徒，但换做是长老，肯定就会让我以反抗军的情报为先。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Skirmisher_C AkEvent]
+SpokenText="你们是最理想的俘虏，叛徒。长老创造了你们，因此你们永远无法在他们面前隐瞒任何东西。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Skirmisher_D AkEvent]
+SpokenText="你们背叛长老谋求自由，终究会为此付出代价的，现在就是你们赎罪的时候了。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Templar_A AkEvent]
+SpokenText="你们使用长老之力的企图只能给你们带去耻辱与痛苦。来，在你生命终结之前告诉我你的秘密。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Templar_B AkEvent]
+SpokenText="我迫不及待想看看你们对长老之力的理解达到了何种程度了，圣殿骑士。很快，你就会全部交代的。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Templar_C AkEvent]
+SpokenText="托长老的福，我俘虏到了你，圣殿骑士，所以，为了惩罚你擅自动用他们的力量，你脑袋里的情报我就笑纳了。"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Templar_D AkEvent]
+SpokenText="窃取长老之力的罪行必须用性命来偿还，不过目前来说，你只要把反抗军的情报提供给我就行了。"
+
+[Play_X2_XP_WRLK_T_Chosen_Close_To_Avenger_A AkEvent]
+SpokenText="时机就快成熟了，指挥官。我很快就会找到你，你那悬浮于空中的避难所也会被我烧成灰烬。"
+
+[Play_X2_XP_WRLK_T_Chosen_Close_To_Avenger_B AkEvent]
+SpokenText="你已经逃得够久了。时机即将成熟，指挥官。准备让你的飞船迎接我的到来吧。"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_First_Defeat_A AkEvent]
+SpokenText="你今天胜过了我，指挥官，但我一定能成功执行长老的计划。"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_First_Defeat_B AkEvent]
+SpokenText="我今天的失败不过是对我的忠心的一次考验，长老已经预见到了一切。"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_First_Defeat_C AkEvent]
+SpokenText="我会再次投身于长老的宏图建设！我会吸取这次失败的教训，上升到全新的高度！"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Generic_A AkEvent]
+SpokenText="我得考虑怎么向长老交代这次失败了。等我检讨完毕再来找你。"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Generic_B AkEvent]
+SpokenText="长老不会容忍这样的失败，我需要撤离战场保存实力！"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Generic_C AkEvent]
+SpokenText="你果然有点能耐，长老没有看错你，指挥官。我们下次见面的时候，我就会做好完全的准备。"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Generic_D AkEvent]
+SpokenText="你的布置很精彩，指挥官。等我回来，就拿你的人头来将功补过。"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Generic_E AkEvent]
+SpokenText="长老毫无疑问会对你在今天的战斗中表现出的实力啧啧称奇，指挥官，所以我就先行离开了。但你要是以为我放过你就大错特错了！"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Multiple_Defeats_A AkEvent]
+SpokenText="你让我给主人蒙羞了。但我相信他们的意见；如果你真的很弱，他们就不会派我来了。"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Multiple_Defeats_B AkEvent]
+SpokenText="即便是我最近的失败也无法动摇长老的信任。但我依旧会将功补过！"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Multiple_Defeats_C AkEvent]
+SpokenText="当我把你们人类全部灭绝后，这些失败很快就会被长老遗忘！"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_First_Hit_A AkEvent]
+SpokenText="你们是无法破坏我和长老的联系的！"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_First_Hit_B AkEvent]
+SpokenText="你们的努力是没有意义的！"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_First_Hit_C AkEvent]
+SpokenText="我是不会与长老分开的！"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Half_Health_A AkEvent]
+SpokenText="长老的声音变轻了！"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Half_Health_B AkEvent]
+SpokenText="我...听不清他们了！"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Hit_A AkEvent]
+SpokenText="你们的不敬真是不可饶恕！"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Hit_B AkEvent]
+SpokenText="你们竟敢玷污我和长老间的神圣联系！"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Hit_C AkEvent]
+SpokenText="我要让你们为此付出代价！"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Miss_A AkEvent]
+SpokenText="你们的命运由长老掌控！"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Miss_B AkEvent]
+SpokenText="没人能够触及圣地。"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Miss_C AkEvent]
+SpokenText="你们是无法中断这一联系的。"
+
+[Play_X2_XP_WRLK_T_Chosen_Reveal_I_am_Done_A AkEvent]
+SpokenText="这次我就先放你一马，指挥官。"
+
+[Play_X2_XP_WRLK_T_Chosen_Reveal_I_am_Done_B AkEvent]
+SpokenText="我已经胜利了，你们慢慢哀悼吧。"
+
+[Play_X2_XP_WRLK_T_Chosen_Reveal_I_am_Done_C AkEvent]
+SpokenText="好好享受这次缓刑吧。"
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_A AkEvent]
+SpokenText="长老的审判即将来临。"
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_B AkEvent]
+SpokenText="我走到哪都藏不住，因为强大的力量将会暴露我。"
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_C AkEvent]
+SpokenText="你的部队必定会被我歼灭，你也会回到长老的身边，指挥官。"
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_D AkEvent]
+SpokenText="你将成为我献上的最完美的贡品。"
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_E AkEvent]
+SpokenText="我会用你的血贯彻长老的意志。"
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_F AkEvent]
+SpokenText="我就快抓到你了。"
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_G AkEvent]
+SpokenText="我的力量将会横扫战场。"
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_H AkEvent]
+SpokenText="你觉得自己还能躲多久？"
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_I AkEvent]
+SpokenText="赎罪的时刻就快来临了。"
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_J AkEvent]
+SpokenText="准备好被救赎了吗？"
+
+[Play_X2_XP_WRLK_T_Chosen_Still_Has_Captive_A AkEvent]
+SpokenText="我很快就会处理掉这个俘虏，因为你显然认为抛弃他也没什么大不了的，指挥官。"
+
+[Play_X2_XP_WRLK_T_Chosen_Still_Has_Captive_B AkEvent]
+SpokenText="不知道长老的下等杂兵会怎么对待这名俘虏呢？既然你打算抛弃你的这位战友，那我干脆把他送给他们好了。"
+
+[Play_X2_XP_WRLK_T_Chosen_Still_Has_Captive_C AkEvent]
+SpokenText="看到你的战友沦为阶下囚你难道就不心痛吗？我很快就会榨干他们身上的情报，到时候我就没必要再让他们活着了。"
+
+[Play_X2_XP_WRLK_T_Chosen_Stronghold_Start AkEvent]
+SpokenText="我在你们的世界上四处漫游，给予任何胆敢反抗长老的人最严酷的惩戒。而现在，你们来到了我的圣所，主动来找我了。让我们尽快结束吧，我的神明还等待着你的归来呢。"
+
+[Play_X2_XP_WRLK_T_Chosen_True_Death_A AkEvent]
+SpokenText="坠入虚空...永无宁日。"
+
+[Play_X2_XP_WRLK_T_Chosen_Wounded_A AkEvent]
+SpokenText="我的伤口就是你们亵渎长老的铁证。你们会得到应得的惩罚的。"
+
+[Play_X2_XP_WRLK_T_Chosen_Wounded_B AkEvent]
+SpokenText="这些小伤是无法阻止我报效长老的。但你也不必担心，我会将这份痛苦加倍偿还给你们的。"
+
+[Play_X2_XP_WRLK_T_Chosen_Wounded_C AkEvent]
+SpokenText="你竟敢打伤长老手下最强大的勇士？！你将承受无尽的折磨！"
+
+[Play_X2_XP_WRLK_T_Corrupt_A AkEvent]
+SpokenText="他们的精神太脆弱了！"
+
+[Play_X2_XP_WRLK_T_Corrupt_B AkEvent]
+SpokenText="即便是弱者也可以有信仰。"
+
+[Play_X2_XP_WRLK_T_Corrupt_C AkEvent]
+SpokenText="他们将会凌驾于死亡。"
+
+[Play_X2_XP_WRLK_T_Corrupt_D AkEvent]
+SpokenText="来吧！超越死亡吧！"
+
+[Play_X2_XP_WRLK_T_Corrupt_E AkEvent]
+SpokenText="我的力量腐蚀了他们！"
+
+[Play_X2_XP_WRLK_T_Corrupt_F AkEvent]
+SpokenText="太容易了。"
+
+[Play_X2_XP_WRLK_T_Corrupt_G AkEvent]
+SpokenText="没有人是绝对纯洁的。"
+
+[Play_X2_XP_WRLK_T_Corrupt_H AkEvent]
+SpokenText="弱者也能够为我效命。"
+
+[Play_X2_XP_WRLK_T_Corrupt_I AkEvent]
+SpokenText="死亡，然后重生。"
+
+[Play_X2_XP_WRLK_T_Corrupt_J AkEvent]
+SpokenText="腐蚀一切吧。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_High_Rank_A AkEvent]
+SpokenText="这位士兵身上的伤痕说明他是个经验丰富的战士。抽取他的经历肯定能让我更好地报效长老。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_High_Rank_B AkEvent]
+SpokenText="这位士兵差点儿就让我相信他对恐惧是免疫的了，不过我相信，他终究会像其他人那样屈服于我的强压。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_High_Rank_C AkEvent]
+SpokenText="看到比他们经验更丰富的战友被我轻轻松松地抓到，你们的士兵感觉如何呀？"
+
+[Play_X2_XP_WRLK_T_Extract_Know_High_Rank_D AkEvent]
+SpokenText="我没想到这个士兵居然这么熟悉你的手腕，指挥官。长老肯定会很满意的。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_High_Rank_E AkEvent]
+SpokenText="放任这样一个经验丰富的战士被敌人俘虏，真是太可耻了，指挥官。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_Jane_Kelly_A AkEvent]
+SpokenText="这位士兵对你很重要吧，指挥官？毕竟她可是营救了你的人之一，肯定知道不少你的行动信息。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_Jane_Kelly_B AkEvent]
+SpokenText="我很清楚你犯下过哪些罪行，简·凯莉。我会用今天从你身上获取的信息来弥补你所造成的损伤的。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_Last_Time_A AkEvent]
+SpokenText="我没记错的话，上次你把一个士兵抛弃在了战场上，于是我就挖掘出了他们大脑中所有有关你的秘密。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_Last_Time_B AkEvent]
+SpokenText="如果你的士兵还是会像以前那样暴露出他们的弱点，那我迟早会从他们的大脑中提取出你的确切位置的。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_Last_Time_C AkEvent]
+SpokenText="你的士兵的大脑防线实在是不堪一击，等我找到你的时候记得向他们道个谢。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_Last_Time_D AkEvent]
+SpokenText="经过我们的上次交锋，我不禁好奇你的士兵究竟能够坚持多久，至少上次那个弱到没几下就泄密了。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_Last_Time_E AkEvent]
+SpokenText="在我们的上次交战中，我从你那些虚弱的士兵的大脑中获取了海量的信息，希望这次也能有这样的收获。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_Psi_Op_A AkEvent]
+SpokenText="这家伙不比那些卑贱的圣殿骑士好到哪去，都想未经长老祝福擅自使用他们的力量。我倒要看看他知道些什么。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_Psi_Op_B AkEvent]
+SpokenText="这家伙使用的力量并不属于你们这种下等生物。来，让我看看你对长老之力到底知道多少。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_Psi_Op_C AkEvent]
+SpokenText="不愿报效长老，又怎么用好长老之力呢？你就把这当是再教育吧。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_Reaper_A AkEvent]
+SpokenText="在暗影中潜藏了这么多年也无法改变你的秘密在数分钟内全部泄露给我的未来，死神。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_Skirmisher_A AkEvent]
+SpokenText="我倒要看看你背叛长老后都学到了什么东西，恶魔。"
+
+[Play_X2_XP_WRLK_T_Extract_Know_Templar_A AkEvent]
+SpokenText="你那虚无的信仰什么都不是，圣殿骑士，它们更无法保护你不被我深入大脑。"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Reaper_A AkEvent]
+SpokenText="趁现在有机会赶紧跑吧！"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Reaper_B AkEvent]
+SpokenText="你以为自己能狩猎我吗，死神！"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Reaper_C AkEvent]
+SpokenText="你可是很熟悉你们那令人生厌的战斗方式的！"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Reaper_D AkEvent]
+SpokenText="你们比战场上的爬虫好不到哪去！"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Reaper_E AkEvent]
+SpokenText="我要拿你们当长老手底下的下等小兵的饲料！"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Skirmisher_A AkEvent]
+SpokenText="我会赐予你无尽的折磨！"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Skirmisher_B AkEvent]
+SpokenText="我要让你们生不如死！"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Skirmisher_C AkEvent]
+SpokenText="你这只是在自讨苦吃！"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Skirmisher_D AkEvent]
+SpokenText="我会让你付出代价的，叛徒！"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Skirmisher_E AkEvent]
+SpokenText="下贱的叛徒！"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Templar_A AkEvent]
+SpokenText="我保证这是你最后一次亵渎长老之力！"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Templar_B AkEvent]
+SpokenText="你每窃取一丝长老之力都会付出相应的代价！"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Templar_C AkEvent]
+SpokenText="我要让你见识见识真正的灵能！"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Templar_D AkEvent]
+SpokenText="我会夺回你偷走的东西的，圣殿骑士！"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Templar_E AkEvent]
+SpokenText="这个世界永远不可能属于你！"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Skirmisher_A AkEvent]
+SpokenText="没了长老你们什么都不是！"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Skirmisher_B AkEvent]
+SpokenText="反抗我是徒劳的！"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Skirmisher_C AkEvent]
+SpokenText="你们不是我的对手，叛徒。"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Skirmisher_D AkEvent]
+SpokenText="你们真是毫无廉耻之心，叛徒。"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Skirmisher_E AkEvent]
+SpokenText="你们就像是迷路的小孩。"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Templar_A AkEvent]
+SpokenText="你们的理解还太过浅薄。"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Templar_B AkEvent]
+SpokenText="你玷污了长老之力！"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Templar_C AkEvent]
+SpokenText="这份力量在你身上太浪费了，圣殿骑士。"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Templar_D AkEvent]
+SpokenText="或许你该找个好老师？"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Templar_E AkEvent]
+SpokenText="你需要学习的还很多，圣殿骑士。"
+
+[Play_X2_XP_WRLK_T_Favored_Final_Battle AkEvent]
+SpokenText="我现在是借长老的意志统治地球，而我将不再容忍你们的行为。"
+
+[Play_X2_XP_WRLK_T_Favored_Final_Battle_Alt AkEvent]
+SpokenText="长老似乎打算让我当他们的护盾。他们没有搞错。你的征途将到此为止。"
+
+[Play_X2_XP_WRLK_T_Final_Mission_Start AkEvent]
+SpokenText="你竟敢迈足这片圣地，这受过长老祝福的圣所！？此等玷污圣地的报应将是你们完全无法想象的！"
+
+[Play_X2_XP_WRLK_T_First_Avenger_Assault_A AkEvent]
+SpokenText="我终于找到了你们的总部 -- 你们那亵渎了我的主人的神龛！今天，我要把它化为灰烬！"
+
+[Play_X2_XP_WRLK_T_First_Avenger_Assault_B AkEvent]
+SpokenText="摈弃你们的异端信仰，臣服于真神吧！不然就跟你们这复仇者号一样在烈火中毁灭。"
+
+[Play_X2_XP_WRLK_T_First_Avenger_Assault_C AkEvent]
+SpokenText="你们无路可逃，无处可藏了。今天你们必须与我这个长老的勇士在战场上展开面对面的较量！"
+
+[Play_X2_XP_WRLK_T_First_Combat_Assassin_Favored AkEvent]
+SpokenText="虽然长老祝福了我那鬼鬼祟祟的妹妹，但这只能让我更想把你献给他们。"
+
+[Play_X2_XP_WRLK_T_First_Combat_Favored AkEvent]
+SpokenText="长老赐予了我祝福，而我也不会辜负他们的期望。"
+
+[Play_X2_XP_WRLK_T_First_Combat_Hunter_Favored AkEvent]
+SpokenText="我那嗜血的兄弟得到了长老的偏爱，而我却依旧一心为他们效忠，我一定会将XCOM全部消灭。"
+
+[Play_X2_XP_WRLK_T_First_Encounter_A AkEvent]
+SpokenText="长老选中了我，他们也选中了你，指挥官。我们都命中注定为他们效命，实现他们的宏伟蓝图。来，束手就擒吧。"
+
+[Play_X2_XP_WRLK_T_First_Extraction_A AkEvent]
+SpokenText="长老赐予了我非同凡响的力量，我将用它来挖掘这个士兵内心深处的秘密。"
+
+[Play_X2_XP_WRLK_T_First_Extraction_B AkEvent]
+SpokenText="如果你真的不想感受长老的怒火，那又何必让你的士兵落在我手上呢。"
+
+[Play_X2_XP_WRLK_T_First_Monolith_Regeneration AkEvent]
+SpokenText="长老的力量让我变得完整。我感受不到痛苦，也不会死。而我唯一的愿望就是消灭所有胆敢反抗他们的人。"
+
+[Play_X2_XP_WRLK_T_First_Soldier_Capture_A AkEvent]
+SpokenText="我并没有抓俘虏的习惯，指挥官，也没打算给他们当保姆。但拒绝这么宝贵的情报源等于玩忽职守。"
+
+[Play_X2_XP_WRLK_T_First_Soldier_Capture_B AkEvent]
+SpokenText="身为一个亲身体验过俘虏生活的人，指挥官，你明明知道你这位忠实的支持者会有什么遭遇，却还是把他丢了下来。"
+
+[Play_X2_XP_WRLK_T_First_Time_Met_A AkEvent]
+SpokenText="地球反抗军那伟大的指挥官终于在服侍我的主人多年后回到了战场上。来吧，让我看看长老到底为什么那么青睐你。"
+
+[Play_X2_XP_WRLK_T_Gained_Know_Last_Time_A AkEvent]
+SpokenText="我们上回见面，你的士兵迫不及待地跟我分享了他们的情报，指挥官。他们这次还会如此热忱吗？"
+
+[Play_X2_XP_WRLK_T_Gained_Know_Last_Time_B AkEvent]
+SpokenText="上次交锋我获得不少情报，你的士兵还真比我料想得要聪明得多。"
+
+[Play_X2_XP_WRLK_T_Gained_Know_Last_Time_C AkEvent]
+SpokenText="指挥官，你倒是说说，如果是为了获得你的计划相关情报，还有什么比直接从你士兵的大脑中提取信息更有效？"
+
+[Play_X2_XP_WRLK_T_Generic_Extract_Know_A AkEvent]
+SpokenText="你们这种简单的头脑在长老之力面前是藏不住任何秘密的。只要等上一小会儿我就能挖掘出你所知道的一切。"
+
+[Play_X2_XP_WRLK_T_Generic_Extract_Know_B AkEvent]
+SpokenText="只要用长老之力轻轻一触，你这一生的经历都将归我所有。"
+
+[Play_X2_XP_WRLK_T_Generic_Extract_Know_C AkEvent]
+SpokenText="你这一生从出生到现在的经历都将呈现在我面前，供我阅览！"
+
+[Play_X2_XP_WRLK_T_Generic_Extract_Know_D AkEvent]
+SpokenText="你的指挥官抛弃了你，所以你现在应该背叛他还以颜色。我会深入你的大脑，获得需要的情报！"
+
+[Play_X2_XP_WRLK_T_Generic_Extract_Know_E AkEvent]
+SpokenText="你这小脑瓜里装着些什么秘密呢？很快我就比你还要清楚了，下等生物。"
+
+[Play_X2_XP_WRLK_T_Generic_Soldier_Capture_A AkEvent]
+SpokenText="指挥官，给这位士兵点动力，他会跟我交代什么有趣的事呢？"
+
+[Play_X2_XP_WRLK_T_Generic_Soldier_Capture_B AkEvent]
+SpokenText="你就这样任别人俘虏你的士兵？就连我都唾弃这种行为。"
+
+[Play_X2_XP_WRLK_T_Generic_Soldier_Capture_C AkEvent]
+SpokenText="长老肯定会让我活捉你的士兵，再从他们身上拷问出关于你的计划的情报来，指挥官。"
+
+[Play_X2_XP_WRLK_T_Generic_Soldier_Capture_D AkEvent]
+SpokenText="虽然在我看来任何忤逆长老的人都必须处以极刑，但为了更好地向长老尽忠，我就把他活捉回去，看看他知道些什么情报吧。"
+
+[Play_X2_XP_WRLK_T_Generic_Soldier_Capture_E AkEvent]
+SpokenText="我并不喜欢抓俘虏，像我这么有能力的人抓俘虏简直是大材小用。但我必须执行长老的命令，所以我会让这个可悲的家伙告诉我他知道的一切的。"
+
+[Play_X2_XP_WRLK_T_Golden_Path_Pod_Reveal_Blacksite AkEvent]
+SpokenText="你们已经在许多方面亵渎了长老，但我绝不会允许你们踏足这个地方。我的主人明确说过擅闯这里的人只有死路一条，而我将丝毫不差地贯彻他们的意志。"
+
+[Play_X2_XP_WRLK_T_Golden_Path_Pod_Reveal_Forge AkEvent]
+SpokenText="你们愚蠢地干扰延缓了长老计划的进度，浪费了他们太多的时间。今天我不会抓俘虏了，指挥官。你派来的人，全都得死。"
+
+[Play_X2_XP_WRLK_T_Golden_Path_Pod_Reveal_PsiGate AkEvent]
+SpokenText="你们妄图拿长老圣器做目的不纯的研究？你们已经证明了自己没有能力理解长老的宏图，所以我将赐你们一死来惩罚你们这次的愚行。"
+
+[Play_X2_XP_WRLK_T_Golden_Path_Pod_Reveal_Tower AkEvent]
+SpokenText="你打算让这场自私的战争持续多久？你还想牺牲多少条人命？这次我不会留活口了，擅闯此地的人一个都别活着。"
+
+[Play_X2_XP_WRLK_T_Has_XCOM_Bodyguards_A AkEvent]
+SpokenText="没想到你的士兵会背叛你吧，他们为保护我可是会不惜献出自己的生命哦。"
+
+[Play_X2_XP_WRLK_T_Has_XCOM_Bodyguards_B AkEvent]
+SpokenText="看到自己昔日的战友正在守护你的敌人，你下得了手杀他们吗？"
+
+[Play_X2_XP_WRLK_T_Healthy_Escape_Capture_A AkEvent]
+SpokenText="今天长老保佑我获得了胜利！我不仅毫发无伤，还抓到了一个能为我提供大量有意思的情报的俘虏。"
+
+[Play_X2_XP_WRLK_T_Healthy_Escape_Capture_B AkEvent]
+SpokenText="今天的胜利让我精神焕发，长老肯定会对我活抓了一个用以逼供的俘虏感到满意的。"
+
+[Play_X2_XP_WRLK_T_Healthy_Escape_Capture_C AkEvent]
+SpokenText="长老之力让我永远精神焕发，还保佑我抓到了一个俘虏作为今天的战利品。"
+
+[Play_X2_XP_WRLK_T_Healthy_Escape_Extract_A AkEvent]
+SpokenText="能轻轻松松就获取那么多关于你那个刚成点气候的组织的情报。看来我高估你了。"
+
+[Play_X2_XP_WRLK_T_Healthy_Escape_Extract_B AkEvent]
+SpokenText="长老肯定会对我的努力感到满意的，毕竟我获得了那么多有关你计划的情报，指挥官。我们很快会再见的。"
+
+[Play_X2_XP_WRLK_T_Healthy_Escape_Extract_C AkEvent]
+SpokenText="我今天肯定是得到长老的祝福了！获得许多而付出这么少，只有他们的青睐能让我如此好运。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Avenger_A AkEvent]
+SpokenText="长老之子已经攻击过你的船了，而指挥官你的出现则证明了，他们毫无意外地失败了。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Avenger_B AkEvent]
+SpokenText="我曾希望我能够第一个突袭你的那抢来的总部，贯彻长老的意志。无所谓了，因为我将是第一个把它彻底毁灭的。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Avenger_C AkEvent]
+SpokenText="这数年来，你都使用我们的飞船来反抗我们，这是对长老的严重亵渎。这下你明白天选者有多想纠正这一谬误了吧。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Avenger_D AkEvent]
+SpokenText="我的同胞动作还真挺快的，已经打到你的飞船跟前了。然而你依旧在这里抵抗，毫无疑问，他们失败了，真丢人。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Avenger_E AkEvent]
+SpokenText="我感应到我的同胞袭击了你的飞船，并且没能完成他们的任务。我是不会像他们这样丢长老的脸的。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeat_XCOM_A AkEvent]
+SpokenText="虽然我理应为同胞们的胜利感到高兴，但实际上我更后悔没有比他们先找到你。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeat_XCOM_B AkEvent]
+SpokenText="你让我很失望，指挥官。我还以为你有多厉害，结果你连我的同胞都打不过。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeat_XCOM_C AkEvent]
+SpokenText="你在过去确实难缠，但你最近被我同胞击败的事实不禁让我质疑起你的实力来。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeat_XCOM_D AkEvent]
+SpokenText="连我家族中的旁系小角色都无法战胜，指挥官，你又打算怎么胜过我呢？"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeat_XCOM_E AkEvent]
+SpokenText="长老赐予了我许多能力，不过你应该也知道了，三个天选者的实力并不是一致的。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeated_A AkEvent]
+SpokenText="虽然我的同胞们会因其过于明显的战术被你击败，但我可不像他们那样头脑简单。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeated_B AkEvent]
+SpokenText="我已经警告过我的兄弟姐妹，对长老的信仰是不能动摇的。他们会失败就说明他们的信仰还不够坚定。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeated_C AkEvent]
+SpokenText="你应该清楚，指挥官，我的同胞的失败并不能反映我的实力。低估了我你会后悔的。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeated_D AkEvent]
+SpokenText="你狡猾地利用了其他天选者的弱点，在战斗中击败了他们。但你可别以为我会像他们那样容易对付。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeated_E AkEvent]
+SpokenText="击败一个长老之子不代表你能击败其余两个。请不要忘记这点，指挥官。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Killed_A AkEvent]
+SpokenText="我能感受得到 -- 我们中的一人回到了长老身边 -- 他们在这个世界上的身体永远消失了。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Killed_B AkEvent]
+SpokenText="你杀害了我的同胞，长老的天选者！你本无权决定他们的生死！"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Killed_C AkEvent]
+SpokenText="我的同胞粗心大意地把自己葬送在了你那寥寥无几的军队手上，这让长老大为恼怒。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Killed_D AkEvent]
+SpokenText="天选者中的一人回到了长老的身边，而我也因此有了为他们复仇的动力。我一定会把你带回长老身边的，指挥官。"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Killed_E AkEvent]
+SpokenText="你为了击杀天选者中的一人赔上了这么多的兵力。你确定自己做好了与另一个天选者开战的准备？"
+
+[Play_X2_XP_WRLK_T_Last_Chosen_Alive_A AkEvent]
+SpokenText="长老赐予了我他们的能力，而我现在正是天选者最后的幸存者。我会实现我的神明的愿望 -- 让你跪倒在他们面前，指挥官。"
+
+[Play_X2_XP_WRLK_T_Last_Chosen_Alive_B AkEvent]
+SpokenText="我的兄弟姐妹始终没能理解长老赐予他们的那份力量到底有多么强大。这下他们一死，能够贯彻神明意志的人就只剩下我了。"
+
+[Play_X2_XP_WRLK_T_Last_Chosen_Alive_C AkEvent]
+SpokenText="你已经杀害了两名长老之子。但你即将面对有史以来最强大的勇士，一个真正掌握了长老能力的灵能大师！"
+
+[Play_X2_XP_WRLK_T_Last_Chosen_Alive_D AkEvent]
+SpokenText="和我预见的一样，我现在是最后的天选者，真正的天选者了。没有什么能够再阻碍我，你的末日就快到了！"
+
+[Play_X2_XP_WRLK_T_Last_Chosen_Alive_E AkEvent]
+SpokenText="我早就猜到执行长老命令的这份重担最终只会落到我一人身上。不过其他两个一死，我倒是方便了不少。"
+
+[Play_X2_XP_WRLK_T_Last_Visible_Hostile_Killed_A AkEvent]
+SpokenText="我不需要任何部下，没人能够完成我的命令。我会继续战斗！"
+
+[Play_X2_XP_WRLK_T_Last_Visible_Hostile_Killed_B AkEvent]
+SpokenText="我独自一人，无所畏惧。挑战我并遁入死亡吧！"
+
+[Play_X2_XP_WRLK_T_Last_Visible_Hostile_Killed_C AkEvent]
+SpokenText="其他人虽然死了，但你还得解决你最强大的对手。"
+
+[Play_X2_XP_WRLK_T_Last_Visible_Hostile_Killed_D AkEvent]
+SpokenText="没人碍手碍脚，这下你不得不直面我了。"
+
+[Play_X2_XP_WRLK_T_Last_Visible_Hostile_Killed_E AkEvent]
+SpokenText="我只希望你的部队有把我们全部杀光的胆识，指挥官。"
+
+[Play_X2_XP_WRLK_T_Lost_Turn_Begins_A AkEvent]
+SpokenText="这些无聊的害虫对我们之间的冲突并不关心，他们的无知倒是救了他们一命。"
+
+[Play_X2_XP_WRLK_T_Lost_Turn_Begins_B AkEvent]
+SpokenText="这些可怜的家伙比之前没有感染时还要可悲了。"
+
+[Play_X2_XP_WRLK_T_Lost_Turn_Begins_C AkEvent]
+SpokenText="他们没有目的也没有未来，只有最原始的本能。你们人类应该为自己能在有自我意识的时候死去感到庆幸。"
+
+[Play_X2_XP_WRLK_T_MindControl_A AkEvent]
+SpokenText="你的思想不再属于你了！"
+
+[Play_X2_XP_WRLK_T_MindControl_B AkEvent]
+SpokenText="遵从于我吧。"
+
+[Play_X2_XP_WRLK_T_MindControl_C AkEvent]
+SpokenText="让我来指引你。"
+
+[Play_X2_XP_WRLK_T_MindControl_D AkEvent]
+SpokenText="接受我的感化吧！"
+
+[Play_X2_XP_WRLK_T_MindControl_E AkEvent]
+SpokenText="你现在为我效命了。"
+
+[Play_X2_XP_WRLK_T_MindControl_F AkEvent]
+SpokenText="来，加入正义一方吧。"
+
+[Play_X2_XP_WRLK_T_MindControl_G AkEvent]
+SpokenText="我命你服从我。"
+
+[Play_X2_XP_WRLK_T_MindControl_H AkEvent]
+SpokenText="服从我，我就宽恕你！"
+
+[Play_X2_XP_WRLK_T_MindControl_I AkEvent]
+SpokenText="跪倒在你的主人面前吧！"
+
+[Play_X2_XP_WRLK_T_MindControl_J AkEvent]
+SpokenText="把你精神向我敞开吧！"
+
+[Play_X2_XP_WRLK_T_MindScorch_A AkEvent]
+SpokenText="告诉我 -- 你看到了什么？"
+
+[Play_X2_XP_WRLK_T_MindScorch_B AkEvent]
+SpokenText="见证无边的疯狂吧！"
+
+[Play_X2_XP_WRLK_T_MindScorch_C AkEvent]
+SpokenText="让我告诉你什么才是真相！"
+
+[Play_X2_XP_WRLK_T_MindScorch_D AkEvent]
+SpokenText="面对你内心最深处的恐惧吧。"
+
+[Play_X2_XP_WRLK_T_MindScorch_E AkEvent]
+SpokenText="你将感受我的所见。"
+
+[Play_X2_XP_WRLK_T_MindScorch_F AkEvent]
+SpokenText="看吧。"
+
+[Play_X2_XP_WRLK_T_MindScorch_G AkEvent]
+SpokenText="我就是你内心深处的那个声音。"
+
+[Play_X2_XP_WRLK_T_MindScorch_H AkEvent]
+SpokenText="你最大的敌人就是你自己。"
+
+[Play_X2_XP_WRLK_T_MindScorch_I AkEvent]
+SpokenText="有个未知的敌人在你内心深处。"
+
+[Play_X2_XP_WRLK_T_MindScorch_J AkEvent]
+SpokenText="让我们开启那道门扉。"
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Beat_XCOM_A AkEvent]
+SpokenText="看来你确实被我的同胞伤得不轻，但你现在得对付一个比他们更强大的敌人。"
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Beat_XCOM_B AkEvent]
+SpokenText="你的小队竟然连弱于我的天选者都应付不了，我预见到你的未来只有死路一条了，指挥官。"
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Beat_XCOM_C AkEvent]
+SpokenText="如果你的军队连下等天选者都打不过，他们又拿什么来对付像我这样货真价实的天选者呢？"
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Extract_Capture_A AkEvent]
+SpokenText="你居然让手下士兵这么容易地被我那堕落的同胞抓去？看来我的任务要比我预料得要容易。"
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Extract_Capture_B AkEvent]
+SpokenText="在我的同胞手上，你的士兵会遭受极为残酷的折磨的，指挥官。不过，我也不会对他们手下留情就是了。"
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Extract_Capture_C AkEvent]
+SpokenText="如果你连面对我那目中无人的同胞都免不了一败，那你的部队碰到我这样真正的长老勇士岂不是更没有胜算？"
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Extract_Capture_D AkEvent]
+SpokenText="我对你的表现很不满意，指挥官。居然让我的同胞之一战胜了你的部队，这对你的名声可不好。"
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Have_Captives_A AkEvent]
+SpokenText="你让我的同胞活捉了你的士兵？看来你的前景不妙啊，当然，你们已经很弱了。"
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Have_Captives_B AkEvent]
+SpokenText="我知道我的同胞已经抓获了来自你的部队的士兵，指挥官。他们可是自私自利的无信仰之徒，你得小心了。"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_A AkEvent]
+SpokenText="你居然敢背叛我们的神明..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_A2 AkEvent]
+SpokenText="就要做好直面他们怒火的觉悟。"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_B AkEvent]
+SpokenText="我不过是长老的代行者..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_B2 AkEvent]
+SpokenText="长老会凌驾于一切。"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_C AkEvent]
+SpokenText="异教徒不配被饶恕..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_C2 AkEvent]
+SpokenText="更不配与我们和谈！"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_D AkEvent]
+SpokenText="长老或许愿意原谅你们..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_D2 AkEvent]
+SpokenText="但我不会。"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_E AkEvent]
+SpokenText="神明佑我..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_E2 AkEvent]
+SpokenText="驱除来敌！"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_F AkEvent]
+SpokenText="罪不可恕的你们..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_F2 AkEvent]
+SpokenText="...就由我来处决。"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_G AkEvent]
+SpokenText="异教徒啊！来..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_G2 AkEvent]
+SpokenText="看清楚即将杀死你们的人长什么样！"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_H AkEvent]
+SpokenText="如果你们想要救赎..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_H2 AkEvent]
+SpokenText="那就乖乖站好接受处刑！"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_I AkEvent]
+SpokenText="抛弃你们的躯壳..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_I2 AkEvent]
+SpokenText="投身长老的怀抱！"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_J AkEvent]
+SpokenText="不必羞愧..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_J2 AkEvent]
+SpokenText="击败你们的是长老手下最强大的战士。"
+
+[Play_X2_XP_WRLK_T_Possess_A AkEvent]
+SpokenText="他们不会质疑任何命令。"
+
+[Play_X2_XP_WRLK_T_Possess_B AkEvent]
+SpokenText="我会亲自领导他们。"
+
+[Play_X2_XP_WRLK_T_Possess_C AkEvent]
+SpokenText="他会为我而战。"
+
+[Play_X2_XP_WRLK_T_Possess_D AkEvent]
+SpokenText="我也有自己的手下，指挥官。"
+
+[Play_X2_XP_WRLK_T_Possess_E AkEvent]
+SpokenText="报效长老吧！"
+
+[Play_X2_XP_WRLK_T_Possess_F AkEvent]
+SpokenText="我会把他们带到前所未有的高度！"
+
+[Play_X2_XP_WRLK_T_Possess_G AkEvent]
+SpokenText="我会操纵他们。"
+
+[Play_X2_XP_WRLK_T_Possess_H AkEvent]
+SpokenText="他们被我控制了。"
+
+[Play_X2_XP_WRLK_T_Possess_I AkEvent]
+SpokenText="长老把他们的军队赐给了我。"
+
+[Play_X2_XP_WRLK_T_Possess_J AkEvent]
+SpokenText="为神明服务是你的荣誉。"
+
+[Play_X2_XP_WRLK_T_Post_Chosen_Reveal_Response AkEvent]
+SpokenText="你们人类终于说出了真话。"
+
+[Play_X2_XP_WRLK_T_Post_Monolith_Taunts_A AkEvent]
+SpokenText="不可能！长老的声音...不见了。你们这群恶魔！我要杀了你们！"
+
+[Play_X2_XP_WRLK_T_Post_Monolith_Taunts_B AkEvent]
+SpokenText="长老并没有完全抛弃我。他们的力量依旧在我的身体内流淌。赢的人依旧会是我！"
+
+[Play_X2_XP_WRLK_T_Post_Monolith_Taunts_C AkEvent]
+SpokenText="然而，我依旧能听到别的声音。虽然只有细语，但那个声音变得越来越响。太美了。"
+
+[Play_X2_XP_WRLK_T_Post_Monolith_Taunts_D AkEvent]
+SpokenText="难道长老错了吗。不可能！不过，它还是有说对的地方。那就是力量！"
+
+[Play_X2_XP_WRLK_T_Post_Monolith_Taunts_E AkEvent]
+SpokenText="我必须找到答案。我必须知道！你们的存在打扰到了我，你们必须消失！"
+
+[Play_X2_XP_WRLK_T_Post_Squad_Teleports AkEvent]
+SpokenText="很好，渺小的人类，来找我吧。就像飞蛾扑火一样投入我的怀抱吧。"
+
+[Play_X2_XP_WRLK_T_Pre_Monolith_Taunts_A AkEvent]
+SpokenText="你们站在至圣之所，面对的是真正的神之子。在这里，我的力量是无穷的。长老会引领我走向胜利。"
+
+[Play_X2_XP_WRLK_T_Pre_Monolith_Taunts_B AkEvent]
+SpokenText="然而，从你们身上，我感觉到的不是敬意，而是蔑视。你们的思维是对这里的玷污。我要让你们为自己的罪行付出代价。"
+
+[Play_X2_XP_WRLK_T_Pre_Monolith_Taunts_C AkEvent]
+SpokenText="当然，你们是可悲的。不能听到长老的细语。不能感受到他们真正的力量。不必担心，我很快会让你们亲身感受一下。"
+
+[Play_X2_XP_WRLK_T_Pre_Monolith_Taunts_D AkEvent]
+SpokenText="你们感觉得到吗，渺小的人类。长老就在这里，注视着一切。你们现在命悬一线。神明们已经展露了微笑。"
+
+[Play_X2_XP_WRLK_T_Pre_Monolith_Taunts_E AkEvent]
+SpokenText="我不像我的同胞，你们的决心无法打动我。你们的行为只能阻碍我的主人的计划，是对他们最大的威胁。"
+
+[Play_X2_XP_WRLK_T_Pre_Monolith_Taunts_F AkEvent]
+SpokenText="要是我能将这个世界上的人类全部灭绝该有多好。遗憾的是，我的主人需要你们中的一部分人呢，为此我必须克制我破坏的欲望..."
+
+[Play_X2_XP_WRLK_T_Pre_Monolith_Taunts_G AkEvent]
+SpokenText="你们的坚持没法让我动容。我已经厌倦了这场战斗，厌倦了你们的存在。一切都到此为止了。"
+
+[Play_X2_XP_WRLK_T_Psi_Operative_Attack_A AkEvent]
+SpokenText="窃取长老之力还将他们用在长老的子民身上，这是最不可饶恕的罪孽！"
+
+[Play_X2_XP_WRLK_T_Psi_Operative_Attack_B AkEvent]
+SpokenText="你们对这份窃取来的力量一无所知！"
+
+[Play_X2_XP_WRLK_T_Psi_Operative_Attack_C AkEvent]
+SpokenText="神之力可不是你们这种生物能够使用的！"
+
+[Play_X2_XP_WRLK_T_Psi_Operative_Attack_D AkEvent]
+SpokenText="我不允许你们亵渎神的力量！"
+
+[Play_X2_XP_WRLK_T_Psi_Operative_Attack_E AkEvent]
+SpokenText="在真正的大师面前，你们跟孩童无异。就让我来证明这点吧！"
+
+[Play_X2_XP_WRLK_T_Ranger_Sword_Attack_A AkEvent]
+SpokenText="你可以用剑砍伤我，但我可以用灵能击溃你！"
+
+[Play_X2_XP_WRLK_T_Ranger_Sword_Attack_B AkEvent]
+SpokenText="你这花哨的剑术还是拿去对付我妹妹吧。"
+
+[Play_X2_XP_WRLK_T_Ranger_Sword_Attack_C AkEvent]
+SpokenText="要是你把它使得优雅些，那它本来还算得上是一件好兵器。"
+
+[Play_X2_XP_WRLK_T_Ranger_Sword_Attack_D AkEvent]
+SpokenText="明明欠缺身体力量却还选择剑作为武器，真奇怪。"
+
+[Play_X2_XP_WRLK_T_Ranger_Sword_Attack_E AkEvent]
+SpokenText="我已经很久没有见到过这么充满怨恨的剑击了。"
+
+[Play_X2_XP_WRLK_T_Reaper_Taunts_A AkEvent]
+SpokenText="贪食长老之力的血肉的野蛮之徒，就该永世被囚禁在虚空之中。"
+
+[Play_X2_XP_WRLK_T_Reaper_Taunts_B AkEvent]
+SpokenText="我的弟弟和妹妹可能会喜欢陪你们玩游戏，死神。但我可没这种耐心！"
+
+[Play_X2_XP_WRLK_T_Reaper_Taunts_C AkEvent]
+SpokenText="死神！你们是反抗军中最为懦弱的！至少你们的战友敢光明正大地与我一战。"
+
+[Play_X2_XP_WRLK_T_Reaper_Taunts_D AkEvent]
+SpokenText="你很快就会发现我跟你往日的猎物很不一样，死神。"
+
+[Play_X2_XP_WRLK_T_Reaper_Taunts_E AkEvent]
+SpokenText="看到了我完美的容貌可不要流口水，异教徒。长老宁可把我逐入虚空也不会让我被你们果腹的。"
+
+[Play_X2_XP_WRLK_T_Reinforced_While_Regenerate AkEvent]
+SpokenText="给你们点惊喜，上路的时候开心点。"
+
+[Play_X2_XP_WRLK_T_Retaliation_Taunt_A AkEvent]
+SpokenText="反抗长老的人只有死路一条。"
+
+[Play_X2_XP_WRLK_T_Retaliation_Taunt_B AkEvent]
+SpokenText="不必同情他们，你们很快会跟他们团聚！"
+
+[Play_X2_XP_WRLK_T_Retaliation_Taunt_C AkEvent]
+SpokenText="这就是你们这些反抗军的下场 -- 在火焰与痛苦中惨死。"
+
+[Play_X2_XP_WRLK_T_RifleShot_A AkEvent]
+SpokenText="构造简单的武器，专门用来对付头脑简单的敌人。"
+
+[Play_X2_XP_WRLK_T_RifleShot_B AkEvent]
+SpokenText="或许你更喜欢这样。"
+
+[Play_X2_XP_WRLK_T_RifleShot_C AkEvent]
+SpokenText="我的主人坚持让我试试它。"
+
+[Play_X2_XP_WRLK_T_RifleShot_D AkEvent]
+SpokenText="我也不太情愿。"
+
+[Play_X2_XP_WRLK_T_RifleShot_E AkEvent]
+SpokenText="真是种古老的技艺。"
+
+[Play_X2_XP_WRLK_T_RifleShot_F AkEvent]
+SpokenText="你们逼我的。"
+
+[Play_X2_XP_WRLK_T_RifleShot_G AkEvent]
+SpokenText="我必须这么做。"
+
+[Play_X2_XP_WRLK_T_RifleShot_H AkEvent]
+SpokenText="宽恕即将来临。"
+
+[Play_X2_XP_WRLK_T_RifleShot_I AkEvent]
+SpokenText="让我们结束这一切吧。"
+
+[Play_X2_XP_WRLK_T_RifleShot_J AkEvent]
+SpokenText="如神明所愿。"
+
+[Play_X2_XP_WRLK_T_Skirmisher_Taunts_A AkEvent]
+SpokenText="看来我的妹妹没能完成她那将你们全部剿灭的任务。我可不会像她那样粗心。"
+
+[Play_X2_XP_WRLK_T_Skirmisher_Taunts_B AkEvent]
+SpokenText="你们本就是长老麾下最下等的仆从，没想到还能进一步堕落。就让我来了结你吧，叛徒。"
+
+[Play_X2_XP_WRLK_T_Skirmisher_Taunts_C AkEvent]
+SpokenText="别以为我会对你手下留情，散兵。不，我只会因你背叛过长老加倍惩罚你！"
+
+[Play_X2_XP_WRLK_T_Skirmisher_Taunts_D AkEvent]
+SpokenText="是不是只要有人给你们点目标你们就会像狗一样地去服从，叛徒？那还不如从容接受长老的关怀。"
+
+[Play_X2_XP_WRLK_T_Skirmisher_Taunts_E AkEvent]
+SpokenText="你们的新战友知不知道你们在为长老效命时对人类犯下的罪行？他们真的知道你们当初是怎么对待人类的吗？"
+
+[Play_X2_XP_WRLK_T_Soldier_Captured_Last_Time_A AkEvent]
+SpokenText="你那个被我们抓住的士兵怕我怕到发抖，三下五除二就把你的秘密全给抖出来了，指挥官。"
+
+[Play_X2_XP_WRLK_T_Soldier_Captured_Last_Time_B AkEvent]
+SpokenText="人类的大脑真是太脆弱了，希望我没给这个俘虏留下太深的心理阴影。"
+
+[Play_X2_XP_WRLK_T_Soldier_Captured_Last_Time_C AkEvent]
+SpokenText="我还以为你的部队会更能扛些呢，反正被抓住的这个是投降得比谁都快。"
+
+[Play_X2_XP_WRLK_T_Soldier_Captured_Last_Time_D AkEvent]
+SpokenText="你让抓俘虏这种事变得太过容易了，指挥官，我都快骄傲自满了。"
+
+[Play_X2_XP_WRLK_T_Soldier_Captured_Last_Time_E AkEvent]
+SpokenText="你的士兵信任你的领导，指挥官，上次见面你却放任我俘虏了一名士兵。"
+
+[Play_X2_XP_WRLK_T_Soldier_Captured_Last_Time_F AkEvent]
+SpokenText="我在俘虏心中植入的恐惧足以使他们告诉我任何事情，指挥官。"
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_A AkEvent]
+SpokenText="看来我可以进一步了解一下你的行动了，这倒是个意外之喜。你不保护好自己士兵的行为让我省了不少功夫，指挥官。"
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_B AkEvent]
+SpokenText="我应该能从这个可怜的家伙身上套出不少有关你的计划的情报。"
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_C AkEvent]
+SpokenText="或许你还不理解让士兵落到我手上会有多危险，他们知道的一切很快就归我了。"
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_D AkEvent]
+SpokenText="希望这个士兵最起码知道你未来的计划，指挥官。反正你也不怎么在乎他。"
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_E AkEvent]
+SpokenText="他会为你的罪行付出代价，把他知道的所有反抗军的情报都告诉我。你的死期就快到了！"
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_F AkEvent]
+SpokenText="这种虚弱的状态下，你的士兵的心理防线就更禁不住我的拷问了。很快我就会发现你那珍贵的复仇者号的具体位置了。"
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_G AkEvent]
+SpokenText="我相信他肯定熟悉你的行事手段，指挥官。就算他们并不情愿，也不得不全部告诉我。"
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_H AkEvent]
+SpokenText="身为真正掌握了长老之力的灵能大师，我只要轻轻一触就能攻破你的士兵那无比脆弱的心理防线。"
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_I AkEvent]
+SpokenText="你的士兵知道的，看到的，都将被我所获悉。"
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_J AkEvent]
+SpokenText="这个士兵或许能提供些有意思的情报，让我更接近你的行动中心。不知他们会告诉我你的哪些小计划呢？"
+
+[Play_X2_XP_WRLK_T_Soldier_Killed_A AkEvent]
+SpokenText="长老可能仍然愿意原谅他们。"
+
+[Play_X2_XP_WRLK_T_Soldier_Killed_B AkEvent]
+SpokenText="不必哀悼，你们很快就能重聚了。"
+
+[Play_X2_XP_WRLK_T_Soldier_Killed_C AkEvent]
+SpokenText="把自己交给长老吧，指挥官。不要再让手下白白送死了。"
+
+[Play_X2_XP_WRLK_T_Soldier_Killed_D AkEvent]
+SpokenText="从他们忤逆长老意志的那一刻起，他们的命运就注定了。"
+
+[Play_X2_XP_WRLK_T_Soldier_Killed_E AkEvent]
+SpokenText="他们是为了保护你而死的，指挥官。"
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_A AkEvent]
+SpokenText="有时候我也驾驭不住这份力量。"
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_B AkEvent]
+SpokenText="这是长老的旨意。"
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_C AkEvent]
+SpokenText="不过是让你多活一会儿。"
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_D AkEvent]
+SpokenText="长老命我让你多活一会儿。"
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_E AkEvent]
+SpokenText="这倒是有意思。"
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_F AkEvent]
+SpokenText="我必须弥补这一过错。"
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_G AkEvent]
+SpokenText="长老不会满意的。"
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_H AkEvent]
+SpokenText="下次我会打中的。"
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_A AkEvent]
+SpokenText="自作自受。"
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_B AkEvent]
+SpokenText="这只不过是长老之力的皮毛！"
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_C AkEvent]
+SpokenText="这下你明白等待你的会是什么了吗？"
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_D AkEvent]
+SpokenText="你这只是苟延残喘。"
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_E AkEvent]
+SpokenText="你终将迎来死亡。"
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_F AkEvent]
+SpokenText="趁你还有口气，向长老投降吧。"
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_G AkEvent]
+SpokenText="好好享受人生最后的时光吧。"
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_H AkEvent]
+SpokenText="你的生命力在消失，虚空正在吞噬你。"
+
+[Play_X2_XP_WRLK_T_Spark_Attacks_A AkEvent]
+SpokenText="你已经被逼到了用机器为你代劳的程度了吗，指挥官？"
+
+[Play_X2_XP_WRLK_T_Spark_Attacks_B AkEvent]
+SpokenText="对于生命的拙劣模仿也只有这种程度了。"
+
+[Play_X2_XP_WRLK_T_Spark_Attacks_C AkEvent]
+SpokenText="你这是士兵士气太低，只能借助机器杀敌了？"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_A AkEvent]
+SpokenText="现身吧，我的仆人们！"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_B AkEvent]
+SpokenText="从虚空而来！"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_C AkEvent]
+SpokenText="我以天选者的身份召唤你们！"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_D AkEvent]
+SpokenText="我的军队，出来吧！"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_E AkEvent]
+SpokenText="快保护你们的主人！"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_F AkEvent]
+SpokenText="灵魂们保护着我。"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_G AkEvent]
+SpokenText="他们的沉睡结束了。"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_H AkEvent]
+SpokenText="他们在世界之间穿行。"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_I AkEvent]
+SpokenText="灵魂聚集起来了。"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_J AkEvent]
+SpokenText="觉醒吧，守护者们！"
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_A AkEvent]
+SpokenText="渺小的人类啊，你们太过无礼了。大胆地迈向未知事物。如果你们知道这个地方的真相怕是会立刻跑回你们的襁褓中吧。"
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_B AkEvent]
+SpokenText="长老的意志必须被贯彻...你们感觉得到吗，人类？他们是无所不在的。即便是现在，他们也注视着你们。"
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_C AkEvent]
+SpokenText="你们才是真正的邪恶之辈。区区细菌竟斗胆蔑视神明。你们的存在玷污了这里。"
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_D AkEvent]
+SpokenText="长老不才是真正拯救了你们人类的救世主吗？他们为拯救整个宇宙而战。但你却要阻挠他们，准备为自己的无知丢掉性命。"
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_E AkEvent]
+SpokenText="我当初竟然认为过自己是个人类，真是让我无地自容。你们是如此的渺小，如此的无知，你们根本不配得到长老的关注。"
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_F AkEvent]
+SpokenText="即便是现在，长老依旧爱着你们。他们心怀慈悲，劝阻我也要心怀同情。所以我今天就给你们个痛快。"
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_G AkEvent]
+SpokenText="你们的失败，XCOM，是你们人类获救的唯一办法。把你们的世界和其中的人都交给我们吧，我会好好照顾他们的。"
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_H AkEvent]
+SpokenText="只要我们天选者还有一人幸存，长老就绝不会失败！你们只不过是在拖延人类的救赎，还不如在真正的敌人现身前投降！"
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_I AkEvent]
+SpokenText="我还得忍受你们亵渎神明的行为多久！如果你们想要的是和平，那我就给你们和平好了。来吧，XCOM，屈服于我的力量。我保证让你们死的毫无痛苦！"
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_J AkEvent]
+SpokenText="你们始终忤逆着我们。我们已经控制了这个世界多年，要不是长老还需要你们，我早就把你们灭绝了。"
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_K AkEvent]
+SpokenText="他们的愿望达成了。你们今天的行为终于让长老无法再留手，他们对你们失去了耐心。快了，很快这个世界就是我的了。"
+
+[Play_X2_XP_WRLK_T_Stronghold_Post_Teleport AkEvent]
+SpokenText="你们的命运从踏足这里的那一刻起就注定了，XCOM。逃到哪里去都改变不了最终的结果。"
+
+[Play_X2_XP_WRLK_T_Subs_Avenger_Assault_A AkEvent]
+SpokenText="你们的飞船在我们上次交锋时侥幸逃脱了，但这不代表我会再次失败。你会向我俯首称臣的，指挥官。"
+
+[Play_X2_XP_WRLK_T_Subs_Avenger_Assault_B AkEvent]
+SpokenText="我决不允许你的飞船成为忤逆神明的异教徒的象征。你就和它共同毁灭于此吧！"
+
+[Play_X2_XP_WRLK_T_Subs_Avenger_Assault_C AkEvent]
+SpokenText="你们已经错过了救赎的机会，现在，你们要为你们的反抗行为付出代价。"
+
+[Play_X2_XP_WRLK_T_Subs_Avenger_Assault_D AkEvent]
+SpokenText="今天我要摧毁你们那珍贵的复仇者号，让它被这个世界上你所有的同伙遗忘。"
+
+[Play_X2_XP_WRLK_T_Subs_Avenger_Assault_E AkEvent]
+SpokenText="说再见吧，指挥官。长老要求把你带回去，而我必将落实他们的要求。"
+
+[Play_X2_XP_WRLK_T_Teleport_A AkEvent]
+SpokenText="长老会将你带到别处。"
+
+[Play_X2_XP_WRLK_T_Teleport_B AkEvent]
+SpokenText="战术性换位。"
+
+[Play_X2_XP_WRLK_T_Teleport_C AkEvent]
+SpokenText="我就是及时雨。"
+
+[Play_X2_XP_WRLK_T_Teleport_D AkEvent]
+SpokenText="你周围的世界正在更迭。"
+
+[Play_X2_XP_WRLK_T_Teleport_E AkEvent]
+SpokenText="让我来带走你。"
+
+[Play_X2_XP_WRLK_T_Teleport_F AkEvent]
+SpokenText="该在什么地方就去什么地方。"
+
+[Play_X2_XP_WRLK_T_Teleport_G AkEvent]
+SpokenText="做人就该懂得随机应变。"
+
+[Play_X2_XP_WRLK_T_Teleport_H AkEvent]
+SpokenText="要么适应新环境，要么一死了之。"
+
+[Play_X2_XP_WRLK_T_Teleport_I AkEvent]
+SpokenText="走路当心点。"
+
+[Play_X2_XP_WRLK_T_Teleport_J AkEvent]
+SpokenText="他们依照我的指令行动。"
+
+[Play_X2_XP_WRLK_T_Templar_Taunts_A AkEvent]
+SpokenText="你们在我这个真正的灵能大师面前使用长老之力就是班门弄斧。我出生时就带着比你们强大许多的意志，圣殿骑士！"
+
+[Play_X2_XP_WRLK_T_Templar_Taunts_B AkEvent]
+SpokenText="当圣殿骑士们因对长老犯下的罪行坠入虚空时，就会发现眼前除了无边的黑暗什么都没有。"
+
+[Play_X2_XP_WRLK_T_Templar_Taunts_C AkEvent]
+SpokenText="你们使用长老之力的稚嫩企图只能给你们人类带来痛苦和耻辱，圣殿骑士。"
+
+[Play_X2_XP_WRLK_T_Templar_Taunts_D AkEvent]
+SpokenText="当你的死期到来，圣殿骑士，长老之力将会和你的最后一口气一同消失。"
+
+[Play_X2_XP_WRLK_T_Templar_Taunts_E AkEvent]
+SpokenText="我保证用你妄图窃取的这份力量置你于死地，圣殿骑士！"
+
+[Play_X2_XP_WRLK_T_Two_Chosen_Remain_A AkEvent]
+SpokenText="他们是我的同胞 -- 我对他们的死感到悲伤，但不会就此停止我前进的步伐。长老的宏图和我的成功都是注定会被实现的。"
+
+[Play_X2_XP_WRLK_T_Two_Chosen_Remain_B AkEvent]
+SpokenText="他们两个中的一人死了，我又离获得长老许诺给我的这个世界近了一步。"
+
+[Play_X2_XP_WRLK_T_Two_Chosen_Remain_C AkEvent]
+SpokenText="我知道你做了什么，指挥官。我会摧残你的心智，用你的鲜血来祭奠我那逝去的同胞！"
+
+[Play_X2_XP_WRLK_T_Two_Chosen_Remain_D AkEvent]
+SpokenText="我同胞中的一人超越了这个世界的物理束缚，和长老融为一体了。很快，你也会知道这种感觉有多么美妙了。"
+
+[Play_X2_XP_WRLK_T_Two_Chosen_Remain_E AkEvent]
+SpokenText="我可不会像我那失败的同胞一样好对付，没人比我更理解长老赐予的这份神力！"
+
+[Play_X2_XP_WRLK_T_Two_Chosen_Remain_F AkEvent]
+SpokenText="长老在迎接他们那英勇战死的孩子的同时，也祝福我能够克敌制胜了。觉悟吧，异教徒！"
+
+[Play_X2_XP_WRLK_T_Was_Defeated_A AkEvent]
+SpokenText="就算你过去战胜过我，也不能让我对长老之力的信仰产生动摇！"
+
+[Play_X2_XP_WRLK_T_Was_Defeated_B AkEvent]
+SpokenText="我的信念，我的决意，只会随着失败的次数的增加而变得越发坚定。"
+
+[Play_X2_XP_WRLK_T_Was_Defeated_C AkEvent]
+SpokenText="失败也好，胜利也罢，我对长老的信仰是不会动摇的。谁也不能阻止我！"
+
+[Play_X2_XP_WRLK_T_Was_Defeated_D AkEvent]
+SpokenText="我是不会因为过去的失败而太过沮丧的，因为我还活着，并且新的战斗即将打响。"
+
+[Play_X2_XP_WRLK_T_Was_Defeated_E AkEvent]
+SpokenText="长老迫使，不，激励我继续战斗。你过去的胜利不会对这场战斗的结果产生任何影响。"
+
+[Play_X2_XP_WRLK_T_Was_Defeated_F AkEvent]
+SpokenText="你别想再享受从过去的胜利中获得的荣耀感了，指挥官。我是不会失败两次的！"
+
+[Play_X2_XP_WRLK_T_Was_Defeated_G AkEvent]
+SpokenText="我不会细想过往的败绩，我只会看到我那命中注定的崛起和成功，这个世界是属于我的！"
+
+[Play_X2_XP_WRLK_T_Was_Defeated_H AkEvent]
+SpokenText="长老养育我就是为了让我为他们而战，有了他们的关爱，没有什么失败是我没法克服的。"
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Capture_A AkEvent]
+SpokenText="这些伤口无法带给我痛苦，因为这是为了给长老赢得胜利必须付出代价。而这个被我抓住的士兵会确保这一点。"
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Capture_B AkEvent]
+SpokenText="我不畏惧受伤，只要能给长老带来胜利就行。你的士兵我就当战利品带走了，他们会填补我的空虚的。"
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Capture_C AkEvent]
+SpokenText="受这些伤一定是长老冥冥之中的安排。你那个被我俘虏的士兵也即将如此。"
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Capture_D AkEvent]
+SpokenText="你打得比我预料得要好得多，可惜，这些伤口可以痊愈。但这个士兵透露的情报呢？你可能要栽在这上面了。"
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Capture_E AkEvent]
+SpokenText="我今天受的伤，在虚空面前根本不值一提。但这个被我抓住的士兵将会告诉我的情报，是永远不会被人忘记的。"
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Capture_F AkEvent]
+SpokenText="如果是为长老服务，那我很乐意抛洒我的鲜血。相应的，你的这位士兵很快就会加入我们，他的情报将让我离你更近一步。"
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Extract_A AkEvent]
+SpokenText="长老会治好我的伤口，就像从没受过伤一样，但你今天损失的情报可就永远是我们的了，指挥官。"
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Extract_B AkEvent]
+SpokenText="在这种紧要关头，我知道长老会治愈我的伤口，这让我倍感安心。而有了我今天获得情报，他们肯定会非常乐意治疗我的。"
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Extract_C AkEvent]
+SpokenText="如果我注定要为长老流血，那我会非常欣然为得到关于你向何方逃去的情报而这样做。长老会对我的成果感到满意的。"
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Extract_D AkEvent]
+SpokenText="如果你能像今天这样把你的秘密泄露给长老，那我非常乐意受这点伤。"
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Extract_E AkEvent]
+SpokenText="我的胜利证明了只要满足了长老的期待，受怎样的伤都值得。我们很快就会来找你的，指挥官。"
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Extract_F AkEvent]
+SpokenText="在时间面前，这些伤口什么都不是，更何况我今天获得的情报还能让长老龙颜大悦。"
+
+[Play_X2_XP_WRLK_T_WRLK_Captures_Elena_Convo_A_1 AkEvent]
+SpokenText="这下你们那广受敬仰的领袖沃尔克该怎么看你啊，艾琳娜？弱小不说还落入敌手，你将成为我们宝贵的情报源，为我们带来胜利。"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Grenades_A AkEvent]
+SpokenText="真是原始的武器。"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Grenades_B AkEvent]
+SpokenText="简陋至极！"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Grenades_C AkEvent]
+SpokenText="这种程度的爆炸也想吓到我！"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Grenades_D AkEvent]
+SpokenText="你们就没有厉害点的东西了？！"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Grenades_E AkEvent]
+SpokenText="太落后了！"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Hunter_Weap_A AkEvent]
+SpokenText="真是件奇怪的武器。"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Hunter_Weap_B AkEvent]
+SpokenText="或许这件武器应该用在上一个纪元。"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Hunter_Weap_C AkEvent]
+SpokenText="你真的已经穷到要用古董当武器了吗，指挥官？"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Squadsight_A AkEvent]
+SpokenText="你们那看上去很有效的战术也只有这点程度了。"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Squadsight_B AkEvent]
+SpokenText="看来你们还是会那么一种战术的。"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Squadsight_C AkEvent]
+SpokenText="看来你赌赢了。"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Squadsight_D AkEvent]
+SpokenText="不错的计谋，指挥官。"
+
+[Play_X2_XP_WRLK_T_XCOM_Attempts_Rescue_A AkEvent]
+SpokenText="看来，你来找你那被囚禁的战友了。出发点很好，可惜并没有用处。"
+
+[Play_X2_XP_WRLK_T_XCOM_Attempts_Rescue_B AkEvent]
+SpokenText="你这样重复过去错误的行为可没法得到我的肯定，指挥官。"
+
+[Play_X2_XP_WRLK_T_XCOM_Attempts_Rescue_C AkEvent]
+SpokenText="你来救你那被俘虏的朋友了？所以你为了救他们打算牺牲几条人命？"
+
+[Play_X2_XP_WRLK_T_XCOM_Attempts_Rescue_D AkEvent]
+SpokenText="我还在想你会不会来救你的战友呢，真勇敢。"
+
+[Play_X2_XP_WRLK_T_XCOM_Attempts_Rescue_E AkEvent]
+SpokenText="想要救人？那你打算付出怎样的代价呢？让我们拭目以待吧，指挥官。"
+
+[Play_X2_XP_WRLK_T_XCOM_Beam_Weapons_A AkEvent]
+SpokenText="神明赐予我的武器比镭射枪要强大得多。"
+
+[Play_X2_XP_WRLK_T_XCOM_Beam_Weapons_B AkEvent]
+SpokenText="如果我的部下畏惧镭射枪的射线，那是他们太过软弱。"
+
+[Play_X2_XP_WRLK_T_XCOM_Beam_Weapons_C AkEvent]
+SpokenText="你的武器和我的神圣天赋比起来什么都不是。"
+
+[Play_X2_XP_WRLK_T_XCOM_Beam_Weapons_D AkEvent]
+SpokenText="你可以强化你们的武器，但你们的命运已成定局。"
+
+[Play_X2_XP_WRLK_T_XCOM_Beam_Weapons_E AkEvent]
+SpokenText="我是不会害怕凡人创造的武器的。"
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Blacksite_A AkEvent]
+SpokenText="长老知道你擅闯他们的设施了。你挖掘得太深了，但至少你明白变种人为什么是无穷无尽的了。"
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Blacksite_B AkEvent]
+SpokenText="你擅闯了人类不该进入的场所，但你至少亲眼见证了变种人诞生的奇观。"
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Blacksite_C AkEvent]
+SpokenText="你发现了长老创造变种人的设施又能如何。你无法反抗命中注定的事，长老的意志必将实现。"
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Blacksite_C_ALT AkEvent]
+SpokenText="你发现了长老的设施又能如何。你无法反抗命中注定的事，长老的意志必将实现。"
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Forge_A AkEvent]
+SpokenText="变种人锻造厂是为长老服务的。它是属于他们的圣地，而你玷污了这块圣地。"
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Forge_B AkEvent]
+SpokenText="我虽然不清楚你到底在长老的锻造厂看到了什么东西，但我估计你并没能真正理解长老的计划。"
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Forge_C AkEvent]
+SpokenText="如果你真的意识到长老在锻造厂的实验是为了什么，那你肯定会放下武器，迎接长老的。"
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Gate_A AkEvent]
+SpokenText="你明明没有权利使用长老这最珍视的宝物，却还敢将它盗走！跨过它并被毁灭吧！"
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Gate_B AkEvent]
+SpokenText="这么说，你们带着长老的传送门逃跑了，我建议你应该先想想门对面有什么在等着你。"
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Gate_C AkEvent]
+SpokenText="长老的传送门可不是好奇宝宝的玩具。你应该在万事皆休前把它还给我们。"
+
+[Play_X2_XP_WRLK_T_XCOM_Hits_Chosen_First_Time_A AkEvent]
+SpokenText="大胆！"
+
+[Play_X2_XP_WRLK_T_XCOM_Hits_Chosen_First_Time_B AkEvent]
+SpokenText="那就正式开战吧！"
+
+[Play_X2_XP_WRLK_T_XCOM_Hits_Chosen_First_Time_C AkEvent]
+SpokenText="你居然敢攻击我？！"
+
+[Play_X2_XP_WRLK_T_XCOM_Killed_By_Hostiles_A AkEvent]
+SpokenText="别急着欣慰，指挥官。他的牺牲是不会有任何意义的。"
+
+[Play_X2_XP_WRLK_T_XCOM_Killed_By_Hostiles_B AkEvent]
+SpokenText="你的士兵踏入了虚空，被神明所弃。"
+
+[Play_X2_XP_WRLK_T_XCOM_Killed_By_Hostiles_C AkEvent]
+SpokenText="是你的无能害死了他们，指挥官。"
+
+[Play_X2_XP_WRLK_T_XCOM_Killed_By_Hostiles_D AkEvent]
+SpokenText="有些人的死是舍生取义 -- 在我看来他却是白白送命。"
+
+[Play_X2_XP_WRLK_T_XCOM_Killed_By_Hostiles_E AkEvent]
+SpokenText="他们死后会坠入虚空，永远无法感受长老的关怀。"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_A AkEvent]
+SpokenText="你迟早会后悔冒犯了长老的，指挥官。"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_B AkEvent]
+SpokenText="这些杂兵的弱小只会让凸显我的存在。"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_C AkEvent]
+SpokenText="失去这些属下对我来说没有任何意义，对你也是。"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_D AkEvent]
+SpokenText="就算杀了我这些部下也没有任何用处。"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_E AkEvent]
+SpokenText="我本来就没对他们抱有多少期望。"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_F AkEvent]
+SpokenText="我的力量可不能跟这些下等生物相提并论。"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_G AkEvent]
+SpokenText="长老就是为此创造他们的。所以说，他们算是死得其所了。"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_H AkEvent]
+SpokenText="为长老的荣耀而死，他们应该对此感到自豪才对。"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_I AkEvent]
+SpokenText="你对长老意志的持续性挑衅行为只会让我决心更为坚定。"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_J AkEvent]
+SpokenText="你每杀害一个长老之子，人类都会以数倍来偿还。"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Priest_A AkEvent]
+SpokenText="你们竟敢杀害长老的祭司！你们会为此付出代价的！"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Priest_B AkEvent]
+SpokenText="你们会为冒犯长老的神圣的仆从付出惨痛代价的。"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Priest_C AkEvent]
+SpokenText="我们的祭司并不畏惧死亡，因为他们将与长老一同永生。"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Priest_D AkEvent]
+SpokenText="我不会允许你们侵犯我神圣的仆从！"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Priest_E AkEvent]
+SpokenText="你们会为袭击长老最为圣洁的战士付出代价的。"
+
+[Play_X2_XP_WRLK_T_XCOM_Loss_Escape_Capture_A AkEvent]
+SpokenText="你的部队今天损失惨重不说，战果又有什么？最终抓到俘虏从容离开的人还是我。你回到长老身边是必然的，只不过是时间问题罢了。"
+
+[Play_X2_XP_WRLK_T_XCOM_Loss_Escape_Capture_B AkEvent]
+SpokenText="知道你只能让他们去送死或是放任他们被抓后，你的战士又该如何去听从你的命令呢？你威胁不到我。"
+
+[Play_X2_XP_WRLK_T_XCOM_Loss_Escape_Capture_C AkEvent]
+SpokenText="你的士兵今天牺牲了那么多人，更别提这个俘虏了，只要给我点时间，他肯定会屈服。这肯定沉重打击了你们的士气吧。"
+
+[Play_X2_XP_WRLK_T_XCOM_Loss_Escape_Extract_A AkEvent]
+SpokenText="今天我彰显了长老的荣光！无信仰者的部队损失惨重，他们的心智对于我的入侵毫无防备！你们离灭亡越来越近了！"
+
+[Play_X2_XP_WRLK_T_XCOM_Loss_Escape_Extract_B AkEvent]
+SpokenText="你的部队今天就像是一次性用品似的，一个接一个地丧命。而且他们坠入虚空也没能阻止我获得这些情报，长老离你越来越近了。"
+
+[Play_X2_XP_WRLK_T_XCOM_Loss_Escape_Extract_C AkEvent]
+SpokenText="当你的士兵在被我虐杀的时候，你还打算躲藏多久？这么短的时间内，我已经掌握了你很多情报。"
+
+[Play_X2_XP_WRLK_T_XCOM_Losses_Last_Time_A AkEvent]
+SpokenText="我们上次见面的时候，你的士兵的血染红了战场。这次你还会轻易的抛弃他们的生命吗？"
+
+[Play_X2_XP_WRLK_T_XCOM_Losses_Last_Time_B AkEvent]
+SpokenText="我已经以长老之名收割了许多你的士兵的性命，你竟然还没吸取教训，又派人来送死？"
+
+[Play_X2_XP_WRLK_T_XCOM_Losses_Last_Time_C AkEvent]
+SpokenText="你在遇到我之前害死了那么多士兵，难道你不会为士兵的死感到羞愧吗？"
+
+[Play_X2_XP_WRLK_T_XCOM_Mag_Weapons_A AkEvent]
+SpokenText="真是简陋的武器。也就你们这个种族把它们当宝贝。"
+
+[Play_X2_XP_WRLK_T_XCOM_Mag_Weapons_B AkEvent]
+SpokenText="对这种原始的武器感到自豪，你们真是太可悲了。"
+
+[Play_X2_XP_WRLK_T_XCOM_Mag_Weapons_C AkEvent]
+SpokenText="你那花哨的武器对我没有任何意义，指挥官。"
+
+[Play_X2_XP_WRLK_T_XCOM_Mag_Weapons_D AkEvent]
+SpokenText="我该对你们技术上的进步感到震惊吗？"
+
+[Play_X2_XP_WRLK_T_XCOM_Mag_Weapons_E AkEvent]
+SpokenText="你应该清楚，长老数亿年前就掌握了这项技术了。"
+
+[Play_X2_XP_WRLK_T_XCOM_Misses_Chosen_First_Time_A AkEvent]
+SpokenText="战局胶着到这种程度，即便是最不起眼的错误也会让你付出惨痛代价，指挥官。"
+
+[Play_X2_XP_WRLK_T_XCOM_Misses_Chosen_First_Time_B AkEvent]
+SpokenText="我已经猜到你会失败了。"
+
+[Play_X2_XP_WRLK_T_XCOM_Misses_Chosen_First_Time_C AkEvent]
+SpokenText="你的失败在我意料之中。"
+
+[Play_X2_XP_WRLK_T_XCOM_Rescued_Captive_A AkEvent]
+SpokenText="我已经厌倦了养着这个俘虏，他的需求实在是太多了。你这反而是方便了我，指挥官。"
+
+[Play_X2_XP_WRLK_T_XCOM_Rescued_Captive_B AkEvent]
+SpokenText="看来你终于成功救出了你那被囚禁的同胞。无所谓，反正将来你还会留人供我俘虏的。"
+
+[Play_X2_XP_WRLK_T_XCOM_Rescued_Captive_C AkEvent]
+SpokenText="真是一场刺激的营救，指挥官！要是你当初在防止士兵被抓上花这么多功夫就好了，不过那样我就不能深入他们的大脑获得情报了。"
+
+[Play_X2_XP_WRLK_T_XCOM_Sabotaged_Facility_A AkEvent]
+SpokenText="你破坏掉了我们用来完成长老的宏图的设施。我会让你后悔犯下此等罪行的！"
+
+[Play_X2_XP_WRLK_T_XCOM_Sabotaged_Facility_B AkEvent]
+SpokenText="你对变种人设施的袭击是对所有忠于长老的人的公开挑衅。"
+
+[Play_X2_XP_WRLK_T_XCOM_Sabotaged_Facility_C AkEvent]
+SpokenText="你对变种人的设施的无耻攻击最多只能小小的拖延一下长老的计划而已，指挥官。"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_A AkEvent]
+SpokenText="我会还以颜色的！"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_B AkEvent]
+SpokenText="你的死期已经不远了。"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_C AkEvent]
+SpokenText="我不会对你手下留情的。"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_D AkEvent]
+SpokenText="不痛不痒的攻击！"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_E AkEvent]
+SpokenText="还不够。"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_F AkEvent]
+SpokenText="长老庇护着我！"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_G AkEvent]
+SpokenText="你们居然敢袭击长老的天选者！"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_H AkEvent]
+SpokenText="无足轻重的努力。"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_I AkEvent]
+SpokenText="你将受尽折磨！"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_J AkEvent]
+SpokenText="我要让你跪倒在我面前！"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_A AkEvent]
+SpokenText="令人失望。"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_B AkEvent]
+SpokenText="至少给我用心应战吧。"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_C AkEvent]
+SpokenText="你有点不知天高地厚。"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_D AkEvent]
+SpokenText="你还得加把劲才行。"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_E AkEvent]
+SpokenText="那是针对我吗？"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_F AkEvent]
+SpokenText="毫无观赏性的一枪。"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_G AkEvent]
+SpokenText="只能说是徒劳。"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_H AkEvent]
+SpokenText="你的信念不够坚定！"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_I AkEvent]
+SpokenText="白白浪费一次机会！"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_J AkEvent]
+SpokenText="我一点都不惊讶。"
+
+[Play_X2_XP_WRLK_T_XCOM_Taunts_A AkEvent]
+SpokenText="你们真是群可悲的生物！自己去照照镜子吧！"
+
+[Play_X2_XP_WRLK_T_XCOM_Taunts_B AkEvent]
+SpokenText="不知天高地厚！长老的宏图已经超越了时间！"
+
+[Play_X2_XP_WRLK_T_XCOM_Taunts_C AkEvent]
+SpokenText="你们反抗军自私的行为只会让更多无辜的人死于非命。"
+
+[Play_X2_XP_WRLK_T_XCOM_Taunts_D AkEvent]
+SpokenText="长老的计划是你们这群头脑简单的原始人能够理解的吗？"
+
+[Play_X2_XP_WRLK_T_XCOM_Taunts_E AkEvent]
+SpokenText="长老对你们那落后的文明有兴趣，你们应该感到自豪才对！"
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_A AkEvent]
+SpokenText="让我们见识见识XCOM那盛名远扬的指挥官精妙的战术吧。"
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_B AkEvent]
+SpokenText="把你最强大的战士派过来吧，指挥官，我会碾碎他们的。"
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_C AkEvent]
+SpokenText="我会将长老的怒火倾泻在那些胆敢忤逆他们的人身上。"
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_D AkEvent]
+SpokenText="长老的命令很明确，我一定会把你带回他们身边的。"
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_E AkEvent]
+SpokenText="投降吧，指挥官，不要再垂死挣扎了。"
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_F AkEvent]
+SpokenText="你们的指挥官只会害死你们！"
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_G AkEvent]
+SpokenText="换作长老就不会派你们去送死！"
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_H AkEvent]
+SpokenText="不要敬酒不吃吃罚酒！"
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_I AkEvent]
+SpokenText="来吧，挥霍你们那无足轻重的生命吧。"
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_J AkEvent]
+SpokenText="你们的抵抗是徒劳的，不会改变任何事。"
+
+[Play_X2_XP_WRLK_T_XCOM_Uses_Chosen_Weapon_A AkEvent]
+SpokenText="你们人类没有资格使用那把武器！"
+
+[Play_X2_XP_WRLK_T_XCOM_Uses_Chosen_Weapon_B AkEvent]
+SpokenText="我可不认为你拥有使用那把武器的才能。"
+
+[Play_X2_XP_WRLK_T_XCOM_Uses_Chosen_Weapon_C AkEvent]
+SpokenText="天选者的武器落到你们手中真是暴殄天物。"
+
+[Play_X2_XP_WRLK_T_XCOM_Uses_Chosen_Weapon_D AkEvent]
+SpokenText="亵渎者！天选者的武器可都是圣器。"
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_A AkEvent]
+SpokenText="这些杂兵偶尔还是有点用处，你手下的杂兵也是，指挥官。"
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_B AkEvent]
+SpokenText="他们每次攻击命中,都在粉碎你士兵的决心而彰显长老的荣耀。"
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_C AkEvent]
+SpokenText="他们全力战斗，偶尔还真能打赢。"
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_D AkEvent]
+SpokenText="长老的仆从是不会停止他们的攻击的！"
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_E AkEvent]
+SpokenText="你的士兵可没法撑一辈子，指挥官。"
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_F AkEvent]
+SpokenText="士兵每受一次伤，你的部队将会对你的失败多一分憎恨。"
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_G AkEvent]
+SpokenText="他们羸弱的身体无法经受住战斗的强压。"
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_H AkEvent]
+SpokenText="他们的血都白流了，没有任何荣誉可言。"
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_I AkEvent]
+SpokenText="就算是一次小小的袭击，也是长老对你们的复仇。"
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_J AkEvent]
+SpokenText="你感受到他们的痛苦了吗，指挥官？感受到他们的挣扎了吗？"
+

@@ -1,0 +1,147 @@
+﻿[Play_X2_XP_TYG_1st_Stronghold_Capacitor_Damaged AkEvent]
+SpokenText="该电容器的能量读数开始乱跳，我认为我们的攻击起到预想的作用了。"
+
+[Play_X2_XP_TYG_1st_Stronghold_Monolith_Damaged_Only AkEvent]
+SpokenText="是的，重生过程已被打断。该电容器的读数显示它变得极不稳定。"
+
+[Play_X2_XP_TYG_2nd_Stronghold_Capacitor_Damaged AkEvent]
+SpokenText="最新的读数表明该电容器变脆弱了。我认为它无法再承受一次猛烈攻击了。"
+
+[Play_X2_XP_TYG_2nd_Stronghold_Monolith_Damaged_Only AkEvent]
+SpokenText="我们已经成功打断了重生进程。我认为那个电容器已经完全报废了。"
+
+[Play_X2_XP_TYG_3rd_Stronghold_Capacitor_Damaged AkEvent]
+SpokenText="电容器正在奋力维持能量级别。我们已经快完全摧毁它了。"
+
+[Play_X2_XP_TYG_3rd_Stronghold_Monolith_Damaged_Only AkEvent]
+SpokenText="电容器一损坏，再生过程也中断了。我认为现在是\"干掉他们\"的最佳时机。"
+
+[Play_X2_XP_TYG_Destroy_Monolith_Nag AkEvent]
+SpokenText="恐怕那个电容器内的能量能让天选者无限继续重生的过程。我认为消耗战对他们是没用的。"
+
+[Play_X2_XP_TYG_T_1st_Stronghold_First_Chosen_False_Death AkEvent]
+SpokenText="仪器显示某种灵能电容器正在向天选者输送大量的灵能能量，治愈他的伤口！"
+
+[Play_X2_XP_TYG_T_1st_Stronghold_Mission_Intro AkEvent]
+SpokenText="探测到前方设施内有高能量信号。毫无疑问，是天选者发出的。"
+
+[Play_X2_XP_TYG_T_1st_Stronghold_Teleporter_Sighted AkEvent]
+SpokenText="正前方出现能量信号。似乎是某种外星运输工具。"
+
+[Play_X2_XP_TYG_T_2nd_Stronghold_First_Chosen_False_Death AkEvent]
+SpokenText="该装置的功能似乎跟我们先前遭遇的电容器相同。我建议尽快摧毁该装置，防止天选者继续再生。"
+
+[Play_X2_XP_TYG_T_2nd_Stronghold_Mission_Intro AkEvent]
+SpokenText="正在锁定天选者的能量信号，上传坐标中。"
+
+[Play_X2_XP_TYG_T_2nd_Stronghold_Teleporter_Sighted AkEvent]
+SpokenText="正前方出现传送门。正在上传坐标。"
+
+[Play_X2_XP_TYG_T_3rd_Stronghold_First_Chosen_False_Death AkEvent]
+SpokenText="正是如此。"
+
+[Play_X2_XP_TYG_T_3rd_Stronghold_Mission_Intro AkEvent]
+SpokenText="军事官，该运输工具的能源信号比以往都要清晰，简直就像是他们故意想要被我们发现似的。"
+
+[Play_X2_XP_TYG_T_3rd_Stronghold_Teleporter_Sighted AkEvent]
+SpokenText="该传送门传来的读数比以往都要强大。我们的小队很靠近它了。"
+
+[Play_X2_XP_TYG_T_Destroy_Monolith_Callout AkEvent]
+SpokenText="军事官，虽然天选者周围的恢复屏障没法被击穿，但那个电容器的屏障就不一样了。输送过程让它变得极为脆弱。我认为它现在可以被摧毁。"
+
+[Play_X2_XP_TYG_T_First_Seen_Adv_Priest_M1 AkEvent]
+SpokenText="看样子变种人最近开始部署它们那些所谓的祭司到战区了。它们身体内的植入物能够有效提升潜在的灵能力量。"
+
+[Play_X2_XP_TYG_T_First_Seen_Lost_2 AkEvent]
+SpokenText="看起来外星人在初次入侵时遗落下来的设备对这些平民造成了衰变效应，他们的肉体和精神都被腐蚀，只有最基本的生命功能得到了保留。请小心行事，指挥官，他们看起来相当危险。"
+
+[Play_X2_XP_TYG_T_First_Seen_Spectre_M1 AkEvent]
+SpokenText="这个看起来单一的个体实际是由无数个微型机器单位通过密切协调的方式维持的凝聚形态。"
+
+[Play_X2_XP_TYG_T_First_Spectre_Sighted AkEvent]
+SpokenText="虽然它看上去是人形的，但其实体几乎无法被感应器探测到。要不是亲眼所见，我甚至连它是否存在都没法确定。"
+
+[Play_X2_XP_TYG_T_LNA_Part1_Lost_Combat_Eight_1 AkEvent]
+SpokenText="虽然他们的智能接近于零，但这些生物似乎拥有某种原始的交流手段。似乎是通过听觉信号或是某种群体意识。"
+
+[Play_X2_XP_TYG_T_LNA_Part1_Lost_Combat_Eight_2 AkEvent]
+SpokenText="现在失魂者都知道这里有食物了。我建议大家立刻离开这片区域。"
+
+[Play_X2_XP_TYG_T_LNA_Part1_Lost_Combat_Nine_1 AkEvent]
+SpokenText="军事官，我似乎在哪见到过这些生物的初期读数。我得调查一下记录，我可能在和变种人共事期间遭遇过类似的东西。"
+
+[Play_X2_XP_TYG_T_LNA_Part1_Lost_Combat_One_1 AkEvent]
+SpokenText="这些生物的DNA已经变异到完全看不出他们曾是人类的程度。或许是长期受这些舱内的辐射导致的。但为什么会有人甘愿受到辐射，这让我百思不得其解。"
+
+[Play_X2_XP_TYG_T_LNA_Part1_Lost_Combat_Six_1 AkEvent]
+SpokenText="中央的生物信号正在聚合为一个整体，向你们的位置接近中。"
+
+[Play_X2_XP_TYG_T_LNA_Part1_LostGone_NoEscape_1 AkEvent]
+SpokenText="你们附近的生命读数已降低到了正常水平。没有怪物了。"
+
+[Play_X2_XP_TYG_T_LNA_Part1_Post_Fog_Pod_1 AkEvent]
+SpokenText="这里的设施受损后多年未被使用，仍能发射出了某种元素的辐射波。就连我也无法推断它们原本的功能是什么。"
+
+[Play_X2_XP_TYG_T_LNA_Part1_Unit_Two_Exits AkEvent]
+SpokenText="我建议大家尽快行动，军事官。读数显示大量失魂者正在往这里聚集。"
+
+[Play_X2_XP_TYG_T_LNA_Part2_Dasher_Callout_1 AkEvent]
+SpokenText="很准确的描述。看起来这些疾行者的新陈代谢速度在变异后急剧上升，让其拥有远超其他失魂者的速度和敏捷，同时提升的还有他们的攻击欲。"
+
+[Play_X2_XP_TYG_T_LNA_Part2_Lost_Counter_Four_1 AkEvent]
+SpokenText="恐怕爆炸的冲击波几乎传遍了这整个城市。失魂者应该会有激烈的反应。"
+
+[Play_X2_XP_TYG_T_LNA_Part2_Post_Big_Bang_1 AkEvent]
+SpokenText="恐怕这还不是最糟糕的事。多个生命信号正在快速靠近你们的位置。"
+
+[Play_X2_XP_TYG_T_LNA_Part2_Pre_Purifier_Reveal_1 AkEvent]
+SpokenText="军事官，我们探测到前方有生命信号。"
+
+[Play_X2_XP_TYG_T_LNA_Part2_Pre_Purifier_Reveal_2 AkEvent]
+SpokenText="不，这次的信号似乎更为常见。"
+
+[Play_X2_XP_TYG_T_LNA_Part2_Purifier_Weapon_Info_1 AkEvent]
+SpokenText="净化者的武器喷射出的聚焦型电浆射线能够液化的可不只是生物。石头、金属，甚至我们士兵护甲中使用的合金都承受不住它的热量。还真是种残忍但有效的\"净化方式\"。"
+
+[Play_X2_XP_TYG_T_LNA_Part3_Lost_Reinforcement_1 AkEvent]
+SpokenText="那个舱体内发出的声波正呈十字状向外大幅扩散。"
+
+[Play_X2_XP_TYG_T_LNA_Part3_Lost_Reinforcement_2 AkEvent]
+SpokenText="很精准的比喻。整个失魂者群系似乎都在朝这里聚拢。"
+
+[Play_X2_XP_TYG_T_LNA_Plasma_Purifiers_1 AkEvent]
+SpokenText="净化者的武器喷射出的聚焦型电浆射线能够液化的可不只是生物。石头、金属，甚至我们士兵护甲中使用的合金都承受不住它的热量。还真是种残忍但有效的\"净化方式\"。"
+
+[Play_X2_XP_TYG_T_LNA_Play3_Assassin_Teleport_1 AkEvent]
+SpokenText="没有，感应器以调整到最大功率，但她似乎就那么凭空消失了。"
+
+[Play_X2_XP_TYG_T_LNA_Play3_Lost_Battle_Five_1 AkEvent]
+SpokenText="探测到更多失魂者正在向撤离坐标聚集。我建议大家小心行动，它们似乎在针对我们的策略。"
+
+[Play_X2_XP_TYG_T_LNA_Play3_Lost_Battle_One AkEvent]
+SpokenText="对这些生物的运动模式的初步分析显示它们的攻击似乎是经过协调的。似乎它们并不是我们以为的那种没有任何头脑的生物。虽然很有意思，但也非常骇人。"
+
+[Play_X2_XP_TYG_T_LNA_Play3_Lost_Battle_Seven_1 AkEvent]
+SpokenText="军事官，向这片区域聚集的生体数量实在是...令人瞠目结舌。如果我们的小队不立刻撤离..."
+
+[Play_X2_XP_TYG_T_Sabotage_Trans_Relay_Destroyed AkEvent]
+SpokenText="干得好，正如我们预料的一样，这部分网络产生延迟了。"
+
+[Play_X2_XP_TYG_T_Sabotage_Trans_Relay_Spotted AkEvent]
+SpokenText="我们的读数显示该中继器在直接朝它们的网络传输能量。如果我们能摧毁它，或许就能防止它们切断信号发射器的连接。"
+
+[Play_X2_XP_TYG_T_SITREP_Chemical_Leak AkEvent]
+SpokenText="我侦测到该区域内散布有重污染化合物，强烈建议小队成员避免与它们产生直接接触。"
+
+[Play_X2_XP_TYG_T_SITREP_Outbreak AkEvent]
+SpokenText="果然不出我所料，指挥官，战区内有失魂者活动的踪迹。请千万小心。"
+
+[Play_X2_XP_TYG_T_SITREP_Psionic_Storm AkEvent]
+SpokenText="正如我所料，该区域的灵能读数说明驻扎在此的外星人中有大量拥有灵能的外星人。请小心，指挥官。"
+
+[Play_X2_XP_TYG_T_SITREP_Savage AkEvent]
+SpokenText="我们初期的读数没有错，指挥官。外星人把它们最为残暴的成员布置到该区域了。"
+
+[Play_X2_XP_TYG_CIN_LA_Reaper_Reveal_2 AkEvent]
+SpokenText="检测到前方区域生物信号上升。"
+

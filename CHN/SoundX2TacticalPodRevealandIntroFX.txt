@@ -1,0 +1,14 @@
+﻿[Advent_Trooper_Reveal_GameReady AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Sectoid_Reveal_1_Gameready AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+

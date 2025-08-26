@@ -1,0 +1,987 @@
+﻿[CENTRAL_Flight_Device_Bridge_Transition AkEvent]
+SpokenText="看来沈博士已经把模组装载完毕，我们舰桥上见，指挥官。"
+
+[CENTRAL_Generic_Commander_Bridge_A AkEvent]
+SpokenText="指挥官请至舰桥。"
+
+[CENTRAL_Generic_Commander_Bridge_B AkEvent]
+SpokenText="指挥官，请尽快前往舰桥。"
+
+[CENTRAL_Generic_Commander_Chamber_A AkEvent]
+SpokenText="指挥官请至暗影舱。"
+
+[CENTRAL_Generic_Commander_Chamber_B AkEvent]
+SpokenText="指挥官，请尽快前往暗影舱。"
+
+[CENTRAL_Generic_Commander_Engineering_A AkEvent]
+SpokenText="指挥官请至工程部。"
+
+[CENTRAL_Generic_Commander_Engineering_B AkEvent]
+SpokenText="指挥官，请尽快前往工程部。"
+
+[CENTRAL_Generic_Commander_Lab_A AkEvent]
+SpokenText="指挥官请至研究所。"
+
+[CENTRAL_Generic_Commander_Lab_B AkEvent]
+SpokenText="指挥官，请尽快前往研究所。"
+
+[CENTRAL_Generic_Commander_Quarters_A AkEvent]
+SpokenText="指挥官请至指挥舱。"
+
+[CENTRAL_Generic_Commander_Quarters_B AkEvent]
+SpokenText="指挥官，请尽快前往你的指挥舱。"
+
+[Central_NoFilename_RealWarForAChange AkEvent]
+SpokenText="让外星人知道我们的厉害。"
+
+[Central_Strategy_Ambient_Contraband AkEvent]
+SpokenText="我不知道大家从哪里拿到了变种人派发的汉堡，但只要我在命令控制台下再发现任何一张包装纸，我就要当事人吃不了兜着走。"
+
+[S_Avenger_Ambient_Central_AlienInvasionB_01 AkEvent]
+SpokenText="我本来不打算问你的，博士，但，嗯...入侵以前你具体是做什么的？"
+
+[S_Avenger_Ambient_Central_AlienInvasionB_02 AkEvent]
+SpokenText="那我们找到了你还真是幸运啊。"
+
+[S_Avenger_Ambient_Central_AlienInvasionC_01 AkEvent]
+SpokenText="至少我们不必再拍理事会的马屁了，何况线人还潜伏在暗处。"
+
+[S_Avenger_Ambient_Central_ChipFunctionB_01 AkEvent]
+SpokenText="我希望你把那芯片锁起来，让它与指挥官离得远点..."
+
+[S_Avenger_Ambient_Central_ChipFunctionB_02 AkEvent]
+SpokenText="好的，我们就这么办。"
+
+[S_Avenger_Ambient_Central_CityMigrationB_01 AkEvent]
+SpokenText="变种人的宣传机器不间断地运行着...我们仍可以看到源源不断的移民正迁向城市里。"
+
+[S_Avenger_Ambient_Central_CityMigrationB_02 AkEvent]
+SpokenText="...我是不太想为了治好普通的感冒和几顿热饭就让他们给我脑袋里安一块芯片。"
+
+[S_Avenger_Ambient_Central_CityMigrationB_03 AkEvent]
+SpokenText="你说错了，博士。我们能提供给他们自由，即使这意味着他们还是得继续忍受作为一名普通人类的痛苦。"
+
+[S_Avenger_Ambient_Central_CrewDis AkEvent]
+SpokenText="我们对抗外星人有了新的进展，而且貌似殖民地的平民们也开始关注我们了。得让船员知道那里的人们需要我们，需要我们改变这一切，这非常重要。他们必须得知道我们忍受这一切背后的伟大理想。"
+
+[S_Avenger_Ambient_Central_Quick_01 AkEvent]
+SpokenText="我们大多数新船员没有像在复仇者号这样的舰上工作的经验。在战争爆发以前，我们可能有时间训练他们，但现在...他们得边干边学了。"
+
+[S_Avenger_Ambient_Central_Quick_02 AkEvent]
+SpokenText="我们最近有接受到一些怪异的讯息；听起来像是德语，但也不一定。"
+
+[S_Avenger_Ambient_Central_Quick_03 AkEvent]
+SpokenText="我们应该找那个混黑市的家伙好好聊聊；没准她能帮我们扩充资源呢。"
+
+[S_Avenger_Ambient_Central_Quick_04 AkEvent]
+SpokenText="我不怪沈老是盯着泰根，但在这个节骨眼上，我们必须群策群力。"
+
+[S_Avenger_Ambient_Central_Quick_05 AkEvent]
+SpokenText="我不得不承认，虽然这些新人缺乏经验，但他们的勇气能弥补不足。"
+
+[S_Avenger_Ambient_Central_Quick_06 AkEvent]
+SpokenText="是有好些人埋怨我的驾驶技术，但除了自动驾驶还没见过有人能超过我。"
+
+[S_Avenger_Ambient_Central_Quick_07 AkEvent]
+SpokenText="又黑又湿，又几乎是全金属的。这个飞船和老基地的也并非完全不同。"
+
+[S_Avenger_Ambient_Central_Quick_08 AkEvent]
+SpokenText="也许等一切都结束后，我们可以开着飞船去他们的某个星球上建立殖民地呢。"
+
+[S_Avenger_Ambient_Central_Quick_09 AkEvent]
+SpokenText="我发现变种人诊疗所的魅力了，动了刀没几分钟就给你健康体魄。怪不得他们那么猴急要去种植芯片呢。"
+
+[S_Avenger_Ambient_Central_Quick_10 AkEvent]
+SpokenText="变种人的宣传机器正全速运转，我们甚至会在不知名的偏远地区收到他们的讯息。"
+
+[S_Avenger_Ambient_Central_Quick_11 AkEvent]
+SpokenText="我有警告过船员们要远离变种人的肉类配给；我们根本不知道他们会在肉里放些什么。"
+
+[S_Avenger_Ambient_Central_ShenFather_01 AkEvent]
+SpokenText="知道吗，要不是因为你的父亲，我可能早就不在了。他是一个能够创造奇迹的人。"
+
+[S_Avenger_Ambient_Central_ShenFather_02 AkEvent]
+SpokenText="这份救命之恩，我们欠你们父女俩的。"
+
+[S_Avenger_Ambient_Central_ShenFather_03 AkEvent]
+SpokenText="说的一点都没错。"
+
+[S_Avenger_Ambient_Central_ShenFatherB_01 AkEvent]
+SpokenText="你的父亲会为我们在这里所做到的而感到骄傲的...当然包括你对这艘飞船所做的。"
+
+[S_Avenger_Ambient_Central_ShenFatherB_02 AkEvent]
+SpokenText="相信我，他知道的。你爸爸头脑中唯一的信念就是拯救人类。他知道我们会以我们的方式取胜。"
+
+[S_Avenger_Ambient_Central_ShenFatherB_03 AkEvent]
+SpokenText="除了让这艘船飞起来运转之外；大部分这也是沈博士的工作。我在很长一段时间里都觉得自己没什么用。我更乐于把困难的决定让指挥官来抉择。"
+
+[S_Avenger_Ambient_Central_ShenFatherB_04 AkEvent]
+SpokenText="我尽我所能让新兵为接下来需要面对的恶战做好准备，但指挥官的归来比任何演讲都能带来信心。"
+
+[S_Avenger_Ambient_Central_ShenFatherB_05 AkEvent]
+SpokenText="有了指挥官管理这些，我现在有许多时间来专注于学习如何操控这艘船了。"
+
+[S_Avenger_Ambient_Central_ShensPrideB_01 AkEvent]
+SpokenText="你让这艘船完好无损，干的好，博士。"
+
+[S_Avenger_Ambient_Central_ShensPrideB_02 AkEvent]
+SpokenText="我猜他们没想到有人居然还能让这个大家伙飞起来。"
+
+[S_Avenger_Ambient_Central_Spokesman AkEvent]
+SpokenText="在收到线人的联络之前，我曾假设他已经死了或是在理事会解散后离开了。根据他提供给我的些许资讯来看，他早些时候在变种人政府中任职，但愿那是为了透露情报给反抗军的。"
+
+[S_Avenger_Ambient_Central_SpokesmanB AkEvent]
+SpokenText="线人潜入变种人队伍中冒了极大的风险，这足以让我相信他的忠诚度。我们当中仍有质疑者，但我们应该去操心一些更重要的事而不是一个屏幕上的人。"
+
+[S_Avenger_Attack_Central_01_Setup_Phase AkEvent]
+SpokenText="我们在失去动力！正在快速下坠！"
+
+[S_Avenger_Attack_Central_02_Setup_Phase AkEvent]
+SpokenText="沈"
+
+[S_Avenger_Attack_Central_03_Setup_Phase AkEvent]
+SpokenText="沈！"
+
+[S_Avenger_Attack_Central_04_Setup_Phase AkEvent]
+SpokenText="报告损坏情况！"
+
+[S_Avenger_Attack_Central_05_Setup_Phase AkEvent]
+SpokenText="只有一个？"
+
+[S_Avenger_Attack_Central_06_Setup_Phase AkEvent]
+SpokenText="他们想要的不是我们而是飞船。有什么办法可以让它重启？"
+
+[S_Avenger_Attack_Central_07_Setup_Phase AkEvent]
+SpokenText="指挥官，看来我们得用老办法。我们逃离的唯一方法就是摧毁那个干扰器。我们绝不能让外星人夺走飞船！"
+
+[S_Avenger_Central_First_Avatar_Facility AkEvent]
+SpokenText="趁外星人没能改变行动，我们得尽快攻下他们的设施。"
+
+[S_Avenger_Central_First_Avatar_RepeatA AkEvent]
+SpokenText="外星人设施坐标已锁定，指挥官。"
+
+[S_Avenger_Central_First_Avatar_RepeatB AkEvent]
+SpokenText="指挥官，一处设施已锁定。"
+
+[S_Avenger_Central_No_Soldiers AkEvent]
+SpokenText="指挥官，我们没有人可以部署了！必须找一些新人过来！"
+
+[S_Avenger_Central_Not_Enough_Soldiers AkEvent]
+SpokenText="我们现在人手不足，指挥官。我们得从反抗军总部找些新人。"
+
+[S_Avenger_Central_Post_Final_Tentpole AkEvent]
+SpokenText="指挥官，目标坐标已锁定。等候你的派遣。"
+
+[S_Blacksite_Horror_Central_01 AkEvent]
+SpokenText="...还是不相信会是这样。"
+
+[S_Blacksite_Horror_Central_02 AkEvent]
+SpokenText="他们在屠杀我们，博士。还有更糟的吗？"
+
+[S_Blacksite_Horror_Central_03 AkEvent]
+SpokenText="一定有成千上万个。"
+
+[S_Blacksite_Horror_Central_04 AkEvent]
+SpokenText="化身。"
+
+[S_Blacksite_Horror_Central_05 AkEvent]
+SpokenText="就是那小瓶里的东西。"
+
+[S_Blacksite_Horror_Central_06 AkEvent]
+SpokenText="博士。"
+
+[S_Blacksite_Horror_Central_07 AkEvent]
+SpokenText="那...那不可能。"
+
+[S_Blacksite_Horror_Central_08 AkEvent]
+SpokenText="但...为了什么？"
+
+[S_Blacksite_Horror_Central_09 AkEvent]
+SpokenText="这是一个开始。"
+
+[S_Blacksite_Horror_Central_10 AkEvent]
+SpokenText="我极力建议我们去\"拜访\"他们，指挥官。"
+
+[S_Blacksite_Horror_Central_11 AkEvent]
+SpokenText="在我们找出想要的信息后，我们要把这该死的设施永久封闭。"
+
+[S_BlacksiteTransmission_Central AkEvent]
+SpokenText="指挥官，我们通过保密频道收到了一条紧急优先通信。它来自反抗军..."
+
+[S_Broadcast_Marked_On_Geoscape_Central AkEvent]
+SpokenText="如果我们想潜入变种人网络塔，我们就不得不用个更小的分队，尽可能地减少被注意到的可能，毕竟我们已经打草惊蛇了。"
+
+[S_Broadcast_Mission_Appears_Central AkEvent]
+SpokenText="我们已经锁定目标地点了，指挥官。这是我们攻打变种人核心的机会。一旦我们控制了网络塔，我们就能向世界展示外星人的阴谋了。这么做了之后我们就不能回头了。"
+
+[S_Broadcast_Mission_No_Turning_Back_Central AkEvent]
+SpokenText="指挥官，一旦我们移动到变种人网络塔之后，那就是生死之战。我们不会有时间做更多研究或者照顾伤者。我们应该完全准备好之后再行动。"
+
+[S_Broadcast_Truth_Central_01 AkEvent]
+SpokenText="干得好，博士..."
+
+[S_Broadcast_Truth_Central_02 AkEvent]
+SpokenText="沈？情况怎么样了？"
+
+[S_Broadcast_Truth_Central_03 AkEvent]
+SpokenText="进行中。"
+
+[S_Broadcast_Truth_Central_04 AkEvent]
+SpokenText="好。最好能有收获！"
+
+[S_Broadcast_Truth_Central_05 AkEvent]
+SpokenText="给我一份损坏报告书！行得通吗？"
+
+[S_Build_Outpost_Long_Central_01 AkEvent]
+SpokenText="信号一清二楚，避难所。"
+
+[S_Build_Outpost_Long_Central_02 AkEvent]
+SpokenText="欢迎加入战斗。"
+
+[S_Commander_Awakens_Central_01_Setup_Phase AkEvent]
+SpokenText="好极了。我们开始吧。"
+
+[S_Commander_Awakens_Central_02_Setup_Phase AkEvent]
+SpokenText="就好像回到了20年前...那时候我们还称之为战争。"
+
+[S_Commander_Awakens_Central_03_Setup_Phase AkEvent]
+SpokenText="...我们不知道接下来会有什么。"
+
+[S_Commander_Awakens_Central_04_Setup_Phase AkEvent]
+SpokenText="没有后路了，各位。动手！"
+
+[S_Commander_Awakens_Central_05_Setup_Phase AkEvent]
+SpokenText="早就跟他们说了，要把你放倒，这点程度可不够。"
+
+[S_Commander_Awakens_Central_06_Setup_Phase AkEvent]
+SpokenText="欢迎回来...指挥官。"
+
+[S_Commander_Awakens_Central_07_Setup_Phase AkEvent]
+SpokenText="很高兴你终于醒过来了。别太介意你的头疼因为..."
+
+[S_Commander_Awakens_Central_08_Setup_Phase AkEvent]
+SpokenText="当然，不能责怪泰根博士，尤其是从未有人能做到这地步。"
+
+[S_Commander_Awakens_Central_09_Setup_Phase AkEvent]
+SpokenText="请放松 -- 我们仍无法断定他们对你所做的...那枚芯片已经植入到了你的头颅中部。"
+
+[S_Commander_Awakens_Central_10_Setup_Phase AkEvent]
+SpokenText="这些年为了找到你我们损失了不少优秀的士兵。差点认为你已不在人世。一听到任何风声就马上关注情报内容。"
+
+[S_Commander_Awakens_Central_11_Setup_Phase AkEvent]
+SpokenText="不知道你是否还记得，但确实很多都变了。我尽忠职守，但你不在的20年里日子真不好过。"
+
+[S_Commander_Awakens_Central_12_Setup_Phase AkEvent]
+SpokenText="你好像能跟上节奏了，沈手头的档案会放在你的终端上运行。"
+
+[S_Commander_Awakens_Central_13_Setup_Phase AkEvent]
+SpokenText="还有，等你准备好了我们就去找泰根博士。有些事情你需要知道。他比我更适合来告诉你。"
+
+[S_Commander_Awakens_Central_14_Setup_Phase AkEvent]
+SpokenText="该死的，你能回来真是太好了，指挥官。"
+
+[S_Commander_Awakens_Central_15_Setup_Phase AkEvent]
+SpokenText="...那时我们还称之为战争"
+
+[S_Dark_Volunteer_01_Central_01 AkEvent]
+SpokenText="说来听听。"
+
+[S_Dark_Volunteer_01_Central_01a AkEvent]
+SpokenText="太好了。终于可以彻底叫停这个化身计划。"
+
+[S_Dark_Volunteer_01_Central_02 AkEvent]
+SpokenText="那就是我们的突破口。"
+
+[S_Dark_Volunteer_01_Central_03 AkEvent]
+SpokenText="真的？"
+
+[S_Dark_Volunteer_01_Central_04 AkEvent]
+SpokenText="所以...有条件？"
+
+[S_Dark_Volunteer_01_Central_05 AkEvent]
+SpokenText="你想要操纵这些东西...用远程遥控的方式。"
+
+[S_Dark_Volunteer_01_Central_06 AkEvent]
+SpokenText="那不一样。静滞护甲..."
+
+[S_Dark_Volunteer_01_Central_07 AkEvent]
+SpokenText="\"最有可能\"还不够，博士。"
+
+[S_Dark_Volunteer_01_Central_08 AkEvent]
+SpokenText="我们必须先制订一个详细的计划再冲进敌人的前门去。"
+
+[S_Dark_Volunteer_01_Central_09 AkEvent]
+SpokenText="这也给你一点时间来考虑，指挥官。"
+
+[S_Dark_Volunteer_02_Central_01 AkEvent]
+SpokenText="沈，那东西你已经看了50多次了。放松点。"
+
+[S_Dark_Volunteer_02_Central_02 AkEvent]
+SpokenText="给他们点颜色瞧瞧..."
+
+[S_Dark_Volunteer_02_Central_03 AkEvent]
+SpokenText="接我进广播，好了，世界是时候苏醒了。"
+
+[S_Dark_Volunteer_02_Central_04 AkEvent]
+SpokenText="而现在他们知道真相了。"
+
+[S_Dark_Volunteer_02_Central_05 AkEvent]
+SpokenText="变种人是个谎言，他们的死期将至，他们将会面临我们的制裁！"
+
+[S_Dark_Volunteer_02_Central_06 AkEvent]
+SpokenText="当外星人还在试图控制我们的世界，我们就已经要去控制他们的世界了。"
+
+[S_Dark_Volunteer_02_Central_07 AkEvent]
+SpokenText="这不会很容易..."
+
+[S_Dark_Volunteer_02_Central_08 AkEvent]
+SpokenText="但你们早已习惯。"
+
+[S_Dark_Volunteer_02_Central_09 AkEvent]
+SpokenText="你们做了一切必要之事，从不退缩。"
+
+[S_Dark_Volunteer_02_Central_10 AkEvent]
+SpokenText="你们是XCOM。"
+
+[S_Dark_Volunteer_02_Central_11 AkEvent]
+SpokenText="而你们会终结这一切。"
+
+[S_Dark_Volunteer_02_Central_12 AkEvent]
+SpokenText="人类都在指望着我们。"
+
+[S_Dark_Volunteer_02_Central_13 AkEvent]
+SpokenText="祝你好运，指挥官。"
+
+[S_Equip_New_Item_SquadSelect_Engineering_Tutorial_Central AkEvent]
+SpokenText="指挥官，看起来沈为我们准备了急救包，在士兵们部署之前，我们得给他们装备上。"
+
+[S_First_Council_Mission_Geoscape_Central AkEvent]
+SpokenText="尽管我们的盟友们分散在全球各个城市，并且愿意分享各自掌握的有关变种人行动的情报，但外星人正积极追捕他们。你是保障我们人员安全的关键，指挥官。祝你好运。"
+
+[S_First_Flight_Central_01_Setup_Phase AkEvent]
+SpokenText="指挥官，请注意。我们出了点儿状况。"
+
+[S_First_Flight_Central_02_Setup_Phase AkEvent]
+SpokenText="尽管变种人倾尽了全力，反抗军组织还是不断地在世界各个角落生根发芽。"
+
+[S_First_Flight_Central_03_Alt_Setup_Phase AkEvent]
+SpokenText="尽管变种人倾尽了全力，但仍有人拒绝相信他们的谎言。"
+
+[S_First_Flight_Central_03_Setup_Phase AkEvent]
+SpokenText="他们中的一些正向我们请求帮助。但是，我们不能同时协助到他们。"
+
+[S_First_Flight_Central_04_Setup_Phase AkEvent]
+SpokenText="谁说要用天际游侠号？"
+
+[S_First_Flight_Central_05_Setup_Phase AkEvent]
+SpokenText="沈--状态报告。准备就绪了吗？"
+
+[S_First_Flight_Central_06_Setup_Phase AkEvent]
+SpokenText="你听到女士说的了。"
+
+[S_First_LandedUFO_Geoscape_Central AkEvent]
+SpokenText="指挥官，我们发现了一个容易被攻下的幽浮停靠在这个地区。如果我们能快一点，我们有机会从飞船上找到些供给和装备。"
+
+[S_First_Retaliation_Geoscape_Central AkEvent]
+SpokenText="指挥官，战斗小队已经准备好前往目前被外星人占领的反抗军避难所。你一下命令我们就可以行动。"
+
+[S_First_Sabotage_Geoscape_Central AkEvent]
+SpokenText="指挥官，由于已经同当地反抗军建立了联系，我们得到了一些前往外星人设施所需的细节。这是我们反击外星人化身计划的好机会。"
+
+[S_First_Scientist_Received_Central AkEvent]
+SpokenText="感谢你送来的额外人员，对我很有帮助，指挥官。我会好好利用的。"
+
+[S_First_Supply_Raid_Geoscape_Central AkEvent]
+SpokenText="指挥官，我们刚得到消息，反抗军攻击了一个变种人的供给线。假如我们清除掉守卫的外星人军队，我们就可以搞到一些高质量的材料。"
+
+[S_Forge_marked_on_Geoscape_Central AkEvent]
+SpokenText="指挥官，我们获得了外星锻造厂的坐标，我已经在地图上标出来了。在我们行动前我们需要先同当地反抗军取得联系。"
+
+[S_Fortress_Marked_On_Geoscape_Central AkEvent]
+SpokenText="指挥官，我们找到了一个之前一直未知的外星人设施的坐标。为了躲避雷达的搜索，他们制造了许多麻烦。我想我们或许已经找到答案了。"
+
+[S_Golden_Path_Musings_Advent_Central_01 AkEvent]
+SpokenText="我必须承认外星人的长处，侵略是一码事，而他们的先进技术就是另一回事了，他们领先我们太多。即使有了更加先进的装备，变种人也是从未预料到的东西。那些宣传标语，宣传册以及来自于维和者看起来无穷无尽的支援对于抵抗运动来说完全就是阻碍。"
+
+[S_Golden_Path_Musings_Blacksite_Horror_Central_01 AkEvent]
+SpokenText="外星人一直是怪物。最开始的时候，只是一次又一次的失败实验。甚至出现了变种人军队，他们还想继续掩盖，但他们在护甲下毫无差别。到了现在，外星人弄出了一个设施，不仅要把我们消灭，还想要把我们转化成不知道什么鬼东西。我们早该知道长老们会回来的，早该知道他们从未离开过。"
+
+[S_Golden_Path_Musings_Dying_Ethereals_Central_01 AkEvent]
+SpokenText="有那么一瞬间，泰根让我燃起了希望，他说长老们已经快死了，我以为我们可以至少休息一阵了。我早该知道这一切不会这么简单。而且当然长老们的对策总是围绕着在人类身上展开实验，或者是破坏星球，或者就是二者合二为一。我所知道的是，这会是我们终结他们的最好机会。如果我们阻止了他们的治疗，我们就阻止了长老们。"
+
+[S_Golden_Path_Musings_Risistance_Central_01 AkEvent]
+SpokenText="以我所见，自从指挥官到来的消息传开之后，反抗军的征兵变得容易了许多。他们也和我们一样需要一个领导者，现在他们希望我们找外星人算账。并不是说我有些担心，只是说我们现在已经有了很多希望给变种人一点颜色看看的人了，事情开始变得有趣了。"
+
+[S_GP_Avatar_Bar_Geoscape_Central AkEvent]
+SpokenText="我们随时关注外星人化身计划的进展，如果他们完成了，我们就完了。"
+
+[S_GP_Avatar_Reveal_Comm_Feeder_Central AkEvent]
+SpokenText="指挥官，有条优先消息要接进，看起来是来自反抗军的加密信号，接入你的指挥舱。"
+
+[S_GP_Doom_Rising_Central AkEvent]
+SpokenText="指挥官，如果我们想延缓外星人的化身计划进程，我们就得尽快毁掉他们的设施。"
+
+[S_GP_First_Alien_Facility_Buit_Central AkEvent]
+SpokenText="外星人刚刚完成一个同化身计划息息相关的设施，指挥官。如果我们可以同这个地区的反抗军取得联系，我们就可以向那个设施发起攻击，并制止外星人的计划。"
+
+[S_GP_PreBlacksite_Objective_Ambient_CEN AkEvent]
+SpokenText="我们有我们的疑虑，但是以前我们没有任何资源可以调查市中心外秘密建立的变种人设施。既然我们已经得到了黑地的一些消息，我不得不承认，我很担心我们进去后会看到什么。在那里他们什么事情都干得出来。"
+
+[S_GP_PreBroadcast_Objective_Ambient_CEN AkEvent]
+SpokenText="看来我们终于给变种人对平民的精神控制造成了一次打击，但那并不简单。没有指挥官，我们根本不会走这么远，但是现在我们必须坚持到底，不管付出什么代价。"
+
+[S_GP_PreCaptain_Objective_Ambient_CEN AkEvent]
+SpokenText="变种人军官应该比你手下平均水准的士兵更聪明，因此我很怀疑我们的部队能否为泰根弄来个测试对象，尤其是他并没有要求一个活体。这些天我被震惊许多次，但我最好奇的还是指挥官身体中的芯片是否与变种人军官相连。"
+
+[S_GP_PreForge_Objective_Ambient_CEN AkEvent]
+SpokenText="沈成功地发现了一些编码的坐标，它看起来似乎在把我们引向另一个未知的设施。大家对我们将找到的东西有各种看法，但在亲自看到之前，我不会承认任何东西。"
+
+[S_GP_PreFortress_Objective_Ambient_CEN AkEvent]
+SpokenText="我们已经竭尽所能，是时候走过这道门然后彻底粉碎化身计划了。如果说我们之前的经历对我们有什么启示，那就是做好准备全力一击。"
+
+[S_GP_PreLiveCodex_Objective_Ambient_CEN AkEvent]
+SpokenText="泰根坚持说我们的军队在战场上不怕对付原典，至少时间足够我们骇入变种人的网络。难的部分在于我们要使士兵不要太急着杀死它们。没有人能够对接近这种外星物种感到兴奋，除了我们的游侠们。"
+
+[S_GP_PrePsiGate_Objective_Ambient_CEN AkEvent]
+SpokenText="我很不喜欢这个现状：毫无头绪地追踪另一个坐标。我们以前经历过这种情况，而且并不喜欢最后发现的东西。也许外星人正等着我们进入他们的圈套呢。大家都枕戈待旦，但我更希望我们还有选择的余地。"
+
+[S_Humans_Obsolete_Central_01 AkEvent]
+SpokenText="就像我们发现指挥官时的那个一样..."
+
+[S_Humans_Obsolete_Central_02 AkEvent]
+SpokenText="嘿，来见见我们的变种人招募官。"
+
+[S_Humans_Obsolete_Central_03 AkEvent]
+SpokenText="未来由你开始。"
+
+[S_Humans_Obsolete_Central_04 AkEvent]
+SpokenText="你是说克隆？那就不奇怪为什么他们源源不断了。"
+
+[S_Humans_Obsolete_Central_05 AkEvent]
+SpokenText="为什么开放？"
+
+[S_Humans_Obsolete_Central_06 AkEvent]
+SpokenText="人体材料。你是说我们在黑地设施里发现的东西？"
+
+[S_Humans_Obsolete_Central_07 AkEvent]
+SpokenText="所以，我们一直是和我们自己战斗。"
+
+[S_Humans_Obsolete_Central_08 AkEvent]
+SpokenText="诊疗所的筛选程序。化身。"
+
+[S_Humans_Obsolete_Central_09 AkEvent]
+SpokenText="我明白，博士，继续研究，有什么发现就通知我们。"
+
+[S_Intro_Central_01 AkEvent]
+SpokenText="行动中"
+
+[S_Intro_Central_03 AkEvent]
+SpokenText="保持注意"
+
+[S_Intro_Central_04 AkEvent]
+SpokenText="闯入者准备，60秒倒数。"
+
+[S_Intro_Central_06 AkEvent]
+SpokenText="引爆。"
+
+[S_Loot_Mission_Wrapper_Central AkEvent]
+SpokenText="我们已经锁定变种人设施的地点了，里面有沈需要的飞行系统零件。侵入那个地点，保护目标并且在外星人发觉之前回到船上。"
+
+[S_Missing_Supply_Cache_Central AkEvent]
+SpokenText="指挥官，反抗军在变种人控制区域外隐藏了一些资源。但这意味着如果我们想取得这些材料我们就不得不从上方扫描这片地区。"
+
+[S_Old_Gods_02_Central_01 AkEvent]
+SpokenText="这是...一名长老。至少有十年没见过了。变种人一直在那些纪念碑前宣扬他们的荣耀。"
+
+[S_Old_Gods_02_Central_02 AkEvent]
+SpokenText="也就是说他们快要灭亡了。听起来我们的工作似乎轻松了不少。"
+
+[S_Old_Gods_02_Central_03 AkEvent]
+SpokenText="什么意思？"
+
+[S_Old_Gods_02_Central_04 AkEvent]
+SpokenText="治愈他们的方法？"
+
+[S_Old_Gods_02_Central_05 AkEvent]
+SpokenText="入侵...占领...变种人...大型的实验室试验。我们就是小白鼠。"
+
+[S_Old_Gods_02_Central_06 AkEvent]
+SpokenText="化身。我们需要那些文件。"
+
+[S_Old_Gods_02_Central_07 AkEvent]
+SpokenText="或是把整艘船炸上天。"
+
+[S_Old_Gods_02_Central_08 AkEvent]
+SpokenText="这事我们可以搞定，博士。"
+
+[S_Old_Gods_02_Central_09 AkEvent]
+SpokenText="指挥官，这件事并不容易，如果真有人能把它做成，那肯定是你。我这有一个小队的人手可以听你差遣。"
+
+[S_Pre_Final_Mission_Broadcast_Central_01 AkEvent]
+SpokenText="转到屏幕上。"
+
+[S_Pre_Final_Mission_Broadcast_Central_02 AkEvent]
+SpokenText="我知道，他这么联系我们冒了很大风险。"
+
+[S_Pre_Final_Mission_Broadcast_Central_03 AkEvent]
+SpokenText="听起来可行？"
+
+[S_PreFinalMission_MissionUI_Geoscape_Central AkEvent]
+SpokenText="就是这个，指挥官。是时候让我们彻底结束这个了。"
+
+[S_Psi_Gate_marked_on_Geoscape_Central AkEvent]
+SpokenText="我已经标记出了沈从原典中取得的坐标，指挥官。它很远，远离人烟。如果我们想进一步调查就得先同当地反抗军取得联系。"
+
+[S_Psi_Network_Central_01_GoldenPath AkEvent]
+SpokenText="我想这次...要比你上一次手术简单多了，是吗？博士。"
+
+[S_Psi_Network_Central_02_GoldenPath AkEvent]
+SpokenText="哪种区别？"
+
+[S_Psi_Network_Central_03_GoldenPath AkEvent]
+SpokenText="他们在利用你来对抗我们。"
+
+[S_Psi_Network_Central_04_GoldenPath AkEvent]
+SpokenText="网络？"
+
+[S_Psi_Network_Central_05_GoldenPath AkEvent]
+SpokenText="或者说是弱点..."
+
+[S_Psi_Network_Central_06_GoldenPath AkEvent]
+SpokenText="我想那不会很容易。"
+
+[S_Psi_Network_Central_07_GoldenPath AkEvent]
+SpokenText="正如我所说，不会很容易。"
+
+[S_Psi_Network_Central_08_GoldenPath AkEvent]
+SpokenText="不过这是最有效的办法，你来决定吧，指挥官。"
+
+[S_Retaliation_Central_01_Setup_Phase AkEvent]
+SpokenText="这是我们的荣幸，丹莫瑟。享受当下吧。"
+
+[S_Retaliation_Central_02_Setup_Phase AkEvent]
+SpokenText="你至少对了一部分。"
+
+[S_Retaliation_Central_03_Setup_Phase AkEvent]
+SpokenText="建造那个前哨站！"
+
+[S_Retaliation_Central_04_Setup_Phase AkEvent]
+SpokenText="有敌人朝你逼近！他们就在..."
+
+[S_Retaliation_Central_05_Setup_Phase AkEvent]
+SpokenText="他们一点机会都没有..."
+
+[S_Retaliation_Central_06_Setup_Phase AkEvent]
+SpokenText="指挥官，我们需要一支可供部署的小队..."
+
+[S_Retaliation_Central_07_Setup_Phase AkEvent]
+SpokenText="拉响警报！命令所有人离开那里！"
+
+[S_Setup_Phase_Armory_Promote_Jane_Central AkEvent]
+SpokenText="指挥官，Jane Kelly在营救你的行动中贡献巨大。她已经有足够经验可以赢得晋升的机会了，我们应该现在就处理这件事。"
+
+[S_Setup_Phase_Blacksite_Bridge_Matinee_Central AkEvent]
+SpokenText="我们刚从反抗军得到消息，他们已经成功定位了我们之前听过的那个变种人黑地。我已经锁定了坐标，但我们有个麻烦。"
+
+[S_Setup_Phase_Facility_Adds_Doom_Central AkEvent]
+SpokenText="指挥官，外星人的化身计划仍在继续。摧毁这个设施对他们来说会是个不小的打击。"
+
+[S_Setup_Phase_First_Geoscape_Central AkEvent]
+SpokenText="外星人可能已经掌握世界了，但现在我们要改变状况。目前反抗军在世界上四分五裂。我们的第一步就是要把所有人都联合起来。"
+
+[S_Setup_Phase_First_Geoscape_Hideout_Central AkEvent]
+SpokenText="这是我们目前的位置。我们现在被困在地面上，但如果能替沈拿到最后一个零件，或许这个东西就能飞起来。"
+
+[S_Setup_Phase_First_Geoscape_Mission_Site_Central AkEvent]
+SpokenText="不幸的是，我们要的零件在一个保卫森严的变种人设施中。没有办法能直接进去，我们必须打进去。"
+
+[S_Setup_Phase_First_Geoscape_Ready_Deploy_Central AkEvent]
+SpokenText="小队已经准备好，你一下令就能出发了，指挥官。"
+
+[S_Setup_Phase_First_Living_Quarters_Central AkEvent]
+SpokenText="对于我们大多数的士兵来说，复仇者号的居住舱比他们曾经不得不忍受的居住环境要好许多。"
+
+[S_Setup_Phase_First_Memorial_Central AkEvent]
+SpokenText="我们已经做了我们力所能及的来纪念这些死去的战士们，指挥官。这并不够，但至少给我们提供了一个表达敬意的机会。"
+
+[S_Setup_Phase_First_Rumor_Central AkEvent]
+SpokenText="指挥官，我们的一个反抗军线人刚向我们透露了一个值得调查的地点。"
+
+[S_Setup_Phase_First_Scan_Central AkEvent]
+SpokenText="已经取得一些地区的读数了。我们不能一下就覆盖到所有的地区，指挥官。我们需要小心行事，帮助我们的同盟并扰乱敌军的行动来建立反抗。"
+
+[S_Setup_Phase_Forge_Coordinates_But_No_Contact_Central AkEvent]
+SpokenText="指挥官，我们已经定位了外星人锻造厂，不过在进去调查之前，我们需要先同当地反抗军力量取得联系。"
+
+[S_Setup_Phase_Fortress_Adds_Doom_Central AkEvent]
+SpokenText="指挥官，外星人的化身计划仍在继续。想要阻止他们的话，我们得抓紧时间了。"
+
+[S_Setup_Phase_Geoscape_Avenger_Focus_Central AkEvent]
+SpokenText="我不建议等太久，指挥官，我们应该尽快联络各地反抗军，建立全球反抗军统一战线，一举打垮变种人。"
+
+[S_Setup_Phase_Geoscape_Avenger_Parked_Central AkEvent]
+SpokenText="这是我们现在的位置，正好在反抗军总部的外面。如果我们没有行动，那这就是我们的家，也是我们唯一的供给来源。"
+
+[S_Setup_Phase_Geoscape_Avenger_Parked_Central_ALT AkEvent]
+SpokenText="指挥官，我军当前驻扎在反抗军总部外，如果我们不进行任何行动，这里就会被默认为我军营地和补给源。议员已经确定本地区含有外星人黑地，但我们尚无法获得确切坐标，我们可以与附近的反抗军联络一下，这样就可以在他们的协助下确定黑地位置。泰根博士相信自己可以研究出如何在不惊动外星人的情况下与各地反抗军取得联系，但可能要花些时间。我不建议等太久，指挥官，我们应该尽快联络各地反抗军，建立全球反抗军统一战线，一举打垮变种人。"
+
+[S_Setup_Phase_Geoscape_Blacksite_Focus_Central AkEvent]
+SpokenText="议员已经追踪外星人黑地到了这里。不幸的是，我们尚未和它取得联系。如果我们想进入那个设施，我们就得需要附近当地反抗军的帮助。至于我们如何在不惊动外星人的情况下联系到他们，泰根有个方法，但他需要时间来进行研究。"
+
+[S_Setup_Phase_Geoscape_Blacksite_Region_Contact_Made_Central AkEvent]
+SpokenText="指挥官，我们已经与当地反抗军建立了联系，只要你下令我们就可以前往变种人黑地。我想设施里的安保措施一定十分森严，我们需要确保军队已经全副武装以应对一场艰苦的战斗。"
+
+[S_Setup_Phase_Geoscape_Blacksite_Region_Focus_Central AkEvent]
+SpokenText="我们现在可以利用情报资源和这个地区的反抗军组织取得联系了。因为我们扩大了影响范围，现在我们不仅能进入黑地，补给收入也相应提高了。"
+
+[S_Setup_Phase_Geoscape_First_GOP_Central AkEvent]
+SpokenText="我们已经准备好开始行动了，指挥官。我们将打击任何我们发现的变种人以加强全球反抗军运动。他们则会给予我们物资以支援我们的行动，我觉得是时候来看看这东西有什么用了。"
+
+[S_Setup_Phase_Geoscape_First_GOP_Central_ALT AkEvent]
+SpokenText="我们时刻准备着战斗，指挥官。我们可以攻击发现的任何敌人以支援反抗军盟友，作为回报，各地反抗军会给予我们物资和人员支持。"
+
+[S_Setup_Phase_Geoscape_First_Make_Contact_Central AkEvent]
+SpokenText="在花费初始情报获取联系后，我们需要几天时间扫描这个地区直到当地反抗军出现。一旦我们找到他们，我们的实力会增强许多。"
+
+[S_Setup_Phase_Geoscape_Objectives_Appear_Central AkEvent]
+SpokenText="我正在查看我们当前的任务目标。如果你需要更详细的报告，我已经把所有的内容放进了指挥舱里的档案中。尽管现在你看起来没时间，但我们正接入一个来自反抗军的信息，听起来他们有新消息提供给我们。"
+
+[S_Setup_Phase_Geoscape_Objectives_Appear_Central_ALT AkEvent]
+SpokenText="看来你挺忙的，不过，远程侦测系统发现了些问题，距离我们不远。"
+
+[S_Setup_Phase_Geoscape_Player_Leaves_Without_Scanning_Central AkEvent]
+SpokenText="指挥官，在与当地反抗军建立联系之前，我们需要全面扫描一下这个地区。我建议我们留下来完成扫描，但这由你决定。"
+
+[S_Setup_Phase_Geoscape_Resistance_Comms_Focus_Central AkEvent]
+SpokenText="是时候试试这个新通讯系统了。我们来呼叫一下看看谁会回复。"
+
+[S_Setup_Phase_Geoscape_Scan_Attempt_With_Timed_Mission_Central AkEvent]
+SpokenText="指挥官，我们有个限时任务需要做。扫描可以推后，但这个任务失败的话就会给反抗军的行动带来严重影响。"
+
+[S_Setup_Phase_Lab_Transition_Central AkEvent]
+SpokenText="看来泰根博士的研究有进展了，我们应该去实验室看看。"
+
+[S_Setup_Phase_Multiple_Missions_Available_Central AkEvent]
+SpokenText="好了，指挥官，我们有很多事情要做，但是先做什么要由你来决定。我们最新的任务目标会显示在这里，如果你想知道更详细的情况，可以到你的指挥舱查看任务档案。同时，我们会监视反抗军通讯以获取新的线索。事实上，我们现在似乎就收到一条..."
+
+[S_Setup_Phase_New_Ability_Confirmed_Central AkEvent]
+SpokenText="我们有了个好开始。我们的军队学到不少经验，他们会因此越来越强大的。"
+
+[S_Setup_Phase_Pass_time_Geoscape_Central AkEvent]
+SpokenText="通过在全息地球仪选择扫描点，你可以用复仇者号上的机载传感器扫描这片地区来打发时间。你也可以通过扫描为反抗军总部提供情报来打发时间。"
+
+[S_Setup_Phase_Pass_time_Geoscape_Central_ALT AkEvent]
+SpokenText="我们可以利用策划下场行动与等待研发完成的时间进行定点扫描。需要的话我们可以立刻开始扫描周边区域。"
+
+[S_Setup_Phase_Pass_time_Geoscape_Specific_Alt_Central AkEvent]
+SpokenText="指挥官，在我们等待新任务或者等待研究完成的时候，我们可以扫描这个地点来打发时间。你一下令我们就开始扫描这片地区。"
+
+[S_Setup_Phase_Psi_Gate_Coordinates_But_No_Contact_Central AkEvent]
+SpokenText="指挥官，我们已经定位了沈和泰根从原典中取得的坐标，不过在我们进去调查之前，我们需要先同当地反抗军组织取得联系。"
+
+[S_Setup_Phase_Radio_Relay_Bridge_Matinee_Central AkEvent]
+SpokenText="根据泰根博士的最新报告，我们应该可以通过无线电中继塔来扩大反抗军通讯网络的范围。"
+
+[S_Setup_Phase_Recruit_Soldiers_After_Meeting_Resistance_Central AkEvent]
+SpokenText="因为已经同当地反抗军建立了联系，我们可以从他们的队伍里招募新人员来充实我们的力量。"
+
+[S_Setup_Phase_Resistance_Comms_Bridge_Matinee_Central AkEvent]
+SpokenText="泰根刚发来报告，新的反抗军通讯网络已经完全准备就绪。现在我们只需要传达这个消息。"
+
+[S_Setup_Phase_Soldier_Walkup_Promote_Central AkEvent]
+SpokenText="我们之中的一些人赢得了他们应有的晋升，指挥官。我猜沈或许也想要和你谈谈。"
+
+[S_Setup_Phase_Welcome_to_Avenger_Post_Research_Central AkEvent]
+SpokenText="这研究会让泰根忙一阵子了。在这期间，你或许会想去一下军械库。"
+
+[S_Skipped_or_Failed_Mission_Central AkEvent]
+SpokenText="当地反抗军经历了最近的挫败后已经销声匿迹，指挥官。我们必须等他们重新组织起来才能再做联络。"
+
+[S_Skulljack_Objective_Active_Not_Equipped_B_Central AkEvent]
+SpokenText="指挥官，如果我们想对现在的目标取得任何进展的话，就得让我们的士兵在战场上使用头颅接入器。"
+
+[S_Skulljack_Objective_Active_Not_Equipped_Central AkEvent]
+SpokenText="指挥官，如果我们没有好好利用头颅接入器的话，泰根和沈会感到很失望。在部署小队之前，我们应该给其中一个士兵装备上。"
+
+[S_Support_Advent_Progress_Warning_Central_01 AkEvent]
+SpokenText="指挥官，外星人已经大幅接近他们的目标了。新的变种人设施在世界各地纷纷建立。"
+
+[S_Support_Ambient_Musings_Misc_Central_01 AkEvent]
+SpokenText="我们收到一个自称Van Doorn的家伙的未加密信号...听起来不像是我们要找的人。"
+
+[S_Support_Ambient_Musings_Misc_Central_02 AkEvent]
+SpokenText="新的制服不算糟糕，不过有时我还是怀念那件破毛衣。"
+
+[S_Support_Ambient_Musings_Misc_Central_03 AkEvent]
+SpokenText="由于一切来得都太快，我们都没思考过可能性的存在，不过我一直相信瓦伦依然还活着。她不是那种会让XCOM的衰败阻止她研究的人。"
+
+[S_Support_Avenger_Lands_First_Contact_Central AkEvent]
+SpokenText="指挥官，利用目前收集的情报，我们已经设法确定了该区域反抗军的活动。但是我们需要花一些时间来扫描出他们的确切位置。"
+
+[S_Support_Avoid_UFOs_Central_01 AkEvent]
+SpokenText="我们需要小心选择我们的飞行路线，指挥官。复仇者号很坚固，但还不能和一整支幽浮纵队硬拼。我们应该尽可能地避免与其接触。"
+
+[S_Support_Begin_Scanning_Activity_Central AkEvent]
+SpokenText="指挥官，复仇者号的远程扫描能力能帮助我们搜索区域来寻找线索和其他资源。这会花一点时间，因为我们有许多地方需要调查。"
+
+[S_Support_Blacksite_Mission_Locked_Central AkEvent]
+SpokenText="指挥官，我们已经找到外星人黑地的位置，但我们需要依靠当地反抗军来帮助我们到达该设施。我们应当尽快试着和他们取得联系，这是我们找出所谓\"化身计划\"背后真相的唯一选择。"
+
+[S_Support_Class_Callouts_Central_01 AkEvent]
+SpokenText="游侠是我们主要的侦察单位，能隐蔽地独立行动，同时能与敌人近距离交战。"
+
+[S_Support_Class_Callouts_Central_02 AkEvent]
+SpokenText="作为我们的爆破专家，榴弹兵随时随地都能为我们提供重火力支援。"
+
+[S_Support_Class_Callouts_Central_03 AkEvent]
+SpokenText="专家操作着我们一些最为先进的设备，他们能在战场上部署机器无人机，执行战斗或是战场医疗任务。"
+
+[S_Support_Class_Callouts_Central_04 AkEvent]
+SpokenText="正如其名，神枪手能够从超远距离以高精确度攻击敌对目标。他们同样能够学习手枪枪法以应付可能出现的近距离遭遇战。"
+
+[S_Support_Class_Callouts_Psi_Central AkEvent]
+SpokenText="根据那个人给你的回答，灵能应该是外星人最强大的力量。现在我们自己的灵能士兵也能拥有接近这样的实力。"
+
+[S_Support_Contact_Blacksite_Region_Central AkEvent]
+SpokenText="指挥官，我们已经和当地反抗军取得联络，我们已经准备好接受你的命令前往外星人黑地了。"
+
+[S_Support_Established_Contact_Mission_Available_Central_01 AkEvent]
+SpokenText="我们已经和反抗军势力联络了，指挥官，他们有一些需要我们帮助的事情。"
+
+[S_Support_Established_Contact_Mission_Blacksite_Central_01 AkEvent]
+SpokenText="指挥官，我们已经和这个区域的抵抗力量联络上了--他们愿意带我们去变种人黑地。"
+
+[S_Support_Established_Contact_Mission_Forge_Central_01 AkEvent]
+SpokenText="我们已经和这个地区的反抗军成员有了初步联络，指挥官。他们会告诉我们如何进入外星人锻造设施。"
+
+[S_Support_Established_Contact_Mission_PsiGate_Central AkEvent]
+SpokenText="我们已经同当地反抗军力量取得了联系，指挥官。我们已经准备好向原典中的这个坐标移动。"
+
+[S_Support_Final_Avatar_Countdown_Central AkEvent]
+SpokenText="指挥官，我们快没有时间了！化身计划已进入了最后阶段。我们只有摧毁他们的设施才能延缓长老们的进度了。我们必须迅速行动，不然我们所有的努力都会付之一炬。"
+
+[S_Support_First_Alien_Facility_Constructed_Central AkEvent]
+SpokenText="指挥官，我们已经收到消息说外星人建立了一个设施用来进行\"化身计划\"。如果我们可以和那个区域的反抗军建立联络，我们就能够前往那个设施并破坏它以阻止外星人的行动。"
+
+[S_Support_First_Armored_Enemy_Sighted_Central AkEvent]
+SpokenText="我怀疑你的常规子弹能不能穿透那东西的护甲，你必须用榴弹才能撂倒它。"
+
+[S_Support_First_Dark_Events_Central AkEvent]
+SpokenText="指挥官，我们有情报指出外星人正加强防守以免我们阻止化身计划。我们可以采取游击战术以瓦解他们的行动，但我们必须慎重行事。我们没有到处开战的资本。"
+
+[S_Support_First_Doom_Central AkEvent]
+SpokenText="指挥官，通过收集情报，我们现在能试着追踪外星人\"化身计划\"的进度了。如果他们达到了这个计量器的末端，那就太迟了。"
+
+[S_Support_First_Guerilla_Operation_Central AkEvent]
+SpokenText="指挥官，随着反抗军持续地扩张，我们将有更好的机会回击变种人。事实上，我们已经在该区域确定了一个潜在的目标，可以干扰外星人的行动。机会转瞬即逝，我们需要尽快行动。"
+
+[S_Support_First_Hidden_Doom_Central AkEvent]
+SpokenText="指挥官，有多份未经证实的报告指出，外星人正在一个未知地点的设施里实施化身计划。要查明外星人的计划我们必须继续努力。"
+
+[S_Support_First_Radio_Relays_Central AkEvent]
+SpokenText="指挥官，我们现在能够在任何已取得联络的区域建造无线电中继站了。"
+
+[S_Support_First_Regions_Available_Central AkEvent]
+SpokenText="指挥官，我们现在能够和全球的反抗组织建立联络了。一旦我们收集到了足够建立联络的情报，我们会需要扫描目标地区以搜寻他们的信号。"
+
+[S_Support_Geoscape_Connections_Central AkEvent]
+SpokenText="指挥官，我们能够通过使用全息地图系统来追踪我们与全世界反抗军组织的联络进度。我们同样也能利用该系统来策划未来对外星人的行动。"
+
+[S_Support_Great_Mission_Central_01 AkEvent]
+SpokenText="我从未怀疑过你的能力，指挥官。做得太好了。"
+
+[S_Support_Great_Mission_Central_02 AkEvent]
+SpokenText="我告诉过军队你是最棒的，而这正是你所展现的，指挥官。做得好。"
+
+[S_Support_Great_Mission_Central_03 AkEvent]
+SpokenText="在这样的行动后，士气必然会提高。干得好，指挥官。"
+
+[S_Support_Great_Mission_Central_04 AkEvent]
+SpokenText="干得漂亮，指挥官--外星人也许还不知道是谁攻击了他们。"
+
+[S_Support_Great_Mission_Central_05 AkEvent]
+SpokenText="我们真的给了外星人一个重大打击，指挥官。他们不会忘记的。"
+
+[S_Support_Great_Mission_Central_06 AkEvent]
+SpokenText="我们正慢慢走向胜利，指挥官。做得好。"
+
+[S_Support_Great_Mission_Central_07 AkEvent]
+SpokenText="我们部队让战斗变得非常容易，指挥官--这一切都归功于你。"
+
+[S_Support_Great_Mission_Central_08 AkEvent]
+SpokenText="做得好，指挥官--我们离夺回地球又近了一步。"
+
+[S_Support_Great_Mission_Central_09 AkEvent]
+SpokenText="我相信外星人不会很高兴的，指挥官。干得漂亮。"
+
+[S_Support_Great_Mission_Central_10 AkEvent]
+SpokenText="任务一个接一个地完成，让我们得以击垮变种人，指挥官，干得好。"
+
+[S_Support_Multiple_Mission_Sites_Available_Central AkEvent]
+SpokenText="指挥官，在联络了如此多得反抗军同盟后，我们收到了来自世界各地的支援请求。不幸的是，我们拥有的资源只允许我们回应其中一处。这将由你决定。"
+
+[S_Support_No_Supply_Income_Central AkEvent]
+SpokenText="指挥官，我们目前没有新的补给收入了，我们需要寻求补充我们资源的新办法。"
+
+[S_Support_Region_High_Alert_Central_01 AkEvent]
+SpokenText="指挥官，变种人在该区域处于高度警戒状态，我们不可能在现在实施此行动，坐标已清除。"
+
+[S_Support_Reminder_Alien_Facilities_Constructed_Central_01 AkEvent]
+SpokenText="指挥官，外星人并没有停下来。他们已经在全球建立了很多设施--我们时间不多了。"
+
+[S_Support_Reminder_Make_Contact_Central_01 AkEvent]
+SpokenText="指挥官，已有本地抵抗力量等待联络--但我们需要先有所行动。"
+
+[S_Support_Reminder_Need_More_Intel_Central_01 AkEvent]
+SpokenText="指挥官，目前我们的情报不足以与该区域的抵抗力量取得联系。"
+
+[S_Support_Soldier_Shaken_Central AkEvent]
+SpokenText="指挥官，即使是最好的士兵也会因持续的战斗压力而动摇军心，不过只要我们保持他们健康，我确定他们会很快恢复的。"
+
+[S_Support_Squad_Select_Wounded_Soldiers_Central AkEvent]
+SpokenText="指挥官，我们无法承受行动失败的后果，即使这意味着我们让伤员再次战斗。我们必须成功，不惜一切代价。"
+
+[S_Support_Tough_Mission_Central_01 AkEvent]
+SpokenText="我们应该做得更好，我们不能再有这样的行动了。"
+
+[S_Support_Tough_Mission_Central_02 AkEvent]
+SpokenText="这次行动太差劲了，指挥官。这样的失败不仅仅是人力上的损失。"
+
+[S_Support_Tough_Mission_Central_03 AkEvent]
+SpokenText="让船员迈过这道坎会很难，指挥官。我们必须在未来更加努力。"
+
+[S_Support_Tough_Mission_Central_04 AkEvent]
+SpokenText="我们遭受了重大损失，指挥官。我们必须确保永不再发生。"
+
+[S_Support_Tough_Mission_Central_05 AkEvent]
+SpokenText="情况并不妙，指挥官。我们需要评估战术，升级装备--不惜一切代价。"
+
+[S_Support_UFO_Inbound_Evasive_Maneuvers_Central AkEvent]
+SpokenText="指挥官！幽浮已经锁定了我们！我们必须进行机动规避！"
+
+[S_Support_UFO_Inbound_Now_Hunting_Central AkEvent]
+SpokenText="指挥官，远程侦察显示外星人派出了一艘幽浮以寻找我们的位置，我们需要谨慎选择我们的飞行路线。"
+
+[S_Support_UFO_Inbound_Shot_Down_Central AkEvent]
+SpokenText="我们坠落了，指挥官！敌方幽浮已经瘫痪了我们的系统！振作起来！"
+
+[S_Support_UFO_Inbound_UFO_Evaded_Central AkEvent]
+SpokenText="我们安全了，指挥官。没有追踪到幽浮的信号了。"
+
+[S_Victory_Central_01 AkEvent]
+SpokenText="我想说真是不虚此行。"
+
+[S_Victory_Central_02 AkEvent]
+SpokenText="她说得对！行动！"
+
+[S_Victory_Central_03 AkEvent]
+SpokenText="沈，你应该想好退路了吧。"
+
+[S_Victory_Central_04 AkEvent]
+SpokenText="真是迅速...干得好。"
+
+[S_Victory_Central_05 AkEvent]
+SpokenText="指挥官，不管这是不是你干的，这很有效。记得回程时确保有充足的燃料。"
+
+[S_Victory_Central_06 AkEvent]
+SpokenText="指挥官！你没事吧！我们刚刚失去了联络..."
+
+[S_Victory_Central_07 AkEvent]
+SpokenText="博士，这里到底怎么了！？"
+
+[S_Victory_Central_08 AkEvent]
+SpokenText="那就切断连结！"
+
+[S_Victory_Central_09 AkEvent]
+SpokenText="任务已完成，指挥官。"
+
+[S_Welcome_HQ_Central_01_Setup_Phase AkEvent]
+SpokenText="我知道了，沈。我们找到那东西时，会第一个通知你的。"
+
+[S_Welcome_HQ_Central_02_Setup_Phase AkEvent]
+SpokenText="指挥官，等一下。"
+
+[S_Welcome_HQ_Central_03_Setup_Phase AkEvent]
+SpokenText="执行梯次协议。"
+
+[S_Welcome_HQ_Central_04_Setup_Phase AkEvent]
+SpokenText="我本想搞一个仪式的，但我们现在有麻烦。"
+
+[S_Welcome_HQ_Central_05_Setup_Phase AkEvent]
+SpokenText="几个月来沈一直在让我们找这个什么\"混合磁力转换器\"。"
+
+[S_Welcome_HQ_Central_06_Setup_Phase AkEvent]
+SpokenText="变种人终于有一个我们可以下手的目标了，虽然我觉得他们一定不会轻易放弃的。如果我们能将这个\"转换器\"完好无损地带回，我们也许可以让这里运转起来，更别说还能让沈消停几天别再催我了。"
+
+[S_Welcome_HQ_Central_07_Setup_Phase AkEvent]
+SpokenText="小队已准备完毕，只等你下令了，指挥官。"
+
+[S_Welcome_HQ_NS_Central_01 AkEvent]
+SpokenText="指挥官，看到你能重新下地活动真好。欢迎来到舰桥。这是我们整个行动的神经中枢。"
+
+[S_Welcome_HQ_NS_Central_02 AkEvent]
+SpokenText="外星人将整个世界掌握在手中。变种人控制了所有一切--政府，通讯，工业，更别提军事了。现在只能靠我们将它们夺回来了。"
+
+[S_Welcome_HQ_NS_Central_03 AkEvent]
+SpokenText="资源和时间都很紧迫，指挥官。该是你来决定如何有效利用这些的时候了。这艘船听你调遣。"
+
+[S_Welcome_Resistance_Incoming_Trans_Central AkEvent]
+SpokenText="指挥官，收到保密传输，源头不明。我们正将该信号传送至你的舱室。"
+
+[S_Wild_Central_01 AkEvent]
+SpokenText="有来电找你，指挥官。正接通进你的房间。"
+
+[S_Wild_Central_02 AkEvent]
+SpokenText="有个紧急来电找你，指挥官。"
+
+[S_Wild_Central_03 AkEvent]
+SpokenText="收到重要信息，指挥官，正在接入屏幕。"
+
+[S_Wild_Central_04 AkEvent]
+SpokenText="看起来我们得开始了指挥官。你准备好了我们就行动。"
+
+[S_Wild_Central_05 AkEvent]
+SpokenText="是的！"
+
+[S_Wild_Central_06 AkEvent]
+SpokenText="我们准备好行动了指挥官。我认为是时候了。"
+
+[S_Wild_Central_07 AkEvent]
+SpokenText="接入混合磁力转换器，这是沈一直要求我们寻找的。"
+
+[S_Wild_Central_08 AkEvent]
+SpokenText="当地的侦查组织已经追踪该设备到了附近的一个变种人车队。他们就在附近，但不会逗留太久。"
+
+[S_Wild_Central_09 AkEvent]
+SpokenText="当地通讯中心一片漆黑，还不确定具体是什么问题，但我猜情况不妙。这些人为我们赢得了时间，我们得让这些努力变得有意义。"
+
+[S_Wild_Central_10 AkEvent]
+SpokenText="指挥官，在护卫队最后出现的位置发现大火。接入远程监控。"
+
+[S_Wild_Central_11 AkEvent]
+SpokenText="据消息，护卫舰正企图逃离，当地武装正准备拦截。"
+
+[S_Wild_Central_12 AkEvent]
+SpokenText="该死！"
+
+[S_Wounded_Soldiers_Can_Go_Central AkEvent]
+SpokenText="指挥官，如果你觉得需要，我们可安排受伤士兵参加战斗。这次行动对我们来说很重要，想要脱险的话我们并没有太多选择。"
+
+[Strategy_New_Objective_Generic_Central_A AkEvent]
+SpokenText="看来我们的工作有所进展了，指挥官。"
+
+[Strategy_New_Objective_Generic_Central_B AkEvent]
+SpokenText="指挥官，我已经更新了最新的任务列表。"
+
+[Strategy_New_Objective_Generic_Central_C AkEvent]
+SpokenText="指挥官，我们已经取得了进展，我刚刚更新了一份根据目前进度制定的最新任务目标列表。"
+
+[Strategy_New_Objective_Generic_Central_D AkEvent]
+SpokenText="我在实时跟踪工作进展，指挥官。我们的人随时准备为您效劳。"
+
+[Strategy_New_Objective_Generic_Central_E AkEvent]
+SpokenText="指挥官，我刚刚更新了一份根据目前进度制定的最新任务目标列表。您可以随时下令行动。"
+
+[Strategy_New_Objective_Generic_Central_F AkEvent]
+SpokenText="指挥官，我刚刚更新了一份根据目前进度制定的最新任务目标列表。"
+

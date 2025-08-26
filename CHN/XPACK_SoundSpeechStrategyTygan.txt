@@ -1,0 +1,138 @@
+﻿[Play_X2_XP_S_TYG_Ambient_Musing_A AkEvent]
+SpokenText="我个人觉得天选者相当恼人。长老试图把我们的敌人变得更像人类，就是为了让我们的士兵在战斗中更难向他们下手。"
+
+[Play_X2_XP_S_TYG_Ambient_Musing_B AkEvent]
+SpokenText="关于长老是如何创造出天选者的，我也只能做出一定的推测。至少现在，我们仍旧难以理解他们多变的阴谋。"
+
+[Play_X2_XP_S_TYG_Breakthrough_Complete_A AkEvent]
+SpokenText="跟我希望的一样，指挥官。"
+
+[Play_X2_XP_S_TYG_Breakthrough_Complete_B AkEvent]
+SpokenText="这将是一项重大的突破。"
+
+[Play_X2_XP_S_TYG_Breakthrough_Complete_C AkEvent]
+SpokenText="这项突破带来的成果真是喜人。"
+
+[Play_X2_XP_S_TYG_Chosen_Comments_Assassin AkEvent]
+SpokenText="这个名为刺客的天选者似乎拥有着我们历史上那些荣誉感很强的传奇战士的特质。在我见证过，更重要的是，听到过刺客所说的话后，我不禁好奇起这些独特的性格特征的来源是什么了。"
+
+[Play_X2_XP_S_TYG_Chosen_Comments_Hunter AkEvent]
+SpokenText="被我们称为猎手的这个天选者，基于其和死神派系之间的恩怨，我推断他是天选者中最冷漠，但也是有着最大渴望的，他究竟想要什么我也没法做出定论。但与其他被长老创造出来的天选者不同，猎手从不掩饰他对长老的蔑视之情。"
+
+[Play_X2_XP_S_TYG_Chosen_Comments_Warlock AkEvent]
+SpokenText="天选者术士是一个对长老忠诚到近乎疯狂的狂信徒。根据他的言行，我认为他非常想让我们为忤逆长老付出代价。事实上，我怀疑长期接触高密度的灵能可能早已扭曲了这家伙的神智了。"
+
+[Play_X2_XP_S_TYG_Inspiration_Complete_A AkEvent]
+SpokenText="我们的灵感果然没错。"
+
+[Play_X2_XP_S_TYG_Inspiration_Complete_B AkEvent]
+SpokenText="我们在很短的时间内完成了研究，指挥官。"
+
+[Play_X2_XP_S_TYG_Inspiration_Complete_C AkEvent]
+SpokenText="我的团队在灵感来了的时候可是效率很高的。"
+
+[Play_X2_XP_S_TYG_Photobooth_Musing_A AkEvent]
+SpokenText="如果这可以提升士气，那就没什么问题。"
+
+[Play_X2_XP_S_TYG_Photobooth_Musing_B AkEvent]
+SpokenText="让他们把它印在变种人汉堡菜单上...当然，是用于科研。"
+
+[Play_X2_XP_S_TYG_Photobooth_Musing_D AkEvent]
+SpokenText="事实上，我觉得这只会让他们分类起我们人类来更加方便。"
+
+[Play_X2_XP_S_TYG_Photobooth_Musing_E AkEvent]
+SpokenText="希望我们的宣传资金不是从我的科研预算中划拨的。"
+
+[Play_X2_XP_S_TYG_Research_Complete_A AkEvent]
+SpokenText="可以说，我们获得的成果超出了你的预期。"
+
+[Play_X2_XP_S_TYG_Research_Complete_B AkEvent]
+SpokenText="这将是人类的一大步。"
+
+[Play_X2_XP_S_TYG_Research_Complete_C AkEvent]
+SpokenText="我们的研究成功了，指挥官。"
+
+[Play_X2_XP_S_TYG_Research_Complete_D AkEvent]
+SpokenText="我们的研究又一次成功了。"
+
+[Play_X2_XP_S_TYG_Research_Complete_E AkEvent]
+SpokenText="我们有了不少新发现，指挥官。"
+
+[Play_X2_XP_S_TYG_Research_Confirmation_A AkEvent]
+SpokenText="我这就开始我们的研究。"
+
+[Play_X2_XP_S_TYG_Research_Confirmation_B AkEvent]
+SpokenText="科学研究马上开始，指挥官。"
+
+[Play_X2_XP_S_TYG_Research_Confirmation_C AkEvent]
+SpokenText="有了发现我立刻通知你。"
+
+[Play_X2_XP_S_TYG_Research_Confirmation_D AkEvent]
+SpokenText="我会最优先处理该项目的。"
+
+[Play_X2_XP_S_TYG_Research_Confirmation_E AkEvent]
+SpokenText="这的确很重要，指挥官。"
+
+[Play_X2_XP_S_TYG_Walkup_Chosen_Defeated AkEvent]
+SpokenText="长老的天选者非常难缠。即便我们今天击败了他们，要永远消灭他们我们还得收集许多情报。"
+
+[Play_X2_XP_S_TYG_Walkup_Chosen_Extracted AkEvent]
+SpokenText="如果情况不同的话，我其实很乐意看看天选者是如何从我们士兵的大脑中提取情报的。"
+
+[Play_X2_XP_S_TYG_Walkup_Chosen_Killed_Stronghold AkEvent]
+SpokenText="虽然这些天选者在战场上与我们战斗时受到了长老的庇护，但他们身处自己的据点时是可以被杀死的。"
+
+[Play_X2_XP_S_TYG_Walkup_High_Level_Faction_Hero AkEvent]
+SpokenText="加入我们的这位反抗军士兵对新环境适应的很快，其表现已经超越了我们其他的士兵了。"
+
+[Play_X2_XP_S_TYG_Walkup_Lost_Abandoned AkEvent]
+SpokenText="我们和这些其他的反抗军派系新缔结的联盟，为我们提供了一个学习他们这些年执行任务求生存时的经验与心得的大好机会。"
+
+[Play_X2_XP_S_TYG_Walkup_Lost_Encountered AkEvent]
+SpokenText="我还没发现这些平民是受到何种物质的影响变成失魂者的，但他们庞大的数量说明这种现象相当广泛。"
+
+[Play_X2_XP_S_TYG_Walkup_Soldier_Captured AkEvent]
+SpokenText="我们的反抗军盟友会日夜加点找到我们丢失的士兵的，我相信他们，指挥官。"
+
+[Play_X2_XP_TYG_S_Autopsy_Lost AkEvent]
+SpokenText="虽然失魂者跟我们之前和外星人的冲突中所遭遇的灵能僵尸在外型上有一定的相似之处，所有证据都表明这些失魂者完全是灵能以外的事物造成的产物。在外星人入侵的初期受这些化学物质影响至今使这些曾今的不知情的市民变成了又一种活尸。"
+
+[Play_X2_XP_TYG_S_Autopsy_Priest AkEvent]
+SpokenText="该样本，被我们的士兵称为变种人祭司，很少出现在市中心以外的场所。虽然外表并不吓人，但这些祭司就像长老一样拥有极为强大的灵能。即便是死后，它们的身体也会继续施放强力的灵能余波。"
+
+[Play_X2_XP_TYG_S_Autopsy_Purifier AkEvent]
+SpokenText="在仔细检查了这种名为净化者的特种变种人后，我发现该对象的体温调节器官经过了明显的基因调整。这些调整，配合它们特制的护甲，让它们的隔热能力变得非常惊人。"
+
+[Play_X2_XP_TYG_S_Autopsy_Spectre AkEvent]
+SpokenText="该对象被我们的士兵称为\"幽灵\"，目前来讲很难确定它是如何随意在气态和固态之间随意变换的。我曾认为它是一种纳米机器聚合而成的个体，甚至有可能是虫群聚合而成的。然而，这些猜想并不正确，我的研究也陷入了死胡同。"
+
+[Play_X2_XP_TYG_S_First_Breakthrough AkEvent]
+SpokenText="指挥官，我们最近在实验室的研究取得了一次意料之外的突破。如果我们行动够快，我就能抓住这千载难逢的机会，推进我们的研究进度。"
+
+[Play_X2_XP_TYG_S_First_Inspired AkEvent]
+SpokenText="指挥官，如何进行下一次研究我心里已经有数了。如果我们开展研究的话，一定能以比平常更快的速度完成项目。"
+
+[Play_X2_XP_TYG_S_First_Recovery_Boost AkEvent]
+SpokenText="指挥官，我们现在可以使用实验性的技术来将士兵暂时恢复到完美的生理和心理状态，执行单次作战任务。"
+
+[Play_X2_XP_TYG_S_First_Research_Breakthrough AkEvent]
+SpokenText="指挥官，随着研究的进展，我们取得了一项能为我们开启全新领域的重大研究突破。然而，如果我们想深入这个领域就必须马上展开研究，不然将来恐怕都没有这样的机会。"
+
+[Play_X2_XP_TYG_S_First_Research_Inspiration AkEvent]
+SpokenText="指挥官，科研团队对该研究领域产生了浓厚的兴趣，他们甚至灵光乍现，让进展快上不少。然而，我们还是得抓紧时间，毕竟他们虽然才华横溢，但也兴趣古怪，说不准什么时候就没兴趣了。"
+
+[Play_X2_XP_TYG_S_SITREP_Gateway AkEvent]
+SpokenText="如果仪器读数正确的话，任务区内应该有一样灵能道具。使用它可以进入一个用常规方式无法进入的外星人活动区域。我们应该努力在战场上寻获这个东西，指挥官。"
+
+[Play_X2_XP_TYG_S_SITREP_Outbreak AkEvent]
+SpokenText="指挥官，注意，我们检测到该区域内有\"失魂者\"的活动迹象 -- 请让小队保持高度警惕。"
+
+[Play_X2_XP_TYG_S_SITREP_Psionic_Storm AkEvent]
+SpokenText="该区域内的灵能读数高到异常的程度，指挥官，我认为其中有多名外星人灵能使用者。"
+
+[Play_X2_XP_TYG_S_SITREP_Savage AkEvent]
+SpokenText="指挥官，看样子外星人派了一群特别棘手的怪物驻扎该区域，似乎变种人自己都几乎管不了它们。请小心行事。"
+
+[Play_X2_XP_TYG_S_Welcome_Recovery_Center AkEvent]
+SpokenText="既然我们建设好了康复中心，就可以为士兵们提供心理辅导，将负面的心理状态变为正面的了。我们还能为士兵们提供训练，提升他们之间的羁绊等级。"
+

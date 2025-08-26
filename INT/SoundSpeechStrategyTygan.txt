@@ -1,0 +1,741 @@
+﻿[S_ADVENTmusing_Tygan AkEvent]
+SpokenText="While most of my involvement in the chip development process was on the theoretical side, I can't help but feel some degree of responsibility for the final product as we see it in use today. When intently focused on a singular aspect of a project, in my case, countering the body's rejection of the implanted chip, sometimes it's easy to avoid seeing the bigger picture. To this day, I still ask myself whether it was willful ignorance or unbridled curiosity that led me to blindly pursue my research with such zeal."
+
+[S_Alien_Fortress_Tygan_01 AkEvent]
+SpokenText="The gateway is primed. Is the subject prepared?"
+
+[S_Alien_Fortress_Tygan_02 AkEvent]
+SpokenText="Excellent - let us begin."
+
+[S_Alien_Fortress_Tygan_03 AkEvent]
+SpokenText="We've already seen the Codex opening a similar rift in the field. I am sure your device will be fine."
+
+[S_Alien_Fortress_Tygan_04 AkEvent]
+SpokenText="It appears our signal has been received. Increasing power."
+
+[S_Alien_Fortress_Tygan_05 AkEvent]
+SpokenText="Perhaps this is the source. The Aliens "seat of power" if you will. Secured beyond any physical limitations."
+
+[S_Alien_Fortress_Tygan_06 AkEvent]
+SpokenText="The process did work. There was an instant where the device was in-between locations. However, once that occurred the gateway called for a second signature. An organic signature. When we could not provide, it generated a sort of feedback pulse."
+
+[S_Alien_Fortress_Tygan_07 AkEvent]
+SpokenText="If the codex creates the door, this organic signature must surely be the key."
+
+[S_Alien_Fortress_Tygan_08 AkEvent]
+SpokenText="Agreed. I'll report our findings to the Commander immediately"
+
+[S_Autopsy_Andromedon_Blurb AkEvent]
+SpokenText="The fact that this armored environmental suit is capable of functioning in combat well after the original wearer has expired is, remarkable. I must consult with Shen for further study into this unusual behavior."
+
+[S_Autopsy_Andromedon_Tygan AkEvent]
+SpokenText="As initially speculated by Shen, it does in fact appear that this creature is restricted to the confines of its own hulking environmental suit. Unfortunately for our troops, the suit itself is a powerful physical threat regardless of the operator's status, as we learned with some astonishment in the field."
+
+[S_Autopsy_Archon_Blurb AkEvent]
+SpokenText="It certainly is impressive looking if nothing else, although I'm still not entirely sure what the aliens hoped to achieve with such a grand design."
+
+[S_Autopsy_ArchonKing_Blurb AkEvent]
+SpokenText="I'm still unsure as to why the aliens have dedicated so much time towards the aesthetic advancement of these Archons. For whatever reason, they seem to place a heavy emphasis on appearances."
+
+[S_Autopsy_ArchonKing_Tygan AkEvent]
+SpokenText="Although physically similar to the Archon units we've encountered in the past, our troops quickly discovered that this unusual variant has a propensity for physical attacks, carrying and then dropping unsuspecting victims from extreme heights."
+
+[S_Autopsy_Avatar_Blurb AkEvent]
+SpokenText="This specimen, this being, is something else entirely, something beyond anything we've ever seen. And yet somehow, our troops once again prevailed."
+
+[S_Autopsy_Berserker_Blurb AkEvent]
+SpokenText="As if the typical Muton wasn't aggressive enough, this hulking beast seems dangerous even in death. I will more than happy to dispose of it once I file my report."
+
+[S_Autopsy_BerserkerQueen_Blurb AkEvent]
+SpokenText="My assumption at this point is that the Berserker Queen exerts authority over the other Muton subjects through some sort of pheromone. As of yet, I've been unable to synthesize an artificial compound with the same effect."
+
+[S_Autopsy_BerserkerQueen_Tygan AkEvent]
+SpokenText="This creature has already gained notoriety among our troops as the "Berserker Queen" based on the unusual subordinate behavior displayed by the other Mutons typically found in accompaniment. An impressive complement of armor enhances an already resilient physique."
+
+[S_Autopsy_Captain_Blurb AkEvent]
+SpokenText="The ADVENT Captain seems to provide a means of stabilizing the link between the local subordinates and the ADVENT network tower itself."
+
+[S_Autopsy_Chryssalid_Blurb AkEvent]
+SpokenText="Even my own intellectual curiosity is not enough to overcome my doubts as to whether or not it was really a wise decision for our troops to bring this particular specimen on board the ship."
+
+[S_Autopsy_Codex_Tygan AkEvent]
+SpokenText="In the field, the Codex appears as an anomalous form in an almost constant state of flux, seemingly only present in our world for milliseconds at a time. However, it was apparently not immune to the effects of conventional weaponry, having dissipated before leaving behind this object."
+
+[S_Autopsy_Faceless_Blurb AkEvent]
+SpokenText="I've often wondered how the aliens could conceive of such a being. Is there another world out there, filled with these shapeshifting creatures? Or are they merely another construct of alien genetic tampering?"
+
+[S_Autopsy_Gatekeeper_Blurb AkEvent]
+SpokenText="I've come to suspect that this creature's unusual appearance is somehow directly connected to its notable Psionic aptitude. The aliens always have some reasoning to their actions, even as twisted as it is often revealed to be."
+
+[S_Autopsy_Muton_Blurb AkEvent]
+SpokenText="The aliens make a strong statement by fielding these massive creatures as their front line combat units. I doubt they thought anyone would resist when faced with the alternative of staring down a Muton."
+
+[S_Autopsy_Sectoid_Blurb AkEvent]
+SpokenText="The Sectoid's rapid physical evolution over the past twenty years is a testament to both the aliens' mastery of genetic engineering, and their pursuit of advancement regardless of the risks."
+
+[S_Autopsy_Shieldbearer_Blurb AkEvent]
+SpokenText="These shieldbearers are not all that dissimilar from their various ADVENT peers, their armor is perhaps the most distinctive feature differentiating them."
+
+[S_Autopsy_StunLancer_Blurb AkEvent]
+SpokenText="Although ADVENT clearly intended for these units to be their means of dealing with any unruly civilians within the city centers, it seems they've come to rely on more brutal means of pacification in the time since."
+
+[S_Autopsy_Trooper_Blurb AkEvent]
+SpokenText="Despite a thorough analysis, I've yet to discover what, if any, advantage the ADVENT hybrid soldier's enormous eyes provide. Testing their visual acuity will no doubt prove difficult."
+
+[S_Autopsy_Viper_Blurb AkEvent]
+SpokenText="I find it unusual, to say the least, that the subject so often referred to in the past as the "Thin Man" has now been revealed to actually be a genetic derivative of this wholly reptilian creature."
+
+[S_Autopsy_ViperQueen_Blurb AkEvent]
+SpokenText="Many of the creatures found among the cadre of forces deployed by the aliens are unusual, but I must say, this particular species borders on the mythological."
+
+[S_Autopsy_ViperQueen_Tygan AkEvent]
+SpokenText="Although this specimen is clearly a distinct relative of the common Viper, it would appear we are seeing another of the alien's attempts at a forced genetic evolution. Whereas the Viper is known to rely on a highly toxic venom, this subject possesses an extremely flammable substance in its place."
+
+[S_Avenger_Ambient_Tygan_Advent AkEvent]
+SpokenText="ADVENT has made steady progress in convincing the remaining civilian populace to migrate to their cities centers. With the propaganda campaign providing a constant stream of reminders as to the benefits of migration, they have maintained a steady influx of new converts. Unfortunately, most of these unwitting refugees have little idea what they are truly signing up for."
+
+[S_Avenger_Ambient_Tygan_AlienInvasionB_01 AkEvent]
+SpokenText="At one time, I was employed as a biochemist in the pharmaceutical industry, mainly researching vaccine production techniques. Because of my background, I was rounded up by ADVENT and put to work in one of the very first gene therapy clinics. I saw first-hand what their technology is capable of, for better or worse."
+
+[S_Avenger_Ambient_Tygan_AlienInvasionB_02 AkEvent]
+SpokenText="I appreciate the sentiment."
+
+[S_Avenger_Ambient_Tygan_ChipFunctionB_01 AkEvent]
+SpokenText="I've had to do more than that. Even detached, it's still capable of sending low-power transmissions. I'm storing it in a makeshift Faraday cage that should prevent the aliens from tracking it. Shen is the only person with access."
+
+[S_Avenger_Ambient_Tygan_CityMigration_01 AkEvent]
+SpokenText="Having worked in one of the facilities, I can tell you first hand, they do offer a level of medical care unmatched by any previous effort in our history. The aliens have effectively cured all of humanity's greatest ailments...Cancer, Malaria, AIDs. The process is relatively simple."
+
+[S_Avenger_Ambient_Tygan_CityMigration_02 AkEvent]
+SpokenText="Yes-the price of admission is acceptance of all ADVENT policies. For many people, that's hardly a consideration-a minor inconvenience at most."
+
+[S_Avenger_Ambient_Tygan_CityMigrationB_01 AkEvent]
+SpokenText="I'm not sure they have to do all that much convincing at this point."
+
+[S_Avenger_Ambient_Tygan_CityMigrationB_02 AkEvent]
+SpokenText="Maybe not-but what about the terminally ill? The elderly, or the disabled? The aliens can offer them something we can't-something most people would trade anything for."
+
+[S_Avenger_Ambient_Tygan_CityMigrationB_03 AkEvent]
+SpokenText="I just hope they see it that way."
+
+[S_Avenger_Ambient_Tygan_CrewDis AkEvent]
+SpokenText="While most of the crew has been both welcoming and amiable, I can't help but feel that Dr. Shen continues to harbor a deep mistrust for my involvement here. Although she maintains a civil discourse, it seems to be borne solely out of respect for the Commander, and not out of any genuine desire to work with me. In any case, I'll continue to do my best to prove my worth."
+
+[S_Avenger_Ambient_Tygan_FacadePeace_01 AkEvent]
+SpokenText="Yes, one of the advantages of working with ADVENT. On the surface, it was very comfortable. But there was a price for that comfort."
+
+[S_Avenger_Ambient_Tygan_FacadePeace_02 AkEvent]
+SpokenText="But ADVENT is always watching. Between their forces and the aliens themselves, they see everything-not to mention the automated systems. There's nothing quite like providing identification to a lamp post."
+
+[S_Avenger_Ambient_Tygan_FacadePeaceB_01 AkEvent]
+SpokenText="Honestly...none of that really bothers me. What I miss the most is my equipment.."
+
+[S_Avenger_Ambient_Tygan_FacadePeaceB_02 AkEvent]
+SpokenText="There was certainly no shortage of resources on their side."
+
+[S_Avenger_Ambient_Tygan_GeneTherapy AkEvent]
+SpokenText="Working in the ADVENT clinics, I saw medical breakthroughs that would have been considered nothing short of miraculous at any time before the aliens' arrival. The elderly and infirmed, so revitalized with a single treatment that they were often brought to tears. It's a powerful, powerful thing the aliens have developed, perhaps their most insidious creation of all. For my part in it, I remain deeply conflicted."
+
+[S_Avenger_Ambient_Tygan_LabQuirks AkEvent]
+SpokenText="Although I had realistic expectations as to the limited resources and facilities available to me onboard the Avenger, I have to say, it's taken some getting used to. Even with the ship's dampening field, frequent turbulence, and the occasional evasive maneuver, make it difficult to conduct experiments of any notable sensitivity. I may have to adapt my research techniques to maintain efficiency under these conditions."
+
+[S_Avenger_Ambient_Tygan_Quick_01 AkEvent]
+SpokenText="Maybe we should start training someone else to pilot the Avenger. I'm never going to get any work done if Mr. Bradford can't keep the ship steady."
+
+[S_Avenger_Ambient_Tygan_Quick_02 AkEvent]
+SpokenText="I have to admit, there is something exciting about working under the more intense conditions found on the Avenger. Every decision, every development is of the utmost importance. There's no room for mistakes here."
+
+[S_Avenger_Ambient_Tygan_Quick_03 AkEvent]
+SpokenText="Dr. Shen's constant vigil over my activities is starting to wear thin. I consider myself a patient man, but eventually she's going to have to trust me if we're going to achieve our goals."
+
+[S_Avenger_Ambient_Tygan_Quick_04 AkEvent]
+SpokenText="I've started to wonder how the ADVENT administration views our current band of renegades. Do they see us as an actual threat, or more of a nuisance? "
+
+[S_Avenger_Ambient_Tygan_Quick_05 AkEvent]
+SpokenText="The aliens have considerable resources at their disposal, but we've still managed to do reasonably well against them despite our own limitations."
+
+[S_Avenger_Ambient_Tygan_Quick_06 AkEvent]
+SpokenText="I certainly admire the courage and tenacity displayed by our troops in the field, they face a well-armed, well-trained enemy, and yet they never waver in their loyalty to the cause."
+
+[S_Avenger_Ambient_Tygan_Quick_07 AkEvent]
+SpokenText="Without access to refined fossil fuels, power is difficult to come by outside the cities. Even among the staunchest of anti-alien dissidents, recovered ADVENT equipment is highly coveted."
+
+[S_Avenger_Ambient_Tygan_Quick_08 AkEvent]
+SpokenText="I'm pleased with the research advances we've made so far, but there's still so much more to learn about the alien's motivations."
+
+[S_Avenger_Ambient_Tygan_Quick_09 AkEvent]
+SpokenText="Working within the tight constraints of the Avenger, I've had a difficult time finding room to conduct some of our more theoretical experiments. Perhaps the next time we set down..."
+
+[S_Avenger_Ambient_Tygan_Quick_10 AkEvent]
+SpokenText="I've seen members of the crew quietly glancing at the scar on my neck. If I wasn't forced to remove the chip myself, the incisions might have been cleaner."
+
+[S_Avenger_Ambient_Tygan_TyganConscienceB_01 AkEvent]
+SpokenText="Like most people, I wanted to believe that the aliens were legitimately interested in peace. Although they left me little choice when it came to working with them, I admit, I was drawn to the sense of normalcy they offered. It was a mistake."
+
+[S_Avenger_Ambient_Tygan_TyganConscienceB_02 AkEvent]
+SpokenText="As I said, it was a mistake. One I hope to atone for through my efforts here, with XCOM."
+
+[S_Avenger_Tygan_Not_Enough_Scientists AkEvent]
+SpokenText="Commander, if you come across anyone with an aptitude for the sciences, send them my way, I could use the help."
+
+[S_Avenger_Tygan_Wounded_Soldiers_No_Infirmary AkEvent]
+SpokenText="Commander, so far we've managed to triage the wounded, but they'd be much better served if we had an infirmary available."
+
+[S_Blacksite_Horror_Tygan_01 AkEvent]
+SpokenText="I truly hope these gruesome images are the worst of what we find today..."
+
+[S_Blacksite_Horror_Tygan_02 AkEvent]
+SpokenText="Genetic Sequences. In near infinite combinations. Yet all bearing similar genetic markers. Human markers."
+
+[S_Blacksite_Horror_Tygan_03 AkEvent]
+SpokenText="Tens of thousands. And the procedure is still nowhere near complete."
+
+[S_Blacksite_Horror_Tygan_04 AkEvent]
+SpokenText="In my worst nightmares, I would never have-"
+
+[S_Blacksite_Horror_Tygan_05 AkEvent]
+SpokenText="I believe we have found the missing civilians."
+
+[S_Blacksite_Horror_Tygan_06 AkEvent]
+SpokenText="Medically screened and selected. Suitable candidates taken to this contemptible facility to be processed. Refined into the material we now see."
+
+[S_Blacksite_Horror_Tygan_07 AkEvent]
+SpokenText="I couldn't begin to fathom a guess at this point. There exists no research that would ever warrant this..."
+
+[S_Blacksite_Horror_Tygan_08 AkEvent]
+SpokenText="Agreed. ­ The information we gain could prove invaluable towards stopping the alien's true agenda."
+
+[S_Broadcast_Truth_Tygan_01 AkEvent]
+SpokenText="Yes, it would appear the feedback pulse is having the intended effect."
+
+[S_CaptainAutopsy_Tygan AkEvent]
+SpokenText="The ADVENT Officers have clearly been modified to allow for their subordinates to receive new orders Psionically. The implanted chip is the key."
+
+[S_CaptainAutopsyReminder_Tygan AkEvent]
+SpokenText="Commander, with the ADVENT Officer currently in cold storage, we should perform the autopsy as soon as possible."
+
+[S_Commander_Awakens_Tygan_01_Setup_Phase AkEvent]
+SpokenText="Carefully! There's potentially decades of atrophy to contend with!"
+
+[S_Commander_Awakens_Tygan_02_Setup_Phase AkEvent]
+SpokenText="I don't disagree. But as it stands now we risk losing the patient if we don't begin the removal procedure immediately."
+
+[S_Commander_Awakens_Tygan_03_Setup_Phase AkEvent]
+SpokenText="Remarkable!"
+
+[S_Commander_Awakens_Tygan_04_Setup_Phase AkEvent]
+SpokenText="...response from the cerebral cortex. Good. Prepping for cranial intrusion."
+
+[S_Commander_Awakens_Tygan_05_Setup_Phase AkEvent]
+SpokenText="...I've managed to identify the final connection. Preparing to make final incision."
+
+[S_Commander_Awakens_Tygan_06_Setup_Phase AkEvent]
+SpokenText="As stated previously "no". Removing these implants was never part-"
+
+[S_Commander_Awakens_Tygan_07_Setup_Phase AkEvent]
+SpokenText="...pulse erratic."
+
+[S_Commander_Awakens_Tygan_08_Setup_Phase AkEvent]
+SpokenText="...pupillary response normal. Vitals stabilizing. Procedure complete."
+
+[S_Dark_Volunteer_01_Tygan_01 AkEvent]
+SpokenText="Agreed. We must inform the Commander immediately."
+
+[S_Dark_Volunteer_01_Tygan_02 AkEvent]
+SpokenText="Commander. Central."
+
+[S_Dark_Volunteer_01_Tygan_03 AkEvent]
+SpokenText="The shadow chamber has completed it's analysis of the specimen's DNA. It has identified the genetic sequence necessary to travel through the Psionic gate."
+
+[S_Dark_Volunteer_01_Tygan_04 AkEvent]
+SpokenText="However the gate requires more than a mere transmission of genetic data."
+
+[S_Dark_Volunteer_01_Tygan_05 AkEvent]
+SpokenText="Quite. Simply put, I believe these Avatars are the intended evolution of the genetic template we discovered at the manufacturing facility."
+
+[S_Dark_Volunteer_01_Tygan_06 AkEvent]
+SpokenText="Psionically charged human DNA combined with that of the Elders. We already possess the template. My autopsy of this being has provided both the genetic blueprint as well as the necessary Elder DNA. Given time, I'm confident that we can replicate the procedure here."
+
+[S_Dark_Volunteer_01_Tygan_07 AkEvent]
+SpokenText="Yes, that. While genetic engineering can construct a body, it cannot create the mind to drive it."
+
+[S_Dark_Volunteer_01_Tygan_08 AkEvent]
+SpokenText="Interfacing directly with their network would cause severe, if not fatal trauma to an unprepared central nervous system. As it stands, we only know of one individual who has survived that kind of ordeal."
+
+[S_Dark_Volunteer_01_Tygan_09 AkEvent]
+SpokenText="Created the perfect interface to the network. One tailored to your specific biology, Commander. Of any human candidate, you are the most likely to survive the connection."
+
+[S_Dark_Volunteer_01_Tygan_10 AkEvent]
+SpokenText="It's the only answer I can give you. And our only option to traverse the alien portal."
+
+[S_Dark_Volunteer_02_Tygan_01 AkEvent]
+SpokenText="There. I've infused this material with the entirety of our viable Elder DNA. We won't get another chance at this."
+
+[S_Dark_Volunteer_02_Tygan_02 AkEvent]
+SpokenText="Synthesis nearing completion."
+
+[S_Dark_Volunteer_02_Tygan_03 AkEvent]
+SpokenText="Now Lily!"
+
+[S_Despite_The_Unexpected_Tygan AkEvent]
+SpokenText="Despite the unexpected outcome of our tests on the Alien Psionic gate, I firmly believe the experiment itself was absolutely critical to our future operations. We now understand exactly how the gateway functions, and what will be required should we attempt to pass through. Still, I must admit, I do feel some regret over the damage done to Shen's GREMLIN, even if it is only a machine."
+
+[S_First_Scientist_Received_Tygan AkEvent]
+SpokenText="Thank you for sending additional support staff to assist me, Commander. I'll make sure they are put to good use."
+
+[S_Golden_Path_Mission_Loot_Blacksite_Vial_Tygan AkEvent]
+SpokenText="Now that we've recovered the apparent product of the Blacksite facility, I imagine it will take considerable time and resources to uncover the true purpose of this substance. I will begin preparations for a complete analysis immediately, Commander."
+
+[S_Golden_Path_Mission_Loot_Forge_Body_Tygan AkEvent]
+SpokenText="Within the confines of the suit we recovered, we have found what could very well be the prototype for ADVENT's seemingly limitless forces. Even focusing my efforts solely on this research, it will take a significant dedication of time and resources to fully analyze this specimen."
+
+[S_Golden_Path_Mission_Loot_Psi_Gate_Tygan AkEvent]
+SpokenText="The distinctive alien artifact we recovered from the field resembles a portal or gateway of some kind. Although we believe it provides the aliens with a means of long-distance travel, potentially beyond the confines of our world itself, it will take time before we can truly understand the gateway's function."
+
+[S_Golden_Path_Musings_Blacksite_Horror_Tygan_01 AkEvent]
+SpokenText="I had fully expected to find that the aliens were conducting questionable experiments involving human captives at the "Blacksite" we raided with the help of local resistance operatives. What we did find, was something more reprehensible than I could have possibly imagined. A facility solely dedicated to the rendering and refinement of human genetic material on an industrial scale. The aliens have crossed the boundaries of known science, consequences be damned."
+
+[S_Golden_Path_Musings_Dying_Ethereals_Tygan_01 AkEvent]
+SpokenText="The Elders have always been elusive, aside from the occasional monument I don't imagine most of the people in the city centers have ever actually seen one in person. Knowing now that the Elders are apparently suffering at the hands of some terminal affliction explains their absence from the public eye. More importantly, what sort of ailment could possibly be beyond their vast curative abilities? "
+
+[S_Golden_Path_Musings_Risistance_Tygan_01 AkEvent]
+SpokenText="The resistance is slightly more organized than I had imagined based on the rumors, but it still sounds like they'll be relying heavily on us to handle the both strategic and tactical engagements with the aliens. Hopefully their network of contacts will at the very least provide us with valuable insights into ADVENT movements and positioning."
+
+[S_GP_Avatar_Body_Recovered_But_Prereqs_Not_Met_Tygan AkEvent]
+SpokenText="Commander, although I firmly believe the specimen we have recovered is crucial to the aliens' efforts, we currently do not have the means of properly studying it."
+
+[S_GP_PreBlacksite_Objective_Ambient AkEvent]
+SpokenText="From my own experience, ADVENT generally deploys heavy security rather than subterfuge when it comes to protecting their primary facilities, at least the ones I had access to personally. If they have gone to the trouble of hiding this blacksite, I suspect our findings there will lead us to even greater questions."
+
+[S_GP_PreBroadcast_Objective_Ambient AkEvent]
+SpokenText="If we can disrupt the ADVENT dampening field and their network in the process, we stand a reasonable chance of toppling the alien's grip on our world. The thought had never occurred to me that I might actually live to see this day. The world will know the truth, and we'll have made that happen."
+
+[S_GP_PreCaptain_Objective_Ambient AkEvent]
+SpokenText="I must admit, having successfully completed the operation necessary to remove the Commander's chip, I'm intrigued by the possibility of examining another subject for comparative analysis. Since the Officer in question will likely have expired long before arrival here, I may rely on a faster, more invasive approach to removing the chip this time around."
+
+[S_GP_PreForge_Objective_Ambient AkEvent]
+SpokenText="The coordinates we discovered encoded on the genetic sample recovered from the ADVENT blacksite imply we may have only scratched the surface of the aliens' infrastructure as it relates to this Avatar Project. We were fortunate to recover the genetic sample when we did, otherwise our path may have very well ended here."
+
+[S_GP_PreFortress_Objective_Ambient AkEvent]
+SpokenText="I have no idea what we might find on the other side of that gateway, but to some degree I envy our troops, as they step through what could very well be a portal to another world. They are as much explorers as they are soldiers, and our fate rests with them."
+
+[S_GP_PreLiveCodex_Objective_Ambient AkEvent]
+SpokenText="Regardless of Shen's implications, I find it highly unlikely that we would have had gained any additional information from the first Codex had we taken a less assertive approach. Regardless, I'm sure our troops will have no trouble employing the Skulljack against the next Codex they encounter in the field."
+
+[S_GP_PrePsiGate_Objective_Ambient AkEvent]
+SpokenText="I'm intrigued by the idea that despite the Codex's best efforts to resist our intrusion into the ADVENT network, we somehow came away with a set of coordinates leading to an otherwise uninhabited region. The aliens certainly keep us on the move, one way or another."
+
+[S_Humans_Obsolete_Tygan_01 AkEvent]
+SpokenText="On the surface, yes. But in function..."
+
+[S_Humans_Obsolete_Tygan_02 AkEvent]
+SpokenText="Ah, Commander - Excellent. We can begin."
+
+[S_Humans_Obsolete_Tygan_03 AkEvent]
+SpokenText="It is no secret that ADVENT soldiers possess both human and alien genetic characteristics. Preliminary analysis led me to believe that this was the result of direct modifications made to a pre-existing human host. Prisoners, or perhaps even unwitting volunteers."
+
+[S_Humans_Obsolete_Tygan_04 AkEvent]
+SpokenText="However, the reality is something else entirely."
+
+[S_Humans_Obsolete_Tygan_05 AkEvent]
+SpokenText="The ADVENT troopers at the facility we discovered, including the specimen before you, were Manufactured."
+
+[S_Humans_Obsolete_Tygan_06 AkEvent]
+SpokenText="No. Not clones. More like templates."
+
+[S_Humans_Obsolete_Tygan_07 AkEvent]
+SpokenText="Each soldier possesses a unique genetic code. Predominately human of course - but with some fragments left open "
+
+[S_Humans_Obsolete_Tygan_08 AkEvent]
+SpokenText="Whatever alien DNA ADVENT wishes to insert. Sectoid. Muton. Even the species our soldiers' refer to as "Berserker"."
+
+[S_Humans_Obsolete_Tygan_09 AkEvent]
+SpokenText="In all cases human genetic material serves as a "bonding" agent holding the strands together."
+
+[S_Humans_Obsolete_Tygan_10 AkEvent]
+SpokenText="Precisely. The key component in their soldier manufacturing process."
+
+[S_Humans_Obsolete_Tygan_11 AkEvent]
+SpokenText="In a way. But I believe there's more to it than that."
+
+[S_Humans_Obsolete_Tygan_12 AkEvent]
+SpokenText="The Human DNA in this specimen bears one key difference from the entirety of the sequences decoded in the Shadow Chamber. Psionic sensitivity. Given the sheer volume of strands involved this cannot be accidental."
+
+[S_Humans_Obsolete_Tygan_13 AkEvent]
+SpokenText="My conclusion as well. The potential power of a being created with this template is...significant. Central, had we not intercepted it before the process was completed..."
+
+[S_Humans_Obsolete_Tygan_14 AkEvent]
+SpokenText="Utilizing the Shadow Chamber, we've made continual efforts to analyze this specimen's DNA."
+
+[S_I_Wasn_t_Going_To_Admit_Tygan AkEvent]
+SpokenText="I was not going to admit it to Shen, but there is one thing that I miss more than my lab equipment... those damn juicy ADVENT burgers. I don't know where they get the meat, and frankly I do not want to know."
+
+[S_Misc_Alien_Encryp_Tygan_01 AkEvent]
+SpokenText="The aliens are relaying a form of encryption beyond anything we've ever encountered - much less theorized. We'll have to find a means of breaking the code, but I expect it will take some time."
+
+[S_Misc_Thanks_Codex_Brain_Tygan_01 AkEvent]
+SpokenText="Commander, please thank our troops for completing what was surely a difficult task in acquiring the Codex Brain. We'll begin work on it as soon as possible."
+
+[S_Old_Gods_01_Tygan_01 AkEvent]
+SpokenText="Our soldiers completely disabled this unit in the field. What we're hearing is merely a byproduct of electrical impulses - I assure you, it's well past the point of feeling pain."
+
+[S_Old_Gods_01_Tygan_02 AkEvent]
+SpokenText="I'm sending you a new sequence now."
+
+[S_Old_Gods_01_Tygan_03 AkEvent]
+SpokenText="There's something else. Something - underneath. One moment."
+
+[S_Old_Gods_01_Tygan_04 AkEvent]
+SpokenText="The unit is attempting to block further access."
+
+[S_Old_Gods_01_Tygan_05 AkEvent]
+SpokenText="Almost there... Just one more adjustment..."
+
+[S_Old_Gods_01_Tygan_06 AkEvent]
+SpokenText="There."
+
+[S_Old_Gods_01_Tygan_07 AkEvent]
+SpokenText="Some sort of fail safe protocol I imagine. The Codex must have intentionally overloaded the interface to prevent any further theft of information."
+
+[S_Old_Gods_01_Tygan_08 AkEvent]
+SpokenText="Still, I believe I was one step ahead of it."
+
+[S_Old_Gods_01_Tygan_09 AkEvent]
+SpokenText="Yes. And I expect it may take some time to decipher."
+
+[S_Old_Gods_01_Tygan_10 AkEvent]
+SpokenText="I'll proceed with the necessary research and preparation- with your approval of course, Commander. I'd also suggest we look into those coordinates-"
+
+[S_Old_Gods_02_Alt_Tygan_02 AkEvent]
+SpokenText="The information I've uncovered so far already justifies the damage done to the shadow chamber during our testing, as you'll see..."
+
+[S_Old_Gods_02_Tygan_01 AkEvent]
+SpokenText="Commander, Bradford...excellent. My analysis of the fragmented Codex data is almost complete. ­"
+
+[S_Old_Gods_02_Tygan_02 AkEvent]
+SpokenText="The information I've uncovered so far outweighs the loss of the shadow chamber, as you'll see..."
+
+[S_Old_Gods_02_Tygan_03 AkEvent]
+SpokenText="Yes. And I believe I now understand why."
+
+[S_Old_Gods_02_Tygan_04 AkEvent]
+SpokenText="The "Elders" appear to be afflicted with an aggressive form of tissue degeneration. Rapid muscular atrophy to a degree I had not even thought possible."
+
+[S_Old_Gods_02_Tygan_05 AkEvent]
+SpokenText="As with most things involving this adversary, it's never quite that simple."
+
+[S_Old_Gods_02_Tygan_06 AkEvent]
+SpokenText="We are. And by that I mean humanity itself."
+
+[S_Old_Gods_02_Tygan_07 AkEvent]
+SpokenText="The Elder's have been aggressively searching for a cure to their condition for centuries. Each time they encountered a new species they procured what genetic information and material they required and moved on to the next world. Until now."
+
+[S_Old_Gods_02_Tygan_08 AkEvent]
+SpokenText="I believe they found something in us. Something important enough to cause them to take root."
+
+[S_Old_Gods_02_Tygan_09 AkEvent]
+SpokenText="Not that I can determine. Several key files were previously deleted as part of something called the Avatar Directive."
+
+[S_Old_Gods_02_Tygan_10 AkEvent]
+SpokenText="Essentially, yes. And sadly we are still no closer to determining the intended outcome of this experiment. Several key files were previously deleted as part of something called the Avatar Directive."
+
+[S_Old_Gods_02_Tygan_11 AkEvent]
+SpokenText="Were I to gain access to a fully functioning Codex I might be able to recover them."
+
+[S_Old_Gods_02_Tygan_12 AkEvent]
+SpokenText="I didn't say I needed the creature here, Bradford. I am confident I could access the unit remotely, provided your soldiers can get close enough to it in the field without destroying it."
+
+[S_PostIntroStasisLanceReminder_Tygan AkEvent]
+SpokenText="Commander, now that we have the  Skull Jack, we should attempt to use it on one of the ADVENT officers. I'm reasonably confident it will work as designed."
+
+[S_Pre_Final_Mission_Broadcast_Tygan_01 AkEvent]
+SpokenText="Theoretically."
+
+[S_Psi_Network_Tygan_01_GoldenPath AkEvent]
+SpokenText="Central, Commander. Yes, I find the process to be far less disconcerting when the subject has already expired. The results however... <sigh> it's best you see for yourself."
+
+[S_Psi_Network_Tygan_02_GoldenPath AkEvent]
+SpokenText="My autopsy of the Advent Captain has confirmed the existence of an implant similar in design to the unit I extracted from the Commander. But there are differences."
+
+[S_Psi_Network_Tygan_03_GoldenPath AkEvent]
+SpokenText="The data you see is being pulled directly from this Advent Captain's implant. This sequence, here, is essentially you, Commander. Or at least the tactical information they were processing through your mind. As you can see, the data is nearly identical."
+
+[S_Psi_Network_Tygan_04_GoldenPath AkEvent]
+SpokenText="Yes. However..."
+
+[S_Psi_Network_Tygan_05_GoldenPath AkEvent]
+SpokenText="The ADVENT data shows signs of decay. Removing the Commander from their network has likely caused significant damage."
+
+[S_Psi_Network_Tygan_06_GoldenPath AkEvent]
+SpokenText="Yes, what we are seeing here is a psionic network. These implants are capable of receiving and transmitting information- a great deal of information somehow encoded in a stream of Psionic energy."
+
+[S_Psi_Network_Tygan_07_GoldenPath AkEvent]
+SpokenText="My working theory - ADVENT uses this network to augment the tactical readiness of its troops as well as disseminate orders from its Central Command. Observe..."
+
+[S_Psi_Network_Tygan_08_GoldenPath AkEvent]
+SpokenText="Even in the subject's diminished condition, the implant continues to have an effect. A truly astonishing achievement."
+
+[S_Psi_Network_Tygan_09_GoldenPath AkEvent]
+SpokenText="Potentially - but I'd need direct access to their network to know for sure."
+
+[S_Psi_Network_Tygan_10_GoldenPath AkEvent]
+SpokenText="We'd need an active link. And that would mean hacking a live ADVENT Officer in the field."
+
+[S_Psi_Network_Tygan_11_GoldenPath AkEvent]
+SpokenText="Get me into their network, and I'm confident it will be worth the risk."
+
+[S_Setup_Phase_ADVENT_Officer_Corpse_Recovered_Tygan AkEvent]
+SpokenText="Excellent, I can begin studying the recovered specimen on your order, Commander."
+
+[S_Setup_Phase_First_Loot_Screen_Tygan AkEvent]
+SpokenText="These items should prove useful in our ongoing efforts against the aliens. When you have a moment, Commander, I've made some interesting discoveries as they relate to the implant we removed from you earlier."
+
+[S_Setup_Phase_Geoscape_Build_Radio_Relays_To_Reduce_Costs_Tygan AkEvent]
+SpokenText="Commander, based on my research in collaboration with Shen, I believe we can reduce the Intel costs of contacting additional regions by building radio relay towers along our network. The further a region is from a relay, the more it will cost us in Intel, so I would suggest building relays along the remote edges of our existing network. I believe the resistance will be grateful for the construction of these relays, they may reward us in kind."
+
+[S_Setup_Phase_Research_In_Progress_Tygan AkEvent]
+SpokenText="Hello, Commander. Work is well underway, but it will be some time yet before my research is complete."
+
+[S_Setup_Phase_Study_The_Chip__Tygan AkEvent]
+SpokenText="On your order, Commander, I will begin researching the ADVENT chip for possible insights as to its function."
+
+[S_Shadow_Chamber_Tygan_01 AkEvent]
+SpokenText="Although I'm impressed with the strides we've made in infiltrating the alien Psionic network, the depths of their technological advancement continue to leave us one step behind."
+
+[S_Shadow_Chamber_Tygan_02 AkEvent]
+SpokenText="However, with the enhanced decryption capabilities of this chamber, I'm confident we'll find a great deal more information than we had previously hoped."
+
+[S_Support_Ambient_Musings_Misc_Tygan_01 AkEvent]
+SpokenText="Apparently my predecessor was something of a brute when it came to handling the interrogation and autopsy of alien subjects. From what I've heard, she was keen to get her hands dirty whenever possible."
+
+[S_Support_Avatar_Corpse_Recovered_Tygan AkEvent]
+SpokenText="This specimen we recovered... even in an incomplete state, I have to believe this is the Avatar we've been pursuing. We should begin an autopsy as soon as possible, we must discover what makes this entity so special to the aliens."
+
+[S_Support_First_PCS_Interface_Tygan AkEvent]
+SpokenText="Commander, using the ADVENT tactical simulation programs we've recovered, we can enhance the combat performance of our soldiers in the field. However, their varying tolerances of the technique will require us to limit the number we assign concurrently."
+
+[S_Support_First_Tech_Changed_Tygan_01 AkEvent]
+SpokenText="Commander, we've already dedicated considerable resources towards the current research project. However, we can move on to something else if you'd prefer."
+
+[S_Support_First_Tech_Selected_Tygan_01 AkEvent]
+SpokenText="I do find that area of research to be among the more intriguing options available. We'll begin work immediately. I'll send word when a complete report is available."
+
+[S_Support_Great_Mission_Tygan_01 AkEvent]
+SpokenText="An impressive performance, Commander. Our troops' skills are improving with every deployment."
+
+[S_Support_Great_Mission_Tygan_02 AkEvent]
+SpokenText="Not a single casualty reported, Commander. I hope all of our deployments go this well."
+
+[S_Support_Great_Mission_Tygan_03 AkEvent]
+SpokenText="I expected something of a learning curve for our new recruits - but they've done a remarkable job, Commander."
+
+[S_Support_Great_Mission_Tygan_04 AkEvent]
+SpokenText="If every mission goes this smoothly, it's only a matter of time before we regain control of the planet."
+
+[S_Support_Great_Mission_Tygan_05 AkEvent]
+SpokenText="Executed to the highest standards. Excellent work, Commander."
+
+[S_Support_Great_Mission_Tygan_06 AkEvent]
+SpokenText="I'm glad to see our troops finding success in the field, it's good for the entire crew's morale."
+
+[S_Support_Great_Mission_Tygan_07 AkEvent]
+SpokenText="Our troops continue to exceed expectations, while working with limited resources. Impressive, Commander."
+
+[S_Support_Great_Mission_Tygan_08 AkEvent]
+SpokenText="I'm certainly impressed, Commander, another heroic effort in the field."
+
+[S_Support_Great_Mission_Tygan_09 AkEvent]
+SpokenText="Excellent work, Commander. Your efforts in the field have certainly encouraged the crew."
+
+[S_Support_Great_Mission_Tygan_10 AkEvent]
+SpokenText="I'm always pleased when the troops return without any reported casualties. I can't hope for a better outcome."
+
+[S_Support_Great_Mission_Tygan_11 AkEvent]
+SpokenText="Another success, beyond all expectations. I'm continually impressed, Commander."
+
+[S_Support_More_Scientists_Tygan_01 AkEvent]
+SpokenText="Commander, as we rapidly develop and deploy advanced new technologies, any recruits you encounter with a proclivity towards the sciences would be of great use to me."
+
+[S_Support_Red_UI_Player_Not_Researching_Tygan AkEvent]
+SpokenText="Commander, the lab is currently idle, we're wasting valuable time and resources by not conducting any research. Please, consider providing us with a directive as soon as possible."
+
+[S_Support_Reminder_Alien_Biotech_Tygan AkEvent]
+SpokenText="Commander, if we intend on discovering the purpose of the chip we extracted from you, we'll need to conduct the appropriate research as soon as possible."
+
+[S_Support_Staffing_Investment_Tygan_01 AkEvent]
+SpokenText="Commander, you should know, any scientists we assign to a given facility will have to serve a minimum time commitment there before they can move elsewhere."
+
+[S_Support_Tech_Changed_Tygan_01 AkEvent]
+SpokenText="I'll direct our efforts towards the new research project immediately, Commander. Once we've made progress I'll send word."
+
+[S_Support_Tech_Changed_Tygan_02 AkEvent]
+SpokenText="I can see why you would consider redirecting our efforts, Commander. We'll get to work on the new project right away."
+
+[S_Support_Tech_Changed_Tygan_03 AkEvent]
+SpokenText="I'll ensure that this new project takes highest priority, Commander. Once we have something to report, I'll notify you immediately."
+
+[S_Support_Tech_Selected_Tygan_01 AkEvent]
+SpokenText="I foresee a number of valuable applications stemming from this technology. I'll have a report assembled as soon as the research is complete."
+
+[S_Support_Tech_Selected_Tygan_02 AkEvent]
+SpokenText="I had a feeling you'd make that research a priority, Commander. I'll notify you as soon as the report is available."
+
+[S_Support_Tech_Selected_Tygan_03 AkEvent]
+SpokenText="I'll see that work begins immediately, Commander. I'll contact you when you I have a full report available."
+
+[S_Support_Tough_Mission_Tygan_01 AkEvent]
+SpokenText="I've done what I can do aid our troops, but obviously, it hasn't been enough."
+
+[S_Support_Tough_Mission_Tygan_02 AkEvent]
+SpokenText="I'll have to work harder, consider new areas of research - we can't let this happen again."
+
+[S_Support_Tough_Mission_Tygan_03 AkEvent]
+SpokenText="I can't help but feel somewhat responsible, if only there was more we could do for our troops."
+
+[S_Support_Tough_Mission_Tygan_04 AkEvent]
+SpokenText="An unfortunate outcome, Commander. We'll have to refocus our efforts, work to prevent further tragedies."
+
+[S_Support_Tough_Mission_Tygan_05 AkEvent]
+SpokenText="We all had higher expectations, and we'll have to work harder if we expect to recover from this troubling loss."
+
+[S_Support_Unstaffed_Scientist_Tygan AkEvent]
+SpokenText="Commander, I've recently been made aware that we have at least one member of the science team who is currently awaiting an assignment. We should have our science staff assigned to facilities to maintain an efficient operation."
+
+[S_Tygan_Generic_ResearchComplete_A AkEvent]
+SpokenText="I am sure you'll find the results to be as intriguing as I do, Commander."
+
+[S_Tygan_Generic_ResearchComplete_B AkEvent]
+SpokenText="I do not think I could have predicted this outcome, though it is intriguing."
+
+[S_Tygan_Generic_ResearchComplete_C AkEvent]
+SpokenText="The outcome of this research can only further our advances, Commander."
+
+[S_Tygan_Generic_ResearchComplete_D AkEvent]
+SpokenText="These findings will likely prove crucial to our ongoing efforts, Commander."
+
+[S_Tygan_Generic_ResearchComplete_E AkEvent]
+SpokenText="I've made a number of interesting discoveries, Commander. "
+
+[S_Tygan_Greeting_A AkEvent]
+SpokenText="Hello Commander."
+
+[S_Tygan_Greeting_B AkEvent]
+SpokenText="Greetings, Commander."
+
+[S_Tygan_Greeting_C AkEvent]
+SpokenText="Commander?"
+
+[S_Tygan_Greeting_D AkEvent]
+SpokenText="Yes Commander?"
+
+[S_Tygan_Greeting_E AkEvent]
+SpokenText="I await your orders, Commander."
+
+[S_Tygan_Greeting_F AkEvent]
+SpokenText="I am ready to begin on your order, Commander. "
+
+[S_Tygan_New_Objective_AvatarAutopsy AkEvent]
+SpokenText="We are now prepared to autopsy the body of the powerful being we recovered, Commander.  I feel that we may be on the cusp of attaining a complete understanding of this Avatar we have long sought."
+
+[S_Tygan_New_Objective_BlacksiteVial AkEvent]
+SpokenText="We are fully prepared to begin our analysis of the material recovered from the ADVENT Blacksite, Commander."
+
+[S_Tygan_New_Objective_BuildShadowChamber AkEvent]
+SpokenText="Having developed a greater understanding of the aliens' encryption methods, we can now construct a facility designed specifically to analyze any materials we recover related to their Avatar project. I would suggest we begin immediately, Commander."
+
+[S_Tygan_New_Objective_CodexBrain AkEvent]
+SpokenText="With the Shadow Chamber fully operational, we can use its advanced decryption capabilities to analyze the Codex artifact recovered by our forces."
+
+[S_Tygan_New_Objective_UpgradeShadowChamber AkEvent]
+SpokenText="In order to analyze the alien Psionic gateway we recovered, we will need to make the appropriate modifications to the Shadow Chamber first, Commander."
+
+[S_Tygan_Research_InProgress_A AkEvent]
+SpokenText="Our work is proceeding as expected, Commander."
+
+[S_Tygan_Research_InProgress_B AkEvent]
+SpokenText="Work is well underway, Commander."
+
+[S_Tygan_Research_InProgress_C AkEvent]
+SpokenText="Research is proceeding as planned, Commander. "
+
+[S_Tygan_Research_InProgress_D AkEvent]
+SpokenText="Our research is progressing as expected, Commander."
+
+[S_Tygan_Research_InProgress_E AkEvent]
+SpokenText="I am still hard at work on the current research priority, Commander."
+
+[S_Tygan_ThankYouForLab AkEvent]
+SpokenText="I appreciate the new lab facilities, Commander."
+
+[S_Victory_Tygan_01 AkEvent]
+SpokenText="It's the Elders! They're overwhelming our link...enveloping the Commander's consciousness!"
+
+[S_Victory_Tygan_02 AkEvent]
+SpokenText="Vitals stabilizing. Synaptic activity returning to acceptable levels."
+
+[S_Welcome_Lab_01_Tygan_01 AkEvent]
+SpokenText="Impressive isn't it. Capable of generating immense power, yet completely harmless to human life. If only the same could be said for the rest of the aliens' technology, Commander."
+
+[S_Welcome_Lab_01_Tygan_02 AkEvent]
+SpokenText="Dr. Richard Tygan, Chief Science Officer. I am responsible for the entirety of our research here, as well as the procedure you so recently underwent. Welcome to my lab, such as it is."
+
+[S_Welcome_Lab_01_Tygan_03 AkEvent]
+SpokenText="I'm not sure what Central may have told you, but we found something while removing you from the alien stasis suit."
+
+[S_Welcome_Lab_01_Tygan_04 AkEvent]
+SpokenText="A device implanted directly in your occipital lobe. Had I access to the equipment available to me during my tenure at ADVENT I would already know the precise nature of its function. However, given time, and your approval of course Commander, I assure you I will find out."
+
+[S_Welcome_Lab_01_Tygan_05 AkEvent]
+SpokenText="Which brings to light an additional point, Commander. Though aspects of this facility are indeed impressive, I am but one man. Were you to direct additional support personal and resources to me, I could substantially improve the speed of all our research. Farewell, Commander."
+
+[S_Welcome_Lab_02_Tygan_01 AkEvent]
+SpokenText="So much of my own research based upon this simple design. If only I had known."
+
+[S_Welcome_Lab_02_Tygan_02 AkEvent]
+SpokenText="Ah, Commander. Excellent timing. There's been some progress."
+
+[S_Welcome_Lab_02_Tygan_03 AkEvent]
+SpokenText="I've managed to break down several key components of the "chip" implanted into your skull. My analysis reveals that its primary function was that of a conduit, passing a vast amount of data directly to your cerebral cortex."
+
+[S_Welcome_Lab_02_Tygan_04 AkEvent]
+SpokenText="With the primary connection severed, much of that data is lost. ­Several fragments do remain, however."Ghosts" if you will. Observe."
+
+[S_Welcome_Lab_02_Tygan_05 AkEvent]
+SpokenText="Tactical combat simulations. Wargames. The sheer volume of encounters you were processing was astounding. It... is truly remarkable that you survived for as long as you did."
+
+[S_Welcome_Lab_02_Tygan_06 AkEvent]
+SpokenText="Though this may seem disconcerting, there is still some "good news". This "chip" bears a striking resemblance to a "medical" implant I briefly assisted in developing at the Gene Therapy Clinic in New Providence."
+
+[S_Welcome_Lab_02_Tygan_07 AkEvent]
+SpokenText="My understanding was that the implants were intended for high-ranking ADVENT officers only. Captains or above. Retrieving a "chip" from such an officer would be the only way to know for certain. A greater understanding of these implants would undoubtedly benefit us all. Commander."
+
+[S_Welcome_Lab_Tygan_01_Setup_Phase AkEvent]
+SpokenText="...impossible. Mirrors the work in immunosuppressant responses I was doing ­prior to the Accord."
+
+[S_Welcome_Lab_Tygan_02_Setup_Phase AkEvent]
+SpokenText="Ah, Commander. Excellent timing. There is something we should discuss."
+
+[S_Welcome_Lab_Tygan_03_Setup_Phase AkEvent]
+SpokenText="Oh, but yes - I suppose introductions are in order. Dr. Richard Tygan, Chief Science Officer. I am responsible for the "procedure" you so recently underwent. Welcome to my lab, such as it is."
+
+[S_Welcome_Lab_Tygan_04_Setup_Phase AkEvent]
+SpokenText="I'm not sure what Central may have told you, but we found something while removing you from the alien stasis suit."
+
+[S_Welcome_Lab_Tygan_05_Setup_Phase AkEvent]
+SpokenText="This device was implanted directly in your occipital lobe. Though I'm uncertain as to the exact nature of it function, there is one thing I do know..."
+
+[S_Welcome_Lab_Tygan_06_Setup_Phase AkEvent]
+SpokenText="It was somehow passing a vast amount of data directly to your cerebral cortex. I've managed to reconstruct some fragments, but...perhaps its best you see for yourself."
+
+[S_Welcome_Lab_Tygan_07_Setup_Phase AkEvent]
+SpokenText="These are tactical combat simulations...Wargames. The sheer volume of encounters you were processing was astounding. It... is remarkable that you survived for as long as you did."
+
+[S_Welcome_Lab_Tygan_08_Setup_Phase AkEvent]
+SpokenText="I imagine this must be disconcerting for you, but there is some "good news". The device I removed bears a striking resemblance to a "medical" implant I was briefly involved in researching during my tenure at ADVENT."
+
+[S_Welcome_Lab_Tygan_09_Setup_Phase AkEvent]
+SpokenText="Though my exposure was limited, from what I understood the implants were intended for high-ranking ADVENT officers only. If our troops could "retrieve" one of them from the field, I may be able to learn more. A greater understanding of how these implants benefit the enemy will undoubtedly be of great use going forward."
+
+[S_Welcome_Lab_Tygan_10_Setup_Phase AkEvent]
+SpokenText="Oh, and Commander? Though this facility is adequate for our current needs, I am but one man. Were you to direct some additional support personal and equipment to me, I could substantially improve the speed of our research. Farewell, Commander."
+

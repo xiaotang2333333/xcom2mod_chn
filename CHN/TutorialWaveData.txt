@@ -1,0 +1,114 @@
+﻿[TUT_1stBattleOver_02_DELTA2 SoundNodeWave]
+SpokenText="指挥中心，我想已经搞定了，任务结束。"
+
+[TUT_1stBattleOver_03_CEN SoundNodeWave]
+SpokenText="收到，戴尔塔，保护尸体并即刻撤回天际游侠号。"
+
+[TUT_ConstantResearch_03_CS SoundNodeWave]
+SpokenText="指挥官，这项研究完成后，现阶段没有可进行的研究。我想请您批准我们解剖那些从前两次战斗中回收的外星人尸体...我想您应该了解，如果想打败外星人，就一定得先了解它们的生理构造。"
+
+[TUT_ConstantResearch_04_CS SoundNodeWave]
+SpokenText="谢谢您，指挥官。这个研究完成时我会向您报告。"
+
+[TUT_ConstantResearch_07_CS SoundNodeWave]
+SpokenText="嗯...看来沈博士的团队终于找出开启它们机器的方法了。"
+
+[TUT_CouncilMissions_01_CEN SoundNodeWave]
+SpokenText="指挥官，理事会要求通话。"
+
+[TUT_CouncilMissions_04_CEN SoundNodeWave]
+SpokenText="听起来有什么我们最好需要知道的事情。"
+
+[TUT_Dashing_01_DELTA3 SoundNodeWave]
+SpokenText="指挥中心，我这边有动静，位于我所在位置的北方30米处。是一辆警车。"
+
+[TUT_Engineering_01_CE SoundNodeWave]
+SpokenText="啊，指挥官，我正在想您什么时候会过来看看。欢迎来到工程部，研究实验室能想出来的东西，我们都能在这里制造。"
+
+[TUT_Engineering_02_CE SoundNodeWave]
+SpokenText="说到这个，瓦伦博士刚传给我们一个新的设计蓝图，只要您批准，我们就会开始制造。"
+
+[TUT_Engineering_03_CE SoundNodeWave]
+SpokenText="太好了，我的团队等不及要开始了。一旦完成我就会通知您。"
+
+[TUT_FacilityConstruction_01_CE SoundNodeWave]
+SpokenText="指挥官，您已经知道了瓦伦博士要求活捉一只外星人。很好的计划，但她没有考虑到我们缺少了可以安全放置活体样本的设施。一旦您批准，我的团队就会开始建造一个合适的设施。"
+
+[TUT_FacilityConstruction_02_CE SoundNodeWave]
+SpokenText="谢谢您，指挥官！ 设施建好之后我会通知您。"
+
+[TUT_FacilityConstruction_06_CE SoundNodeWave]
+SpokenText="瓦伦博士希望见您一面，指挥官。看起来她希望亲自向您说明她的计划。"
+
+[TUT_FacilityConstruction_07_CS SoundNodeWave]
+SpokenText="指挥官，您应该已经知晓了我的请求。只要您批准，我们可以立刻开始电弧发射器的研究。"
+
+[TUT_FogPod_01_DELTA3 SoundNodeWave]
+SpokenText="长官，已发现目标。请求接近。"
+
+[TUT_FogPod_04_DELTA3 SoundNodeWave]
+SpokenText="我完全不知道这东西是什么，但确定绝对不是卫星。"
+
+[TUT_MissionControl_01_CEN SoundNodeWave]
+SpokenText="指挥官，敌人正在测试我们的能力。接到报告，有两起攻击事件同时在不同国家发生。我们只能针对其中一起采取响应措施。"
+
+[TUT_MissionControl_02_CEN SoundNodeWave]
+SpokenText="我们所帮助的国家将会捐赠更多资源给我们的计划，但另一个我们选择不提供帮助的国家，其恐慌等级将会...升高。这是个两难的抉择，指挥官，但您还是必须作出最后的决定。"
+
+[TUT_MissionControl_07_CEN SoundNodeWave]
+SpokenText="了解，部队正在机库等您。"
+
+[TUT_MovingTimeForward_01_CEN SoundNodeWave]
+SpokenText="指挥官，瓦伦博士的报告中说研究正在实验室中进行，但是距离项目完成还有一段时间。在等待的同时，我们的卫星监控网络已经就绪，现在可以开始扫描新的活动。这个过程需要数天时间。"
+
+[TUT_Objectives_01_CEN SoundNodeWave]
+SpokenText="指挥官，根据瓦伦博士的报告，我建议立即开始研究那个她们在研究室中称为\"电弧发射器\"的新装备。研究完成后，我们就可以把项目交由工程部进行制造，然后在军械库中给士兵装备上。另外，沈博士和他的团队还在等待您批准建造外星人囚禁室，我们需要哪个设施来安置外星俘虏。"
+
+[TUT_PanicMechanic_02_CEN SoundNodeWave]
+SpokenText="指挥官，我们收到理事会的传输消息。"
+
+[TUT_PanicMechanic_04_CEN SoundNodeWave]
+SpokenText="理理事会知道您做了正确的决定，指挥官。就我们手上的可用资源看来，能做的就只有这么多了。但是，我们的总工程师想出了一个办法，能协助您密切留意情势..."
+
+[TUT_ResearchTakesTime_01_CS SoundNodeWave]
+SpokenText="指挥官，您好。目前的研究任务正如预期中进行着，但距离完成蓝图并转交给工程部还是有一段时间。我相信您同时一定有其他急迫事务需要处理。"
+
+[TUT_SatelliteLaunch_02_CEN SoundNodeWave]
+SpokenText="指挥官，天大的好消息，理事会捐赠了一枚卫星。我们目前的卫星基地台最多可以支持两枚卫星，所以我建议立刻发射这枚新卫星。"
+
+[TUT_SatelliteLaunch_03_CEN SoundNodeWave]
+SpokenText="这枚新增的卫星定位后，我们的整体监控范围即可获得显著提升。建议立刻开始扫描外星人接触事件。"
+
+[TUT_SatelliteLaunch_04_CE SoundNodeWave]
+SpokenText="\"S.C.O.P.E.\"制造完成，并已运送至军械库。"
+
+[TUT_SatelliteLaunch_05_CE SoundNodeWave]
+SpokenText="\"纳米纤维背心\"的制造已完成，指挥官。已运送至军械库。"
+
+[TUT_ScienceLab_01_CS SoundNodeWave]
+SpokenText="您好，指挥官，我是瓦伦博士，负责监管科研实验室，XCOM所有的研究与开发都在我们部门进行。"
+
+[TUT_ScienceLab_02_CS SoundNodeWave]
+SpokenText="我们已经开始分析第一次遇到外星人时所回收的物资。根据初步的发现，我们相信可以利用它们来为我方士兵开发一些新装备。"
+
+[TUT_ScienceLab_03_CS SoundNodeWave]
+SpokenText="只要您批准，我们就会立刻进行研究。"
+
+[TUT_ScienceLab_04_CS SoundNodeWave]
+SpokenText="谢谢您，指挥官。这项研究需要一点时间，一旦完成我们就会通知您。"
+
+[TUT_ScienceLab_10_CS SoundNodeWave]
+SpokenText="听起来有其他地方需要您。再会了，指挥官。如果你们在执行任务时有回收任何额外的物资...我非常乐意地研究它们。"
+
+[TUT_TheHangar_01_CE SoundNodeWave]
+SpokenText="欢迎回来，指挥官。我想跟您谈谈关于我们目前拦截机的事，让数架拦截机保持在警备状态是非常重要的--我们在任何外星人接触中都会需要用到它们进行拦截，而且有可能在这个过程中失去其中几架。为了防止那样的情况发生，您可以在机库接口选择变更拦截机的武器装备。"
+
+[TUT_TheHangar_02_CE SoundNodeWave]
+SpokenText="我认为同样值得一提的是，如果我们不知道敌人的位置，那就算拥有一支完整的拦截机部队也无济于事。在我们有能力侦测地球上其他地方的外星人飞船之前，先需要更广大的卫星监控范围。如果您有意愿建造更多的卫星，请前来工程部找我们。再见，指挥官。"
+
+[TUT_UFOInterception_01_CEN SoundNodeWave]
+SpokenText="指挥官，我们接收到一则广泛流传的无线电，声称在我们目前的卫星监控区域内发生了幽浮目击事件。应该尽快开始扫描接触事件。"
+
+[TUT_UFOInterception_02_CEN SoundNodeWave]
+SpokenText="看来我们发射的那枚卫星起了作用，发现了一个快速移动的不明物体。如果我们紧急出动一架拦截机，可能有机会将它击落。"
+

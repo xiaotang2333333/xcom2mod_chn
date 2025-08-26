@@ -1,0 +1,3 @@
+﻿[Archetypes.ARC_AdventTower_Hackable XComInteractiveLevelActor]
+FriendlyDisplayName="Security Tower"
+

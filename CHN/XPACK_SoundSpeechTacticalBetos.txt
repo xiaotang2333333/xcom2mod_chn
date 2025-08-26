@@ -1,0 +1,33 @@
+﻿[Play_X2_XP_BET_T_Gather_Survivors_Dropship_Inro_A AkEvent]
+SpokenText="我的同胞中的数人被长老的走狗逼得走投无路，逃进了这座旧城。他们现在虽然还没死，但我们的时间不多了。他们中的其中一人拥有大量有关反抗军的情报，失去他我们会蒙受非常惨重的损失。如果你能找到并救回他们，我们将不胜感激。"
+
+[Play_X2_XP_BET_T_Gather_Survivors_Dropship_Inro_B AkEvent]
+SpokenText="感谢你的协助。长老的军队追杀我的几个同胞进了这座旧城的危险区域中。他们中有位才华横溢的天才。如果你能救出他们，就是报答我们的最好方式。"
+
+[Play_X2_XP_BET_T_Gather_Survivors_Dropship_Inro_C AkEvent]
+SpokenText="感谢你的回应。我的同胞中有位知道许多情报的特工，他和护送他的小队被长老发现，不得不在这座旧城中暂避风头。我们快没时间了，只要你帮助我的朋友，我们定将涌泉相报。"
+
+[Play_X2_XP_BET_T_Gather_Survivors_First_ADVENT_Sighted AkEvent]
+SpokenText="长老们的傀儡离你很近。不要对这些行尸走肉手下留情。"
+
+[Play_X2_XP_BET_T_Gather_Survivors_Mission_Complete AkEvent]
+SpokenText="你的每场胜利都会让我们更加信任你，谢谢，指挥官。"
+
+[Play_X2_XP_BET_T_Gather_Survivors_XCOM_Links_Faction_Soldier AkEvent]
+SpokenText="太好了！看着我们的新朋友救出迷路的友军的感觉真是太棒了。"
+
+[Play_X2_XP_BET_T_How_To_Use_Skirmisher AkEvent]
+SpokenText="我们散兵是被这个世界的伪神当成为他们服侍的傀儡创造出来的。我们抛去了过去的身份和义务，而我们的战斗能力让我们拥有了反抗长老的资本。在近身战中，我们是无敌的。"
+
+[Play_X2_XP_BET_T_Swarm_Dropship_Intro_A AkEvent]
+SpokenText="我们中第一批获得自由的人曾在长老城市下的隧道中暂避过风头。有位重要的友军目前就采取了跟我们当初同样的策略，但如今长老的傀儡正在接近。我的一名同胞也在现场支援那位友军，请尽你所能帮助他们。"
+
+[Play_X2_XP_BET_T_Swarm_Dropship_Intro_B AkEvent]
+SpokenText="长老的城市下方的隧道为我们提供了庇护，使我们不至于被他们的傀儡抓到。而如今这些傀儡追杀一名我们的盟友到了那里，而他的附近能伸出援手的只有我的一名同胞。虽然我不想让你们身处险境，但还是请你们想想办法。"
+
+[Play_X2_XP_BET_T_Swarm_Dropship_Intro_C AkEvent]
+SpokenText="长老的城市下方有许多隧道，我们曾在那里面设立过一些秘密避难所。一个变种人变节者听从我们的指示逃进了其中一间避难所，但长老的部队就紧跟在他们后面。我的特工离他很近，他会协助你们救出那个变节者的。"
+
+[Play_X2_XP_BET_T_Swarm_Mission_Complete AkEvent]
+SpokenText="你的行为让我们之间的盟约变得更为牢不可破了，谢谢。"
+

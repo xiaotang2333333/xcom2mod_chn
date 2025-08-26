@@ -1,0 +1,7 @@
+﻿[XCOM2_StopAll AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+

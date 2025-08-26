@@ -1,0 +1,741 @@
+﻿[S_ADVENTmusing_Tygan AkEvent]
+SpokenText="虽说我对于芯片开发主要是在理论这块，但是当我看到这些正在使用的成品时，我还是不由得感到一丝责任感。就我而言，当专注于一个项目的一个单一层面，忽略掉人体对植入芯片的正常排斥，有时会很容易让人忽略掉整个未来趋势。直到今天，我都在扪心自问，到底是刻意忽略后果还是自己无止境的好奇心使自己对研究如此疯狂。"
+
+[S_Alien_Fortress_Tygan_01 AkEvent]
+SpokenText="通道已就绪，实验体准备好了吗？"
+
+[S_Alien_Fortress_Tygan_02 AkEvent]
+SpokenText="太好了，开始吧。"
+
+[S_Alien_Fortress_Tygan_03 AkEvent]
+SpokenText="我们已经见过原典在战场上打开一个类似的裂痕，我确定你的设备也会没问题的。"
+
+[S_Alien_Fortress_Tygan_04 AkEvent]
+SpokenText="看起来我们的信号被收到了，加大功率。"
+
+[S_Alien_Fortress_Tygan_05 AkEvent]
+SpokenText="也许这就是根源。或者说，外星人的\"能量之源\"。任何物理手段都无法接触到它。"
+
+[S_Alien_Fortress_Tygan_06 AkEvent]
+SpokenText="整个过程的确有用。当设备处在中间的位置时有一瞬间成功了。然而，一旦通道呼叫了第二个信号，一种有机信号，而我们无法提供时，它就会产生一种反噬脉冲。"
+
+[S_Alien_Fortress_Tygan_07 AkEvent]
+SpokenText="如果是原典建造了门，那么这个有机信号一定就是钥匙了。"
+
+[S_Alien_Fortress_Tygan_08 AkEvent]
+SpokenText="同意。我会立即把发现报告给指挥官。"
+
+[S_Autopsy_Andromedon_Blurb AkEvent]
+SpokenText="原始穿戴者脱下后，这些全副武装的环境套甲可以自己加入战斗，这很引人注目。我必须和沈好好研究一下这种不寻常的行为模式。"
+
+[S_Autopsy_Andromedon_Tygan AkEvent]
+SpokenText="正如一开始沈猜测的一样，这种生物确实被它巨大的环境套甲所限制。不幸的是，从战地经验中我们知道这套甲对我们的士兵而言本身就是一个强大的形体威胁，不管它里面的人状态如何。"
+
+[S_Autopsy_Archon_Blurb AkEvent]
+SpokenText="尽管我还不知道外星人到底希望用这样庞大的设计做些什么，但没有比它看起来更令人印象深刻的东西了。"
+
+[S_Autopsy_ArchonKing_Blurb AkEvent]
+SpokenText="我仍然不明白为什么外星人花这么多时间让这些执政官看起来更高级更符合审美价值。但不管什么原因，他们似乎很强调外表。"
+
+[S_Autopsy_ArchonKing_Tygan AkEvent]
+SpokenText="尽管同我们之前遇到的执政官在形体上很相似，我们的军队很快发现，这种变体倾向于使用肉体攻击，将受害者举到极高处再扔下来。"
+
+[S_Autopsy_Avatar_Blurb AkEvent]
+SpokenText="这个样本，这种生物，完全是另一种东西。我们都不曾见过，不过我们的军队还是又一次赢了。"
+
+[S_Autopsy_Berserker_Blurb AkEvent]
+SpokenText="典型的异变者并不具有太多攻击性，但这个笨重的野兽即使死了看起来也相当危险。我宁愿填好报告就马上扔掉它。"
+
+[S_Autopsy_BerserkerQueen_Blurb AkEvent]
+SpokenText="我猜测狂战士女王通过某种信息素控制异变者。不然，我想不到还有什么人工合成物有同样的作用。"
+
+[S_Autopsy_BerserkerQueen_Tygan AkEvent]
+SpokenText="这种生物已经在我们的军队中臭名昭著，就像狂战士女王奇特的行为模式一样。他们不仅全副武装，还有有弹性的身体，这二者结合后威力很大。"
+
+[S_Autopsy_Captain_Blurb AkEvent]
+SpokenText="变种人的长官似乎在提供着一种稳定连接的方法，这种连接将当地的下属和变种人的网络塔联系起来。"
+
+[S_Autopsy_Chryssalid_Blurb AkEvent]
+SpokenText="即使我的好奇心也不能克服我的忧虑，不知道让我们的部队将这个特定的样本带上船是否明智。"
+
+[S_Autopsy_Codex_Tygan AkEvent]
+SpokenText="在战场上，原典几乎是在一个不断变化的状态中呈不规则的形态，看起来每次在我们的世界中只存在几毫秒。但是，它显然对传统武器的效果不免疫，在留下这个物体前就消散了。"
+
+[S_Autopsy_Faceless_Blurb AkEvent]
+SpokenText="我一直想知道外星人是如何创造这种生物的，难道还有另一个世界，那个世界里都是这种变形生物吗？或者他们仅仅是外星人另一个基因干预的产物？"
+
+[S_Autopsy_Gatekeeper_Blurb AkEvent]
+SpokenText="我怀疑这种生物奇特的外表是灵能的产物。外星人总是觉得自己的行为是合理的，甚至包括那些扭曲的不正常的行为。"
+
+[S_Autopsy_Muton_Blurb AkEvent]
+SpokenText="外星人把这群庞大的生物作为前线作战单位部署在战场，以表明他们的强硬态度，我怀疑他们是觉得没有人敢和异变者对视。"
+
+[S_Autopsy_Sectoid_Blurb AkEvent]
+SpokenText="过去二十多年来，灰人进行了迅速的身体进化。这种进化是外星人神秘的基因工程的结果，也得益于灰人们对进化的追求，尽管这种追求满是风险。"
+
+[S_Autopsy_Shieldbearer_Blurb AkEvent]
+SpokenText="这些持盾者并非完全不像他们的变种人同伙，他们的装甲是将他们区分出来的最明显的特征。"
+
+[S_Autopsy_StunLancer_Blurb AkEvent]
+SpokenText="尽管变种人想靠这些来对付城市中心的平民们，但似乎越来越依靠残忍暴行的方式来追求和平。"
+
+[S_Autopsy_Trooper_Blurb AkEvent]
+SpokenText="尽管有着全面的分析，我还是没有发现变种人混种士兵的巨大眼睛有任何优势。但测试他们视觉能力非常困难。"
+
+[S_Autopsy_Viper_Blurb AkEvent]
+SpokenText="我发现这很不寻常，至少可以这么说，这些在过去一直被叫做黑衣人的东西现在已经通过基因演变完全变成了爬行生物。"
+
+[S_Autopsy_ViperQueen_Blurb AkEvent]
+SpokenText="外星人军队遗骸中发现的这种生物很不寻常，但我必须说，这种生物就像神话故事中所描写那样奇特。"
+
+[S_Autopsy_ViperQueen_Tygan AkEvent]
+SpokenText="尽管这个样本显然是毒蛇怪的一个特殊亲缘，但我们可以从它身上看出外星人强行进行基因进化的意图。与毒蛇怪以毒液著称不同，这个生物身体上拥有高度易燃的物质。"
+
+[S_Avenger_Ambient_Tygan_Advent AkEvent]
+SpokenText="变种人正在稳步推进残余平民的迁移进度，他们不断鼓吹自己的惠民政策，哄骗着残存的平民源源不断地涌向变种人市中心，可怜的难民们根本不知道签下一张移民协议后等待自己的将是怎样的命运。"
+
+[S_Avenger_Ambient_Tygan_AlienInvasionB_01 AkEvent]
+SpokenText="我曾一度受聘于医药行业担任生物化学研究员，主要负责研究疫苗生产技术。由于我的学科背景，变种人将我围捕后安排在了一个他们最早期的基因诊疗所里。不管怎样，我在那里亲眼目睹了他们的技术能力。"
+
+[S_Avenger_Ambient_Tygan_AlienInvasionB_02 AkEvent]
+SpokenText="我喜欢你的这种说法。"
+
+[S_Avenger_Ambient_Tygan_ChipFunctionB_01 AkEvent]
+SpokenText="不仅如此。相隔那么远它还能发出低能量讯息。我把它藏在一个临时的法拉第笼里以避免外星人追踪到它。只有沈博士有权限接触到它。"
+
+[S_Avenger_Ambient_Tygan_CityMigration_01 AkEvent]
+SpokenText="因为在那里工作过，我能直接告诉你的就是，它们的确有一套对我们来说史无前例的高水平医疗技术。外星人有效地治愈了人类的重大疾病...包括癌症、疟疾和艾滋病。而且治疗过程还比较简单。"
+
+[S_Avenger_Ambient_Tygan_CityMigration_02 AkEvent]
+SpokenText="是的。获得许可的代价就是接受变种人的政策。对大部分人来说，这点根本就不算问题，最多有点不太方便。"
+
+[S_Avenger_Ambient_Tygan_CityMigrationB_01 AkEvent]
+SpokenText="我不确定他们为何在这时候还如此卖力地宣传。"
+
+[S_Avenger_Ambient_Tygan_CityMigrationB_02 AkEvent]
+SpokenText="你或许不会--但将死之人呢？ 老人，或是残疾人呢？ 外星人能给他们我们所不能的--一些大多数人会不惜一切代价来换取的东西。"
+
+[S_Avenger_Ambient_Tygan_CityMigrationB_03 AkEvent]
+SpokenText="我只希望他们能明白这点。"
+
+[S_Avenger_Ambient_Tygan_CrewDis AkEvent]
+SpokenText="大多船员都很热情友好，但我总觉得沈博士对我的存在内心怀有极大的不信任感。尽管她表面上语言与他人无异，但能让人感觉出带有对指挥官的尊敬，还有并非真正想与我共事的愿望。所以无论如何，我都会继续努力来证明我的价值的。"
+
+[S_Avenger_Ambient_Tygan_FacadePeace_01 AkEvent]
+SpokenText="对，这是和变种人共事的好处之一。表面看起来好像很惬意。但其实是有代价的。"
+
+[S_Avenger_Ambient_Tygan_FacadePeace_02 AkEvent]
+SpokenText="是的，但变种人一直紧盯着。他们在监视介于他们军队与外星人间的所有事物--自动系统就更不在话下了。这跟路边临检可不大一样。"
+
+[S_Avenger_Ambient_Tygan_FacadePeaceB_01 AkEvent]
+SpokenText="老实说...无一牵挂于心。我最想念的？只有我的设备吧。"
+
+[S_Avenger_Ambient_Tygan_FacadePeaceB_02 AkEvent]
+SpokenText="他们在资源方面倒是从来没有短缺过。"
+
+[S_Avenger_Ambient_Tygan_GeneTherapy AkEvent]
+SpokenText="当我在变种人诊所工作时，我目睹了那种所谓奇迹般的医学突破，这是在外星人到来前所不曾有过的。老弱病残们经过如此简单的治疗便能重获新生，他们因此感动到痛哭流涕。外星人创造了如此超级强大的技术--也可能是他们所有技术中最最阴险的。这让当时的我，陷入了深深的矛盾当中。"
+
+[S_Avenger_Ambient_Tygan_LabQuirks AkEvent]
+SpokenText="虽然我在登上复仇者号时对可利用的有限资源以及设施做了理性的评估，但是我得承认，还是需要有一个适应的过程。船上的抑制场，频繁的震动--以及间歇性规避策略--都会加大我敏感性试验的难度。我必须在这种环境下调整研究技术以保持试验的有效性。"
+
+[S_Avenger_Ambient_Tygan_Quick_01 AkEvent]
+SpokenText="也许我们应该训练其他人来驾驶复仇者号了--如果布拉德福德不能让飞船平稳飞行的话我恐怕什么活儿都干不好。"
+
+[S_Avenger_Ambient_Tygan_Quick_02 AkEvent]
+SpokenText="我必须承认，在复仇者号这样严酷的条件下工作让人有些兴奋。每一个决定，每一个行动都至关重要--已经不容许再有任何纰漏产生了。"
+
+[S_Avenger_Ambient_Tygan_Quick_03 AkEvent]
+SpokenText="沈博士对我行踪的持续监视开始减少了。我自认为是一个有耐心的人，但如果大家要实现共同目标的话她就必须得先信任我才行。"
+
+[S_Avenger_Ambient_Tygan_Quick_04 AkEvent]
+SpokenText="我有点想知道变种人管理层怎么看我们这帮变节者的。他们会把我们当做真正的威胁，或是一群捣蛋鬼吗？"
+
+[S_Avenger_Ambient_Tygan_Quick_05 AkEvent]
+SpokenText="外星人的可控资源不可限量，但我们仅用小米加步枪也好好地料理了他们。"
+
+[S_Avenger_Ambient_Tygan_Quick_06 AkEvent]
+SpokenText="我真的很佩服我们军队在沙场上所展现出的勇气和坚韧 -- 面对装备更精良，更加训练有素的敌人他们的忠心也绝不动摇。"
+
+[S_Avenger_Ambient_Tygan_Quick_07 AkEvent]
+SpokenText="因为得不到提纯的石油，所以从城市外获得能源就非常困难。即使在强烈反对外星人的群体中，也有很多人觊觎回收的变种人装备。"
+
+[S_Avenger_Ambient_Tygan_Quick_08 AkEvent]
+SpokenText="我对于目前的试验进展感到满意，但外星人的目的还有许多地方值得研究。"
+
+[S_Avenger_Ambient_Tygan_Quick_09 AkEvent]
+SpokenText="由于复仇者号的条件有限，我找不到可以进行更多理论试验的场地。或许下一次我们可以..."
+
+[S_Avenger_Ambient_Tygan_Quick_10 AkEvent]
+SpokenText="我发现一些船员会偷偷瞄一眼我脖子后面的那道移除芯片留下的疤痕。假如我不是被迫自己移除芯片的话，切口会更干净些。"
+
+[S_Avenger_Ambient_Tygan_TyganConscienceB_01 AkEvent]
+SpokenText="和大多人一样，我也希望相信外星人们理所应当地热爱和平。虽说起初一道共事时他们只给我一点点的自由，但我承认，我是被他们正常表象所迷惑了。这是一个错误。"
+
+[S_Avenger_Ambient_Tygan_TyganConscienceB_02 AkEvent]
+SpokenText="正如我所说，这是一个错误--所以我会和XCOM在一起，努力去将功赎罪。"
+
+[S_Avenger_Tygan_Not_Enough_Scientists AkEvent]
+SpokenText="指挥官，如果你那碰巧有科技人才的话，请安排来我这，我正好缺人。"
+
+[S_Avenger_Tygan_Wounded_Soldiers_No_Infirmary AkEvent]
+SpokenText="指挥官，目前我们已经把伤员分类，但如果有医务室的话他们会受到更好的治疗。"
+
+[S_Blacksite_Horror_Tygan_01 AkEvent]
+SpokenText="我真希望这些可怕的图像就是我们今天最糟糕的发现了..."
+
+[S_Blacksite_Horror_Tygan_02 AkEvent]
+SpokenText="基因序列。近乎无穷尽的排列。但都有相似的基因标记，人类标记。"
+
+[S_Blacksite_Horror_Tygan_03 AkEvent]
+SpokenText="成百万成千万...而且这个过程离完成还差得很远。"
+
+[S_Blacksite_Horror_Tygan_04 AkEvent]
+SpokenText="我最糟的噩梦，都没有如此恐怖。"
+
+[S_Blacksite_Horror_Tygan_05 AkEvent]
+SpokenText="我相信我们已经找到失踪的平民了。"
+
+[S_Blacksite_Horror_Tygan_06 AkEvent]
+SpokenText="经过医学的筛选之后，合适人选会被带到这个该死的设施中等待处理。然后转化为我们现在所看到的这种物质。"
+
+[S_Blacksite_Horror_Tygan_07 AkEvent]
+SpokenText="我现在还无法妄加猜测。目前没有研究可以证明这个..."
+
+[S_Blacksite_Horror_Tygan_08 AkEvent]
+SpokenText="同意。我们获得的信息会是无价的，也许能够阻止外星人的真正目的。"
+
+[S_Broadcast_Truth_Tygan_01 AkEvent]
+SpokenText="好！看起来反馈脉冲达到预期效果了。"
+
+[S_CaptainAutopsy_Tygan AkEvent]
+SpokenText="变种人军官很明显地被改进成可以让他们的下属通过灵能接受任务。被植入的芯片就是关键所在。"
+
+[S_CaptainAutopsyReminder_Tygan AkEvent]
+SpokenText="指挥官，变种人军官现在在冷库中，我们应该尽快开始进行解剖。"
+
+[S_Commander_Awakens_Tygan_01_Setup_Phase AkEvent]
+SpokenText="小心！我们可能得对付已经有几十年的萎缩症！"
+
+[S_Commander_Awakens_Tygan_02_Setup_Phase AkEvent]
+SpokenText="我赞成！但我们如果不立即开始分离手术，我们可能很快就要失去这个病人。"
+
+[S_Commander_Awakens_Tygan_03_Setup_Phase AkEvent]
+SpokenText="很好！"
+
+[S_Commander_Awakens_Tygan_04_Setup_Phase AkEvent]
+SpokenText="...大脑皮层反应。太好了。准备入侵脑颅。"
+
+[S_Commander_Awakens_Tygan_05_Setup_Phase AkEvent]
+SpokenText="...我已确认了连接。准备好对应最终切除。"
+
+[S_Commander_Awakens_Tygan_06_Setup_Phase AkEvent]
+SpokenText="刚才就回答说\"不\"了。从没想到还要移除这些植入物的..."
+
+[S_Commander_Awakens_Tygan_07_Setup_Phase AkEvent]
+SpokenText="...脉冲不稳。"
+
+[S_Commander_Awakens_Tygan_08_Setup_Phase AkEvent]
+SpokenText="...瞳孔反应正常。生命体征稳定。手术完毕。"
+
+[S_Dark_Volunteer_01_Tygan_01 AkEvent]
+SpokenText="同意，我们必须立刻告知指挥官。"
+
+[S_Dark_Volunteer_01_Tygan_02 AkEvent]
+SpokenText="指挥官，军事官。"
+
+[S_Dark_Volunteer_01_Tygan_03 AkEvent]
+SpokenText="暗影舱已经完成了对化身DNA的分析。它已经确定了可以通过灵能门的基因序列。"
+
+[S_Dark_Volunteer_01_Tygan_04 AkEvent]
+SpokenText="然而要穿过大门仅仅靠一份基因数据是不够的。"
+
+[S_Dark_Volunteer_01_Tygan_05 AkEvent]
+SpokenText="安静。尽管我们面前的样本已经被破坏得难以修复了，但他可以给我们提供它完整的基因蓝图。"
+
+[S_Dark_Volunteer_01_Tygan_06 AkEvent]
+SpokenText="用灵能将人类和长老的DNA合二为一。我们已经拥有了模板。我对该生物的解剖不仅提供了基因蓝图，也提供了足够的长老DNA。给我足够时间，我相信我们能在这里重现整个过程。"
+
+[S_Dark_Volunteer_01_Tygan_07 AkEvent]
+SpokenText="是的，基因工程可以构造一具身体，但无法创造驱使身体的心灵。"
+
+[S_Dark_Volunteer_01_Tygan_08 AkEvent]
+SpokenText="直接连入他们的网络会造成严重后果，要么就会对未准备好的中枢神经系统造成致命创伤。目前来看，我们只知道有一个人曾在这种折磨后存活。"
+
+[S_Dark_Volunteer_01_Tygan_09 AkEvent]
+SpokenText="已创建至网络的完美连接。与你的生物体征完全适应，指挥官。在所有候选人中，你是最有可能存活的。"
+
+[S_Dark_Volunteer_01_Tygan_10 AkEvent]
+SpokenText="这是我能给你的唯一答案，这也是我们穿过外星传送门的唯一选择。"
+
+[S_Dark_Volunteer_02_Tygan_01 AkEvent]
+SpokenText="我在这材料里还灌输了完整的活性长老DNA。这是我们最好的机会了。"
+
+[S_Dark_Volunteer_02_Tygan_02 AkEvent]
+SpokenText="合成接近完成。"
+
+[S_Dark_Volunteer_02_Tygan_03 AkEvent]
+SpokenText="就是现在，莉莉！"
+
+[S_Despite_The_Unexpected_Tygan AkEvent]
+SpokenText="尽管我们对外星人的灵能门的测试结果出人意料，但我相信，它对我们未来的行动至关重要。我们现在知道了门的作用，以及我们要穿过它时所需要的东西。还有，我必须承认，很抱歉对沈的小精灵造成了伤害，即使它只是个机器。"
+
+[S_First_Scientist_Received_Tygan AkEvent]
+SpokenText="感谢你送来的额外人员，对我很有帮助，指挥官。我会好好利用的。"
+
+[S_Golden_Path_Mission_Loot_Blacksite_Vial_Tygan AkEvent]
+SpokenText="既然我们现在已经得到了黑地设施最主要的产物，我想我们需要大量时间和资源才能了解这个东西的真正目的。我将立刻开始准备进行完整分析，指挥官。"
+
+[S_Golden_Path_Mission_Loot_Forge_Body_Tygan AkEvent]
+SpokenText="基于我们找到的套甲，我们发现一些很可能是变种人无限军队的原型。就算只专注于这项研究，我也需要大量的时间和资源才能完全分析好这个样本。"
+
+[S_Golden_Path_Mission_Loot_Psi_Gate_Tygan AkEvent]
+SpokenText="我们从战场上找到的外星人部件很像传送门或通道之类的东西。尽管我们相信它为外星人提供一种远距旅行的方法，甚至可以到我们世界以外的地方，我们也需要一段时间才能完全了解这个通道的作用。"
+
+[S_Golden_Path_Musings_Blacksite_Horror_Tygan_01 AkEvent]
+SpokenText="在当地反抗军的帮助下我们突袭了\"黑地\"，在这之前我能想象到外星人对那儿的人类俘虏做了一些可疑的实验。但我们实际发现的东西还是大大超出了我能想象到的残忍程度。这个设施完全是以一种流水线的方式利用人类制造并精制人类基因物质。外星人完完全全地过界了，它们应该下地狱。"
+
+[S_Golden_Path_Musings_Dying_Ethereals_Tygan_01 AkEvent]
+SpokenText="长老们一直是神出鬼没的，除了一些特殊场合，我觉得城市里的大多数人都从未见过他们。听说他们现在正遭受着难以忍受的严重痛苦折磨，这也解释了为什么他们不在人前出现。但更重要的是，是何种的疾病才能让精通治疗能力的长老们痛苦不堪呢？"
+
+[S_Golden_Path_Musings_Risistance_Tygan_01 AkEvent]
+SpokenText="反抗军比我在流言里听说的要有组织的多，但听起来似乎他们还会依赖我们去管理和外星人作战的战略和战术。希望他们的探子网络能至少给我们提供一些变种人行动和位置的信息。"
+
+[S_GP_Avatar_Body_Recovered_But_Prereqs_Not_Met_Tygan AkEvent]
+SpokenText="指挥官，尽管我非常确定回收的样本与外星人当前研发的项目有重大关系，但我们确实没有完善的技术研究它。"
+
+[S_GP_PreBlacksite_Objective_Ambient AkEvent]
+SpokenText="就我个人经验而言，变种人在保护他们的重要设施时，更多的是部署重兵把守而不是耍诡计，至少我以前可以进去的那个就是这样。如果他们在隐藏黑地上出问题，我怀疑我们的发现会将我们引向更大的麻烦。"
+
+[S_GP_PreBroadcast_Objective_Ambient AkEvent]
+SpokenText="如果干扰到变种人的谐波缓冲场和网路，我们就有机会推翻外星人在地球的统治。我从未想过自己可以活着看到那一天。世界将知道真相，我们会确保这一点。"
+
+[S_GP_PreCaptain_Objective_Ambient AkEvent]
+SpokenText="我必须承认，成功完成移除指挥官的植入物的任务后，我就对可能存在的另一个用于对比测试的对象十分感兴趣了。既然在到达之前那个军官就已经死亡了，我或许得加快速度移除芯片。"
+
+[S_GP_PreForge_Objective_Ambient AkEvent]
+SpokenText="变种人黑地找到的基因样本中发现的编码坐标表明，我们可能只是找到了关于化身计划的一些皮毛而已。我们很幸运能够解开基因样本，要不然我们可能早就死路一条了。"
+
+[S_GP_PreFortress_Objective_Ambient AkEvent]
+SpokenText="我不知道我们会在通道另一边找到什么，但某种程度上我嫉妒我们的士兵们，因为他们有机会穿过进入另一个世界的大门。他们既是士兵也是探险家，我们的命运依附在他们身上。"
+
+[S_GP_PreLiveCodex_Objective_Ambient AkEvent]
+SpokenText="尽管有沈的调查，我还是很不确信我们是否可以从第一个原典中得到什么额外信息。不管怎么样，我确定我们的军队可以通过头颅接入器应对他们在战场遇到的下一个原典。"
+
+[S_GP_PrePsiGate_Objective_Ambient AkEvent]
+SpokenText="我感到很好奇，尽管原典竭力阻止我们侵入变种人网络，我们还是通过一系列坐标找到了另一个无人区。外星人们在某种程度上还算帮了我们。"
+
+[S_Humans_Obsolete_Tygan_01 AkEvent]
+SpokenText="表面上，是的，但功能上来说..."
+
+[S_Humans_Obsolete_Tygan_02 AkEvent]
+SpokenText="啊，指挥官你来了，太好了，我们能开始了。"
+
+[S_Humans_Obsolete_Tygan_03 AkEvent]
+SpokenText="毫无疑问变种人士兵同时拥有人类和外星人的基因特点。早期的分析让我确信这是一种对早期人类宿主基因直接修改的结果。可能是囚犯或者甚至是一些不知情的志愿者。"
+
+[S_Humans_Obsolete_Tygan_04 AkEvent]
+SpokenText="然而，现实完全不同。"
+
+[S_Humans_Obsolete_Tygan_05 AkEvent]
+SpokenText="我们在设施里发现的变种人士兵，包括在你面前的这个样本，都是被制造出来的。"
+
+[S_Humans_Obsolete_Tygan_06 AkEvent]
+SpokenText="不，不是克隆，更像是模板。"
+
+[S_Humans_Obsolete_Tygan_07 AkEvent]
+SpokenText="每一个士兵都具有独特的基因代码。人类基因占多数；但一些基因碎片是开放的..."
+
+[S_Humans_Obsolete_Tygan_08 AkEvent]
+SpokenText="任何变种人想要植入的外星人DNA。灰人，异变者，甚至是那些被我们士兵称为\"狂战士\"的物种。"
+
+[S_Humans_Obsolete_Tygan_09 AkEvent]
+SpokenText="在所有案例中，人类基因物质都扮演着类似\"粘合剂\"的角色。"
+
+[S_Humans_Obsolete_Tygan_10 AkEvent]
+SpokenText="没错，这是他们生产士兵流程中的关键组成。"
+
+[S_Humans_Obsolete_Tygan_11 AkEvent]
+SpokenText="某种意义上没错，但我相信不止这些。"
+
+[S_Humans_Obsolete_Tygan_12 AkEvent]
+SpokenText="这些样本的人类DNA和其他在暗影舱内解码的序列有一个关键性的区别，那就是灵能敏感度。这种不同绝对不是巧合。"
+
+[S_Humans_Obsolete_Tygan_13 AkEvent]
+SpokenText="我也是这么想的。这些模板所潜在的能量是非常...可怕的。军事官，如果我们不能在进程结束前截获它的话..."
+
+[S_Humans_Obsolete_Tygan_14 AkEvent]
+SpokenText="利用暗影舱，我们已经在分析该样本的DNA上取得很大进步了。"
+
+[S_I_Wasn_t_Going_To_Admit_Tygan AkEvent]
+SpokenText="我不准备向沈承认，但有件东西，我却十分怀念，那就是美味的变种人汉堡。我不知道他们怎么弄到肉的，当然我也不想知道。"
+
+[S_Misc_Alien_Encryp_Tygan_01 AkEvent]
+SpokenText="外星人使用了一种我们从未遇到过的编码方式；从理论上尚无法解释。我们必须找出一种解码的方法，但我猜这会耗上好些时间的。"
+
+[S_Misc_Thanks_Codex_Brain_Tygan_01 AkEvent]
+SpokenText="指挥官，多亏我们军队完成了获取原典脑的艰难任务。我们会尽快开始解码的。"
+
+[S_Old_Gods_01_Tygan_01 AkEvent]
+SpokenText="我们的士兵在战场上把这单位完全摧毁了。现在我们听到的只是电脉冲的副产品。我可以向你保证，它早就不会觉得痛了。"
+
+[S_Old_Gods_01_Tygan_02 AkEvent]
+SpokenText="我现在把最新序列传给你。"
+
+[S_Old_Gods_01_Tygan_03 AkEvent]
+SpokenText="那还有些别的什么。有东西...在里面。有一瞬间我看到了。"
+
+[S_Old_Gods_01_Tygan_04 AkEvent]
+SpokenText="这个单位试图阻止我们进一步侵入。"
+
+[S_Old_Gods_01_Tygan_05 AkEvent]
+SpokenText="快成功了...让我再调整下..."
+
+[S_Old_Gods_01_Tygan_06 AkEvent]
+SpokenText="好了。"
+
+[S_Old_Gods_01_Tygan_07 AkEvent]
+SpokenText="我猜这里面有某种故障安全协议。原典一定是为了防止信息被进一步窃取，特意让接口电压超载了。"
+
+[S_Old_Gods_01_Tygan_08 AkEvent]
+SpokenText="但我相信我应该抢先完成了。"
+
+[S_Old_Gods_01_Tygan_09 AkEvent]
+SpokenText="是的，所以我觉得需要点时间才能破译它。"
+
+[S_Old_Gods_01_Tygan_10 AkEvent]
+SpokenText="我会进行必要的研究和准备，当然是在你批准的情况下，指挥官。我同时建议研究一下那些坐标..."
+
+[S_Old_Gods_02_Alt_Tygan_02 AkEvent]
+SpokenText="目前我发现的信息表明在试验中对暗影舱造成的损坏是正常的，正如你所见..."
+
+[S_Old_Gods_02_Tygan_01 AkEvent]
+SpokenText="军事官、指挥官...太好了。我对原典数据碎片的分析基本完成了。"
+
+[S_Old_Gods_02_Tygan_02 AkEvent]
+SpokenText="目前为止我发现的信息比暗影舱的损失更有价值，正如你所见..."
+
+[S_Old_Gods_02_Tygan_03 AkEvent]
+SpokenText="是的。而我现在知道为什么了。"
+
+[S_Old_Gods_02_Tygan_04 AkEvent]
+SpokenText="\"长老\"们似乎遭受了一种严重的组织退化，他们肌萎缩的快速程度让人难以置信。"
+
+[S_Old_Gods_02_Tygan_05 AkEvent]
+SpokenText="但是我接下来要说的事，就没那么简单了。"
+
+[S_Old_Gods_02_Tygan_06 AkEvent]
+SpokenText="我们是会轻松不少。但我指的是人类本身。"
+
+[S_Old_Gods_02_Tygan_07 AkEvent]
+SpokenText="长老们几个世纪来都在努力寻找治愈自己的方法。他们每遇到一个新物种就会取得他们需要的的基因信息和材料，然后继续寻找下个物种，直到现在。"
+
+[S_Old_Gods_02_Tygan_08 AkEvent]
+SpokenText="我认为他们在我们身上找到了什么重要的东西，重要到他们要在这里扎根。"
+
+[S_Old_Gods_02_Tygan_09 AkEvent]
+SpokenText="我还不能肯定。一个被称为化身计划的文件中有一些关键内容被预先删除了。"
+
+[S_Old_Gods_02_Tygan_10 AkEvent]
+SpokenText="事实上，就是这样。可悲的是我们还无法确定这个实验的目的是什么，一个被称为化身计划的文件中有一些关键内容被预先删除了。"
+
+[S_Old_Gods_02_Tygan_11 AkEvent]
+SpokenText="如果我能侵入一个机能完整的原典，可能就能揭开这些疑团了。"
+
+[S_Old_Gods_02_Tygan_12 AkEvent]
+SpokenText="我没说要把那东西带到这儿，布拉德福德。我有自信能远距离获得信息，只要你的士兵能在摧毁它前尽可能靠近它。"
+
+[S_PostIntroStasisLanceReminder_Tygan AkEvent]
+SpokenText="指挥官，既然我们有了头颅接入器，我们应该在一个变种人军官身上试验一下。我确信实际效果会和设计构想一致的。"
+
+[S_Pre_Final_Mission_Broadcast_Tygan_01 AkEvent]
+SpokenText="理论上。"
+
+[S_Psi_Network_Tygan_01_GoldenPath AkEvent]
+SpokenText="军事官、指挥官。是的，因为对象已经死亡，进程就没那么紧张了。然后结果...你们最好亲眼看看。"
+
+[S_Psi_Network_Tygan_02_GoldenPath AkEvent]
+SpokenText="我对变种人军官的解剖已经确认了植入物的存在，与从指挥官的身体中提取出的那个十分相似。不过有一些区别。"
+
+[S_Psi_Network_Tygan_03_GoldenPath AkEvent]
+SpokenText="你们现在看到的数据是从变种人军官的植入物中直接拉取的。这里的序列，和你的一样，指挥官。至少他们在处理的战术信息，是近乎一致的。"
+
+[S_Psi_Network_Tygan_04_GoldenPath AkEvent]
+SpokenText="是的，然而..."
+
+[S_Psi_Network_Tygan_05_GoldenPath AkEvent]
+SpokenText="变种人数据显示出衰落的讯号。将指挥官从他们的网络中去移除看上去造成了极大的伤害。"
+
+[S_Psi_Network_Tygan_06_GoldenPath AkEvent]
+SpokenText="是的，我们这里看到的是一个灵能网络。这些植入物能够接收并传输信息；大量的信息被编码变成了一种灵能能量。"
+
+[S_Psi_Network_Tygan_07_GoldenPath AkEvent]
+SpokenText="我的理论认为--变种人利用该网络加强他们部队的战术协同性，同时传播指挥中心的指令。看..."
+
+[S_Psi_Network_Tygan_08_GoldenPath AkEvent]
+SpokenText="即便是在对象死亡的情况下，植入物依旧起效，非常令人惊讶的成就。"
+
+[S_Psi_Network_Tygan_09_GoldenPath AkEvent]
+SpokenText="也许吧--我需要直接进入他们的网络来确认这点。"
+
+[S_Psi_Network_Tygan_10_GoldenPath AkEvent]
+SpokenText="我们需要一个有效连接，这意味着要侵入一个活着的变种人军官。"
+
+[S_Psi_Network_Tygan_11_GoldenPath AkEvent]
+SpokenText="让我进入他们的网络，我敢肯定这值得冒险。"
+
+[S_Setup_Phase_ADVENT_Officer_Corpse_Recovered_Tygan AkEvent]
+SpokenText="很好，你一下令我就可以开始研究这个样本，指挥官。"
+
+[S_Setup_Phase_First_Loot_Screen_Tygan AkEvent]
+SpokenText="这些东西应该对打击外星人来说很有用。指挥官，等你有空的时候我要给你看一些有趣的东西，它跟之前我们从你体内移除的植入物有关。"
+
+[S_Setup_Phase_Geoscape_Build_Radio_Relays_To_Reduce_Costs_Tygan AkEvent]
+SpokenText="指挥官，根据我和沈的研究，我相信通过使用我们的网络建立无线电中继塔来联系其他地区可以减少情报消耗。地区离我们的中继站越远，情报消耗就越大，所以我建议在我们现存网络的边缘建立中继站。我相信反抗军会感激这些中继站的，他们或许会因此嘉奖我们。"
+
+[S_Setup_Phase_Research_In_Progress_Tygan AkEvent]
+SpokenText="嗨，指挥官。工作已经在进行了，但我还需要一些时间才能完成我的研究。"
+
+[S_Setup_Phase_Study_The_Chip__Tygan AkEvent]
+SpokenText="听你的命令，指挥官。我马上开始调查变种人芯片，希望可以找到有关它的功能的信息。"
+
+[S_Shadow_Chamber_Tygan_01 AkEvent]
+SpokenText="尽管我们潜入外星人灵能网络的进展不错，但其技术发展水平还是领先我们一步。"
+
+[S_Shadow_Chamber_Tygan_02 AkEvent]
+SpokenText="但现在有了加强的解密技术，我有自信能比预期取得更多的信息。"
+
+[S_Support_Ambient_Musings_Misc_Tygan_01 AkEvent]
+SpokenText="显然我的前任在审问和解剖外星人的项目中相当残忍。在我的认知中，她是那种如果需要就不会介意让自己手沾满鲜血的人。"
+
+[S_Support_Avatar_Corpse_Recovered_Tygan AkEvent]
+SpokenText="我们发现的物种...虽然还处在不完整的状态，但我相信这就是我们一直在找寻的化身。我们应当立刻着手进行解剖，我们必须找出为何这个实体对外星人如此特别。"
+
+[S_Support_First_PCS_Interface_Tygan AkEvent]
+SpokenText="指挥官，利用我们发现的变种人战术模拟程序，我们可以提升我们士兵在战场上的表现。然而，他们对技术忍耐力的不同会限制我们同时派遣的人数。"
+
+[S_Support_First_Tech_Changed_Tygan_01 AkEvent]
+SpokenText="指挥官，我们已经在此研究计划中投入了相当多的资源了。但如果你愿意，我们可以将资源投入到其他项目上。"
+
+[S_Support_First_Tech_Selected_Tygan_01 AkEvent]
+SpokenText="我发现这一研究领域还有很多有趣的可能性。我们要立刻着手研究；报告完成我会立刻告诉你的。"
+
+[S_Support_Great_Mission_Tygan_01 AkEvent]
+SpokenText="干得漂亮，指挥官。军队的能力正随着每次出击而逐步提升。"
+
+[S_Support_Great_Mission_Tygan_02 AkEvent]
+SpokenText="没有任何伤亡，指挥官。我希望所有的部署都能如此顺利。"
+
+[S_Support_Great_Mission_Tygan_03 AkEvent]
+SpokenText="我本以为我们的新兵还需要一段时间来磨练--但他们表现得太棒了，指挥官。"
+
+[S_Support_Great_Mission_Tygan_04 AkEvent]
+SpokenText="如果所有任务都能如此顺利的话，我们收复这个星球就只是时间问题了。"
+
+[S_Support_Great_Mission_Tygan_05 AkEvent]
+SpokenText="执行结果达到了最高标准。干得漂亮，指挥官。"
+
+[S_Support_Great_Mission_Tygan_06 AkEvent]
+SpokenText="我很高兴我们的军队在战场上获胜，这会让我们士气大振的。"
+
+[S_Support_Great_Mission_Tygan_07 AkEvent]
+SpokenText="尽管资源有限，我们的军队还是不断地突破了预期。太棒了，指挥官。"
+
+[S_Support_Great_Mission_Tygan_08 AkEvent]
+SpokenText="真是让我印象深刻，指挥官，又打了一场好仗。"
+
+[S_Support_Great_Mission_Tygan_09 AkEvent]
+SpokenText="干得漂亮，指挥官。你在战场上的努力大大激励了全员。"
+
+[S_Support_Great_Mission_Tygan_10 AkEvent]
+SpokenText="每当军队毫发无损地回来我都感到无比高兴，没有比这更好的结果了。"
+
+[S_Support_Great_Mission_Tygan_11 AkEvent]
+SpokenText="又一次胜利，超出所有人的预期。你的表现不断给我留下深刻的印象，指挥官。"
+
+[S_Support_More_Scientists_Tygan_01 AkEvent]
+SpokenText="指挥官，由于我们在不断开发并部署新技术，因此任何倾向于科技方面的新兵，都会对我有极大的帮助。"
+
+[S_Support_Red_UI_Player_Not_Researching_Tygan AkEvent]
+SpokenText="指挥官，实验室现在空闲着，不进行任何研究是在浪费珍贵的时间和资源。请尽快考虑给我们提出研究计划。"
+
+[S_Support_Reminder_Alien_Biotech_Tygan AkEvent]
+SpokenText="指挥官，如果打算要找出从你身上提取出的芯片的真正目的，我们需要尽可能快地开始相应的研究。"
+
+[S_Support_Staffing_Investment_Tygan_01 AkEvent]
+SpokenText="指挥官，你需要了解的是，任何我们分配到指定设施工作的科学家将会至少工作一段时间才能分配到别的设施。"
+
+[S_Support_Tech_Changed_Tygan_01 AkEvent]
+SpokenText="我会立刻将工作重心放到新的研究项目上，指挥官。一有进展我就会告诉你。"
+
+[S_Support_Tech_Changed_Tygan_02 AkEvent]
+SpokenText="我明白你想转移工作重心的原因，指挥官。我们会立刻开始新的项目。"
+
+[S_Support_Tech_Changed_Tygan_03 AkEvent]
+SpokenText="我会保证新项目优先，指挥官。一旦有需要报告的，我就会立刻通知你。"
+
+[S_Support_Tech_Selected_Tygan_01 AkEvent]
+SpokenText="我已预想了多种基于此技术而生的应用。一旦研究完毕我就会通知你。"
+
+[S_Support_Tech_Selected_Tygan_02 AkEvent]
+SpokenText="我猜你将优先进行该项研究，指挥官。等报告出来之后我会通知你的。"
+
+[S_Support_Tech_Selected_Tygan_03 AkEvent]
+SpokenText="我马上开始工作，指挥官。在我有了完整报告后我会联系你的。"
+
+[S_Support_Tough_Mission_Tygan_01 AkEvent]
+SpokenText="我做了所有能为军队做的，但很明显，这还不够。"
+
+[S_Support_Tough_Mission_Tygan_02 AkEvent]
+SpokenText="我必须加倍努力，考虑新的研究领域--我们不能让这事重演。"
+
+[S_Support_Tough_Mission_Tygan_03 AkEvent]
+SpokenText="我总觉得我该负责任，如果我们还能为军队做些什么就好了。"
+
+[S_Support_Tough_Mission_Tygan_04 AkEvent]
+SpokenText="让人不快的结果，指挥官。我们需要重新制定计划，避免更大的悲剧发生。"
+
+[S_Support_Tough_Mission_Tygan_05 AkEvent]
+SpokenText="我们原本期待更好的结果，现在我们必须加倍努力才能从这次惨重的损失中恢复过来。"
+
+[S_Support_Unstaffed_Scientist_Tygan AkEvent]
+SpokenText="指挥官，我最近了解到有至少一位科学团队的成员目前仍在等待分配。我们应当让我们的人员分配到设施中来保证效率。"
+
+[S_Tygan_Generic_ResearchComplete_A AkEvent]
+SpokenText="我相信您和我都认为结果非常棒，指挥官。"
+
+[S_Tygan_Generic_ResearchComplete_B AkEvent]
+SpokenText="尽管出人意料，这个结果还是非常不错的。"
+
+[S_Tygan_Generic_ResearchComplete_C AkEvent]
+SpokenText="本次研究结果一定会推动我们的发展，指挥官。"
+
+[S_Tygan_Generic_ResearchComplete_D AkEvent]
+SpokenText="这些发现能极大程度促进我们当前正在进行的项目，指挥官。"
+
+[S_Tygan_Generic_ResearchComplete_E AkEvent]
+SpokenText="我有了不少有趣的发现，指挥官。"
+
+[S_Tygan_Greeting_A AkEvent]
+SpokenText="你好，指挥官。"
+
+[S_Tygan_Greeting_B AkEvent]
+SpokenText="您好，指挥官。"
+
+[S_Tygan_Greeting_C AkEvent]
+SpokenText="指挥官？"
+
+[S_Tygan_Greeting_D AkEvent]
+SpokenText="有何吩咐，指挥官？"
+
+[S_Tygan_Greeting_E AkEvent]
+SpokenText="等待调遣，指挥官。"
+
+[S_Tygan_Greeting_F AkEvent]
+SpokenText="等待调遣，指挥官。"
+
+[S_Tygan_New_Objective_AvatarAutopsy AkEvent]
+SpokenText="指挥官，我们即将解剖回收的这个强大形体，我有预感，这次研究能让我们充分了解我们找寻已久的化身的奥秘。"
+
+[S_Tygan_New_Objective_BlacksiteVial AkEvent]
+SpokenText="指挥官，我们已经可以开始分析从变种人黑地回收的材料。"
+
+[S_Tygan_New_Objective_BuildShadowChamber AkEvent]
+SpokenText="指挥官，通过研究外星人加密技术，我们已可建立专业设施，专门分析我军回收的有关化身计划的各种材料。我建议马上动工。"
+
+[S_Tygan_New_Objective_CodexBrain AkEvent]
+SpokenText="暗影舱已经准备就绪，我们可以用它的高级解密功能来破译我军回收的原典器具。"
+
+[S_Tygan_New_Objective_UpgradeShadowChamber AkEvent]
+SpokenText="指挥官，为了分析回收的灵能门，我们得先改良一下暗影舱。"
+
+[S_Tygan_Research_InProgress_A AkEvent]
+SpokenText="工作如期进行，指挥官。"
+
+[S_Tygan_Research_InProgress_B AkEvent]
+SpokenText="工作进展顺利，指挥官。"
+
+[S_Tygan_Research_InProgress_C AkEvent]
+SpokenText="研究进展顺利，指挥官。"
+
+[S_Tygan_Research_InProgress_D AkEvent]
+SpokenText="研究一切正常，指挥官。"
+
+[S_Tygan_Research_InProgress_E AkEvent]
+SpokenText="我仍在努力研究当前的项目，指挥官。"
+
+[S_Tygan_ThankYouForLab AkEvent]
+SpokenText="指挥官，感谢你提供给我新的实验设施。"
+
+[S_Victory_Tygan_01 AkEvent]
+SpokenText="是长老们！他们完全盖过了我们的连结...将指挥官的意识给封杀了！"
+
+[S_Victory_Tygan_02 AkEvent]
+SpokenText="生命体征稳定。突触活动正回到正常水平。"
+
+[S_Welcome_Lab_01_Tygan_01 AkEvent]
+SpokenText="是不是很惊人。它能生成大量的能量，还对人体无害。要是其余的外星科技和这个一样无害就好了，指挥官。"
+
+[S_Welcome_Lab_01_Tygan_02 AkEvent]
+SpokenText="我是理查德·泰根博士，首席科学官。我负责这里所有的研究，同样也负责了你最近的手术。欢迎来到我的实验室，尽管还很简陋。"
+
+[S_Welcome_Lab_01_Tygan_03 AkEvent]
+SpokenText="我不知道军事官有没有告诉你，我们在把你从外星静滞护甲内弄出来的时候找到了一些东西。"
+
+[S_Welcome_Lab_01_Tygan_04 AkEvent]
+SpokenText="这个设备被直接植入了你的枕叶。如果我在为变种人工作期间能获得进入这个设备的权限的话，现在我就能知道这个东西确切的功能了。不过，给我时间，当然还有你的许可，我保证我能找出真相。"
+
+[S_Welcome_Lab_01_Tygan_05 AkEvent]
+SpokenText="这也带来了另一个问题。虽然这里的设备非常惊人，但我只是一个人。如果你能够提供我一些额外的人员或资源支持，我就能大幅提高现有的研究速度。再会，指挥官。"
+
+[S_Welcome_Lab_02_Tygan_01 AkEvent]
+SpokenText="我许多个人的研究都是基于这样简单的设计。要是我早点知道就好了。"
+
+[S_Welcome_Lab_02_Tygan_02 AkEvent]
+SpokenText="啊，指挥官，来得正好。我有一些事情要汇报。"
+
+[S_Welcome_Lab_02_Tygan_03 AkEvent]
+SpokenText="我成功地分析了一些在你头颅里植入的\"芯片\"的关键组成。我的分析显示，它的主要功能类似一个导管，直接向你的大脑皮层传输了大量的数据。"
+
+[S_Welcome_Lab_02_Tygan_04 AkEvent]
+SpokenText="由于主连接已断，因此许多数据都丢失了；一些碎片依然存在，可以这么说，如同\"幽灵\"一般。你看。"
+
+[S_Welcome_Lab_02_Tygan_05 AkEvent]
+SpokenText="战术战斗模拟，战争游戏，你大脑曾处理的数据量绝对值非常惊人。你能够存活下来绝对是一个奇迹。"
+
+[S_Welcome_Lab_02_Tygan_06 AkEvent]
+SpokenText="我能想象你可能有些不安，不过还有些好消息。这个设备与我在新普罗维登斯岛的基因诊疗所做的一项\"医疗\"植入物的研究有一定的相似之处。"
+
+[S_Welcome_Lab_02_Tygan_07 AkEvent]
+SpokenText="我的理解是，这些植入器是专为变种人军官准备的，要队长或者更高等级。如果我们能够从他们身上回收一个芯片绝对会是最好的了解方式。对这些植入物更深的了解毫无疑问会非常有用。指挥官。"
+
+[S_Welcome_Lab_Tygan_01_Setup_Phase AkEvent]
+SpokenText="...不可能。重现我在免疫抑制剂做的反应实验，一致性为优先。"
+
+[S_Welcome_Lab_Tygan_02_Setup_Phase AkEvent]
+SpokenText="啊，指挥官。来得正好，有些事情我们应该讨论一下。"
+
+[S_Welcome_Lab_Tygan_03_Setup_Phase AkEvent]
+SpokenText="哦，对了，我想应该先自我介绍一下。我是理查德·泰根博士，首席科学官。我是负责你最近经历的\"程序\"的人。尽管还很简陋，但还是欢迎来到我的实验室。"
+
+[S_Welcome_Lab_Tygan_04_Setup_Phase AkEvent]
+SpokenText="我不知道军事官有没有告诉你，我们在把你从外星静滞护甲内弄出来的时候找到了一些东西。"
+
+[S_Welcome_Lab_Tygan_05_Setup_Phase AkEvent]
+SpokenText="这个设备是直接植入在你的枕叶中。虽然我还没确定它确切的功能，但我可以确定一件事..."
+
+[S_Welcome_Lab_Tygan_06_Setup_Phase AkEvent]
+SpokenText="它之前一直在向你的大脑皮层传输大量的数据。我成功修复了一些碎片，但...你最好还是自己看一下。"
+
+[S_Welcome_Lab_Tygan_07_Setup_Phase AkEvent]
+SpokenText="这些是战术作战模拟...战争游戏。你处理的那些数据量非常令人震惊。你能存活下来简直就是奇迹。"
+
+[S_Welcome_Lab_Tygan_08_Setup_Phase AkEvent]
+SpokenText="我能想象你可能有些不安，不过还有些好消息。这个设备与我在变种人那的任期内做的一项\"医疗\"植入的研究有一定的相似之处。"
+
+[S_Welcome_Lab_Tygan_09_Setup_Phase AkEvent]
+SpokenText="虽然资料有限，但从我的认知中，这些植入器是只为变种人高级军官准备的。如果我们军队能够在战场上回收到一个，我也许可以了解得更多一些。了解这些植入器会如何对敌人有利，毫无疑问会非常有用的。"
+
+[S_Welcome_Lab_Tygan_10_Setup_Phase AkEvent]
+SpokenText="哦对了，指挥官。虽然这个装置目前能满足我们现有的需求，我只有一个人。如果你能够提供我一些额外的人员或设备支持，我就能大幅提高现有的研究速度。再会，指挥官。"
+

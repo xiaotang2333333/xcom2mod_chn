@@ -1,0 +1,105 @@
+﻿[Audio.S_Pre_Final_Mission_Broadcast_Central_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Pre_Final_Mission_Broadcast_Central_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Pre_Final_Mission_Broadcast_Comm_Officer_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Pre_Final_Mission_Broadcast_Comm_Officer_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Pre_Final_Mission_Broadcast_Shen_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Pre_Final_Mission_Broadcast_Spokesman_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Pre_Final_Mission_Broadcast_Spokesman_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Pre_Final_Mission_Broadcast_Spokesman_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Pre_Final_Mission_Broadcast_Spokesman_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Pre_Final_Mission_Broadcast_Spokesman_04a SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Pre_Final_Mission_Broadcast_Spokesman_05 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Pre_Final_Mission_Broadcast_Spokesman_06 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Pre_Final_Mission_Broadcast_Spokesman_07 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Pre_Final_Mission_Broadcast_Spokesman_08 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Pre_Final_Mission_Broadcast_Spokesman_09 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+

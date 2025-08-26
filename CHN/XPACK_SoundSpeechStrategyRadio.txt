@@ -1,0 +1,117 @@
+﻿[Play_X2_XP_S_RDJ_ADVENT_Burger_Ad_B AkEvent]
+SpokenText="变种人汉堡，你在吃它还是它在吃你？"
+
+[Play_X2_XP_S_RDJ_ADVENT_Burger_Ad_C AkEvent]
+SpokenText="变种人汉堡，服务人类...外加一点薯条。"
+
+[Play_X2_XP_S_RDJ_ADVENT_Burger_Ad_D AkEvent]
+SpokenText="变种人汉堡，顾客就在...两块面包之间。"
+
+[Play_X2_XP_S_RDJ_ADVENT_Burger_Musing_A AkEvent]
+SpokenText="我已经在反抗军服役了15年了。想起来的话，是变种人汉堡让我转变心意的，我打赌长老们现在还在后悔那个决定。"
+
+[Play_X2_XP_S_RDJ_ADVENT_Burger_Musing_B AkEvent]
+SpokenText="战场上的XCOM士兵不多。而我从未厌倦听到那个声音。"
+
+[Play_X2_XP_S_RDJ_Eliminated_ADVENT_Commander_A AkEvent]
+SpokenText="如果你是反抗军的支持者，那今天就有好消息可听了，据我所知，XCOM追踪到了变种人谋杀小队的一个高阶指挥官，以其人之道还施彼身了。根据报告，XCOM经验丰富的战士毫不客气地处决了那个变种人战地指挥官。"
+
+[Play_X2_XP_S_RDJ_Eliminated_ADVENT_Commander_B AkEvent]
+SpokenText="我们那勇敢的XCOM朋友今天成功追踪到了一名对人类犯下过多桩罪行的高阶变种人战地指挥官，并让他用生命偿还了他的罪孽。尽管外星人杀的人类远比我们杀的外星人要多，XCOM已经把两者的差距拉得越来越近了。给我小心点！外星人！给我，小心点！你们完蛋了！外星人！"
+
+[Play_X2_XP_S_RDJ_Eliminated_ADVENT_Commander_C AkEvent]
+SpokenText="机智而强大的XCOM小队今天再次通过果断击杀他们遇到的变种人高阶指挥官的方式羞辱了长老一把，这个军官犯下的最大错误就是撞到了我们的XCOM。根据目击者所说，它的遗言好像是\"嘎哦哦哦哇啊啊啊\"，没有任何意义可言。"
+
+[Play_X2_XP_S_RDJ_Facility_Destroyed_A AkEvent]
+SpokenText="市民们，大家好！我是大家无所畏惧的变种人发言人！今天我们要哀悼不幸丧生的无辜外星...哎呀，去他的。今天XCOM和反抗军移平了一座外星人的设施。没错，他们把它烧得连渣都不剩。是个好消息吧？XCOM加油。"
+
+[Play_X2_XP_S_RDJ_Facility_Destroyed_B AkEvent]
+SpokenText="刚刚收到的消息：今晚长老肯定会肝火上升，因为XCOM成功为我们美丽的星球清除了一座恶心的外星人设施。消息来源证实了是XCOM那神秘的指挥官扭转了对抗我们的邪恶领主的局势。"
+
+[Play_X2_XP_S_RDJ_Facility_Destroyed_C AkEvent]
+SpokenText="今天大家有注意到西边天空上出现了个巨大的火球吗？没有的话请收看这则回放：这太美了，这一切都是XCOM的功劳，他们坚持摧毁长老在这个世界上建设的一切事物。我个人举双手赞同他们的这一做法。"
+
+[Play_X2_XP_S_RDJ_Generic_Ambient_A AkEvent]
+SpokenText="大家听说过那群在树林里穿梭，自称为死神的人吗？不对，大家有遇到过他们吗？如果有的话，可能就会听说过他们独特的食谱养生法...没听说过？我给大家一个提示 -- 别问他们的肉是从哪弄来的。"
+
+[Play_X2_XP_S_RDJ_Generic_Ambient_B AkEvent]
+SpokenText="嘿，反抗军的义士们！你渴求激烈的战斗吗？你想要让外星人为他们的罪行付出代价吗？好消息！你只需要前往当地的市中心，一枪打爆离你最近的变种人维和部队士兵的狗头即可。每个人都可以为反抗事业出一份力！"
+
+[Play_X2_XP_S_RDJ_Generic_Ambient_C AkEvent]
+SpokenText="嗯，有意思。我们受到了一位赞助者的特殊请求，他说他\"一份给听众的福利。我愿意出三倍的价钱回收所有可以送到这个边远地区的变种人汉堡。\"他的名字字迹潦草，看不清楚写了啥。特根？塔根？提根？泰根？这家伙绝对赢不了什么书法奖，我向你们保证。"
+
+[Play_X2_XP_S_RDJ_Generic_Ambient_D AkEvent]
+SpokenText="大家或许注意到最近反抗军电台没有播放太多的音乐，事实上我们已经很久没播放过音乐了。虽然我也想来几曲死亡重金属振奋一下大家的士气，但好东西基本上都被变种人拐走了。除非我可以向他们要来...还是算了。"
+
+[Play_X2_XP_S_RDJ_Generic_Ambient_E AkEvent]
+SpokenText="我收到一个和XCOM有密切合作关系的哥们儿的线报，咱们就叫他...重要线人斯坦福好了。是这样的，我的朋友斯坦福已经在野外活动了20年，一直试图继续反抗事业，但运气始终不佳。XCOM分崩离析，基地被外星人炸毁...布拉德...我是说斯坦福肯定也很绝望对吧？...哦...等等...好像还有后续。"
+
+[Play_X2_XP_S_RDJ_Generic_Ambient_F AkEvent]
+SpokenText="对于收听到我们上次节目的听众，遗憾的是我无法告诉大家后续了，我的伙计斯坦福对于我在广播上谈到他感到相当不满。所 -- 所以说...我们没法再讲他的故事了...希望你不要介意啊伙计？我会给你买件新毛衣当成补偿的。与此同时，你继续努力杀外星人就好，哪怕是嘴上说说也行。"
+
+[Play_X2_XP_S_RDJ_Generic_Ambient_G AkEvent]
+SpokenText="莫塔纳波尔塔特！克拉克萨德！莫克斯！大家想要理解这些在外面的花花世界总是回响在你耳边的语言吗？好消息！反抗军的翻译专家正在努力破译变种人所使用的傻[哔]语言。很快你就能用它们的语言装模作样地吓唬你的朋友玩了！是不是超棒的？"
+
+[Play_X2_XP_S_RDJ_Generic_Ambient_H AkEvent]
+SpokenText="我告诉大家，最近我经常在思考那些基因诊疗所是用来干什么的。他们的宣传听上去很唬人不是吗？你可以随意对待自己的身体，然后只要去那里一趟就焕然一新。当然了，根据谣言，你也有可能变成一个焕然一新的变种人汉堡。"
+
+[Play_X2_XP_S_RDJ_Mission_Failure_A AkEvent]
+SpokenText="这里是反抗军之音，真实之声，要带给你的是我们部队对抗入侵者时的失败的不幸消息。我们今天或许损失了一些人，但是我们不会放弃希望 -- 外星人会知道这个世界属于人类。"
+
+[Play_X2_XP_S_RDJ_Mission_Failure_B AkEvent]
+SpokenText="来自前线的报导显示，不少反抗军战士今天在一场与入侵者以少敌多的战斗中失去了他们的生命。他们为我们的事业牺牲了一切，请大家记住这点。"
+
+[Play_X2_XP_S_RDJ_Mission_Failure_C AkEvent]
+SpokenText="来自前线的消息，不少勇敢的战士们今天在一次与来自市中心的一支入侵部队作战时牺牲了。尽管受挫，但反抗军领袖坚称未来对抗外星人的行动不会停止。"
+
+[Play_X2_XP_S_RDJ_Mission_Failure_D AkEvent]
+SpokenText="这里是反抗军之音，要带给你的是我们部队对抗入侵者时的失败的不幸消息。我们敬重那些牺牲的人们，但是战斗还要继续，人类必须夺回这个世界。"
+
+[Play_X2_XP_S_RDJ_Mission_Failure_E AkEvent]
+SpokenText="抛却变种人官方媒体的夸大宣传，我个人能够确认反抗军的确在今天对抗外星人对边远地区入侵时遭到了失利。所有那些为反抗事业服务并牺牲的人都会被铭记。"
+
+[Play_X2_XP_S_RDJ_Mission_Success_A AkEvent]
+SpokenText="这是反抗军之音，传播这里发生的真实事件。来自前线的消息 -- XCOM再次证明虽然变种人一直在对你们洗脑，但人类是不会不战而败的。"
+
+[Play_X2_XP_S_RDJ_Mission_Success_B AkEvent]
+SpokenText="外星人总会告诉你相反的事实，而这里是来自反抗军的真实声音，带给你我们对抗入侵者胜利的真实新闻。我们每天都在变强，而XCOM正是使其成真的组织。"
+
+[Play_X2_XP_S_RDJ_Mission_Success_C AkEvent]
+SpokenText="向所有投身于解放事业的兄弟姐妹们，今天你们的努力帮助了我们在前线的勇敢士兵取得了对入侵者的又一次胜利。"
+
+[Play_X2_XP_S_RDJ_Mission_Success_D AkEvent]
+SpokenText="变种人的宣传继续散播着反叛者攻击的消息，但我们是反抗军之音，告诉你不要相信他们的谎言。我们的战士们会献出一切将原本属于我们的一切夺回来。"
+
+[Play_X2_XP_S_RDJ_Mission_Success_E AkEvent]
+SpokenText="这里是反抗军之音，我们要提醒你外星人从不会承认失败，就算我们勇敢的战士们已经将它们赶出世界了也一样。所以不要放弃希望，不要投降。"
+
+[Play_X2_XP_S_RDJ_XCOM_Failure_A AkEvent]
+SpokenText="根据我收到的消息，XCOM今天的行动并不顺利，变种人让我们无畏的指挥官看起来像个菜鸟。希望我们的朋友能够振呃振作起...来。"
+
+[Play_X2_XP_S_RDJ_XCOM_Failure_B AkEvent]
+SpokenText="与其听变种人的电台讲，还不如从我这儿听说 -- 今天反抗军犯了点小错误，让外星人得手了。虽然我不清楚具体的伤亡数字，但还请大家为我们逝去的人类兄弟姐妹敬一杯酒。"
+
+[Play_X2_XP_S_RDJ_XCOM_Failure_C AkEvent]
+SpokenText="我向来不喜欢告诉大家坏消息，至少自从我干了这活后就不喜欢，可遗憾的是今天反抗区域内的居民只能听到这个坏消息了。外星人和他们那无尽的走狗今天击败了XCOM，看样子XCOM牺牲了不少人。"
+
+[Play_X2_XP_S_RDJ_XCOM_Failure_D AkEvent]
+SpokenText="好吧，大家找个地方坐下，我有个沉重的消息要宣布。今天反抗军的许多好人献出了自己的生命，外星人估计会大肆宣传他们对叛乱分子取得的胜利...但请大家不要因此灰心丧气，我们就快把他们从我们的星球赶出去了。"
+
+[Play_X2_XP_S_RDJ_XCOM_Failure_E AkEvent]
+SpokenText="距离反抗军开始活动已经过了20年，我们也不能指望他们一夜之间完全胜利。根据我获得的信息，今天XCOM的行动进展得很不顺利，看来他们得重新考虑一下战术了。不过请他们不必担心，我们会永远支持他们的。"
+
+[Play_X2_XP_S_RDJ_XCOM_Success_A AkEvent]
+SpokenText="哇呼！天啊！今天变种人被咱们狠狠地修理了一顿啊！我们英勇的反抗军朋友让这些外星人暴君喝了一壶，杀掉了无数入侵者。能听到好消息总是这么令人精神振奋。"
+
+[Play_X2_XP_S_RDJ_XCOM_Success_B AkEvent]
+SpokenText="我虽然不确定今天战斗的是反抗军的哪一支小队，但他们是我见过的最猛的家伙。我们XCOM的伙计们今天把那些外星人打得求爷爷叫奶奶，恨不得逃回他们的那绿色的培养皿里躲起来！只要我们能保持这个势头，那还真有可能赢得这场战争。"
+
+[Play_X2_XP_S_RDJ_XCOM_Success_C AkEvent]
+SpokenText="X-C-O-M，要怎么念？！XCOM！没错，今天我们的这群秘密特工再次给长老制造了麻烦。如果你有机会碰见这些勇敢的战士，请务必向他们致谢。"
+
+[Play_X2_XP_S_RDJ_XCOM_Success_D AkEvent]
+SpokenText="我最近很少收到听众来电，但我有预感，如果我开始接收听众来电，那么听众们最想听到的就是外星人节节败退的消息！所以今天我很高兴能带给你们最近人类反抗组织的行动，在XCOM的英明领导下，他们今天再次重创了外星人渣滓。"
+
+[Play_X2_XP_S_RDJ_XCOM_Success_E AkEvent]
+SpokenText="或许我不该在直播时提到这个，但...哇哦，我好像快爱上主管XCOM的那个神秘的指挥官了。我是说，我还不确定他到底是男是女，但是大家有看到过他做了什么吗？！他或者她今天又狠狠地教训了外星人一顿，就跟吃饭一样寻常。太、太、太厉害了！"
+

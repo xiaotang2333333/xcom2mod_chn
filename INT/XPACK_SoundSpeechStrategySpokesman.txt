@@ -1,0 +1,6 @@
+﻿[Play_X2_XP_S_SPO_Faction_Leader_Screen AkEvent]
+SpokenText="Well done, Commander. Already the Resistance network grows. I have established this secure channel that you might better coordinate your actions. Only by working together can we ensure the defeat of ADVENT and the Elders' Chosen."
+
+[Play_X2_XP_SPO_S_First_Ring_Covert_Actions AkEvent]
+SpokenText="Commander, the Factions you have contacted are well equipped to track down the Chosen. Their knowledge will be invaluable in helping XCOM locate and eliminate these threats."
+

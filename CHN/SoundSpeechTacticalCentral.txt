@@ -1,0 +1,1746 @@
+﻿[CEN_AvengerDefense_ClearForTakeoff AkEvent]
+SpokenText="指挥官，等你命令，我们就能起飞了。我们应该尽快让小队上飞船，然后离开这里。"
+
+[CEN_AvengerDefense_ClearForTakeoffHL AkEvent]
+SpokenText="我们损失了一些优秀的战士，指挥官--我们应该尽我们所能让剩下的小队回到复仇者号上--但我们不能承受损失这艘飞船的风险，即便是为了他们。"
+
+[CEN_AvengerDefense_DisruptorDestroyed AkEvent]
+SpokenText="目标已摧毁。威胁者1-5干得好。沈，我们的状况如何？"
+
+[CEN_AvengerDefense_FailureSquadWipe AkEvent]
+SpokenText="指挥官...我们失去了突击小队。没有人能防御飞船了。"
+
+[CEN_AvengerDefense_FirstBoardingWarning02 AkEvent]
+SpokenText="你听到了，威胁者1-5，杀掉任何要登船的敌人，别让他们进来，不惜一切代价。"
+
+[CEN_AvengerDefense_ForcesExhausted AkEvent]
+SpokenText="指挥官，我们没有后备队了！没有增援了！"
+
+[CEN_AvengerDefense_HeavyLosses AkEvent]
+SpokenText="指挥官，我们损失了一些好士兵，不过现在不是迟疑的时候，我们必须要让复仇者号起飞，不惜一切代价。"
+
+[CEN_AvengerDefense_HLOnExtract AkEvent]
+SpokenText="指挥官，你知道我会用我的生命去换任何一个士兵的，但拯救这艘飞船比任何士兵都要重要。我们不能冒险，如果我们必须起飞，就可能要丢下他们了。"
+
+[CEN_AvengerDefense_HostileInThreatZone AkEvent]
+SpokenText="指挥官，有一个敌方目标准备侵入舰船！"
+
+[CEN_AvengerDefense_HostileKilledClear AkEvent]
+SpokenText="那是最后一个了，指挥官，我们已经消灭了所有剩下的威胁飞船的敌人了。"
+
+[CEN_AvengerDefense_HostileKilledRemaining AkEvent]
+SpokenText="一个敌人已被消灭，但依然有威胁我们的敌人。"
+
+[CEN_AvengerDefense_Intro01 AkEvent]
+SpokenText="威胁者1-5，情况危急；复仇者号主系统已被关闭，敌军正在进发，沈，情况如何？"
+
+[CEN_AvengerDefense_Intro03 AkEvent]
+SpokenText="我们可能摊上大事儿了，指挥官。我们收集到了大量信号源--许多变种人正往我们的位置进发--还有战舰紧随其后。外星人派出了他们所有的力量--我们必须让这艘船飞起来，不然我们就死定了。"
+
+[CEN_AvengerDefense_MultipleHostilesInThreatZone AkEvent]
+SpokenText="指挥官，有多个敌人准备侵入复仇者号！我们需要干掉他们！"
+
+[CEN_AvengerDefense_OutroSuccess AkEvent]
+SpokenText="干得漂亮，指挥官--复仇者号终于化险为夷了。"
+
+[CEN_AvengerDefense_OutroSuccess_HL AkEvent]
+SpokenText="我们付出了惨重的代价来拯救这艘船，指挥官--给外星人点颜色看看，确保这一切都值得。"
+
+[CEN_AvengerDefense_PDisruptorSighted_StillHidden AkEvent]
+SpokenText="威胁者1-5，我们已经发现干扰器了。在敌军到来前赶紧摧毁它然后离开这个鬼地方。"
+
+[CEN_AvengerDefense_RNFFirst AkEvent]
+SpokenText="指挥官，情况更糟了。反抗军前哨站报告说敌人部队正赶往此区域，他们已经准备好全面突击了。"
+
+[CEN_AvengerDefense_RNFInbound AkEvent]
+SpokenText="指挥官，敌人增援已到达。"
+
+[CEN_AvengerDefense_ShipBoarded02 AkEvent]
+SpokenText="我们无法再阻止他们了！敌人已经侵入了飞船--我们失去了控制权。与你共事是我的荣耀，指挥官。"
+
+[CEN_AvengerDefense_XCOMReinforced AkEvent]
+SpokenText="指挥官，我正从复仇者号的后备队中派遣增援。"
+
+[CEN_AvengerDefenseX_Intro01 AkEvent]
+SpokenText="我们遇到状况了。外星人对复仇者号又有了新的行动 - 他们的刺状干扰器让我们无法起飞。我们之前对付过，指挥官，希望这次他们没有改变战术。"
+
+[CEN_AvengerDefenseX_Intro03 AkEvent]
+SpokenText="指挥官，有战舰和变种人朝我们进发。威胁者1-5，我们要找出那个干扰器并摧毁它。我们曾经死里逃生过一次的，我们还能再来一次。"
+
+[CEN_AvengerDefenseX_PDisruptorSighted_StillHidden AkEvent]
+SpokenText="威胁者1-5，我们已经发现并锁定干扰器了。摧毁它然后沈应该能让飞船再次动起来。"
+
+[CEN_Blacksite_AdviseRetreat AkEvent]
+SpokenText="指挥官，突击小队已经快扛不住了，但我们仍未能取得容器。或许我们得终止这次行动了。"
+
+[CEN_Blacksite_FailureAbort AkEvent]
+SpokenText="收到。指挥官，您知道我是支持您放弃这次行动的，但距离下次计划还有一段时间，我们必须为下一次行动做好充分准备。"
+
+[CEN_Blacksite_FailureAbortHL AkEvent]
+SpokenText="状态已确认。指挥官，很可惜我们没能成功潜入到黑地，但根据现状来看，我还是支持您的撤退决定。"
+
+[CEN_Blacksite_FailureSquadWipe AkEvent]
+SpokenText="指挥官，到此为止了...我们失去了这支队伍。"
+
+[CEN_Blacksite_Intro AkEvent]
+SpokenText="我们确认黑地就在你们附近。潜入并调查这个区域。估计会遇到顽强抵抗，消灭掉一切遭遇到的敌人。"
+
+[CEN_Blacksite_Mission_STObjAcquired AkEvent]
+SpokenText="我们确认已拿到样本，前往撤离点的汇合处。"
+
+[CEN_Blacksite_Mission_STObjDropped AkEvent]
+SpokenText="我们失去对样本的控制，不计成本夺回它--我们必须要知道外星人在这里做什么。"
+
+[CEN_Blacksite_SecureRetreat AkEvent]
+SpokenText="指挥官，东西已经到手。敌人的反击只会越来越猛烈。我们必须马上撤离。"
+
+[CEN_Blacksite_STObjDropped AkEvent]
+SpokenText="我们失去了对容器的掌控权。赶紧抢回来。我们绝不能让外星人占得上风。"
+
+[CEN_Blacksite_STObjReacquired AkEvent]
+SpokenText="我们已重新获得了容器。"
+
+[CEN_Blacksite_STObjSpotted AkEvent]
+SpokenText="状态已确认。已发现设施。"
+
+[CEN_Blacksite_STObjTwoSpotted AkEvent]
+SpokenText="博士说得对，回收容器。"
+
+[CEN_Blacksite_STWin AkEvent]
+SpokenText="任务完成，指挥官。我们狠狠地打击了变种人的痛点。那是个任何人类都不想见到的地方。很高兴看到它消失了，不过我知道外星人一定不会善罢甘休的。"
+
+[CEN_Blacksite_STWin_HL AkEvent]
+SpokenText="状态已确认。指挥官，我们潜入了设施并获取到了一个他们研制中的不明样本，但这次行动中我们损失了许多优秀士兵。"
+
+[CEN_Broadcast_ArrayHacked AkEvent]
+SpokenText="状态已确认，我们已经控制了网络塔，正在向外发出信号。"
+
+[CEN_Broadcast_ArrayHackedB AkEvent]
+SpokenText="脉冲击中了变种人的中继器。该是时候结果它了。"
+
+[CEN_Broadcast_FailureSquadWipe AkEvent]
+SpokenText="指挥官，我们部队都阵亡了...整个小队都完了。"
+
+[CEN_Broadcast_Intro AkEvent]
+SpokenText="潜入到网络塔中。定位接入点后再侵入获取广播信号。"
+
+[CEN_Broadcast_ObjSpotted AkEvent]
+SpokenText="威胁者1-5，接近目标。快去侵入控制台。"
+
+[CEN_DObj_FailureAbort_01 AkEvent]
+SpokenText="终止行动已确认，指挥官。从长远看，丢失了任务区以及中继器也许是重大损失，但就目前来说，士兵的生命才是最重要的。"
+
+[CEN_DObj_FailureAbort_02 AkEvent]
+SpokenText="明白。指挥官，放弃任务区和外星人中继器也许会让我们付出代价，但以目前的状况来看，我认同你放弃的决定。"
+
+[CEN_DObj_FailureAbortHL_01 AkEvent]
+SpokenText="明白。指挥官，我们无法摧毁中继器或是阻止外星人从他们网络上传，但至少我们有足够的存活士兵，下次一定会让他们好看。"
+
+[CEN_DObj_FailureAbortHL_02 AkEvent]
+SpokenText="终止行动已确认，指挥官。我不会反对的，指挥官--失去中继器和任务区也许会有些遗憾，但我们手下的生命最重要。"
+
+[CEN_DObj_FailureSquadWipe_01 AkEvent]
+SpokenText="指挥官，任务失败了--我们丢失了中继器和任务区，但更重要的是，一些我们优秀的士兵也在战斗中身亡了。我们不能再让这种事发生了。"
+
+[CEN_DObj_FailureSquadWipe_02 AkEvent]
+SpokenText="确认。指挥官，我们没能摧毁中继器并阻止外星人上传到他们的网络中，但至少我们拯救了足够多的士兵以进行下一次反击。"
+
+[CEN_DObj_Intro AkEvent]
+SpokenText="威胁者1-5，通信中继器就在前方。摧毁目标。"
+
+[CEN_DObj_ProceedToSweep AkEvent]
+SpokenText="我们失去了关闭中继器的机会，但我们仍然能够肃清周围区域。清扫任务区并消灭所有剩下的敌人。"
+
+[CEN_DObj_STObjDestroyed AkEvent]
+SpokenText="威胁者1-5，中继器已经毁坏，但依旧有通过变种人运输工具而来的敌军增援。消灭所有剩余敌人和增援部队。"
+
+[CEN_DObj_STObjSpotted AkEvent]
+SpokenText="指挥官，我们已经确定了外星人中继器的位置。"
+
+[CEN_DObj_STWin_01 AkEvent]
+SpokenText="明白，干得漂亮，指挥官--我们已经拿下了周围区域的控制权并在重要情报传输前干扰了外星人信号。希望未来的行动都能如此成功。"
+
+[CEN_DObj_STWin_02 AkEvent]
+SpokenText="情况已确认。我们已经控制了该区域并获取了重要资源。干得漂亮。"
+
+[CEN_DObj_STWin_HL_01 AkEvent]
+SpokenText="收到。指挥官，我们已经控制了周边区域并在任何重要情报发送前干扰了外星人信号传输。不幸的是我们损失了一些重要士兵，我们永远不会忘记他们的牺牲。"
+
+[CEN_DObj_STWin_HL_02 AkEvent]
+SpokenText="收到。我们成功控制了区域，并在变种人完成传输之前摧毁了中继器，然而我们也付出了惨重的代价。"
+
+[CEN_DObj_SWin AkEvent]
+SpokenText="情况已确认。指挥官，我们失去了任务区，但我们仍旧毁坏了中继器并干扰了外星人的信号传输。"
+
+[CEN_DObj_SWin_HL AkEvent]
+SpokenText="指挥官，我们已经摧毁了外星中继器，不过在过程中失去了任务区并有大量伤亡。"
+
+[CEN_DObj_TimerBurnout AkEvent]
+SpokenText="指挥官，太晚了，外星人已经完成了传输并中断了连接。我们失去了机会。"
+
+[CEN_DObj_TimerNagLast AkEvent]
+SpokenText="传输信号已经变弱，他们要完成传输了！现在是最后毁掉中继器的机会了。"
+
+[CEN_DObj_TimerNagThree AkEvent]
+SpokenText="外星人的信号仍然在传输，时间不多了。快去摧毁中继器！快！"
+
+[CEN_DObj_TimerStarted AkEvent]
+SpokenText="我们从中继器收到了大量信号，他们与变种人网络相连。你必须摧毁中继器阻止他们的信号传输！"
+
+[CEN_DObj_Twin_01 AkEvent]
+SpokenText="状况确认。指挥官，我们控制了区域，但没能阻止外星传输信号传递。我们应当保持警惕。"
+
+[CEN_DObj_Twin_02 AkEvent]
+SpokenText="明白。威胁者1-5，干得好。但不幸的是我们没能阻止外星人将情报上传至网络。我们应当保持警惕。"
+
+[CEN_DObj_TWin_HL_01 AkEvent]
+SpokenText="明白。指挥官，我们成功控制了周边区域，但我们付出了很惨重的代价。我们同样也让外星人完成了传输，希望今后的行动不会受到影响。"
+
+[CEN_DObj_TWin_HL_02 AkEvent]
+SpokenText="明白。指挥官，我们控制了任务区，但我们损失了相当多优秀士兵，我们同样没能阻止外星人将情报传输出去。"
+
+[CEN_ExtrGEN_EndMission AkEvent]
+SpokenText="威胁者1-5，收到，正在与红恶魔汇合并撤离。"
+
+[CEN_ExtrGEN_FailureSquadWipe AkEvent]
+SpokenText="指挥官，突击小队全部阵亡，我们失去了VIP。"
+
+[CEN_ExtrGEN_HeavyLosses AkEvent]
+SpokenText="指挥官，突击小队受到包围，我们可能会失去他们。"
+
+[CEN_ExtrGEN_Intro_01 AkEvent]
+SpokenText="威胁者1-5，准备接受目标坐标，保护VIP并带向撤离点进行撤离。"
+
+[CEN_ExtrGEN_ProceedToSweep AkEvent]
+SpokenText="威胁者1-5，任务中止，请移动至撤离点，并尽可能避免与敌人交战。"
+
+[CEN_ExtrGEN_STObjDestroyed AkEvent]
+SpokenText="状态确认，目标已消灭。"
+
+[CEN_ExtrGEN_STWin AkEvent]
+SpokenText="指挥官，此次突袭成功解救出了VIP，同时摧毁了在此区域内的敌方势力。外星人会记住这次教训的！"
+
+[CEN_ExtrGEN_STWin_HL AkEvent]
+SpokenText="指挥官，突击小队已经成功获取目标并消灭了所有敌军。但是我们同样也付出了代价， 我们有些优秀的士兵阵亡了。"
+
+[CEN_ExtrGEN_SWin AkEvent]
+SpokenText="指挥官，我们成功解救出了VIP，但是我们不得不放弃任务区，但愿变种人不会报复那里的人民。"
+
+[CEN_ExtrGEN_SWin_HL AkEvent]
+SpokenText="指挥官，我们必须放弃任务区的控制权，但是我们成功解救出了VIP。我们今天损失惨重，确保这一切都没有白费。"
+
+[CEN_ExtrGEN_TWin AkEvent]
+SpokenText="指挥官，我们失去了目标，但是突击小队成功地歼灭了敌方势力并控制任务区。"
+
+[CEN_ExtrGEN_TWin_HL AkEvent]
+SpokenText="指挥官，我们丢失了目标，同时突击小队也损失一些人员。幸运的是，我们占领了此区域并且撤离了我们的剩余部队。"
+
+[CEN_ExtrGEN_VIPsecure AkEvent]
+SpokenText="确认VIP已安全。"
+
+[CEN_FlightDevice_IfReinforcements AkEvent]
+SpokenText="看来不跟变种人打一架是别想拿回那东西了。敌军增援接近中..."
+
+[CEN_FlightDevice_Intro AkEvent]
+SpokenText="指挥官，我们正在尽力修理这个装置，但看起来受损比较严重，能量读数看上去非常疯狂，我猜这东西离爆炸没多少时间了。"
+
+[CEN_FlightDevice_Intro_alta AkEvent]
+SpokenText="指挥官，我们正在尽力修理这个装置，但看起来受损比较严重，能量读数看上去非常疯狂，我猜这东西离爆炸没多少时间了。"
+
+[CEN_FlightDevice_TimerNagLast AkEvent]
+SpokenText="指挥官，转换器已到极限，即将爆炸！"
+
+[CEN_FlightDevice_TimerNagThree AkEvent]
+SpokenText="指挥官，请抓紧时间，如果不能尽快稳定那个转换器我猜大家今天就要灭在这里了..."
+
+[CEN_FlightDevice_TimerStarted AkEvent]
+SpokenText="沈博士正在努力稳定那东西好让我们接近核心，我建议在情况有突破之前按兵不动。"
+
+[CEN_FlightDeviceRevealMatinee AkEvent]
+SpokenText="我们同该区域的反抗军失去了联系...这表示，为了给我们争取这次机会他们牺牲了所有...我们要不惜一切代价回收转换器。"
+
+[CEN_Forge_AdviseRetreat AkEvent]
+SpokenText="指挥官！突击小队正受到猛烈攻击，而且我们还没能达成目标。我们或许应该考虑放弃本次行动，等待下一次机会。"
+
+[CEN_Forge_Intro AkEvent]
+SpokenText="这里是复仇者号。已接近设施，前往进行调查。"
+
+[CEN_Forge_MissionFailure AkEvent]
+SpokenText="不幸的是我们失去了研究这个设施的机会，指挥官。我只希望我们还能有一次机会。"
+
+[CEN_Forge_MissionSquadWipe AkEvent]
+SpokenText="指挥官，我们失去了一个中队，这是我们行动的一个重大挫折。如果还有一次机会的话我们必须要更好地做准备。"
+
+[CEN_Forge_PrototypeReacquired AkEvent]
+SpokenText="确认得到样本，移动到会合处进行撤离。"
+
+[CEN_Forge_SecureRetreat AkEvent]
+SpokenText="指挥官，东西已经入手。看来敌军援兵马上会到，我们必须带我们的人马上撤离。"
+
+[CEN_Forge_STObjAcquired AkEvent]
+SpokenText="已取得目标。马上撤离。"
+
+[CEN_Forge_STObjDropped AkEvent]
+SpokenText="我们丢失了变种人样本的掌控权。马上夺回来，我们不允许他们控制局面！"
+
+[CEN_Forge_STObjSpotted AkEvent]
+SpokenText="这里是复仇者号。已接近目标。"
+
+[CEN_Forge_TacOutro AkEvent]
+SpokenText="我们得到了要的东西，让我们离开这里吧。"
+
+[CEN_Fortress_AvatarKill_01 AkEvent]
+SpokenText="又少了一个化身和一长老。继续加油。"
+
+[CEN_Fortress_AvatarKill_02 AkEvent]
+SpokenText="他们没有看上去那么强。你能行。"
+
+[CEN_Fortress_AvatarKill_03 AkEvent]
+SpokenText="干掉最后一波敌人了，干得漂亮，指挥官。"
+
+[CEN_Fortress_DarkAvatarDied AkEvent]
+SpokenText="我们为了这个结果已经做了太多努力了。"
+
+[CEN_Gen_AdviseRetreat_01 AkEvent]
+SpokenText="指挥官，我们完成了最主要的目标--如果我们没能控制任务区的话，我们会损失很多资源。但我们也付出了很重的代价。我们应该考虑放弃该区域，撤回小队。"
+
+[CEN_Gen_AdviseRetreat_02 AkEvent]
+SpokenText="指挥官，我们完成了任务目标。如果我们没能控制任务区的话，我们会损失很多资源，但我们的伤亡也很严重，我建议你考虑放弃区域并撤回小队。"
+
+[CEN_Gen_AdviseRetreat_03 AkEvent]
+SpokenText="指挥官，我们完成了最主要的目标。如果我们没能控制任务区的话，我们会损失很多资源，但我们的伤亡也很严重，我建议你考虑放弃任务区并撤回小队。"
+
+[CEN_Gen_AreaSecured_01 AkEvent]
+SpokenText="状态确认，该区域已安全。"
+
+[CEN_Gen_AreaSecured_02 AkEvent]
+SpokenText="得到确认--该区域已安全。"
+
+[CEN_Gen_AreaSecured_03 AkEvent]
+SpokenText="我是复仇者号。状态已确认，区域安全。"
+
+[CEN_Gen_AreaSecured_04 AkEvent]
+SpokenText="状态确认，区域已确认安全。"
+
+[CEN_Gen_BurnoutSecured_01 AkEvent]
+SpokenText="状态确认，所有敌人已被消灭，区域已安全。"
+
+[CEN_Gen_BurnoutSecured_02 AkEvent]
+SpokenText="状态确认，所有敌人已被消灭，区域已安全。"
+
+[CEN_Gen_BurnoutSecured_03 AkEvent]
+SpokenText="明白，已消灭任务区内所有敌人，区域已肃清。"
+
+[CEN_Gen_ConsiderRetreat_01 AkEvent]
+SpokenText="指挥官，我们不能承受如此大的损失，任务目标不值得我们牺牲士兵的生命。我建议在一切不是太晚之前放弃任务。"
+
+[CEN_Gen_ConsiderRetreat_02 AkEvent]
+SpokenText="指挥官，我们损伤惨重，我建议马上撤退，目标不值得牺牲我们的精锐士兵。"
+
+[CEN_Gen_ConsiderRetreat_03 AkEvent]
+SpokenText="指挥官，我们在这次行动中损失惨重，我建议我们马上撤，否则我们将失去最好的部队。"
+
+[CEN_Gen_ConsiderRetreat_04 AkEvent]
+SpokenText="指挥官，我们行动遭到严重打击，我建议我们马上撤离，目标不值得我们牺牲这么多人。"
+
+[CEN_Gen_SecureRetreat_01 AkEvent]
+SpokenText="指挥官，我们的任务区和部队正遭受打击。我强烈建议我们把士兵撤出那里。"
+
+[CEN_Gen_SecureRetreat_02 AkEvent]
+SpokenText="指挥官，我们正在失去对任务区的控制。突击小队损失惨重，我们应该考虑撤离并重新集合。"
+
+[CEN_Gen_SecureRetreat_03 AkEvent]
+SpokenText="指挥官，我们的任务区正在迅速沦陷。 我强烈建议我们把士兵撤出那里并重新集合。"
+
+[CEN_Hack_FailureAbort AkEvent]
+SpokenText="状态已确认，虽然我们没法控制住任务区而且没能拿到数据。但是指挥官，我相信您决定在事态严重之前撤军是对的。"
+
+[CEN_Hack_FailureAbortHL AkEvent]
+SpokenText="收到，不幸的是，我们不得不把它当做一次挫败。指挥官，我们今天不仅没完成任务，而且还牺牲了很多优秀的士兵。这样的机会不多，我们下次必须要好好表现。"
+
+[CEN_Hack_FailureSquadWipe AkEvent]
+SpokenText="指挥官，我们没能拿到目标文件，也没能控制住任务区域，而且突击小队也被全歼了。我们承受不了这么大的损失。"
+
+[CEN_Hack_Intro AkEvent]
+SpokenText="威胁者1-5，这里是复仇者号，接入点就在前方，前往肃清此区域，可能会遇到敌人抵抗。"
+
+[CEN_Hack_StratObjBurnedOut AkEvent]
+SpokenText="我们失去了从变种人网络中获取数据的机会，但是我们可以消灭所有外星人，威胁者1-5，清扫任务区，消灭所有残余目标。"
+
+[CEN_Hack_STWin AkEvent]
+SpokenText="收到，威胁者1-5，我们已确认找到变种人数据文件，并且我方控制了任务区。干得漂亮。"
+
+[CEN_Hack_STWin_HL AkEvent]
+SpokenText="收到，威胁者1-5，我们找到了变种人数据文件，但我们付出了沉痛代价，下次得做得更好。"
+
+[CEN_Hack_SWin AkEvent]
+SpokenText="状态确认，威胁者1-5，虽然我们没有控制住此区域，但是我们成功地截取到变种人数据。"
+
+[CEN_Hack_SWin_HL AkEvent]
+SpokenText="收到，我们为了能获取变种人的数据付出了巨大代价。指挥官，我们应该重新审视我们的战术，以便以后能有更好的表现。"
+
+[CEN_Hack_TerminalDestroyed_EnemyRemain AkEvent]
+SpokenText="指挥官，我们要找的接入点已被摧毁，这次我们没法入侵他们的网络，但我们还是应该消灭剩余敌军并控制此区域。"
+
+[CEN_Hack_TerminalDestroyed_MissionOver AkEvent]
+SpokenText="指挥官，暴露的接入点已被摧毁，我们与外星人的数据失之交臂。"
+
+[CEN_Hack_TerminalHacked AkEvent]
+SpokenText="威胁者1-5，已确认截获变种人数据。注意：敌方正在接近你的位置。消灭附近敌方势力和增援！"
+
+[CEN_Hack_TerminalSpotted AkEvent]
+SpokenText="指挥官，我们已确认发现接入点。"
+
+[CEN_Hack_TimerBurnout AkEvent]
+SpokenText="发射器收到变种人的信号消失了。敌人已经封锁终端机。"
+
+[CEN_Hack_TimerNagLast AkEvent]
+SpokenText="威胁者1-5，变种人网络终端正在关闭。这已经是你获取数据的最后机会。"
+
+[CEN_Hack_TimerNagThree AkEvent]
+SpokenText="威胁者1-5，变种人网络即将完全封锁，我们没时间了，快去终端机那里！"
+
+[CEN_Hack_TimerStarted AkEvent]
+SpokenText="威胁者1-5，变种人开始封锁此区域的网络接入点，你必须要快，否则我们将失去机会。"
+
+[CEN_Hack_TWin AkEvent]
+SpokenText="确认，威胁者1-5， 很遗憾，我们没得到变种人数据，但是，我们肃清了此区域。"
+
+[CEN_Hack_TWin_HL AkEvent]
+SpokenText="收到，威胁者1-5。虽然我们控制了此区域，但是我们没能获取要找的变种人数据。 在这次行动中，我们有些优秀的士兵阵亡了。 我们需要重新审视我们的策略。指挥官，请确保不会有下次了。"
+
+[CEN_Intro AkEvent]
+SpokenText="你们都清楚我们在这里的目的，什么是最重要的。听从指挥官的指令，消灭掉化身，并永远地终结这场战争。"
+
+[CEN_Neut_AdviseRetreat AkEvent]
+SpokenText="指挥官，我们损失惨重，虽然我们成功获取了目标，但是突击小队仍然很危险。我建议事态恶化前让他们撤离。"
+
+[CEN_Neut_FailureAbort AkEvent]
+SpokenText="状态确认，我支持你放弃此次行动的决定，指挥官。虽然失去目标是一种挫败，但是我们士兵的性命更重要。"
+
+[CEN_Neut_FailureAbortHL AkEvent]
+SpokenText="收到，我们今天损失惨重， 指挥官，但我很欣慰您能在事态恶化之前，发令撤军。 我们以后必须要做好充分的准备。"
+
+[CEN_Neut_FailureSquadWipe AkEvent]
+SpokenText="指挥官， 我们失去了一个中队， 敌方军队以迅雷不及掩耳之势成功地掳走了目标VIP。 我们必须重新审视我们的策略。"
+
+[CEN_Neut_Intro AkEvent]
+SpokenText="威胁者1-5，目标位置确认，准备交火，消灭所有敌人。"
+
+[CEN_Neut_ProceedToSweep AkEvent]
+SpokenText="收到，封锁区域并消灭残余敌军。"
+
+[CEN_Neut_RecoverTarget AkEvent]
+SpokenText="威胁者1-5，请护送目标至汇合点。"
+
+[CEN_Neut_SecureRetreat AkEvent]
+SpokenText="指挥官，我们没能守住这一区域，突击小队正在被压制，我们需要快速获取目标并让我们的人撤离那里。"
+
+[CEN_Neut_SFailProceedToSweep AkEvent]
+SpokenText="我们虽然失去了目标，但是我们还是造成了一定影响。消灭一切敌军和任何反抗势力，控制此区域等待救援。"
+
+[CEN_Neut_STWin AkEvent]
+SpokenText="收到，我们已经成功得到目标同时消灭了在任务区内的敌人， 干的漂亮。"
+
+[CEN_Neut_STWin_HL AkEvent]
+SpokenText="收到， 指挥官，我们成功地控制了任务区并解救了VIP 。但是我们也付出了巨大的代价。"
+
+[CEN_Neut_SWin AkEvent]
+SpokenText="状态确认， 指挥官，我们失去了对任务区的控制， 但是我们成功地获取了目标VIP。"
+
+[CEN_Neut_SWin_HL AkEvent]
+SpokenText="收到，指挥官， 虽然我们成功地救出了目标VIP，但是我们失去了对任务区的控制， 同时此次伤亡惨重，我们失去了不少优秀士兵。"
+
+[CEN_Neut_TargetEscaped AkEvent]
+SpokenText="目标已被敌方获取。我们没机会了。"
+
+[CEN_Neut_TargetInCustody AkEvent]
+SpokenText="状态确认，目标已控制。"
+
+[CEN_Neut_TargetKilled AkEvent]
+SpokenText="状态确认，目标已消灭。"
+
+[CEN_Neut_TargetLost AkEvent]
+SpokenText="状态确认，目标已丢失。"
+
+[CEN_Neut_TargetSpotted AkEvent]
+SpokenText="目标身份已确认。"
+
+[CEN_Neut_TWin AkEvent]
+SpokenText="状态确认，指挥官，我们已经控制此区域， 但是不幸的是， 敌人成功撤走了目标VIP。"
+
+[CEN_Neut_TWin_HL AkEvent]
+SpokenText="收到，指挥官，我们今天损伤巨大，而且敌人成功地撤走了VIP，但是我们还是设法为反抗军控制了这一区域。"
+
+[CEN_PsiGate_AdviseRetreat AkEvent]
+SpokenText="指挥官，情况不妙，我们死伤惨重。您可能要考虑放弃本次行动；我们能等待下一次的机会，但我们的军队却只有一条命。"
+
+[CEN_PsiGate_AllEnemiesDefeated AkEvent]
+SpokenText="状态确认，任务区所有敌军都已清除。通道已经安全。"
+
+[CEN_PsiGate_AreaSecured AkEvent]
+SpokenText="状态确认。已获取目标，我们占领了通道。"
+
+[CEN_PsiGate_FailureAbort AkEvent]
+SpokenText="了解。没有人会质疑您放弃了此次行动，指挥官，但我不知道什么时候我们能再有机会夺取他们的通道。"
+
+[CEN_PsiGate_FailureAbortHL AkEvent]
+SpokenText="状态确认。指挥官，我们不但没能拿下通道，而且死伤惨重。假如下一次还有这样机会的话，我们要做好更充分的准备。"
+
+[CEN_PsiGate_FailureSquadWipe AkEvent]
+SpokenText="黑色状态确认。指挥官，没能拿下那个外星人通道，而且小队全军覆没。"
+
+[CEN_PsiGate_Intro AkEvent]
+SpokenText="目标坐标就位于前方。去调查一下该地区。敌军类型暂时未知，但估计会是很难对付的。"
+
+[CEN_PsiGate_MissionFailure AkEvent]
+SpokenText="指挥官，我们失去了一个宝贵的机会。我们下次追踪原典时一定要做好准备。"
+
+[CEN_PsiGate_STObjSpotted AkEvent]
+SpokenText="这里是复仇者号。已接近目标。"
+
+[CEN_PsiGate_STWin AkEvent]
+SpokenText="状态确认。指挥官，我们已占领了灵能门，回收部队正赶往现场。现在就让泰根和沈来查明它的作用吧。"
+
+[CEN_PsiGate_STWin_HL AkEvent]
+SpokenText="状态确认。指挥官，外星人灵能通道已拿下，但在此次行动中损失了不少优秀士兵。"
+
+[CEN_Reco_FailureAbort AkEvent]
+SpokenText="指挥官，我们无法控制任务区以及目标。但是我支持你的决定，在事态恶化之前把军队撤出。"
+
+[CEN_Reco_FailureAbortHL AkEvent]
+SpokenText="已收到，事情变得很糟糕，指挥官，放弃此次行动会是个明智的决定。至少我们可以救些人出来。"
+
+[CEN_Reco_FailureSquadWipe AkEvent]
+SpokenText="指挥官，如果我们想赢这场战争，就得做得更好，我们不仅没能完成任务，还牺牲了太多士兵。"
+
+[CEN_Reco_ProceedToSweep AkEvent]
+SpokenText="收到，威胁者1-5，控制任务区域并消灭剩余敌人。"
+
+[CEN_Reco_STObjAcquired AkEvent]
+SpokenText="威胁者1-5，我们发现一架变种人运输机正在接近。消灭所有附近的敌方力量和增援，红恶魔已准备好随时护送目标。"
+
+[CEN_Reco_STObjDestroyed_EnemyRemain AkEvent]
+SpokenText="指挥官，目标已被摧毁。威胁者1-5，向任务区移动并消灭残余敌党。"
+
+[CEN_Reco_STObjDestroyed_MissionOver AkEvent]
+SpokenText="指挥官，目标已被摧毁。"
+
+[CEN_Reco_STObjReacquired AkEvent]
+SpokenText="威胁者1-5，确认收到目标。"
+
+[CEN_Reco_STWin AkEvent]
+SpokenText="状态已确认。目标已确认安全，周围区域已封锁。干得漂亮。"
+
+[CEN_Reco_STWin_HL AkEvent]
+SpokenText="已收到，指挥官，我们已确认区域和目标的安全，但是我们在行动中遭受严重损失。希望这次行动是值得的。"
+
+[CEN_Reco_SWin AkEvent]
+SpokenText="状态确认，我们可能失去对任务区的控制，但是我们成功获得了目标。"
+
+[CEN_Reco_SWin_HL AkEvent]
+SpokenText="已收到，威胁者1-5，我们已回收目标，但是我们付出了的巨大的代价。我们不能每次都承受如此高的代价，指挥官。"
+
+[CEN_Reco_TimerNagLast AkEvent]
+SpokenText="威胁者1-5，我们快没时间了！炸弹要爆炸了。"
+
+[CEN_Reco_TimerNagThree AkEvent]
+SpokenText="威胁者1-5，快没时间了，炸弹可不等人，在它爆炸之前，我们必须赶到数据库并将它拆除。"
+
+[CEN_Reco_TimerStarted AkEvent]
+SpokenText="威胁者1-5，变种人在数据库安装了自毁装置，你必须先拆除它，这样才能在爆炸之前提取到数据。"
+
+[CEN_Reco_TWin AkEvent]
+SpokenText="状态已确认，我们已控制周围区域，但是我们失去了目标，希望下次能成功。"
+
+[CEN_Reco_TWin_HL AkEvent]
+SpokenText="状态确认，指挥官，威胁者1-5已占领任务区，不幸的是，我们的精英部队在行动中和目标一起牺牲了。"
+
+[CEN_RecoGEN_Intro AkEvent]
+SpokenText="威胁者1-5，已发现变种人数据库，将前往截获，并消灭所有敌人。"
+
+[CEN_RecoTRN_Intro AkEvent]
+SpokenText="威胁者1-5，已发现变种人数据库，将前往截获，并消灭所有敌人。"
+
+[CEN_RecoVEH_Intro AkEvent]
+SpokenText="威胁者1-5，已发现变种人数据库，将前往截获，并消灭所有敌人。"
+
+[CEN_Recover_AllEnemiesDefeatedContinue AkEvent]
+SpokenText="威胁者1-5，我们在你们位置附近没有看到其他敌军，此处已安全。在炸药引爆前保护目标。"
+
+[CEN_Recover_ObjAcquiredNoRNF AkEvent]
+SpokenText="威胁者1-5，状态确认，炸弹已经解除，目标已经安全。清除任务区附近所有残余敌人。"
+
+[CEN_Recover_ObjAcquiredWithRNF AkEvent]
+SpokenText="威胁者1-5，收到，目标已安全。请注意，增援部队正在靠近。清除所有威胁到任务区的敌人。"
+
+[CEN_Recover_STObjDestroyedEnemyRemain_02 AkEvent]
+SpokenText="威胁者1-5，目标已经被摧毁，我们无法从此处获得任何东西。封锁任务区并消灭所有剩余的敌人。"
+
+[CEN_Recover_STObjDropped_02 AkEvent]
+SpokenText="威胁者1-5，我们失去对目标的控制。不计一切代价将它夺回，我们不能把它给外星人。"
+
+[CEN_Recover_TacIntro AkEvent]
+SpokenText="威胁者1-5，变种人数据库就在你附近。请注意，目标装有自毁装置。前往以解除炸药并在内容被毁之前获取目标。"
+
+[CEN_RecoverGEN_STObjDropped AkEvent]
+SpokenText="威胁者1-5，我们失去了对目标的控制。必须重新夺回，我们不能让敌人占得上风。"
+
+[CEN_RecoverGEN_STObjSpotted AkEvent]
+SpokenText="威胁者1-5，这里是复仇者号，已确认目标位置，请前往获取。"
+
+[CEN_RescGEN_EndMission AkEvent]
+SpokenText="威胁者1-5，我们已收到。你最好低调行事不要与敌军正面交锋。 一旦我们有机会，反抗军将会帮助你离开。"
+
+[CEN_RescGEN_FailureSquadWipe AkEvent]
+SpokenText="指挥官，突击小队已被全歼。我们失去了小队，而且我们丢失了目标。今天对于反抗军是不幸的一天。"
+
+[CEN_RescGEN_HeavyLosses AkEvent]
+SpokenText="指挥官， 突击小队正在被压制。 敌方空中防护太密集，红恶魔无法靠近撤离点--我们必须占领任务区。"
+
+[CEN_RescGEN_ProceedToSweep AkEvent]
+SpokenText="威胁者1-5，红恶魔无法靠近任务区进行撤离。你得单独行动，重组上阵，然后消灭敌人，尽量为撤离拖延点时间。"
+
+[CEN_RescGEN_RNFGroupTwo AkEvent]
+SpokenText="威胁者1-5，请注意--我们发现另一架变种人运输工具正在向你靠近。请提高警惕。"
+
+[CEN_RescGEN_STObjAcquired AkEvent]
+SpokenText="威胁者1-5，状态已确认，请注意，变种人运输工具正在靠近， 红恶魔无法靠近任务区，请控制该区域并消灭敌军。"
+
+[CEN_RescGEN_STObjDestroyed AkEvent]
+SpokenText="威胁者1-5，状态已确认，回收目标失败。"
+
+[CEN_RescGEN_STWin AkEvent]
+SpokenText="指挥官，突击小队已获得目标，任务完成。"
+
+[CEN_RescGEN_STWin_HL AkEvent]
+SpokenText="指挥官，突击小队成功获得目标，但牺牲了一些优秀的士兵。"
+
+[CEN_RescGEN_SWin AkEvent]
+SpokenText="指挥官，突击小队控制住了目标，但是我们没能控制住任务区。"
+
+[CEN_RescGEN_SWin_HL AkEvent]
+SpokenText="指挥官，威胁者成功解救了VIP，但是我们没能控制住此区域，同时我们也在行动中损失了一些精英部队。"
+
+[CEN_RescGEN_TWin AkEvent]
+SpokenText="指挥官，我们失去目标，但是突击小队找到一个安全撤离的机会。"
+
+[CEN_RescGEN_TWin_HL AkEvent]
+SpokenText="指挥官，我们失去了VIP，突击小队遭受损失，但我们还是成功消灭了此区域内的敌方力量，最后成功撤离。"
+
+[CEN_RescVEH_Intro AkEvent]
+SpokenText="威胁者1-5，我们已经确认VIP的地点了。前往营救，并清除所有敌军。"
+
+[CEN_SaboCC_HeavyLossesIncurred AkEvent]
+SpokenText="指挥官，我们损失惨重，我们必须改变策略。"
+
+[CEN_SaboCC_TacIntro AkEvent]
+SpokenText="威胁者1-5，我们已锁定目标，移动到指定位置并安置X4炸药。"
+
+[CEN_Sabotage_AllEnemiesDefeatedContinue AkEvent]
+SpokenText="威胁者1-5，任务区附近没有其他敌军了。继续安置X4炸药并移动到撤离点。"
+
+[CEN_Sabotage_AllEnemiesDefeatedObjComplete AkEvent]
+SpokenText="威胁者1-5，你们附近所有敌军都已经清除了。移至汇合处以撤退。"
+
+[CEN_Sabotage_BombDetonated AkEvent]
+SpokenText="威胁者1-5，状态确认。正在引爆X4炸药。"
+
+[CEN_Sabotage_BombDetonated_01 AkEvent]
+SpokenText="威胁者1-5，确认炸弹引爆。目标已被摧毁。"
+
+[CEN_Sabotage_BombDetonated_02 AkEvent]
+SpokenText="状态确认，小队确认安全。引爆炸弹。"
+
+[CEN_Sabotage_BombPlanted AkEvent]
+SpokenText="威胁者1-5，X4炸药已安置完毕，在引爆之前先清理现场。"
+
+[CEN_Sabotage_BombPlantedNoRNF AkEvent]
+SpokenText="威胁者1-5，状态确认，X4炸药安置完毕。立刻前往撤离点进行撤离。"
+
+[CEN_Sabotage_BombSmartPlanted AkEvent]
+SpokenText="威胁者1-5，X4炸药已安置完毕，控制该区域然后引爆。"
+
+[CEN_Sabotage_BombSpotted_01 AkEvent]
+SpokenText="威胁者1-5，你们正在接近目标。"
+
+[CEN_Sabotage_BombSpotted_02 AkEvent]
+SpokenText="威胁者1-5，你们正在接近目标。"
+
+[CEN_Sabotage_CompletionNag AkEvent]
+SpokenText="威胁者1-5，X4炸药已经准备好了。去撤离点，我们没有时间了。"
+
+[CEN_Sabotage_ConsiderRetreat AkEvent]
+SpokenText="指挥官，威胁者1-5伤亡严重，如果我们完成不了任务的话，我们应该考虑叫队伍撤退。"
+
+[CEN_Sabotage_FailureAbort AkEvent]
+SpokenText="状态确认，指挥官，我认为您做出了正确的决定。相信在将来我们还会有机会的。"
+
+[CEN_Sabotage_FailureAbortHL AkEvent]
+SpokenText="收到，我们已经尽力去拯救幸存下来小分队了，指挥官，非常感谢你做了这样一个困难决定，把他们撤了出来。"
+
+[CEN_Sabotage_FailureSquadWipe AkEvent]
+SpokenText="指挥官，威胁者1-5已全军覆没，我们失去了整个小队，目标还在外星人放置的地方。我们所有人以后必须要做得更好。"
+
+[CEN_Sabotage_Intro AkEvent]
+SpokenText="威胁者1-5，目标坐标已锁定。到达指定位置并安置X4炸药。"
+
+[CEN_Sabotage_RNFIncoming AkEvent]
+SpokenText="威胁者1-5，注意，我们侦测到敌方增援部队靠近你们的位置。"
+
+[CEN_Sabotage_SecureRetreat AkEvent]
+SpokenText="指挥官，威胁者1-5损伤严重。X4炸药已经准备好，我们要在情况失控前叫队伍撤离。"
+
+[CEN_Sabotage_SignalJammed AkEvent]
+SpokenText="指挥官，变种人正在拦截X4炸药应答信号，我们无法引爆炸药。我们已经失去机会了。"
+
+[CEN_Sabotage_STWin AkEvent]
+SpokenText="收到。目标已被摧毁，附近区域已被控制。"
+
+[CEN_Sabotage_STWin_HL AkEvent]
+SpokenText="状态确认，我们已摧毁外星人设施。但是指挥官，我们今天也付出了沉重的代价。"
+
+[CEN_Sabotage_SWin AkEvent]
+SpokenText="收到，设施已被摧毁，指挥官，但是我们没能为反抗军控制周围区域。"
+
+[CEN_Sabotage_SWin_HL AkEvent]
+SpokenText="收到，我们已摧毁设施，但是他们抵御住了我们的进攻，最后守住了基地。 我们在行动中也牺牲了很多士兵。"
+
+[CEN_SabotageCC_AreaSecured AkEvent]
+SpokenText="区域已安全-我们的扫描器没有搜索到敌方信息。"
+
+[CEN_SabotageCC_BombPlanted AkEvent]
+SpokenText="威胁者1-5，X4炸药模块已激活，准备消灭残余敌军。"
+
+[CEN_SabotageCC_SiteClearBombNotPlaced AkEvent]
+SpokenText="威胁者1-5，在目标区域安置X4炸药，随后到撤离点汇合。"
+
+[CEN_SabotageCC_SiteClearBombPlaced AkEvent]
+SpokenText="威胁者1-5，请到撤离点汇合。"
+
+[CEN_SecureUFO_DistressDeactivated AkEvent]
+SpokenText="求救信号已关闭，没有探测到任何敌军信号。准备清扫任务区并且消灭残余敌军。"
+
+[CEN_SecureUFO_DistressInitiated AkEvent]
+SpokenText="威胁者1-5，我们收到了幽浮发出的信息，看起来好像是求救信标。 趁他们还没有召来舰队追击我们之前，你必须侵入这艘船并且关闭信号。"
+
+[CEN_SecureUFO_DistressLocated AkEvent]
+SpokenText="威胁者1-5，那是个求救信标。趁外星人收到信号之前快去摧毁它。"
+
+[CEN_SecureUFO_DistressResponse AkEvent]
+SpokenText="威胁者1-5，我们确信--有多架运输机接近--他们看起来是冲着求救信号来的。 消灭所有敌军增援并且控制该区域。"
+
+[CEN_SecureUFO_Failure AkEvent]
+SpokenText="状态确认。指挥官，我们没能控制幽浮，我希望里面不会有太多有用的东西。"
+
+[CEN_SecureUFO_Failure_HeavyLosses AkEvent]
+SpokenText="收到，指挥官，此次行动很糟糕...我们失去了一些优秀的士兵，敌人控制了幽浮，我们必须做得更好，下次才能战胜他们。"
+
+[CEN_SecureUFO_HeavyLosses AkEvent]
+SpokenText="指挥官，我们伤亡惨重。这次的目标很重要，同样，我们士兵的生命也很重要。如果您打算让士兵撤离，我会支持您的决定。"
+
+[CEN_SecureUFO_Intro AkEvent]
+SpokenText="威胁者1-5，已锁定幽浮坐标，准备控制该区域，并消灭所有敌人。"
+
+[CEN_SecureUFO_ReinforcementsEnteredPlay AkEvent]
+SpokenText="威胁者1-5，敌方增援正在接近你的位置。你必须消灭他们并且守住那艘船。"
+
+[CEN_SecureUFO_Success AkEvent]
+SpokenText="根据数量来判断，指挥官，幽浮已得到控制。我们会派遣营救小队去看看我们能找到什么。"
+
+[CEN_SecureUFO_Success_HeavyLosses AkEvent]
+SpokenText="状态确认，残余敌军已被消灭。但是我们牺牲了一些优秀的士兵，希望这是值得的。"
+
+[CEN_Setup_Phase_Flight_Device_Recovered AkEvent]
+SpokenText="干得好。指数开始恢复正常...恩，基本正常。红恶魔已经在路上了，但是我们不能心存侥幸。在撤离前消灭这个区域内的所有敌人。"
+
+[CEN_Setup_Phase_Flight_Device_Recovered__NO_HOSTILES_ALT AkEvent]
+SpokenText="好极了，读数正在恢复正常...恩...基本正常。"
+
+[CEN_SupplyATT_Intro AkEvent]
+SpokenText="威胁者1-5，变种人军队运输工具就在附近，准备交火并消灭敌人。"
+
+[CEN_SupplyCVY_Intro AkEvent]
+SpokenText="威胁者1-5，抛锚的变种人车队就在前面，准备交火并消灭敌人。"
+
+[CEN_SupplyGEN_AllCratesDestroyed AkEvent]
+SpokenText="威胁者1-5，最后一个集装箱已被摧毁。我们最后没能在这里找到可以用的东西。 消灭此区域内遭遇到的敌人。"
+
+[CEN_SupplyGEN_FirstCrateDestroyed AkEvent]
+SpokenText="威胁者1-5，小心这些供给箱！如果你毁了它们的话，那么我们控制此区域以后，就什么都得不到了。"
+
+[CEN_SupplyGEN_ManyCratesDestroyed AkEvent]
+SpokenText="威胁者1-5，我们要找的集装箱半数以上的都被摧毁了，所以你要小心。"
+
+[CEN_SupplyRaid_AllEnemiesDefeated AkEvent]
+SpokenText="威胁者1-5，状态确认，已经清除任务区所有敌人。"
+
+[CEN_SupplyRaid_CrateSpotted AkEvent]
+SpokenText="威胁者1-5，集装箱中有我们需要的东西，战斗时小心不要毁坏它们。"
+
+[CEN_SupplyTRN_Intro AkEvent]
+SpokenText="威胁者1-5，变种人列车坐标已锁定，准备消灭敌军，并夺取列车。"
+
+[CEN_Terr_CivilianKilled_First AkEvent]
+SpokenText="指挥官，有大量平民伤亡！我们必须阻止他们！"
+
+[CEN_Terr_CivilianKilled_Rank2 AkEvent]
+SpokenText="指挥官，外星人见人就杀，我们必须帮助这些人离开那里！"
+
+[CEN_Terr_CivilianKilled_Rank3 AkEvent]
+SpokenText="指挥官，这已经变成一次大屠杀了，营地马上要被外星人夷为平地了！"
+
+[CEN_Terr_CiviliansSavedT1 AkEvent]
+SpokenText="状态确认，我们救出了一个平民联络员。"
+
+[CEN_Terr_CiviliansSavedT2 AkEvent]
+SpokenText="收到，已救出了多位平民联络员。"
+
+[CEN_Terr_CiviliansSavedT3 AkEvent]
+SpokenText="干得漂亮，指挥官，你成功地让平民们逃离了战场。"
+
+[CEN_Terr_CivilianWipe AkEvent]
+SpokenText="指挥官，外星人正在屠杀反抗军， 我们不能让他们得逞。威胁者1-5，我们必须控制住局面，然后消灭这些敌人。"
+
+[CEN_Terr_FailureAbort AkEvent]
+SpokenText="状态确认，敌方领先我们一步，指挥官。我无权指责你让我们的军队撤出战斗，但因为这样，反抗军的前哨站被占领了--我怀疑已经没有幸存者了。"
+
+[CEN_Terr_FailureAbortHL AkEvent]
+SpokenText="收到，我们已经尽力了，指挥官，我支持你此次的决定，放弃任务。 但是我们不能重蹈覆辙了，我们必须重新审视我们的策略。"
+
+[CEN_Terr_FailureSquadWipe AkEvent]
+SpokenText="指挥官，威胁者1-5已阵亡。外星人将清扫营地并杀光所有人。任务失败了。"
+
+[CEN_Terr_STWin AkEvent]
+SpokenText="收到，威胁者1-5，所有敌军已被消灭，前哨站已守住。 干得漂亮。"
+
+[CEN_Terr_STWin_HL AkEvent]
+SpokenText="状态确认，我们抵御住了外星人的进攻。 但是，指挥官，我们在此行动中伤亡巨大。 反抗军将永远铭记那些逝去的生命。"
+
+[CEN_Terr_SWin AkEvent]
+SpokenText="状态确认，指挥官，我们成功撤离了大部分的营地居民，但是我们失去对此区域的控制。"
+
+[CEN_Terr_SWin_HL AkEvent]
+SpokenText="状态确认，指挥官，我们从反抗军前哨站撤离了一部分平民。但是，我们损失也不小，我们失去对该地区的控制，而且因为此次行动我们也失去了不少士兵。"
+
+[CEN_Terr_TWin AkEvent]
+SpokenText="威胁者1-5，状态确认。指挥官，我们击溃了外星人部队，但是他们把怨气发泄到了我们前哨站的同伴身上。 我们不能再让类似事件发生了。"
+
+[CEN_Terr_TWin_HL AkEvent]
+SpokenText="收到，我们成功抵御住了外星人， 指挥官，但是平民伤亡惨重，同时， 在这场战斗中我们失去了很多优秀的战斗力。"
+
+[CEN_Terror_AdviseRetreat AkEvent]
+SpokenText="指挥官，我们从战场上拯救了一些平民，但突击小队正遭受巨大伤亡。我们或许应该考虑在还来得及的时候撤出战场。"
+
+[CEN_Terror_AllEnemiesDefeated AkEvent]
+SpokenText="威胁者1-5，状态确认，我们没有看到其他的敌军，任务区已经安全。"
+
+[CEN_Terror_Intro AkEvent]
+SpokenText="威胁者1-5，敌军正在攻击前哨站，消灭所有敌方单位并保护平民。"
+
+[CENTRAL_Generic_Mission_Accomplished AkEvent]
+SpokenText="任务已完成，指挥官。"
+
+[CENTRAL_Tactical_Tutorial_EVAC_Request_ALT AkEvent]
+SpokenText="军事官呼叫红恶魔。我们需要紧急撤离。快把我们救出去！"
+
+[CENTRAL_Tactical_Tutorial_Jane_Your_Turn_ALT AkEvent]
+SpokenText="威胁者-2，轮到你了。"
+
+[CENTRAL_Tactical_Tutorial_Misison_Two_Melee AkEvent]
+SpokenText="游侠的装备尤其适合近距离作战，时机掌握恰当的话，他们会有非常惊人的表现。"
+
+[CENTRAL_Tactical_Tutorial_Mission_Two_Ambush AkEvent]
+SpokenText="指挥官，我们有机会造成相当严重的破坏。加入战局之前，我们应该尽可能利用所有优势。"
+
+[DestroyObject_CEN_AllEnemiesDefeatedContinue AkEvent]
+SpokenText="威胁者1-5，任务区附近没有其他的敌军了，你们已经肃清此区域。在外星人完成传输前摧毁中继器。"
+
+[DestroyObject_CEN_ObjectDestroyed AkEvent]
+SpokenText="威胁者1-5，我们已经确定摧毁中继器，外星传输已经瘫痪。清除所有残留敌人并移动至撤离点。"
+
+[Extract_CEN_VIPKilled_Continue AkEvent]
+SpokenText="VIP死亡。和红恶魔到汇合处进行撤离。"
+
+[First_Non_ADVENT_Sighted_CENTRAL AkEvent]
+SpokenText="看来变种人终于露出本相了。我好奇他们之前把这些东西藏哪里了？"
+
+[GenTactical_CEN_MissionExtroFailure AkEvent]
+SpokenText="指挥官，我们任务失败了。我们需要回顾作战技术并在以后提高。"
+
+[GenTactical_CEN_MissionExtroPartialSuccess AkEvent]
+SpokenText="任务指数完成。"
+
+[GenTactical_CEN_MissionExtroTotalSuccess AkEvent]
+SpokenText="状态确认，任务完成。"
+
+[GenTactical_CEN_TacticalWinOnly AkEvent]
+SpokenText="目前行动区域已经安全。"
+
+[Neutralize_CEN_VIPKilledAfterCapture AkEvent]
+SpokenText="威胁者1-5，目标死亡，重复，我们失去目标了。"
+
+[Recover_AllEnemiesDefeatedContinue_FLIGHT AkEvent]
+SpokenText="呼叫威胁者1-5，你附近的敌军已被全部消灭，我们要确保目标安全并尽快组织我军撤离。"
+
+[Rescue_CEN_VIPAcquired AkEvent]
+SpokenText="威胁者1-5，状态确认，已救出VIP。请到撤离点。"
+
+[SecureUFO_CEN_DistressDeactivatedEnd AkEvent]
+SpokenText="我们关闭了外星人的求救信号，天空看起来又安静了。"
+
+[T_Alien_Facility_Advent_Clone_Pods_Central_01 AkEvent]
+SpokenText="每次和外星人扯上关系的，一定都是大实验。"
+
+[T_Alien_Fortress_Residential_Diorama_Central_01 AkEvent]
+SpokenText="在首次侵略后总有报告称有失踪的市民。这可能是他们干的吗？"
+
+[T_Avatar_Mind_Control_Central AkEvent]
+SpokenText="快看！那个东西正在控制我们的士兵！"
+
+[T_Avatar_Teleport_Central AkEvent]
+SpokenText="我的天...？一旦它受到伤害就会跳到一个新的位置！"
+
+[T_Avenger_Defense_EVAC_without_all_soldiers_Central AkEvent]
+SpokenText="指挥官，我们还有一些人没有返回！如果我们现在起飞，就会落下自己的部队！"
+
+[T_Blacksite_Body_Containers_Spotted_Central_P2 AkEvent]
+SpokenText="尸体，集装箱，列车，这一整个设施，没错！外星人还是在绑架人类。而且，从目前情况来看，他们在入侵后就从来没停过。"
+
+[T_Blacksite_Entering_Facility_Spotted_Central_P1 AkEvent]
+SpokenText="他们把人像牲畜一样从这里运出去。要是我们能早点发现就好了，天知道这事情搞了有多久。"
+
+[T_Blacksite_Exterior_Reveal_Central_P2 AkEvent]
+SpokenText="不管它是什么，都不会是好东西。"
+
+[T_Blacksite_Exterior_Reveal_Central_P2_ALT AkEvent]
+SpokenText="我有不祥的预感。"
+
+[T_Blacksite_Interior_Reveal_Central_P1 AkEvent]
+SpokenText="这是哪儿？"
+
+[T_Blacksite_Interior_Reveal_Central_P3_ALT AkEvent]
+SpokenText="一旦我们得到了那个样本，我们就肯定能够知道。"
+
+[T_Blacksite_Interior_Reveal_Central_P4 AkEvent]
+SpokenText="我们很快就会知道的。我们需要那个样本。"
+
+[T_Blacksite_Liquid_Collection_Spotted_Central_P2 AkEvent]
+SpokenText="那这到底是什么？ 某种生化武器工厂又或者是化学武器工厂？"
+
+[T_Blacksite_Soylent_Gold_Spotted_Central_P1 AkEvent]
+SpokenText="知道那是什么吗？当然真不知道就算了..."
+
+[T_Blacksite_Trains_Spotted_Central_01 AkEvent]
+SpokenText="变种人将他们的铁道网扩张到了他们的每个城市，看起来这里就是铁路的尽头了，至少在这个区域内是这样。"
+
+[T_Blacksite_Vial_Pickup_Central_P1 AkEvent]
+SpokenText="那里面应该不是水。沈，有任何读数显示吗？"
+
+[T_Blacksite_Vial_Pickup_Centrla_P1_ALT AkEvent]
+SpokenText="那里面应该不是油。沈，有任何读数显示吗？"
+
+[T_Broadcast_Rooftops_Narrative_Wrappers_01 AkEvent]
+SpokenText="线人为我们付出了一切。我们得赶往变种人网络塔关闭广播并干扰控制他们军队的灵能网络。如果我们能够办到的话，全球的变种人军队就会瘫痪，希望能争取到足够长的时间让我们冲往外星人要塞。整个世界必须知道真相，是时候把消息捅出去了。"
+
+[T_CEN_Hack_AllEnemiesDefeatedContinue AkEvent]
+SpokenText="任务区所有敌人都已消灭了，在网络中断前得保护终端。"
+
+[T_CEN_Hack_TerminalHackedWithRNF AkEvent]
+SpokenText="我们已经确认成功拿到变种人资料，消灭区域中剩余敌人。"
+
+[T_CEN_Sabotage_City_Center_CompletionNag AkEvent]
+SpokenText="威胁者1-5，在变种人反应之前我们时间有限，必须立刻安装好炸药。"
+
+[T_Central_AlienSightings_AdvCaptainM1 AkEvent]
+SpokenText="变种人军官看起来要比普通步兵能干些。搞不明白这到底要归结于训练成果，还是更严格的心灵控制。"
+
+[T_Central_AlienSightings_AdvCaptainM2 AkEvent]
+SpokenText="要格外小心这些资深军官们--我们在战场上见到过他们标记目标并集中火力攻击。"
+
+[T_Central_AlienSightings_AdvCaptainM3 AkEvent]
+SpokenText="精英变种人军官能让自己周围的军队士气得以大增。"
+
+[T_Central_AlienSightings_AdvShieldBearerM2 AkEvent]
+SpokenText="从我们反抗军线人那里得到小道消息称，变种人可能研发出了一种步兵重护甲系统。看来不好对付。"
+
+[T_Central_AlienSightings_AdvShieldBearerM3 AkEvent]
+SpokenText="变种人把这些人做得很强大，而且现在看起来他们更强大了。"
+
+[T_Central_AlienSightings_AdvShieldBearerM4 AkEvent]
+SpokenText="看来外星人会尽一切办法更新他们的武器装备，就连持盾者的装备都升级了。"
+
+[T_Central_AlienSightings_AdvStunLancerM1 AkEvent]
+SpokenText="起初，变种人在人群控制以及偶尔的抗议活动时部署了非致命性的击昏设备。但后来我们就不大看得到了。"
+
+[T_Central_AlienSightings_AdvStunLancerM2 AkEvent]
+SpokenText="看来变种人让强袭枪兵变得更暴力了，大家小心点。"
+
+[T_Central_AlienSightings_AdvStunLancerM3 AkEvent]
+SpokenText="我记得以前变种人强袭枪兵只用来做市区维和。看来他们现在行事更肮脏了。"
+
+[T_Central_AlienSightings_AdvTrooperM1 AkEvent]
+SpokenText="这些家伙就是我们对付的变种人军队的重要组成力量。他们装备精良且训练有素，但它们的死板服从也使他们的行动易于识破。"
+
+[T_Central_AlienSightings_AdvTrooperM2 AkEvent]
+SpokenText="貌似老兵们现在都带上榴弹了，还附带升级了护甲。"
+
+[T_Central_AlienSightings_AdvTrooperM3 AkEvent]
+SpokenText="这些是我们所见过的最强劲的变种人军队--他们有坚实的护甲和相应的强大火力。"
+
+[T_Central_AlienSightings_Andromedon AkEvent]
+SpokenText="这家伙看起来要碾碎什么东西。"
+
+[T_Central_AlienSightings_Berserker AkEvent]
+SpokenText="躲开那些狂战士们--他们不会做远程攻击，但在近距离却很致命。"
+
+[T_Central_AlienSightings_Cryssalid AkEvent]
+SpokenText="这些寄生兽看起来比我记忆中的要小一些--不过话说回来，它不再是我们需要担心的那种大小了。"
+
+[T_Central_AlienSightings_Faceless AkEvent]
+SpokenText="我们听说有些会变形的家伙--我猜这就是了。"
+
+[T_Central_AlienSightings_First_Andromedon_Battlesuit AkEvent]
+SpokenText="我们都看见那东西倒下了...现在它到底在干嘛？！"
+
+[T_Central_AlienSightings_Muton AkEvent]
+SpokenText="这些异变者好像比我们以前对抗过的那些要稍灵活一些；但是看来他们还是外星人的前线士兵。"
+
+[T_Central_AlienSightings_PsiZombie AkEvent]
+SpokenText="死人也不得安息--外星人现在已经有办法用心灵控制他们了。"
+
+[T_Central_AlienSightings_Viper AkEvent]
+SpokenText="他们没有理由隐藏自己了--外星人不再需要潜入的单位了。"
+
+[T_Central_CodexDeath AkEvent]
+SpokenText="你听到博士说的了。威胁者1-5，去把原典掉落的装置找回来。"
+
+[T_Central_FirstCodexAppearsPart2 AkEvent]
+SpokenText="明白。准备战斗，我们已发现目标。"
+
+[T_City_Center_Alien_Entertainment_Central_01 AkEvent]
+SpokenText="就算城市里的人还没有被完全洗脑，那谁知道那些外星人只是为了好玩就往他们脑袋里灌输了什么呢。"
+
+[T_City_Center_Propaganda_Central_01 AkEvent]
+SpokenText="有时候我很庆幸变种人老是捅出这些篓子...当人们发现外星人的真相，所有这些都会火上浇油的。"
+
+[T_Council_Missions_Extract_VIP_Central_01 AkEvent]
+SpokenText="线人告诉我们VIP就在任务区附近，他想让我们确保该地区的安全，找到目标并护送目标离开那里，我想如果这不重要的话，反抗军也不会请求我们的。"
+
+[T_Council_Missions_Extract_VIP_Central_02 AkEvent]
+SpokenText="我们正前往紧急营救一个为反抗军干活的VIP。线人说会给我们提供坐标，不过剩下的就交给我们了。找到VIP并保护他安全地撤离该地区。老规矩，不要留下任何敌人。"
+
+[T_Council_Missions_Extract_VIP_Central_03 AkEvent]
+SpokenText="反抗军需要我们帮助营救一个VIP，就是他一直向我们提供该区域的侦测数据，我们已经得到坐标，但看起来我们得消灭该地区的敌人以确保行动成功。"
+
+[T_Council_Missions_Extract_VIP_Central_04 AkEvent]
+SpokenText="我们收到一份来自线人的第一优先级信息，反抗军在该地区行动的一个VIP需要立即撤离。变种人部队已经在附近警戒起来了，准备消灭所有接触到的敌人。肃清该区域并护送VIP安全离开。"
+
+[T_Council_Missions_Extract_VIP_Central_05 AkEvent]
+SpokenText="侦察兵发现了一个来自此地区微弱的求助信号，反抗军确认这是他们的密码--因此我们需要过去帮助其紧急撤离。我们需要确保该地区的安全，护送VIP至撤离点，保持警惕以防遇敌。"
+
+[T_Council_Missions_Neutralize_Target_Central_01 AkEvent]
+SpokenText="反抗军请求我们帮助处理在该区域和变种人军队合作的VIP。他可能正被严密保护，我们要肃清任务区，消灭所有敌人。如果可能的话，活捉VIP，如果不能，就连同敌人一起解决他。"
+
+[T_Council_Missions_Neutralize_Target_Central_02 AkEvent]
+SpokenText="来自线人的最新消息，外星人正保护某个重要的VIP途经此地，反抗军想让我们来处理此事。前往目标地点，消灭所有敌人，抓住目标，如果必要的话可以诉诸武力。"
+
+[T_Council_Missions_Neutralize_Target_Central_03 AkEvent]
+SpokenText="线人确认了一位对外星人很重要的VIP正进入该地区，他请求我们利用这个机会实施抓捕行动。确保附近地区的安全，消灭所有安保部队。尽可能活捉目标，如有必要，死的也行。"
+
+[T_Council_Missions_Neutralize_Target_Central_04 AkEvent]
+SpokenText="反抗军已经追踪一位外星人通敌者有一段时间了。他们现在终于获得了确切的位置。他们正请求帮助以确保目标安全。因此我们现在就要去确保该区域的安全。消灭所有阻挡你们的敌人。可能的话，活捉VIP。如果事不可为，那就消灭他们。"
+
+[T_Council_Missions_Neutralize_Target_Central_05 AkEvent]
+SpokenText="反抗军一直在追踪这个为外星人工作的VIP的位置，他们已把目标区域缩小到现在的范围。他们请求我们好好处理这位通敌者，一劳永逸。像平常一样，我们需要消灭任何保护目标的敌人并肃清该地区。尽量活捉目标，必要时可使用武力。"
+
+[T_Council_Missions_Neutralize_Target_Vehicle_Central_01 AkEvent]
+SpokenText="线人刚刚确认一位外星人通敌者的位置，他正乘坐变种人运输工具通过该地区，很明显的，失去这位通敌者会大大打击外星人，所以得我们好好处理他，找到运输工具的位置，消灭所有敌方部队的威胁，还有这位VIP。当然反抗军更愿意我们把他活捉回来，不择一切手段。"
+
+[T_Council_Missions_Neutralize_Target_Vehicle_Central_02 AkEvent]
+SpokenText="一位和变种人合作的人类VIP正坐在变种人运输工具里路经该区域，反抗军请求我们插手消除目标的威胁。我们需要确保该区域的安全，消灭所有敌方安保部队的威胁并把目标活捉回来，不过不要冒任何风险。"
+
+[T_Council_Missions_Neutralize_Target_Vehicle_Central_03 AkEvent]
+SpokenText="外星人正保护某个重要的VIP通过此地，VIP藏在变种人运输工具中。很明显这位VIP非常重要以至于线人也要请求我们的帮助。前往目标地点，消灭所有敌人，确保该地区的安全，活捉或干掉目标。"
+
+[T_Council_Missions_Neutralize_Target_Vehicle_Central_04 AkEvent]
+SpokenText="外星人正保护一个重要的VIP通过此地，VIP就在变种人运输车队中，线人希望让我们确保车队永远也到不了目的地。前往该地，尽可能俘获目标VIP，如有必要的话干掉目标。不要留下任何一个挡路的敌人。"
+
+[T_Council_Missions_Neutralize_Target_Vehicle_Central_05 AkEvent]
+SpokenText="反抗军请求我们来处理一位和外星人势力合作的重要VIP，变种人利用其中一辆运输载具送目标通过此地。若有可能，活捉目标，如有需要，可以使用武力，不要让任何外星势力挡了你的路。"
+
+[T_Council_Missions_Rescue_VIP_Central_01 AkEvent]
+SpokenText="来自线人的最新消息，外星人似乎捉到了一个对反抗军来说极其重要的VIP，他们想让我们来实施营救行动。我们需要确保该地区的安全，尽快解救VIP并带着目标撤离。"
+
+[T_Council_Missions_Rescue_VIP_Central_02 AkEvent]
+SpokenText="我们正去为反抗军执行一个紧急营救行动，线人给了我们VIP的位置，VIP正在该地区中被变种人扣押，我们需要确保该区域的安全，消灭所有挡路的敌人，并解救俘虏。"
+
+[T_Council_Missions_Rescue_VIP_Central_03 AkEvent]
+SpokenText="变种人正在看守一位对反抗军很重要的VIP，线人想让我们执行营救行动，我们预计会在该地区遇到激烈抵抗，外星人拥有强大的空中支援压制红恶魔。确保该地区的安全，消灭所有接触到的敌方部队，保护VIP。"
+
+[T_Council_Missions_Rescue_VIP_Central_04 AkEvent]
+SpokenText="反抗军请求我们的帮助，去营救在该地区被变种人军队抓到的重要VIP，侦察兵发现了大量敌军活动，我们要确保任务区的安全，保护VIP，并消灭所有挡路的敌人。"
+
+[T_Council_Missions_Rescue_VIP_Central_05 AkEvent]
+SpokenText="我们收到了一份来自线人的紧急营救请求，解救支持反抗军的VIP。变种人部队在该区域某处看守着VIP，我们可能会遇到大量敌方援军。前往该地消灭所有敌军并保护VIP。"
+
+[T_Council_Missions_Rescue_VIP_Vehicle_Central_01 AkEvent]
+SpokenText="变种人抓获了一位对反抗军很重要的VIP，线人请求我们拦截运输工具并营救目标，我们需要消灭所有敌人并护送VIP到安全地区。"
+
+[T_Council_Missions_Rescue_VIP_Vehicle_Central_02 AkEvent]
+SpokenText="反抗军请求我们去营救一位当前在该地区被变种人部队抓获的VIP，我们需要消灭所有保护外星人运输工具的敌人，确保任务区的安全并营救目标。"
+
+[T_Council_Missions_Rescue_VIP_Vehicle_Central_03 AkEvent]
+SpokenText="变种人部队正通过运输工具运输一位VIP通过该区域，反抗军请求我们帮助实施营救行动。目标被严密看管，要确保该区域安全，消灭所有敌人并迅速完成营救行动。"
+
+[T_Council_Missions_Rescue_VIP_Vehicle_Central_04 AkEvent]
+SpokenText="从线人那收到消息，一个友方VIP最近被变种人抓获，现在正乘坐一辆外星人运输工具经过该区域。我们前去拦截运输工具并解救目标。预计敌方会有抵抗，确保该地区的安全并消灭所有挡路的敌人。"
+
+[T_Council_Missions_Rescue_VIP_Vehicle_Central_05 AkEvent]
+SpokenText="侦察兵一直在监视通过该区域的变种人运输护卫队，消息表明一位对反抗军很重要的VIP关押在其中的一辆卡车中。他们请求我们实施营救行动，消灭该区域所有敌人，确保该区域的安全并把VIP安全地营救出来。"
+
+[T_Depleted_Avatar_Sighted_After_Skulljacking_Codex_Central AkEvent]
+SpokenText="所以一切的争吵都是为了这个？看起来不像啊。像对待其它遇到的外星人一样对待它，把它拿下。"
+
+[T_Destroy_Object_ProceedToSweep_Central AkEvent]
+SpokenText="我们没能阻止外星人的传输，指挥官，但我们可以保护任务区来阻止更进一步的行动。威胁者1-5，继续清理此区域，清除所有敌军。"
+
+[T_Extract_VIP_Evac_Destroyed_Central AkEvent]
+SpokenText="汇合处已经沦陷，等待新的撤离坐标。"
+
+[T_Extract_VIP_Timer_Expired_Central AkEvent]
+SpokenText="变种人拦截机还有30秒进入攻击距离，红恶魔，清除区域！"
+
+[T_Extract_VIP_TimerNagLast_Central AkEvent]
+SpokenText="威胁者1-5，你们没有时间了！现在就去撤离点！"
+
+[T_Extract_VIP_TimerNagSix_Central AkEvent]
+SpokenText="威胁者1-5，请注意，敌方拦截机正在靠近你们目前的位置。红恶魔只能提供有限的时间供你们撤离。"
+
+[T_Extract_VIP_TimerNagThree_Central AkEvent]
+SpokenText="威胁者1-5，敌方拦截机正在迅速接近，你们的撤离窗口正在关闭。"
+
+[T_Extraction_Reminder_Squad_Not_Concealed_A_Central AkEvent]
+SpokenText="变种人已经知道我们在这了，所以你的位置在撤离时并不是隐蔽的。"
+
+[T_Extraction_Reminder_Squad_Not_Concealed_B_Central AkEvent]
+SpokenText="变种人知道我们正在尝试把VIP转移出这一区域，你的位置并不是隐蔽的。保持警惕。"
+
+[T_Extraction_Reminder_Squad_Not_Concealed_C_Central AkEvent]
+SpokenText="外星人知道我们正在尝试把VIP转移出这一区域，你将无法在隐蔽状态下进行部署。"
+
+[T_Final_Mission_Enemy_Avatar_1_Has_Died_Central_01 AkEvent]
+SpokenText="反抗军通讯已经连接。变种人在全世界的势力范围显得杂乱无章。"
+
+[T_Final_Mission_Final_Set_Five_Central_01 AkEvent]
+SpokenText="反抗军势力已经消除了许多关键位置的变种人，指挥官；我们已经把他们打得四处逃窜！"
+
+[T_Final_Mission_Final_Set_Four_Central_03 AkEvent]
+SpokenText="反抗军势力已经消除了许多关键位置的变种人，指挥官；我们已经把他们打得四处逃窜！"
+
+[T_Final_Mission_Final_Set_One_Central_02 AkEvent]
+SpokenText="我们等着瞧吧。"
+
+[T_Final_Mission_Final_Set_Three_Central_02 AkEvent]
+SpokenText="噢我们理解了，还好。"
+
+[T_Final_Mission_Final_Set_Three_Central_02_Alt AkEvent]
+SpokenText="关于种族灭绝需要弄明白什么。"
+
+[T_Final_Mission_Final_Showdown_Begins_Central_03 AkEvent]
+SpokenText="我们来这不是为了谈话的。"
+
+[T_Final_Mission_First_Hostile_Avatar_Reveal_Central_02 AkEvent]
+SpokenText="博士，问题一个一个地解决。"
+
+[T_Final_Mission_First_Set_Five_Central_02 AkEvent]
+SpokenText="指挥官！外星人军队正在加快他们对反抗军和平民目标的打击！"
+
+[T_Final_Mission_First_Set_Four_Central_02 AkEvent]
+SpokenText="让他们闭嘴指挥官。外星人一派胡言。"
+
+[T_Final_Mission_First_Set_One_Central_02 AkEvent]
+SpokenText="他们真以为我们会吃这一套？"
+
+[T_Final_Mission_First_Set_Three_Central_01 AkEvent]
+SpokenText="收到了来自全球各地的报告，指挥官。变种人军队正在猛烈地反击。我们的人正努力抵抗着，但形势不是很乐观。不管我们要做什么，都要尽快行动了。"
+
+[T_Final_Mission_Middle_Set_Four_Central_03 AkEvent]
+SpokenText="继续施加压力指挥官。他们正在失去对这个世界的控制，他们也知道这一点。"
+
+[T_Final_Mission_Middle_Set_One_Central_01 AkEvent]
+SpokenText="指挥官，反抗军部队正在击退变种人，但所付出的代价非常大...照这样下去，双方将同归于尽。"
+
+[T_Final_Mission_Middle_Set_Three_Central_01 AkEvent]
+SpokenText="听到了有关敌人地面部队随机分裂的报告。这些单位突然在战斗中放下了他们的武器，或者把武器瞄准了自己人。"
+
+[T_Final_Mission_Middle_Set_Three_Central_06 AkEvent]
+SpokenText="你知道那并不是她，指挥官。不要让他们迷惑了你的头脑。"
+
+[T_Final_Mission_The_Fortress_Central_01 AkEvent]
+SpokenText="好吧，指挥官，请保持警惕。我们不知道他们是否发现了我们的..."
+
+[T_Final_Mission_The_Fortress_Central_02 AkEvent]
+SpokenText="...存在。"
+
+[T_Final_Mission_The_Fortress_Central_04 AkEvent]
+SpokenText="不太可能。"
+
+[T_FirstCodexAppearsPart2_Central AkEvent]
+SpokenText=明白。准备战斗，我们已发现目标。
+
+[T_Forge_Advent_Bodies_Sighted_Central_01 AkEvent]
+SpokenText="首先是人类尸体，现在我们又找到了变种人...我感觉这些人不是单纯地被绑架。"
+
+[T_Forge_Avatar_Suit_Home_Central_P2 AkEvent]
+SpokenText="按博士说的做。看来得有人把它带回去了。"
+
+[T_Forge_Avatar_Suit_Sighted_Central_P1 AkEvent]
+SpokenText="那看起来和我们从指挥官身上扒下来的套甲像极了。"
+
+[T_Forge_Body_Recovery_Central_P1 AkEvent]
+SpokenText="怎么会这样？这就像一个..."
+
+[T_Forge_Body_Recovery_Central_P4 AkEvent]
+SpokenText="看样子某人要把那东西带回家了。"
+
+[T_Forge_Body_Reveal_Central_P1 AkEvent]
+SpokenText="这一幕看上去似曾相识。"
+
+[T_Forge_Body_Reveal_Central_P4 AkEvent]
+SpokenText="你也听到她说的了。"
+
+[T_Forge_Interior_Reveal_Central_P3 AkEvent]
+SpokenText="难怪他们源源不断地过来。"
+
+[T_Fortress_Avatar_Sighted_01_Central AkEvent]
+SpokenText="我想我们终于可以发现这些东西的作用了。"
+
+[T_Fortress_Avatar_Sighted_02_Central AkEvent]
+SpokenText="至少还有人支持我们。"
+
+[T_Fortress_Recap_Callouts_Central_01 AkEvent]
+SpokenText="那我们得确保不要让他们在那儿呆太久就好。"
+
+[T_Fortress_Recap_Callouts_Central_02 AkEvent]
+SpokenText="他们只是在虚张声势罢了，看不到任何变种人的迹象。假如他们真的放弃了正面防守的话，我们可能就真来对了。"
+
+[T_Fortress_Recap_Callouts_Central_03 AkEvent]
+SpokenText="等一下，你的意思是说这个设施一直都在这儿的？！"
+
+[T_Gene_Therapy_Clinic_Jail_Cells_Central_01 AkEvent]
+SpokenText="我敢打赌他们还有更多这种藏匿起来的小房间。"
+
+[T_Guerilla_Ops_Destroy_Object_Central_01 AkEvent]
+SpokenText="泰根博士在该地区某处找到了一个外星人通讯中继器信号，该中继器向变种人网络传送数据。任何我们可能干扰到外星人后勤系统的行动都将能够阻止他们的行动。我们必须确保该区域的安全并消灭所有敌人，同时在敌方传送信号结束前摧毁中继器。"
+
+[T_Guerilla_Ops_Destroy_Object_Central_02 AkEvent]
+SpokenText="我们找到了一个来自外星人通讯中心的稳定的通信信号，中继器隐藏在此区域中，正向变种人网络上传数据。我们必须抓住每次机会，以干扰外星人最新活动进程，所以我们必须在他们结束传输之前摧毁中继器。不要放过任何一个敌人。"
+
+[T_Guerilla_Ops_Destroy_Object_Central_03 AkEvent]
+SpokenText="通过测量三角信号源，我们锁定了一个正在往变种人网络上上传数据的隐藏的外星人中继器。干扰外星人的活动是我们的最高优先级目标，在他们传输完成之前摧毁中继器。消灭该区域的所有敌人，摧毁中继器。"
+
+[T_Guerilla_Ops_Destroy_Object_Central_04 AkEvent]
+SpokenText="一个外星人通讯中继器隐藏在此地区，并通过变种人网络传输关键数据到他们的网络。丢失该数据会打断他们的进程，所以我们需要在敌方完成传输之前摧毁中继器。我们会面对一队强大的安保力量，消灭他们，确保该区域的安全并不惜一切代价摧毁目标。"
+
+[T_Guerilla_Ops_Destroy_Object_Central_05 AkEvent]
+SpokenText="沈在该区域找到了一系列不寻常的传输信号，我们已经把范围缩小到一个隐藏的外星人通讯中继器，它正传输信号到变种人网络。我们不能错失任何扰乱他们本次行动的机会，所以我们需要摧毁中继器。消灭在该区域遇到的所有敌人，确保该地区的安全并摧毁目标。"
+
+[T_Guerilla_Ops_Hack_Workstation_Advent_Building_Central_01 AkEvent]
+SpokenText="我们得到消息说，变种人在存储和外星人最近行动有重大关系的数据，我们已经锁定了暴露的变种人终端位置，我们可以通过它来接入他们的网络，但终端可能在他们的设施当中。我们不能再等了，清灭所有敌人并控制该区域。如果我们想阻止他们的行动，我们就必须回收该数据。"
+
+[T_Guerilla_Ops_Hack_Workstation_Advent_Building_Central_02 AkEvent]
+SpokenText="泰根博士正致力于取得变种人数据的新方法，看起来他找到了我们可以利用的一个暴露的终端。可惜的是变种人已经进入到了该区域并试图冻结链接。前去歼灭所有敌人。确保该区域的安全并回收数据；我们必须在还来得及的时候阻止他们的行动。"
+
+[T_Guerilla_Ops_Hack_Workstation_Advent_Building_Central_03 AkEvent]
+SpokenText="一个在该区域设施中的连接变种人网络的终端已经被反抗军黑客在之前的行动中找了出来。我们觉得很可能会收集到和外星人最近行动有关的关键数据，但我们必须行动迅速。外星人已经开始尝试关闭它了。前去清除所有敌人，确保该区域的安全，并接入终端，回收数据。"
+
+[T_Guerilla_Ops_Hack_Workstation_Advent_Building_Central_04 AkEvent]
+SpokenText="我们已经查明一个暴露的变种人网络接入点，我们可以利用此来收集一些关于外星人最近行动的关键数据，但终端在该地区的敌方设施内部。我们不可能得到太多像这样的机会，所以我们要过去侵入工作站的终端，你得消灭所有敌人并确保该区域的安全，收集一切可能的数据，我们需要这些来阻止他们的行动。"
+
+[T_Guerilla_Ops_Hack_Workstation_Advent_Building_Central_05 AkEvent]
+SpokenText="我们尝试所有从变种人网络获取信息的可能方式，在这个行动中，你需要侵入敌方设施并接入暴露的终端，连接到他们的网络，敌方武装正在防御该区域，我们需要消除所有威胁并确保该区域的安全。收集所有能得到的数据，如果要阻止他们就必须要那个数据。"
+
+[T_Guerilla_Ops_Hack_Workstation_Central_01 AkEvent]
+SpokenText="一个黑客试图在我们任务区附近通过一个接入点进入到变种人网络。利用此行动，她找到了一些外星人最近的行动的关键信息。但不幸的是，她只获得了些许数据碎片就死了。我们现在需要前往肃清该区域，干掉附近所有的外星人军队并在被发现以前侵入该终端。如果我们要阻止他们的进度我们就需要那个数据。"
+
+[T_Guerilla_Ops_Hack_Workstation_Central_02 AkEvent]
+SpokenText="反抗军士兵通过本区域一个暴露的接入点成功侵入了变种人的网络，然而外星增援行动迅速。他们最初的报告显示他们可能找到了一些与外星人最新行动的关键信息。我们需要控制下那个区域，并在变种人关闭连接之前侵入那个终端。清除所有的敌人，这是我们阻止他们行动的机会。"
+
+[T_Guerilla_Ops_Hack_Workstation_Central_03 AkEvent]
+SpokenText="一小队的反抗军侦察兵在该区域找到了一个暴露的接入点，可以直接入侵变种人网络。但是很快我们就和小队失去了联系，他们还没来得及传送出有关外星人最新行动的情报。我们打算前去回收数据，但必须行动迅速，在变种人关掉连接之前侵入变种人网络。准备好清除所有敌对目标，并控制区域。收集这些数据是我们阻止他们行动的唯一机会。"
+
+[T_Guerilla_Ops_Hack_Workstation_Central_04 AkEvent]
+SpokenText="我们收到一个在该区域的反抗军黑客的消息。似乎他在外星人增援部队到达前侵入了变种人网络，并找到了有关外星人最新活动的重要信息。如果我们要回收这些数据，我们就得快速行动。肃清该区域，在外星人关闭连接前侵入网络。如果我们想阻止外星人活动，我们就需要得到这些数据。"
+
+[T_Guerilla_Ops_Hack_Workstation_Central_05 AkEvent]
+SpokenText="情报显示一名反抗军黑客在这一区域发现了一处暴露的变种人接入点，并试图从其中一个终端拉取数据。不幸的是，外星人很快就击毙了这位黑客，从目前所知，数据和外星人最近的行动有很大关系。我们要前往收集所有能够收集的资料。消灭所有的敌人并控制区域。在他们关掉连接之前，进入网络。"
+
+[T_Guerilla_Ops_Hack_Workstation_Train_Central_01 AkEvent]
+SpokenText="泰根博士已经找到了一个在该地区的暴露的变种人网络的接入点，我们也许可以用它来获取和外星人最近活动相关的重要数据。一如既往地，我们有机可趁，终端在他们一辆通过这里的运输列车内部。我们需要尽快行动，占领列车，清除所有敌人，如果可以做到这点，我们也许能够阻止他们的行动。"
+
+[T_Guerilla_Ops_Hack_Workstation_Train_Central_02 AkEvent]
+SpokenText="远程侦察查已经找到了一个未经保护的变种人网络接入点，显然这是一个在敌方列车中的数据终端，我们要尽可能的在他们关闭连接之前回收所有有关最近外星人计划的数据。消灭所有在该地区的敌人，控制该区域。我们需要那数据，决不能放过任何阻止外星人行动的机会。"
+
+[T_Guerilla_Ops_Hack_Workstation_Train_Central_03 AkEvent]
+SpokenText="我们一直在追踪一个在该地区的断断续续的信号，我们相信这是一辆在该地区变种人列车内一个未被保护的终端发出的。我们不能失去获取最近外星人计划数据的机会，所以我们要进入列车并毫不留情的消灭敌人。如果我们能获得那些数据，我们就有机会阻止他们的行动。"
+
+[T_Guerilla_Ops_Hack_Workstation_Train_Central_04 AkEvent]
+SpokenText="该地区的某一列车中，变种人的地区机动调查队正在运行一个终端，我们找到了附近未被保护的终端，其中的资料可能和外星人最新的行动有关，这也是阻止他们阴谋的好机会。我们需要进入列车并确保该地区的安全，消灭所有该区域的敌方势力。"
+
+[T_Guerilla_Ops_Hack_Workstation_Train_Central_05 AkEvent]
+SpokenText="我方一位联络人报告在该地区的列车上发现了变种人的指挥信号，他们的移动终端已经在他们的网络中暴露了。我们需要那些和外星人最近行动有关的数据，因此我们要前往控制那个接入点。消灭该区域所有的敌方力量并控制列车。这是我们阻止他们行动的机会。"
+
+[T_Guerilla_Ops_Protect_Device_Central_01 AkEvent]
+SpokenText="反抗军在该区域设置了一个能接入变种人网络的数据点，他们正在获取关于外星人最新行动的重要数据。可惜外星人已经找到了信号了并尝试摧毁目标。我们要进入该地区，消灭所有威胁到该设备的敌方力量。"
+
+[T_Guerilla_Ops_Protect_Device_Central_02 AkEvent]
+SpokenText="有消息说该区域的反抗军正在用组装的设备从变种人网络中获取外星人最新行动的重要数据。据我们所知，外星人已经发现了问题并向该地区送出支援部队试图摧毁设备。我们要前去肃清该地区，消灭敌人并保护设备！"
+
+[T_Guerilla_Ops_Protect_Device_Central_03 AkEvent]
+SpokenText="一位为反抗军工作的黑客在该地区的变种人网络中安装了一个数据点，他们正在获取外星人最新行动的关键资料。我们的侦察兵报告说外星人已经为摧毁该数据点行动了起来。这些资料极其珍贵，绝不能丢失。所以我们要进入该地区，消灭所有接触到的敌人并保护设备！"
+
+[T_Guerilla_Ops_Protect_Device_Central_04 AkEvent]
+SpokenText="一名反抗军成员已在变种人网络的接入点中成功地安装某种数据拦截设备。所拦截数据显然是外星人最新行动的关键情报，外星人要摧毁该设备。我们得赶去粉碎他们的计划。消灭所有附近的敌人，确保任务区的安全并保护设备。"
+
+[T_Guerilla_Ops_Protect_Device_Central_05 AkEvent]
+SpokenText="反抗军在变种人网络上的一个老旧的数据点到现在都没有被外星人发现。最新情报显示反抗军找到的这份数据与外星人本次行动息息相关。可惜变种人已经准备要摧毁它了，我们不会坐视不理。消灭所有接触到的敌人并确保该地区的安全，不惜一切代价保护设备。"
+
+[T_Guerilla_Ops_Recover_Item_Advent_Building_Central_01 AkEvent]
+SpokenText="远程侦察显示，变种人军队在本区域持有一个暴露的数据库。从我们所了解的来看，该数据库中包含有外星人最新行动计划的关键数据，所以我们得通过武力来夺取该数据。消灭所有遇到的敌人，确保该区域的安全，并全力获得数据库的控制权。"
+
+[T_Guerilla_Ops_Recover_Item_Advent_Building_Central_02 AkEvent]
+SpokenText="泰根博士在追踪一个变种人的数据库位置状况，该数据库中含有外星人最新行动计划的关键信息，他终于在本区域的变种人设施中定位到了它。泰根认为假使我们能干掉守卫的敌军，我们就有可能回收这些数据。快去确保该区域安全，杀他们个片甲不留。"
+
+[T_Guerilla_Ops_Recover_Item_Advent_Building_Central_03 AkEvent]
+SpokenText="我们通过变种人网络追踪到了他们位于本区域设施点内的一个数据库。我们发现，这个数据库中存储了外星人最新行动的关键数据内容。我们必须赶去获得该数据，但守卫的敌军是不会让我们轻易得手的。干掉所有的目标并获取数据。"
+
+[T_Guerilla_Ops_Recover_Item_Advent_Building_Central_04 AkEvent]
+SpokenText="我们的一个反抗军线人发消息称本区域内有一支变种人巡逻队在守卫着一个数据库，好像其中文件是关系到外星人最新行动的重要数据。我们不能错失任何拖延他们行动的良机，所以我们得马上赶去获得该数据。消灭附近的所有敌军并确保该区域的安全。"
+
+[T_Guerilla_Ops_Recover_Item_Advent_Building_Central_05 AkEvent]
+SpokenText="我们刚从反抗军那儿获得消息，他们定位了一个本区域变种人的数据库，库中存储了外星人最新行动的重要信息。我们得马上赶往该区域获得数据并提前阻断他们的计划进程。干掉所有敌军并确保区域安全。"
+
+[T_Guerilla_Ops_Recover_Item_Central_01 AkEvent]
+SpokenText="侦察显示，有一个存有他们最近行动关键文件的数据库被这个区域的反抗军给偷走了。不幸的是，外星人很快又控制了该区域，这过程中清除了一切他们遇到的人。这将会是扰乱他们计划的一次不容错失的好机会。干掉这个区域的所有敌人，确保区域安全并回收数据。"
+
+[T_Guerilla_Ops_Recover_Item_Central_02 AkEvent]
+SpokenText="一艘变种人运输飞船在离我们任务区几公里远的地方降落，而且他们好像沿路在这个区域安放数据库。变种人部队正隐藏在目标地点，但是我们必须从他们那里夺取数据。消灭所有敌人，肃清周围区域，拿回所有你能找到的东西。"
+
+[T_Guerilla_Ops_Recover_Item_Central_03 AkEvent]
+SpokenText="这个区域的一支反抗军小队遭遇到了变种人军队，并且偶然发现了与外星人行动有关的重要数据库。不幸的是，外星人的增援来到了该区域，所有本地讯号都已经中断。我们要去确保该区域的安全。干掉所有敌人并找回数据！"
+
+[T_Guerilla_Ops_Recover_Item_Central_04 AkEvent]
+SpokenText="我们得到消息，外星人正对这个区域进行清扫行动，寻找之前被反抗军偷走的数据库。这个数据库肯定很重要，所以他们才会派出军队寻找，而这也是我们应该全力获取的目标。我们要前去肃清那个区域并找到数据库。消灭所有遇到的敌人。"
+
+[T_Guerilla_Ops_Recover_Item_Central_05 AkEvent]
+SpokenText="根据目前我们了解的情况，有人在用变种人的数据库向变种人网络外偷偷发送信息。我们获取的信号很微弱，但是那里肯定发生了什么事。变种人已经开始进行修复行动，很可能会与我们遭遇。肃清这个地点并找到有问题的数据库。不要留下任何一个敌人。"
+
+[T_Guerilla_Ops_Recover_Item_Train_Central_01 AkEvent]
+SpokenText="我们有了一次搅乱外星人最新行动的绝佳机会。有消息称变种人正通过列车运载一个数据库，该数据库中包含外星人行动的关键信息。我们正赶去肃清该列车。干掉所有遇到的敌兵并回收物资。"
+
+[T_Guerilla_Ops_Recover_Item_Train_Central_02 AkEvent]
+SpokenText="消息称变种人正通过运输列车运送数据库路经此地，貌似我们可以获取其中关于外星人最新行动的关键数据。我们一旦确定了位置，就得确保该区域的安全并消灭防御列车的所有外星人兵力。这会是让我们拖延他们行动的好机会，我们必须不惜一切代价获得它。"
+
+[T_Guerilla_Ops_Recover_Item_Train_Central_03 AkEvent]
+SpokenText="我们在追踪一条路经此地的微弱的变种人信号，好像来自一辆外星人列车上的数据库。初步分析表明该数据库中含有外星人最新行动计划的重要信息，我们得赶去获取它。肃清任务区，消灭所有守卫列车的敌军，然后不惜一切代价取得数据。"
+
+[T_Guerilla_Ops_Recover_Item_Train_Central_04 AkEvent]
+SpokenText="沈在追踪一个偶然出现在此区域的变种人微弱讯号。就我们所知，应该是一个出故障了的数据库，其中包含有外星人最新行动相关的关键数据。我们决不能错失任何拖延他们计划的机会，所以这次我们得赶去他们的列车。消灭他们的安全卫队，确保该区域安全并控制数据。"
+
+[T_Guerilla_Ops_Recover_Item_Train_Central_05 AkEvent]
+SpokenText="这个区域的反抗军给我们发出了一条关于变种人用列车运送数据库的消息，数据库中据说含有大量外星人最新计划的关键信息。这是我们拖延他们行动的好机会，所以我们得想方设法获得这份资料；消灭一切遇到的敌兵并确保该区域的安全。我们必须确保获得这些资料。"
+
+[T_Guerilla_Ops_Recover_Item_Vehicle_Central_01 AkEvent]
+SpokenText="侦察显示，变种人正驾驶一台被侦测到的运输车运送关于外星人最新行动的宝贵数据通过此地。从数据库中获取该数据会是拖延他们计划完成的唯一途径。我们必须确保该区域的安全，回收数据并消灭周边的所有敌人。"
+
+[T_Guerilla_Ops_Recover_Item_Vehicle_Central_02 AkEvent]
+SpokenText="我们得到消息说外星人通过变种人运输工具载着数据库从远处路经此地。我们将有机会获得其中的关于外星人计划的数据，这是唯一能拖延他们完成计划的方法。快来确保该区域的安全。干掉所有遇到的敌人并回收数据。"
+
+[T_Guerilla_Ops_Recover_Item_Vehicle_Central_03 AkEvent]
+SpokenText="我们正在追踪一个有故障的变种人数据库，它就在这个区域的一个变种人运输载具上。就我们所知，数据库中包含了我们最近了解到的计划的重要数据。变种人好像也意识到了他们的问题，但回收该数据是我们唯一能够拖延他们行动的方法。消灭所有敌方目标并确保东西的安全。"
+
+[T_Guerilla_Ops_Recover_Item_Vehicle_Central_04 AkEvent]
+SpokenText="远程侦察发现了一个微弱的变种人信号正缓慢通过此地。我们认为这是他们一个用卡车运输中的数据库。目标不堪一击，我们估计其中包含有我们最近侦测到的外星人行动的相关信息。击败守护运输车的敌军，确保任务区的安全并回收数据。"
+
+[T_Guerilla_Ops_Recover_Item_Vehicle_Central_05 AkEvent]
+SpokenText="我们得到来自反抗军线人的消息称变种人正通过运输车载着一数据库路经此地，数据库中包含他们最新计划的重要文件。我们需要去取得那份数据，这是我们唯一能够拖延他们计划的方法。解决掉所有运输车附近的敌兵，确保该区域安全并得到数据。"
+
+[T_Human_Body_Storage_Central_01 AkEvent]
+SpokenText="天知道他们已经让这些储存单元工作多久了。"
+
+[T_Mission_Start_without_Councealment_Central_01 AkEvent]
+SpokenText="敌人已察觉我军动向，我们已经无法发动奇袭。"
+
+[T_Mission_Start_without_Councealment_Central_02 AkEvent]
+SpokenText="变种人全军戒备，他们知道你去了。"
+
+[T_Mission_Start_without_Councealment_Central_03 AkEvent]
+SpokenText="你已经暴露，我们已经无法发动奇袭。"
+
+[T_Mission_Start_without_Councealment_Central_04 AkEvent]
+SpokenText="变种人已经发现了你，我们已经无法发动奇袭。"
+
+[T_Mission_Start_without_Councealment_Central_05 AkEvent]
+SpokenText="天际游侠号已经暴露。变种人已得知我军动向。"
+
+[T_Mission_Start_without_Councealment_Central_06 AkEvent]
+SpokenText="我们已经暴露。变种人已得知我军动向。"
+
+[T_Protect_Device_AllEnemiesDefeated_Central AkEvent]
+SpokenText="状态确认，你们周围已无残余敌军。"
+
+[T_Protect_Device_ConsiderRetreat_Central AkEvent]
+SpokenText="指挥官，队伍已经遭受到了重大伤亡，如果会全军覆没的话我们应该考虑放弃任务。"
+
+[T_Protect_Device_GreatSuccess_Central AkEvent]
+SpokenText="状态确认。我们已经清除此区域中所有敌人，反抗军收集资料已安全。"
+
+[T_Protect_Device_PartialSuccess_Central AkEvent]
+SpokenText="收到。我们已经控制此区域，但恐怕敌军已经摧毁了数据点，所有收集的信息都丢失了。"
+
+[T_Protect_Device_PrDv_HurryUp_Central AkEvent]
+SpokenText="指挥官，反抗军的数据点已经遭受敌人攻击了。我们必须加快脚步！"
+
+[T_Protect_Device_PrDv_Intro_Central AkEvent]
+SpokenText="敌人已经动身去摧毁附近安置的数据点，我们没什么时间了。我们要封锁这块区域并不计代价保护装置。"
+
+[T_Protect_Device_PrDv_ProceedToSweep_Central AkEvent]
+SpokenText="威胁者1-5，消灭所有剩余敌人并保护任务区。"
+
+[T_Protect_Device_PrDv_STObjDestroyed_Central AkEvent]
+SpokenText="指挥官，数据点已经被摧毁了。我们失去了所有从变种人网络中取得的资料。"
+
+[T_Protect_Device_SecureRetreat_Central AkEvent]
+SpokenText="指挥官，我们失去对任务区的控制，威胁者1-5正遭受敌军强大火力。我们应该重新组队并且拯救队上所有残留的士兵。"
+
+[T_Protect_Device_Sighted_Central AkEvent]
+SpokenText="威胁者1-5，我们已经找到目标，请不惜一切代价去保护那个装置。"
+
+[T_Psi_Gate_Gateway_Spotted_Central_P1 AkEvent]
+SpokenText="我不确定我们来这会找到什么，但是现在看来确实有所发现。"
+
+[T_Psi_Gate_Reveal_Central_P3 AkEvent]
+SpokenText="既然如此，那里就是我们要去的地方。"
+
+[T_Rescue_VIP_EvacDestroyed_Central AkEvent]
+SpokenText="威胁者1-5，汇合处已经沦陷，等待新的撤离坐标。"
+
+[T_Rescue_VIP_RNFInbound_Central AkEvent]
+SpokenText="威胁者1-5，敌方运输机正在接近你们目前位置。"
+
+[T_Rescue_VIP_TacIntroADV_Central AkEvent]
+SpokenText="威胁者1-5，我们已经确认VIP的地点了。前往到汇合处，清除所有敌军。小心，变种人拦截机正在靠近，我们必须要速战速决。"
+
+[T_Rescue_VIP_TimerExpired_Central AkEvent]
+SpokenText="变种人拦截机还有30秒进入攻击距离，红恶魔，撤离区域！"
+
+[T_Rescue_VIP_TimerNagLast_Central AkEvent]
+SpokenText="威胁者1-5，你们没有时间了！现在就去撤离点！"
+
+[T_Rescue_VIP_TimerNagSix_Central AkEvent]
+SpokenText="威胁者1-5，请注意，敌方拦截机正在靠近你们目前的位置。红恶魔只能提供有限的时间供你们撤离。"
+
+[T_Rescue_VIP_TimerNagThree_Central AkEvent]
+SpokenText="威胁者1-5，敌方拦截机正在迅速接近，你们的撤离窗口正在关闭。"
+
+[T_Retaliation_Reminder_Squad_Not_Concealed_A_Central AkEvent]
+SpokenText="我们来的时候声音很大，并不期望有隐蔽的位置进行部署。他们知道你在这里。"
+
+[T_Retaliation_Reminder_Squad_Not_Concealed_B_Central AkEvent]
+SpokenText="外星人知道我们冲着他们而来。这一次你不会有隐匿所带来的好处了，除非你是一个游侠。"
+
+[T_Retaliation_Reminder_Squad_Not_Concealed_C_Central AkEvent]
+SpokenText="变种人带着怒气而来，我们也是如此。这一次不会有隐蔽的位置供你进行部署了。"
+
+[T_Sabotage_Narrative_Wrappers_01 AkEvent]
+SpokenText="本地的反抗军告知我们一个外星人设施的位置，这关系到他们在该区域开展的化身计划，我们正准备去摧毁它；永久性地摧毁。接近目标并在指定位置安置好X4炸药，然后移动到安全引爆距离以外引爆。如果我们能成功摧毁掉那个设施，我们就可能争取到不少时间。"
+
+[T_Sabotage_Narrative_Wrappers_02 AkEvent]
+SpokenText="我们准备去摧毁该区域一个高机密级别的变种人装置。反抗军告诉我们这个装置与\"化身计划\"的开发有关。一旦你们就位，到达指定区域并安置X4炸药。装好之后，逃到最小安全引爆距离以外，炸毁这个设施。"
+
+[T_Sabotage_Narrative_Wrappers_03 AkEvent]
+SpokenText="外星人在该区域有一个机密设施，同时这个机密设施所做的研究与\"化身计划\"息息相关，我们现在已经获得足够的情报去摧毁它。我们到达任务区，立刻前去指定位置安置X4炸药。一旦安装好以后，跑远点，然后把这个地方炸上西天。"
+
+[T_Sabotage_Narrative_Wrappers_04 AkEvent]
+SpokenText="在此区域，我们发现一个与化身计划息息相关的外星人研究设施。坐标已被锁定，并将开展战术突击。移动到指定位置并且安置X4炸药。一旦完成，移动到最小安全引爆距离，然后把这个地方炸个稀巴烂。"
+
+[T_Sabotage_Narrative_Wrappers_05 AkEvent]
+SpokenText="反抗军方面联络说，有一个外星人设施在本区域进行着对\"化身计划\"起关键作用的研究工作。我们正赶往准备摧毁该设施，不惜一切代价拖慢他们的行动。到达指定区域并安置X4炸药，然后移动到撤离点进行立即撤离。一旦你们离得够远了，我们就会确保那设施永久性失效。"
+
+[T_SabotageCC_Narrative_Wrappers_01 AkEvent]
+SpokenText="现在，我们终于有了立足之处， 是时候去打击变种人了。 我们要到市中心去摧毁一个公共目标， 这个目标的死亡将会引起公众的注意。 消灭所有在此区域内的警卫--请小心行事。"
+
+[T_SabotageCC_Narrative_Wrappers_02 AkEvent]
+SpokenText="我们必须要告诉外星人，我们是认真的。我们正准备潜入市中心攻击他们的要害。为了达到这个目的，我们准备摧毁一个高价值目标。这个目标的倒下会引起公众的注意，尤其是变种人。控制该区域，并消灭附近的警卫力量。"
+
+[T_SabotageCC_Narrative_Wrappers_03 AkEvent]
+SpokenText="我们正要去市中心去袭击一个高级目标，这将会动摇这个安逸的变种人小国。抵达指定坐标并消灭所有敌人。红恶魔将殿后协助你们撤离。"
+
+[T_SabotageCC_Narrative_Wrappers_04 AkEvent]
+SpokenText="外星人在市中心设立他们的和平聚居区已经够久了。是时候该我们闯进去，告诉他们战斗还没有结束。我们要去摧毁一个高价值目标，它的倒下将会让他们难以掩盖。抵达指定区域并消灭所有敌人。"
+
+[T_SabotageCC_Narrative_Wrappers_05 AkEvent]
+SpokenText="现在是时候让外星人和变种人当局尝尝我们的厉害了。我们准备到市中心去摧毁一个高价值目标。抵达目标区域，消灭敌人并控制该局域。"
+
+[T_Secure_UFO_Narrative_Wrappers_01 AkEvent]
+SpokenText="反抗军成功地瘫痪了一架停靠在该区域内的幽浮，在他们回过神来之前，我们现在可以去研究他们的宝贵的技术了。消灭该区域内的所有敌军，控制该区域并且取回物资。"
+
+[T_Secure_UFO_Narrative_Wrappers_02 AkEvent]
+SpokenText="附近区域的一些反抗军士兵成功瘫痪了一架停靠的幽浮。我们在他们最后出现的位置周围部署我们的部队，消灭所有敌军并尽可能地收集物资。"
+
+[T_Secure_UFO_Narrative_Wrappers_03 AkEvent]
+SpokenText="该地的反抗军已经对外星人有所行动了，他们好像瘫痪了一架着陆的幽浮。我们正前去控制此区域。消灭所有敌人，并且搜索飞船，看看你能找到什么装备。"
+
+[T_Secure_UFO_Narrative_Wrappers_04 AkEvent]
+SpokenText="虽然有点费事，但是很显然，反抗军还是设法破坏了这架幽浮。不幸的是，外星人的增援很快就抵达了，所以他们没能在飞船上找到什么。我们去看看还能有什么发现，消灭敌军并控制该区域。"
+
+[T_Secure_UFO_Narrative_Wrappers_05 AkEvent]
+SpokenText="一个反抗军的小队成功地破坏了降落在他们营地附近的幽浮。他们已经通知我们沉船的位置，好像里面还有很不错的外星人科技，我们正前往并控制该区域，消灭所有遭遇的敌人。"
+
+[T_Setup_FirstCodexAppears AkEvent]
+SpokenText="博士，这看上去肯定不像一个数据库。"
+
+[T_Setup_Flight_Device_Mission_Wrapper AkEvent]
+SpokenText="偏远地区的侦查显示反抗军可能会尝试去埋伏途经此区域的变种人车队。据我们得到的消息，沈需要的飞行装置在那上面，如果遭受攻击也许会变得不稳定。我们的时间不多了，但我们正在前往保护那个装置的路上，趁现在还有机会。"
+
+[T_Setup_Phase_Break_Concealment_Central_01 AkEvent]
+SpokenText="我从来就不是一个喜欢躲躲藏藏的人，指挥官，即使在条件对我们非常不利的情况下也不例外。如果我们有能够先行进攻的机会就不应该放弃。"
+
+[T_Setup_Phase_Break_Concealment_Central_02 AkEvent]
+SpokenText="暗中活动虽然有其好处，但是指挥官，我们来这是为了战斗的。如果我们获得了机会，就应该先行进攻。"
+
+[T_Setup_Phase_Break_Concealment_Central_03 AkEvent]
+SpokenText="如果之前我知道派小队前往只是为了侦查敌人的话，我会建议只要派出一个小精灵就够了。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_34 AkEvent]
+SpokenText="闯入者报道。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_36 AkEvent]
+SpokenText="监视事态。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_38 AkEvent]
+SpokenText="他们就是我们，至少以前是。人类混种士兵。变种人是服从和服侍的产物。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_40 AkEvent]
+SpokenText="没人想要相信。但今天我们找到了我们一直在找的东西，我向你保证情况会改变的。我们走吧。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_42 AkEvent]
+SpokenText="你听到她说的了！掩护左侧！"
+
+[T_Setup_Phase_Combat_Tutorial_Central_44 AkEvent]
+SpokenText="现在不是翻找尸体的好时间。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_46 AkEvent]
+SpokenText="我们需要去处理目标了；主通道已经安全了。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_47 AkEvent]
+SpokenText="威胁者-3，轮到你了！"
+
+[T_Setup_Phase_Combat_Tutorial_Central_49 AkEvent]
+SpokenText="你只需要知道你离目标已经很近了。前进！"
+
+[T_Setup_Phase_Combat_Tutorial_Central_51 AkEvent]
+SpokenText="他们紧张了。这样我就知道我们来对地方了。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_52 AkEvent]
+SpokenText="威胁者-1，重新组队！"
+
+[T_Setup_Phase_Combat_Tutorial_Central_53 AkEvent]
+SpokenText="那就是我们在找的门。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_55 AkEvent]
+SpokenText="我们惨遭攻击！"
+
+[T_Setup_Phase_Combat_Tutorial_Central_61 AkEvent]
+SpokenText="做得好。我正在赶过去。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_62 AkEvent]
+SpokenText="正前往获取目标。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_64 AkEvent]
+SpokenText="就是这里。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_65 AkEvent]
+SpokenText="我们找到了。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_67 AkEvent]
+SpokenText="下次吧..."
+
+[T_Setup_Phase_Combat_Tutorial_Central_68 AkEvent]
+SpokenText="我们已经拿到我们想要的东西了。现在赶紧离开这里吧。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_70 AkEvent]
+SpokenText="没时间解释了。跟进了，我们要走了。"
+
+[T_Setup_Phase_Combat_Tutorial_Central_73 AkEvent]
+SpokenText="我们需要另一个出口！快！"
+
+[T_Setup_Phase_Combat_Tutorial_Central_75 AkEvent]
+SpokenText="好办法！"
+
+[T_Setup_Phase_Combat_Tutorial_Central_77 AkEvent]
+SpokenText="继续前进！"
+
+[T_Setup_Phase_Combat_Tutorial_Central_79 AkEvent]
+SpokenText="红恶魔！这里是闯入者！我们需要立刻撤离！把我们弄出去！"
+
+[T_Setup_Phase_Flight_Device_Spotted_Central AkEvent]
+SpokenText="好，现在你应该能侵入那个东西的安全协议然后把它稳定下来。沈正在上传修复代码。"
+
+[T_Setup_Phase_Flight_Device_Timer_Mechanic_Central AkEvent]
+SpokenText="记住，我们在这儿的机会十分有限，沈需要的部件如果没有一个能量来源附着的话将不会保留很久。我们需要恢复它并在爆炸之前离开。"
+
+[T_Small_Town_Advent_Propaganda_Central_01 AkEvent]
+SpokenText="变种人显然在夸大其辞，他们会尽其所能把那些人骗到市中心去。"
+
+[T_Small_Town_Advent_Trains_Central_01 AkEvent]
+SpokenText="它们日以继日地让这些火车运转，但你绝不会见到它们装载或是卸载任何货物--至少不会在任何人能看见的地方。"
+
+[T_Small_Town_Arcade_Machines_Central_01 AkEvent]
+SpokenText="我的人生大概没什么机会能来个续集。"
+
+[T_Small_Town_Meat_Factory_Central_01 AkEvent]
+SpokenText="令人吃惊的是竟从没有人问过这些工厂是怎么工作的。肉从里面出来，但从没见过牲畜运进去，你见过吗？"
+
+[T_Supply_Raids_Advent_Convoy_Central_01 AkEvent]
+SpokenText="我们在反抗军的联络人告诉我们，变种人车队经过时，他们瘫痪了其中一辆运输工具。变种人安保部队已经出发去回收物资，但我们仍有机会找到一些有价值的物资。我们需要保证区域安全，回收物资，然后清除所有敌人势力。"
+
+[T_Supply_Raids_Advent_Convoy_Central_02 AkEvent]
+SpokenText="据我们所知，反抗军在附近瘫痪了一辆变种人运输工具，留下了一些可收集的装备。我们预计外星人也准备去回收车辆，但值得冒险去调查一下。我们需要肃清那里，消灭任何敌人，并收集物品。"
+
+[T_Supply_Raids_Advent_Convoy_Central_03 AkEvent]
+SpokenText="我们收到消息说外星人派遣了一支护卫队运输某些重要的物资，并且反抗军已经在变种人重新编组前成功瘫痪了其中一辆运输车辆。外星人已经在试图控制该区域了，但我们不能放弃这个机会。我们需要控制该区域，清除任何敌对势力，并收集所有物资。"
+
+[T_Supply_Raids_Advent_Convoy_Central_04 AkEvent]
+SpokenText="反抗军突袭了一支正经过此地的变种人护卫队，他们成功地瘫痪了一辆运输工具并让我们可以去收集物资。敌军势力势必正往此地进发，但我们还是要前往控制该区域。清除任何敌对势力，获取任何有用的物资。"
+
+[T_Supply_Raids_Advent_Convoy_Central_05 AkEvent]
+SpokenText="反抗军在该区域瘫痪了一支变种人护卫队，他们给我们传达了信息并让我们前来收集任何需要的物资。这是我们收集装备的完美时机，不过如果我们要这么做的话，首先需要控制该区域并消灭所有的敌人。"
+
+[T_Supply_Raids_Advent_Train_Central_01 AkEvent]
+SpokenText="反抗军攻击了这片区域的一列变种人的火车，而外星人还无法让那家伙动起来。列车上可能有不少有价值的技术资料，因此我们准备要清除所有该区域的敌人。收集任何你能找到的货物。"
+
+[T_Supply_Raids_Advent_Train_Central_02 AkEvent]
+SpokenText="反抗军在一列变种人的火车越过一处偏远荒野的时候伏击了他们，留下了许多货物。这正是我们行动的目的。一旦你着陆了，立刻清除所有敌对势力并保证该区域的安全，收集任何有价值的物品。"
+
+[T_Supply_Raids_Advent_Train_Central_03 AkEvent]
+SpokenText="侦察员表示最近有一列变种人的火车在该区域被反抗军瘫痪了，到目前为止外星人还没能将其转移出该区域。我们正前往准备获取任何我们能找到的装备和技术资料。清除所有敌人势力并保证任务区安全。"
+
+[T_Supply_Raids_Advent_Train_Central_04 AkEvent]
+SpokenText="我们获得线报称有一列被反抗军瘫痪的变种人火车正在该区域。我们还有可能收集到一些有价值的技术情报，因此我们正前往准备获取任何能取得的物资。我们需要保证该区域安全并清除所有防御火车的敌对势力。"
+
+[T_Supply_Raids_Advent_Train_Central_05 AkEvent]
+SpokenText="本地反抗军成功瘫痪了一列正在通过该区域的变种人火车，并且目前外星人还没有控制该位置。因此我们应该趁机清除任务区的所有敌人，保全该位置，并收集能找到的任何物资。"
+
+[T_Supply_Raids_Advent_Transport_Central_01 AkEvent]
+SpokenText="反抗军截获了一辆正在通过此地的变种人军队运输工具，他们留下了一些补给让我们回收。运输机仍无法启动，不过看起来我们会跟一些试图进行封锁的敌方部队相遇。肃清任务区并力所能及的回收物品。"
+
+[T_Supply_Raids_Advent_Transport_Central_02 AkEvent]
+SpokenText="我们找到了一个来自外星人的通信信号，他们正在维修一架被反抗军瘫痪的变种人军队运输工具。这是一个回收他们的科技的好机会，但是我们需要确保该地区的安全并消灭剩余敌人来使计划成功。"
+
+[T_Supply_Raids_Advent_Transport_Central_03 AkEvent]
+SpokenText="侦察员在反抗军锁定的一个变种人军队运输工具中收集到了信号。外星人没办法让这家伙动起来，因此我们打算收集任何能用得上的材料。他们不会乐意看见我们的--清除任何敌对势力并保证该区域安全。"
+
+[T_Supply_Raids_Advent_Transport_Central_04 AkEvent]
+SpokenText="我们的目标是在该区域已经被反抗军瘫痪了的变种人军队运输工具。外星人并不会知道我们的到来，因此我们有机会获得任何我们能取得的技术资料。我们预测在那儿会有大量敌对势力存在--清除所有敌人并保证该区域安全。"
+
+[T_Supply_Raids_Advent_Transport_Central_05 AkEvent]
+SpokenText="反抗军联络人告诉我们说他们在该区域瘫痪了一辆变种人军队运输工具，而现在外星人显然没办法让它再运作起来。这是我们的机会--突击并收集任何我们能用到的东西。肃清附近区域--清除所有敌方势力。"
+
+[T_Support_Alien_Tech_Crate_Spotted_Central AkEvent]
+SpokenText="那就是我们要的设备，我们必须在保证肃清此区域的同时尽全力防止它被毁坏。"
+
+[T_Support_Broadcast_Mission_Intro_Central AkEvent]
+SpokenText="指挥官，是时候和变种人算一算总账了。我们意图要双管齐下。首先我们侵入变种人网络塔的中心，在发言人完成最后的广播前干扰他们的网络。沈在为他们准备一些小惊喜来吸引变种人的注意力。当变种人部队骚动时，我们就会进入入口并一路向他们的前门进发。如果一切顺利，他们不会发现我们来了。这次行动风险很大，但是我们最好的机会了。一旦开始，我们就无法回头了。"
+
+[T_Support_Carry_Avatar_Body_Central AkEvent]
+SpokenText="指挥官，我们要拿到那具尸体让泰根博士做研究。有人必须把它拖去汇合处以撤离到复仇者号上。"
+
+[T_Support_Carry_Soldier_Recover_Loot_Central AkEvent]
+SpokenText="指挥官，如果我们不把我们士兵的尸体带去汇合处的话，他们所有的装备都会丢失。背负尸体会让一名士兵失去作战能力，但那是唯一获得装备的方法。"
+
+[T_Support_Carry_Unconscious_Soldier_Central AkEvent]
+SpokenText="指挥官，我们其中一位士兵失去意识了。如果我们不能再战场上让他们苏醒过来，就要把他们抬到汇合处进行撤离。"
+
+[T_Support_Evac_Attempt_Incomplete_Objective AkEvent]
+SpokenText="指挥官，撤离点已经有单位了，但我们还没有完成任务。如果我们现在放弃，我们就失去在那里的机会了。"
+
+[T_Support_First_Advent_Tower_Spotted_Central AkEvent]
+SpokenText="指挥官，我们的专家应该能够侵入变种人的安全塔，但我们如果想要避免被发现就要小心地移动我们周边的其他士兵。"
+
+[T_Support_Forge_Mission_Intro_Central AkEvent]
+SpokenText="指挥官，泰根和沈已经完成了对黑地小瓶的分析，但在我们继续前往从其中解码出的坐标前，我们需要和当地的反抗军进行联络。"
+
+[T_Support_Psi_Gate_Mission_Intro_Central AkEvent]
+SpokenText="指挥官，沈已经拿到了原典最新已知位置的坐标了，但我们需要和当地的反抗军进行联络以配合我们对该地的调查。"
+
+[T_Support_Reminder_Knock_Out_VIP_Central_01 AkEvent]
+SpokenText="威胁者1-5，记住，我们需要尽量活捉VIP。打晕他，然后带回来。"
+
+[T_Support_Reminder_Shoot_Escaping_VIP_Central_01 AkEvent]
+SpokenText="威胁者1-5，如果我们没法把目标活着带回来，那就消灭他们，绝不能让他们逃走。"
+
+[T_Support_Reminder_Soldier_Bleeding_Out_Central_01 AkEvent]
+SpokenText="我们必须在他们流血身亡之前救治他们。 快点用急救包治疗他们， 或者请求撤离然后带他们去撤离点，再不救他们就晚了。"
+
+[T_Tactical_Callouts_Advent_Central_01 AkEvent]
+SpokenText="每当变种人要募军的时候总是资源不断，但是被招募的新兵却从来没去想他们为啥而来。"
+
+[T_Tactical_Callouts_Kiosk_Central_01 AkEvent]
+SpokenText="我有预感在我们结束前他们还会有更多的宣传。"
+
+[T_Tactical_Callouts_Resistance_Central_01 AkEvent]
+SpokenText="反抗军找到并修复了一些老旧的移动通讯干扰设备，只需要稍稍修理一下，这些东西就能替反抗军派上很大的用场。"
+
+[T_Tactical_Callouts_Resistance_Central_02 AkEvent]
+SpokenText="虽然反抗军已经尽全力来说服人们参加起义， 但是仍然不能和变种人相提并论，因为他们每天24小时都在人们耳边宣传。"
+
+[T_Tactical_Callouts_Resistance_Central_03 AkEvent]
+SpokenText="我很高兴反抗军能够训练新人，他们必须准备好抵抗这一区域下一次变种人的清扫。"
+
+[T_Terror_Narrative_Wrappers_01 AkEvent]
+SpokenText="现在我们成功吸引了外星人的注意力，我们不能让他们占领这个区域里任何一个反抗军的前哨站。我们正准备前往营地并尽一切可能保护我们的市民。消灭在此区域内的所有目标，让他们后悔招惹了反抗军。"
+
+[T_Terror_Narrative_Wrappers_02 AkEvent]
+SpokenText="变种人所谓的维和者正在攻击该地区的一个反抗军营地，他们正在无差别地攻击我们的平民和战士。我们要派遣部队，并且尽可能地保护更多生命，守住阵地并消灭所有敌人。"
+
+[T_Terror_Narrative_Wrappers_03 AkEvent]
+SpokenText="我们正收到一个从反抗军基地发来的求救信号，外星人正在清扫该局域，并攻击他们沿途发现的所有人。我们必须阻止他们，并尽可能地挽救生命，控制此区域并消灭所有敌军。"
+
+[T_Terror_Narrative_Wrappers_04 AkEvent]
+SpokenText="反抗军的线人发现变种人维和者正在攻击一个前哨站。外星人会毫不犹豫地杀死他们逮到的人。我们要尽可能地保护我们的人，守住营地并消灭敌人。"
+
+[T_Terror_Narrative_Wrappers_05 AkEvent]
+SpokenText="我们收到消息，外星人正在攻击我们这一区域的一个前哨站，他们正在大开杀戒。那里的人需要我们的帮助，我们要让外星人悔恨万分。肃清营地，并消灭一切在此区域内的敌军。"
+
+[T_Unique_Missions_Blacksite_Central_01 AkEvent]
+SpokenText="我们在当地反抗军的联络人告诉了我们如何进入变种人黑地。外星人处心积虑地想让这个地点在雷达侦察范围以外，我们也不知道能在那儿找到什么。保持警惕，预计会有大量敌人。"
+
+[T_Unique_Missions_Forge_Central_01 AkEvent]
+SpokenText="目前来看，这个锻造厂应该是某种外星制造设施，和我们在黑地找到的东西有些关系。变种人和外星部队不会欢迎我们的，肯定会有大量敌军驻扎。我们必须不惜一切代价找出真相。"
+
+[T_Unique_Missions_Psi_Gate_Central_01 AkEvent]
+SpokenText="泰根博士和沈博士在暗影舱内设法从原典中解析出了这些坐标。我们猜想这就是那些东西来的地方，不过不敢确信。基于其重要性，那里势必会有大量敌军，希望一切顺利。"
+
+[T_Unique_Missions_Terror_Attack_Central_01 AkEvent]
+SpokenText="外星人刚攻击了一处反抗军的前哨站。那儿可能还有幸存者，但这是最好的情况。我们的战术目标是要控制这个区域，消灭所有敌人。"
+
+[T_Unique_Missions_Terror_Attack_Central_02 AkEvent]
+SpokenText="我们收到消息，外星人正用尽全力攻打一处反抗军前哨站，我们的人根本无法抵御他们。我们正前往以保卫该地区并消灭所有敌人。"
+
+[T_Unique_Missions_Terror_Attack_Central_03 AkEvent]
+SpokenText="我们收到一个断断续续的求助信号，就目前来看外星人正在攻打一处反抗军前哨站。这看起来不太好。我们正尽快向那里去保全区域。消灭所有遇到的敌军。"
+
+[T_Unique_Missions_Terror_Attack_Central_04 AkEvent]
+SpokenText="远程侦察收到了来自外星人军队的大量通讯，说要攻击这个区域的一处反抗军前哨站，而只有我们有阻止他们的机会。我们正要去封锁那片区域。用极端手法消灭所有遇到的敌军。"
+
+[T_Unique_Missions_Terror_Attack_Central_05 AkEvent]
+SpokenText="讯息说，外星人累积了巨大的力量来突击附近的反抗军前哨站，现在那些人急需我们的帮忙。我们要去清除敌人的威胁并维护此区域的安全。"
+
+[Tactical_Fortress_Central_Avatar_Development AkEvent]
+SpokenText="我不觉得我喜欢事情这样发展。"
+
+[Tactical_Fortress_Human_Tubes_Central AkEvent]
+SpokenText="看上去非常像我们在黑地找到的东西。"
+

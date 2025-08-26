@@ -1,0 +1,204 @@
+﻿[First_Non_ADVENT_Sighted_TYGAN AkEvent]
+SpokenText="It is likely we will see more of the aliens themselves now that we threaten their hold on our world."
+
+[T_ADVENTcaptainSightedOne_Tygan AkEvent]
+SpokenText="The ADVENT Captain nearby would make an ideal target for the Skulljack."
+
+[T_ADVENTcaptainSightedSightedThree_Tygan AkEvent]
+SpokenText="There's an ADVENT Captain nearby, we should attempt to disable it with the Skulljack."
+
+[T_ADVENTcaptainSightedTwo_Tygan AkEvent]
+SpokenText="The ADVENT Captain would serve our purposes nicely, if it can be disabled."
+
+[T_Alien_Facility_Advent_Clone_Pods_Tygan_01 AkEvent]
+SpokenText="Those appear to be some sort of incubation chambers, no doubt part of their system to keep ADVENT well supplied with reinforcements."
+
+[T_Alien_Fortress_Residential_Diorama_Tygan_01 AkEvent]
+SpokenText="Maybe they had planned to use this for some sort of psychological testing..."
+
+[T_Avatar_First_Action_Tygan AkEvent]
+SpokenText="These reading indicate an incredible amount of Psionic energy, but we have no way of knowing the true extent of its power."
+
+[T_Avatar_Regenerates_Tygan AkEvent]
+SpokenText="It appears to be capable of repairing it's physical wounds!"
+
+[T_Blacksite_Entering_Facility_Spotted_Tygan_P2 AkEvent]
+SpokenText="It's safe to assume ADVENT didn't just build this system overnight. It must have taken years to assemble this kind of operation. It may have been the aliens' motivation all along."
+
+[T_Blacksite_Exterior_Reveal_Tygan_P1 AkEvent]
+SpokenText="It would be safe to assume ADVENT didn't just build this system overnight. It must have taken years to assemble this kind of operation. But to what purpose?"
+
+[T_Blacksite_Interior_Reveal_Tygan_P1_ALT AkEvent]
+SpokenText="So many victims, processed with such brutal efficiency. Test subjects for some sort of weapon perhaps?"
+
+[T_Blacksite_Interior_Reveal_Tygan_P2 AkEvent]
+SpokenText="The sheer volume of subjects. The brutal efficiency of it all. Perhaps some sort of weapons testing facility?"
+
+[T_Blacksite_Liquid_Collection_Spotted_Tygan_P3 AkEvent]
+SpokenText="If that's the case, they've certainly gathered more than enough test subjects."
+
+[T_Blacksite_Soylent_Gold_Spotted_Tygan_01 AkEvent]
+SpokenText="Collect that vial, we need to know what they're doing here"
+
+[T_Blacksite_Soylent_Gold_Spotted_Tygan_02 AkEvent]
+SpokenText="That canister seems to contain the culmination of whatever this process was designed to create. Although it's likely to raise as many questions as it answers, we should recover the sample for analysis on board the ship."
+
+[T_Broadcast_Flyover_Tygan_P2 AkEvent]
+SpokenText="Incredible. The amount of energy filtered through that system is beyond measure."
+
+[T_Broadcast_Rooftops_Env_Callouts_Tygan_01 AkEvent]
+SpokenText="The design may be a function of the network itself, the amount of Psionic energy filtered through that system is beyond measure..."
+
+[T_City_Center_Chip_Transmitter_Tygan_01 AkEvent]
+SpokenText="These transmitters seem to function as form of repeater, amplifying the Psionic network to reach even the furthest of the deployed ADVENT forces."
+
+[T_CodexDeath_Tygan AkEvent]
+SpokenText="Excellent work, Commander. It appears some physical remnant of the Codex was left behind when it dissipated. Hopefully it will provide some insight into the aliens' ongoing plans."
+
+[T_CodexFirstAction_Tygan AkEvent]
+SpokenText="The Codex appears to be in a state of flux, existing simultaneously across multiple dimensions!"
+
+[T_CodexFirstCleave_Tygan AkEvent]
+SpokenText="I've never seen anything like this -- the Codex is projecting multiple copies of itself into our dimension!"
+
+[T_Depleted_Avatar_Sighted_After_Skulljacking_Codex_Tygan AkEvent]
+SpokenText="Looks can be deceiving. I would urge caution, Commander."
+
+[T_Final_Mission_Enemy_Avatar_1_Has_Died_Tygan_02 AkEvent]
+SpokenText="Yes, the Elders' hold on the network must be weakening."
+
+[T_Final_Mission_Final_Set_Three_Tygan_02_Alt AkEvent]
+SpokenText="Interesting. I wonder what shape the world would have taken had the aliens attempted a more straightforward first contact."
+
+[T_Final_Mission_Final_Showdown_Begins_Tygan_02 AkEvent]
+SpokenText="Though I find the possibilities proposed by the creature intriguing I believe we have passed the point of rational discourse."
+
+[T_Final_Mission_First_Hostile_Avatar_Reveal_Tygan_01 AkEvent]
+SpokenText="Astounding. This entire facility submerged beneath our oceans. But for how long I wonder..."
+
+[T_Final_Mission_Middle_Set_Three_Tygan_02 AkEvent]
+SpokenText="With the tower disrupted, it could be that the Elders are attempting to maintain the network on their own. The strain on them must be...enormous."
+
+[T_FirstCodexAppearsPart1_Tygan AkEvent]
+SpokenText="Commander, that appears to be the "Codex" responsible for safeguarding the alien data stores. We'll have to neutralize it if we intend to recover the data."
+
+[T_FirstCodexAppearsPart1_Tygan_DUP AkEvent]
+SpokenText="Remarkable! This Codex appears to be some sort of guardian, no doubt responsible for safe guarding high value intelligence. We'll have to neutralize it if we intend to recover any data."
+
+[T_FirstPsiGateAppears_Tygan AkEvent]
+SpokenText="That opening...it appears to be a Psionic "rift" of some kind. Is it possible the aliens are using it to transmit their data beyond their facilities on Earth?""
+
+[T_FirstSuccessfulOfficerHack_Tygan AkEvent]
+SpokenText="We have complete access to the ADVENT Psionic network; I have dedicated our systems to processing the new data, but we will need to work fast -- it is only a matter of time before they detect our intrusion."
+
+[T_FirstSuccessfulStun_Tygan AkEvent]
+SpokenText="There's not much time, we'll need to hack the Officer's control chip and access the ADVENT Psionic network before they realize what's happened."
+
+[T_Forge_Advent_Bodies_Sighted_Tygan_01 AkEvent]
+SpokenText="Nothing is beyond the realm of possibility when dealing with the aliens."
+
+[T_Forge_Avatar_Suit_Home_Tygan_P1 AkEvent]
+SpokenText="If we're to discover what exactly makes this suit, or the specimen within unique, we'll need to do a complete analysis."
+
+[T_Forge_Avatar_Suit_Sighted_Tygan_P2 AkEvent]
+SpokenText="It does appear to be similar, at least in physical characteristics. Still, this is clearly something unique, special..."
+
+[T_Forge_Body_Recovery_Tygan_P2 AkEvent]
+SpokenText="Carefully! Preserve the specimen at all costs!"
+
+[T_Forge_Body_Recovery_Tygan_P3 AkEvent]
+SpokenText="Unable to get any readings from here. I'll need to conduct a thorough examination to determine what exactly is inside."
+
+[T_Forge_Body_Reveal_Tygan_P2 AkEvent]
+SpokenText="Yea, and this time let's make sure we access the unit directly. No telling what we'll find inside."
+
+[T_Forge_Interior_Reveal_Tygan_P2 AkEvent]
+SpokenText="Yes. And judging by the subject's condition, I'd say it was recently manufactured."
+
+[T_Fortress_Avatar_Sighted_01_Tygan AkEvent]
+SpokenText="We still don't know the full extent of its capabilities. The Elders will use everything in their power to stop us now."
+
+[T_Fortress_Recap_Callouts_Tygan_01 AkEvent]
+SpokenText="At this point there are no assurances the strike team is even in our dimension, much less on Earth."
+
+[T_Fortress_Recap_Callouts_Tygan_02 AkEvent]
+SpokenText="In their weakened state, it may have been impossible for the Elders to traverse the gateway into our world. These sarcophagi may be the only thing sustaining their decayed physical forms."
+
+[T_Fortress_Recap_Callouts_Tygan_03 AkEvent]
+SpokenText="Just as we saw surrounding the gateway in the field, the alien flora seems to flourish in close proximity to the Psionic fields passing through these systems."
+
+[T_Fortress_Recap_Callouts_Tygan_04 AkEvent]
+SpokenText="That would appear to be terrestrial ocean life, common members of the..."
+
+[T_Fortress_Recap_Callouts_Tygan_05 AkEvent]
+SpokenText="Earth's oceans are largely unexplored, it would be the logical place to conceal, or protect, the Elders over the preceding decades."
+
+[T_Gene_Therapy_Clinic_Bed_Tygan_01 AkEvent]
+SpokenText="This is where they administer the bulk of their Gene Therapy treatments - at least the ones the general public is aware of."
+
+[T_Incomplete_Avatar_Sighted_Tygan AkEvent]
+SpokenText="Commander, I believe we are seeing something entirely new...an alien species that has so far managed to elude capture or observation by resistance forces. I strongly advise a cautious approach."
+
+[T_Live_Codex_Sighted_Hack_It_Tygan AkEvent]
+SpokenText="Commander, that Codex provides the ideal opportunity to infiltrate the ADVENT network. We will need to move in with the Skulljack to initiate the process."
+
+[T_PostIntroStasisLanceReminder_Tygan AkEvent]
+SpokenText="Commander, now that we have the Skull Jack, we should attempt to use it on one of the ADVENT officers. I'm reasonably confident it will work as designed."
+
+[T_Psi_Gate_Alien_Flora_Tygan_01 AkEvent]
+SpokenText="The plant life surrounding the gateway is highly unusual. It's difficult to say whether it's entirely alien, or merely terrestrial flora that has somehow been effected by the gateway itself."
+
+[T_Psi_Gate_Gateway_Spotted_Tygan_P3 AkEvent]
+SpokenText="As with most things, we'll likely to need to bring it back to the ship for further examination."
+
+[T_Psi_Gate_Reveal_Tygan_P1 AkEvent]
+SpokenText="Remarkable. Unlike the Codex, the structure appears to generate a stable psionic rift. But to where..."
+
+[T_Sectoid_has_reanimated_corpse_Tygan AkEvent]
+SpokenText="I am continually amazed by the range of abilities the aliens have developed through the careful manipulation of Psionic energy."
+
+[T_Setup_Phase_Break_Concealment_Tygan_01 AkEvent]
+SpokenText="Commander, if we intend on making inroads against the aliens, eventually we will have to break from the shadows and fight them directly."
+
+[T_Setup_Phase_Break_Concealment_Tygan_02 AkEvent]
+SpokenText="Commander, I'll leave the tactical decisions to you, but I would have to imagine that the direct approach would be more effective here than any amount of time spent in hiding."
+
+[T_Setup_Phase_Break_Concealment_Tygan_03 AkEvent]
+SpokenText="I didn't realize this was strictly a reconnaissance mission, Commander. I thought our forces were actually going to engage the enemy."
+
+[T_Small_Town_Arcade_Machines_Tygan_01 AkEvent]
+SpokenText="I suppose they need whatever distractions they can find - however simplistic they may be."
+
+[T_Small_Town_No_Livestock_Tygan_01 AkEvent]
+SpokenText="I'm still not entirely sure what the aliens hope to accomplish by banning livestock and domesticated animals. They seem genuinely concerned about the risk of having these animals intermingling with the population."
+
+[T_Tactical_Callouts_Tygan_01 AkEvent]
+SpokenText="That plant life is highly unusual - but we've seen no previous evidence of any terraforming efforts by the aliens. Perhaps it was not their intention for it to spread."
+
+[T_Tygan_AlienSightings_AdvPsiWitchM1 AkEvent]
+SpokenText="These ADVENT units have advanced Psionic capabilities, making them considerably more dangerous than the aliens' typical soldiers."
+
+[T_Tygan_AlienSightings_AdvPsiWitchM2 AkEvent]
+SpokenText="Our troops refer to these units as "witches," the more experienced of whom seem capable of confusing our soldiers in the field via specialized attack."
+
+[T_Tygan_AlienSightings_AdvPsiWitchM3 AkEvent]
+SpokenText="The most advanced of the Psionic ADVENT units can take temporary control of a soldier's entire being, much like the mind control techniques we've observed in the past."
+
+[T_Tygan_AlienSightings_Andromedon AkEvent]
+SpokenText="Those emissions could be toxic. I advise caution, Commander."
+
+[T_Tygan_AlienSightings_Cyberus AkEvent]
+SpokenText="This specimen is highly unusual, with a range of abilities centered on some sort of dimensional teleportation technology."
+
+[T_Tygan_AlienSightings_Faceless AkEvent]
+SpokenText="It is a remarkable species; if only we had some means of containment..."
+
+[T_Tygan_AlienSightings_Sectoid AkEvent]
+SpokenText="Although they bear some resemblance to the Sectoids first encountered during the invasion, their genetic structure now includes human DNA. They're stronger than ever, with an even greater psionic potential."
+
+[T_Tygan_AlienSightings_Viper AkEvent]
+SpokenText="Without the introduction of human DNA, these creatures once operating under the guise of "Thin Men" now show their true form, a purely reptilian species."
+
+[T_Tygan_CaptainSightedTwo_DUP AkEvent]
+SpokenText="That ADVENT Captain could be our way into the Psionic network, provided we can access it via the Skulljack."
+

@@ -1,0 +1,3 @@
+﻿[HelloCommander AkEvent]
+SpokenText="你好，指挥官。"
+

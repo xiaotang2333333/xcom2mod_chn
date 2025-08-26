@@ -1,0 +1,28 @@
+[T_Setup_Phase_Combat_Tutorial_Central_34 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[T_Setup_Phase_Combat_Tutorial_Central_36 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[T_Setup_Phase_Combat_Tutorial_Central_38 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[T_Setup_Phase_Combat_Tutorial_Central_40 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+

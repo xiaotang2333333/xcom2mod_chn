@@ -1,0 +1,15 @@
+﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_0 XComInteractiveLevelActor]
+FriendlyDisplayName="Secure Door"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_10 XComInteractiveLevelActor]
+FriendlyDisplayName="ADVENT Container"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_2 XComInteractiveLevelActor]
+FriendlyDisplayName="ADVENT Container"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_23 XComInteractiveLevelActor]
+FriendlyDisplayName="Secure Door"
+
+[TheWorld:PersistentLevel.XComInteractiveLevelActor_9 XComInteractiveLevelActor]
+FriendlyDisplayName="ADVENT Container"
+

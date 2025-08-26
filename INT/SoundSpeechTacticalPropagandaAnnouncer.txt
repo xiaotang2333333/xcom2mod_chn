@@ -1,0 +1,240 @@
+﻿[T_City_Center_Propaganda_01_Prop_Announcer AkEvent]
+SpokenText="The burning of fossil fuels is strictly prohibited. ADVENT power cells are available on a limited basis to qualified users. "
+
+[T_City_Center_Propaganda_02_Prop_Announcer AkEvent]
+SpokenText="Remember, we're in this together. ADVENT is here for you."
+
+[T_City_Center_Propaganda_03_Prop_Announcer AkEvent]
+SpokenText="Be the eyes of ADVENT. Report all suspicious activity to your nearest Peacekeeper."
+
+[T_City_Center_Propaganda_04_Prop_Announcer AkEvent]
+SpokenText="Are your friends or family still living outside the city? Encourage their transfer today!"
+
+[T_City_Center_Propaganda_05_Prop_Announcer AkEvent]
+SpokenText="Citizens are reminded to obey all security directives, including those given by unmanned or otherwise automated systems. "
+
+[T_City_Center_Propaganda_06_Prop_Announcer AkEvent]
+SpokenText="Your cooperation makes all of this possible. ADVENT - working together towards peace. "
+
+[T_City_Center_Propaganda_07_Prop_Announcer AkEvent]
+SpokenText="ADVENT - twenty years of peace and prosperity through cooperation."
+
+[T_City_Center_Propaganda_08_Prop_Announcer AkEvent]
+SpokenText="Enjoy everything the city has to offer, reap the benefits of peace."
+
+[T_City_Center_Propaganda_09_Prop_Announcer AkEvent]
+SpokenText="Clean, secure, stable. The city is your home, enjoy it. "
+
+[T_City_Center_Propaganda_10_Prop_Announcer AkEvent]
+SpokenText="Questions or concerns? See your nearest ADVENT Peacekeeper. "
+
+[T_City_Center_Propaganda_11_Prop_Announcer AkEvent]
+SpokenText="ADVENT strives to secure your future. Help us, help you. Report all suspicious activity. "
+
+[T_City_Center_Propaganda_12_Prop_Announcer AkEvent]
+SpokenText="Your future is brighter than ever. ADVENT is here to ensure your ongoing safety and comfort. "
+
+[T_City_Center_Propaganda_13_Prop_Announcer AkEvent]
+SpokenText="At the present time, all excursions outside the city center have been put on indefinite hold. We apologize for any inconvenience. "
+
+[T_City_Center_Propaganda_14_Prop_Announcer AkEvent]
+SpokenText="Visit your local Gene Therapy Clinic for a sampling of the latest advances in preventative care. "
+
+[T_City_Center_Propaganda_15_Prop_Announcer AkEvent]
+SpokenText="ADVENT's Peacekeepers are here for your protection. Their vigilance means your safety. "
+
+[T_City_Center_Propaganda_16_Prop_Announcer AkEvent]
+SpokenText="Your adherence to ADVENT directives ensures the ongoing safety of all citizens."
+
+[T_City_Center_Propaganda_17_Prop_Announcer AkEvent]
+SpokenText=" Turning a blind eye to suspicious activity puts everyone at risk. ADVENT encourages proactive reporting by all citizens. "
+
+[T_City_Center_Propaganda_18_Prop_Announcer AkEvent]
+SpokenText="We hope you enjoy all of the amenities available to you throughout the city. Direct all concerns to your nearest Peacekeeper."
+
+[T_City_Center_Propaganda_19_Prop_Announcer AkEvent]
+SpokenText="We apologize for any inconveniences experienced during regular security screenings. ADVENT is here to ensure your safety."
+
+[T_City_Center_Propaganda_20_Prop_Announcer AkEvent]
+SpokenText="Be advised, any tampering with or disabling of ADVENT security towers is strictly prohibited."
+
+[T_City_Center_Propaganda_21_Prop_Announcer AkEvent]
+SpokenText="ADVENT provides unlimited access to entertainment specially tailored to your unique profile. Please refrain from the consumption or trade in illegal substances. "
+
+[T_City_Center_Propaganda_22_Prop_Announcer AkEvent]
+SpokenText="Discussion of or involvement in activities related to dissident anti-government groups is grounds for immediate summary judgement by ADVENT peacekeeping forces. "
+
+[T_City_Center_Propaganda_23_Prop_Announcer AkEvent]
+SpokenText="Citizens are reminded that all trips outside of the city center require pre-authorization from your local ADVENT official."
+
+[T_City_Center_Propaganda_24_Prop_Announcer AkEvent]
+SpokenText="ADVENT is here for you. Cooperation today, peace tomorrow. "
+
+[T_City_Center_Propaganda_25_Prop_Announcer AkEvent]
+SpokenText="Acts of vandalism or public dissent will not be tolerated. ADVENT appreciates your efforts to maintain a calm, collected demeanor. "
+
+[T_City_Center_Propaganda_26_Prop_Announcer AkEvent]
+SpokenText="Please report all disturbances to your nearest ADVENT peacekeeper for mediation. "
+
+[T_City_Center_Propaganda_27_Prop_Announcer AkEvent]
+SpokenText="Citizens are assured that recent activity by dissident groups near the city centers will be swiftly contained. Report all suspicious persons to your nearest Peacekeeper."
+
+[T_City_Center_Propaganda_28_Prop_Announcer AkEvent]
+SpokenText="The Elders' sacrifices for humanity afford us all the comfort and security we enjoy today. Never forget the Elders."
+
+[T_City_Center_Propaganda_29_Prop_Announcer AkEvent]
+SpokenText="Recent concerns over alleged missing persons from the city centers have been downplayed by ADVENT officials. "
+
+[T_City_Center_Propaganda_30_Prop_Announcer AkEvent]
+SpokenText="Although rumors of XCOM dissidents operating inside the city centers continue to spread, citizens are reminded that collaboration with enemy combatants is a capital offense. "
+
+[T_City_Center_Propaganda_31_Prop_Announcer AkEvent]
+SpokenText="ADVENT needs your help! Report suspicious persons or activity to your nearest Peacekeeper. "
+
+[T_City_Center_Propaganda_32_Prop_Announcer AkEvent]
+SpokenText="Together, the future is brighter than ever. ADVENT, working hand in hand with our citizens. "
+
+[T_City_Center_Propaganda_33_Prop_Announcer AkEvent]
+SpokenText="Do your part; visit your local ADVENT recruiter today."
+
+[T_City_Center_Propaganda_34_Prop_Announcer AkEvent]
+SpokenText="Citizens are reminded not to engage with ADVENT Peacekeeping forces unless there is an immediate security concern. "
+
+[T_City_Center_Propaganda_35_Prop_Announcer AkEvent]
+SpokenText="ADVENT would like to remind all citizens that the importation or trade in banned substances is a capital offense. "
+
+[T_City_Center_Propaganda_36_Prop_Announcer AkEvent]
+SpokenText="Health concerns? ADVENT Gene Therapy can help; visit your nearest clinic today!"
+
+[T_City_Center_Propaganda_37_Prop_Announcer AkEvent]
+SpokenText="A variety of otherworldly entertainment options are available for your enjoyment, stop in today!"
+
+[T_City_Center_Propaganda_38_Prop_Announcer AkEvent]
+SpokenText="Curious about the latest innovative designs from ADVENT automotive? Inquire about ownership requirements at your local dealer. "
+
+[T_City_Center_Propaganda_39_Prop_Announcer AkEvent]
+SpokenText="In the event of an emergency, remain calm and follow the directives of all ADVENT peacekeeping forces. "
+
+[T_City_Center_Propaganda_40_Prop_Announcer AkEvent]
+SpokenText="Your ongoing compliance is appreciated. "
+
+[T_City_Center_Propaganda_41_Prop_Announcer AkEvent]
+SpokenText="Reminder to all citizens. The possession of weapons or firearms of any kind is a capital offense."
+
+[T_Small_Town___Slums_Propaganda_01_Prop_Announcer AkEvent]
+SpokenText="Why go wanting? Our cities have more than enough for everyone - transfer today!"
+
+[T_Small_Town___Slums_Propaganda_02_Prop_Announcer AkEvent]
+SpokenText="There's an easier life waiting for you in the city. All are welcome."
+
+[T_Small_Town___Slums_Propaganda_03_Prop_Announcer AkEvent]
+SpokenText="Freedom doesn't have to mean anxiety and discomfort. In the cities, your life is your own, without the hardships. Experience it today!"
+
+[T_Small_Town___Slums_Propaganda_04_Prop_Announcer AkEvent]
+SpokenText="A better life awaits you and your family in the city centers. Immediate transfers are available. "
+
+[T_Small_Town___Slums_Propaganda_05_Prop_Announcer AkEvent]
+SpokenText="New opportunities await all who transfer! Move to your local city center today!"
+
+[T_Small_Town___Slums_Propaganda_06_Prop_Announcer AkEvent]
+SpokenText="Are you tired of being sick, hungry, scared? ADVENT can ease your burden. Visit your nearest city center. "
+
+[T_Small_Town___Slums_Propaganda_07_Prop_Announcer AkEvent]
+SpokenText="Are you struggling? The city awaits. We have everything you need."
+
+[T_Small_Town___Slums_Propaganda_08_Prop_Announcer AkEvent]
+SpokenText="ADVENT welcomes all to the city centers. Free yourself, transfer today."
+
+[T_Small_Town___Slums_Propaganda_09_Prop_Announcer AkEvent]
+SpokenText="Millions have already come to enjoy a better life, a better future. Why haven't you? Transfer to your nearest city center. "
+
+[T_Small_Town___Slums_Propaganda_10_Prop_Announcer AkEvent]
+SpokenText="Feeling worn down? ADVENT Gene Therapy can help. A free benefit to all inhabitants of the city centers. "
+
+[T_Small_Town___Slums_Propaganda_11_Prop_Announcer AkEvent]
+SpokenText="Be advised, the possession of livestock or domesticated animals is forbidden. Relinquish any unauthorized animals to your nearest ADVENT Peacekeeper. "
+
+[T_Small_Town___Slums_Propaganda_12_Prop_Announcer AkEvent]
+SpokenText="Complimentary ADVENT CORE rations are available at your nearest outpost. "
+
+[T_Small_Town___Slums_Propaganda_13_Prop_Announcer AkEvent]
+SpokenText="Contraband amnesty programs are available to those seeking refuge in a city center. "
+
+[T_Small_Town___Slums_Propaganda_14_Prop_Announcer AkEvent]
+SpokenText="Amnesty is available to those volunteering illicit materials for destruction. See your nearest Peacekeeper."
+
+[T_Small_Town___Slums_Propaganda_15_Prop_Announcer AkEvent]
+SpokenText="ADVENT Gene Therapy can mitigate any number of illnesses once considered fatal by old world standards. Visit your nearest city center for details. "
+
+[T_Small_Town___Slums_Propaganda_16_Prop_Announcer AkEvent]
+SpokenText="All citizens of the city centers are guaranteed access to food, shelter, and medical assistance for the remainder of their lives. "
+
+[T_Small_Town___Slums_Propaganda_17_Prop_Announcer AkEvent]
+SpokenText="Haven't we all lost enough already? In the city centers, crime is a thing of the past thanks to ADVENT. "
+
+[T_Small_Town___Slums_Propaganda_18_Prop_Announcer AkEvent]
+SpokenText="ADVENT Peacekeepers are seeking information on several individuals wanted for questioning. Please report any sightings to your nearest Peacekeeper."
+
+[T_Small_Town___Slums_Propaganda_19_Prop_Announcer AkEvent]
+SpokenText="Millions of people can't be wrong. The city centers provide everything you need, without the uncertainty. Transfer today."
+
+[T_Small_Town___Slums_Propaganda_20_Prop_Announcer AkEvent]
+SpokenText="ADVENT's peacekeepers are here to ensure that policy directives are carried out in all human inhabited areas.  "
+
+[T_Small_Town___Slums_Propaganda_21_Prop_Announcer AkEvent]
+SpokenText="In more than eighty-percent of identified cases, missing persons from the outer territories were actually found living comfortably in an ADVENT city center. "
+
+[T_Small_Town___Slums_Propaganda_22_Prop_Announcer AkEvent]
+SpokenText="Why face the uncertainty of living with illegal or secondhand goods. ADVENT provides all the necessities of life inside the city centers. "
+
+[T_Small_Town___Slums_Propaganda_23_Prop_Announcer AkEvent]
+SpokenText="Smuggling is never the answer. ADVENT has instituted stiff penalties for those convicted of dealing in unauthorized materials. "
+
+[T_Small_Town___Slums_Propaganda_24_Prop_Announcer AkEvent]
+SpokenText="ADVENT Peacekeepers will be conducting random contraband sweeps throughout the month. Your cooperation ensures a safe, uneventful process."
+
+[T_Small_Town___Slums_Propaganda_25_Prop_Announcer AkEvent]
+SpokenText="A better life is waiting. Transfer to a city center today."
+
+[T_Small_Town___Slums_Propaganda_26_Prop_Announcer AkEvent]
+SpokenText="Serve a higher purpose; see your local ADVENT recruiter today!"
+
+[T_Small_Town___Slums_Propaganda_27_Prop_Announcer AkEvent]
+SpokenText="ADVENT's Peacekeeping forces are seeking motivated new recruits. Inquire at your local ADVENT outpost."
+
+[T_Small_Town___Slums_Propaganda_28_Prop_Announcer AkEvent]
+SpokenText="ADVENT is dedicated to building a better world and a brighter future for all of humanity. See your recruiter today."
+
+[T_Small_Town___Slums_Propaganda_29_Prop_Announcer AkEvent]
+SpokenText="You don't have to suffer the harsh realities of the old world. ADVENT welcomes all those seeking refuge in the city centers."
+
+[T_Small_Town___Slums_Propaganda_30_Prop_Announcer AkEvent]
+SpokenText="Do not be alarmed by any non-human species seen in proximity to ADVENT peacekeepers. Their presence is entirely benign. "
+
+[T_Small_Town___Slums_Propaganda_31_Prop_Announcer AkEvent]
+SpokenText="ADVENT takes all reports of missing persons seriously. Should you need to file an official statement, inquire at your nearest ADVENT security post. "
+
+[T_Small_Town___Slums_Propaganda_32_Prop_Announcer AkEvent]
+SpokenText="Approved ADVENT rations are available in limited quantities to those citizens seeking further assistance."
+
+[T_Small_Town___Slums_Propaganda_33_Prop_Announcer AkEvent]
+SpokenText="Don't be fooled by dissident agitators who make promises they can't keep. Only ADVENT can provide the safety and long-term security you deserve. "
+
+[T_Small_Town___Slums_Propaganda_34_Prop_Announcer AkEvent]
+SpokenText="ADVENT is working hand in hand to build a brighter future for all of Earth's inhabitants. "
+
+[T_Small_Town___Slums_Propaganda_35_Prop_Announcer AkEvent]
+SpokenText="ADVENT Burger now offers the latest in gourmet proteins, try our new selections today. "
+
+[T_Small_Town___Slums_Propaganda_36_Prop_Announcer AkEvent]
+SpokenText="ADVENT will carry the burden, all you have to do is ask. "
+
+[T_Small_Town___Slums_Propaganda_37_Prop_Announcer AkEvent]
+SpokenText="Right now in city centers across the globe, people just like you are warm and comfortable. Join them, join ADVENT."
+
+[T_Small_Town___Slums_Propaganda_38_Prop_Announcer AkEvent]
+SpokenText="Tired of living in the past? Join us in the future. ADVENT."
+
+[T_Small_Town___Slums_Propaganda_39_Prop_Announcer AkEvent]
+SpokenText="Resistance is difficult, compliance is easy. The choice is yours. "
+

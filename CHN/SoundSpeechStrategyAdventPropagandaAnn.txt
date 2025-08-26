@@ -1,0 +1,12 @@
+﻿[S_Broadcast_Truth_Advent_Propaganda_Announcer_01 AkEvent]
+SpokenText="变种人向我们保证这个突破性进展将马上对所有居民开放。"
+
+[S_Broadcast_Truth_Advent_Propaganda_Announcer_02 AkEvent]
+SpokenText="发言人会提供更详细信息..."
+
+[S_Intro_Advent_Propaganda_Announcer_01 AkEvent]
+SpokenText="变种人管理层提醒你要向周边维和部队上报一切可疑活动。记住，只有尽力合作才能开创美好未来。"
+
+[S_Victory_Advent_Propaganda_Announcer_01 AkEvent]
+SpokenText="由于高层正在应对持续危机，全面宵禁仍在实施当中。"
+

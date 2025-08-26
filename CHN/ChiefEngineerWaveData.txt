@@ -1,0 +1,749 @@
+﻿[CE_AlienBaseDetected_LeadOut SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我想出了一个绝妙的主意，或许能帮助我们进入那个基地。我只需要再检查几样东西。"
+Comment=""
+
+[CE_AlienBaseMissionComplete_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="现在外星人的装置落到我们手里，我们本该遭到外星人更...猛烈的追击的。我怀疑失去这个装置只是它们计划中的一环。"
+Comment=""
+
+[CE_AlienCodeRevealed_LeadOut SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="这种科技所衍伸出的潜在用途可以说是无极限...但前提是外星人只是为了和平而来。"
+Comment=""
+
+[CE_AlienEntertainment_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="这是外星人用来休闲娱乐的吗？ 至少它们不是在玩...计算机游戏。"
+Comment=""
+
+[CE_ArcThrower_LeadOut SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="他们或许有些恐惧不安，但是我确信他们最终能做好。"
+Comment=""
+
+[CE_AssaultOfficeObjectiveSpotted_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="做得很好，这些外星人逃走时并没有带走这一大堆对象，我们应该能够从中获取必要的信息。"
+Comment=""
+
+[CE_AssaultResearchObjectiveSpotted_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="它们已经到达控制室，看起来并没有造成太多损伤。"
+Comment=""
+
+[CE_AssaultTruckStopObjectiveSpotted_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="那似乎就是讨论中的东西，很好...现在只需要歼灭所有剩余的敌人并肃清区域。"
+Comment=""
+
+[CE_BombMissionMainBombFound01_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="看来你已经找到炸弹，快接近它并让它停止运作。"
+Comment=""
+
+[CE_BombMissionMainBombFound02_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="炸弹就在那里，你必须接近它以拆除这颗炸弹。"
+Comment=""
+
+[CE_BombMissionMainBombFound03_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="很好...看来你已经找到炸弹，在它还没摧毁这座城镇前快拆除它。"
+Comment=""
+
+[CE_BombMissionMainBombFound04_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="那应该就是炸弹，快靠近它并使其停止失效。"
+Comment=""
+
+[CE_BombMissionMainBombFound05_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="看来炸弹已经进入你的视线范围，快靠近它并让它停止运作。"
+Comment=""
+
+[CE_BombMissionNextToPowerNode_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="那就是我们侦测到的能源节点之一...关闭它就能减缓外星武器的充电过程。"
+Comment=""
+
+[CE_BombMissionNextToPowerNode_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="关闭那个节点就可以减缓外星人对这颗炸弹进行充电的速度。"
+Comment=""
+
+[CE_BombMissionPowerNodeDeactivated01_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="看来你为自己争取了一点时间，但你动作还是得加快，不然...你知道的。"
+Comment=""
+
+[CE_BombMissionPowerNodeDeactivated02_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="很好。这样我们就有稍微多点的时间，但你们仍需要找到那颗炸弹！"
+Comment=""
+
+[CE_BombMissionPowerNodeDeactivated03_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="做得很好，特攻一队，为我们争取到了几分钟。"
+Comment=""
+
+[CE_BombMissionPowerNodeDeactivated04_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="非常好，另一个也搞定了！"
+Comment=""
+
+[CE_BombMissionPowerNodeDeactivated05_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="特攻一队，那个能源节点的能量已经归零，重复，能源节点已经关闭。"
+Comment=""
+
+[CE_BombMissionPowerNodeDeactivated06_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="又拿下一个能源节点。"
+Comment=""
+
+[CE_BombMissionPowerNodeDeactivated07_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="能源节点，电源已关闭。"
+Comment=""
+
+[CE_BombMissionPowerNodeDeactivated08_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="那个能源节点的灯已熄灭。"
+Comment=""
+
+[CE_BombMissionPowerNodeDeactivated09_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="干得好。节点已解除。"
+Comment=""
+
+[CE_BombMissionPowerNodeDeactivated10_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="拿下能源节点，那样能为你争取到一点时间。"
+Comment=""
+
+[CE_BombMissionPowerNodeFound01_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们的传感器发现，那是一种充电用的机械装置...外星人通过它直接对炸弹充电，关闭这'能源节点'应该可以给你更多时间，找寻并拆除爆裂物。"
+Comment=""
+
+[CE_BombMissionPowerNodeFound02_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们在区域内发现异常的热能反应，外星人利用某种可携带式\"能源节点\"对炸弹进行充电以便引爆它，如果你能关闭那个设备，应该可以争取到一点时间处理爆炸物本身。"
+Comment=""
+
+[CE_BuildBasePassKeyReminder SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="指挥官，只要您下令，我们马上可以着手研究进入外星基地的方法。"
+Comment=""
+
+[CE_EngineerGreatMission_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="看来他们真的很努力在执行任务...而且几乎没有损伤。"
+Comment=""
+
+[CE_EngineerGreatMission_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我对目前为止的成果相当满意，尤其是考虑到现在外面的情况。"
+Comment=""
+
+[CE_EngineerGreatMission_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我从来没有见过执行得如此顺利的任务，做得很好，指挥官。"
+Comment=""
+
+[CE_EngineerGreatMission_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="干得好，指挥官，全员平安归来总是可以提振士气。"
+Comment=""
+
+[CE_EngineerGreatMission_05 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我很高兴见我们的士兵们能冷酷地干掉这些外星人，我想不应该对外星人抱持怜悯之心。"
+Comment=""
+
+[CE_EngineerGreatMission_06 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们真不应该质疑自己抵抗外星人威胁的能力，一切都做得很好，指挥官。"
+Comment=""
+
+[CE_EngineerGreatMission_07 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="没有比这更漂亮的任务了...没有任何伤亡，做得非常好。"
+Comment=""
+
+[CE_EngineerGreatMission_08 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="经过这样一场任务，我只希望工程部团队能够达到我们士兵们所立下的标准。"
+Comment=""
+
+[CE_EngineerGreatMission_09 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="这样一场任务着实为我们奠定了基调，做得很好，指挥官。"
+Comment=""
+
+[CE_EngineerGreatMission_10 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="虽然我曾有过怀疑，但我们的士兵们还是成功渡过了难关。"
+Comment=""
+
+[CE_EngineeringArchAngel SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="没有系绳就能在空中穿梭，会让自己觉得彷佛得到了超能力，只是要随时注意你的燃料，这件套甲不适合用来做长距离移动。"
+Comment=""
+
+[CE_EngineeringBetterJet SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="如果有机会对付这些外星飞船，我们的飞机需要更强大的火力以及更快的飞行速度。"
+Comment=""
+
+[CE_EngineeringCarapace SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="这套新型护甲，是运用外星战舰所用的合金开发而成，经实验证明，相较于任何我们所用过的材质，它不仅重量更轻，硬度也更佳。"
+Comment=""
+
+[CE_EngineeringGhost SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="只要装备这件套甲，我们的士兵就能毫无阻碍，放心执行侦察任务，它可以让我们处于几乎完全隐形的状态。"
+Comment=""
+
+[CE_EngineeringHasEngineers SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="指挥官，新工程师们已于今早抵达，我们永远欢迎更多援手前来帮忙。"
+Comment=""
+
+[CE_EngineeringLaser SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="虽然必须花一点时间开发，但其攻击力绝对比任何实弹武器都高。"
+Comment=""
+
+[CE_EngineeringMusing_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="从我所窥探到它们科技的一角来看...如果外星人打定主意要占领地球，我们恐怕没有多少力气能够反抗，我猜它们可能有其他打算。"
+Comment=""
+
+[CE_EngineeringMusing_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="好像我是这里为数不多的几个足够理智，质疑我们对外星人科技盲目推崇的人之一。我可以理解我们的团队对于一种远超于我们自己的技术的着迷，但是我担心我们这样做的后果。我们从来没有考虑过这个问题...这种技术给外星人带来了什么收益？我们真的要跟随一个邪恶力量的脚步吗？"
+Comment=""
+
+[CE_EngineeringMusing_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="在战事发生时，总是会有一位领袖，一位将军...一个负责下命令的人，这些外星人应该也一样，但真正的问题是，拥有什么样的权力或权威，才能控制如此多元的外星人物种？ 遵行这项计划又能让它们得到什么样的奖赏？"
+Comment=""
+
+[CE_EngineeringMusing_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="看得越多，就有越多不想看到的，那只由血肉和金属组合而成扭曲变形的庞然大物...由外星科技驱使着，能称那个叫做生物吗？ 我们必须继续执行这项计划，但我们是否正踏上和外星人相同的道路...这个想法困扰着我，它们从前是否和我们是相似的生物？ 我们是否只是无尽循环中的一部份？ 如果眼前所见的事物就是我们未来的缩影，我可一点都不想要变成这样。"
+Comment=""
+
+[CE_EngineeringMusing_05 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="现在是我们决定胜负的关键时刻了，既然已经把外星人逼到了死角，我们就来看看它们究竟是由什么构成的。个人来说，我只希望它们在抵抗中处于完全的绝望--它们付出这么多努力却只能不战而败。"
+Comment=""
+
+[CE_EngineeringMusing_06 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="历史将写下崭新的一页...这是人类时代的终点，就算我们击败了所有剩余的外星人，今后又将会如何呢？ 我们是否牺牲了自己的人性，只为一尝它们的科技果实？ 而就算我们成功进一步应用这个力量，是否也正冒着被它反噬的风险...想必...会如同它们以前一样？"
+Comment=""
+
+[CE_EngineeringNeedsEngineers_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="在复制外星科技方面，我们正去的成功，但人数不够，导致我们进度开始减慢。若您能在额外招募些工程师，指挥官，我们的工作进度将得到改善。"
+Comment=""
+
+[CE_EngineeringNeedsEngineers_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="目前为止一切顺利，但我们绝对需要工程部的更多支持，我敢说，外面一定有许多符合资格的工程师，他们一定非常乐意参与这项计划。"
+Comment=""
+
+[CE_EngineeringNeedsEngineers_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="指挥官，现在不做更待何时。如果您不准备招募更多工程师来协助管理计划，请现在就让我知道您的心意，我也不需要再浪费时间了。"
+Comment=""
+
+[CE_EngineeringOneSatellite SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们现在的卫星监控范围只有'一个国家'--我们应该尽可能部署更多的卫星来扩大范围。"
+Comment=""
+
+[CE_EngineeringPlasma SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="对我来说，我曾对我们可以快速开发出激光武器的能力感到自豪，但现在呢？ 电浆武器已经算是唾手可得，但任何事都有可能发生。"
+Comment=""
+
+[CE_EngineeringPSI SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="如果落在会使用的人手中，这件套甲有可能变成我们所开发过最危险的东西。"
+Comment=""
+
+[CE_EngineeringSHIVI SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="S.H.I.V是我们的移动式武器平台--其代表着我们在全机械化步兵支持载具方面的最先进成果。"
+Comment=""
+
+[CE_EngineeringSHIVII SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="借着搭载由外星合金制成的加强底盘，我们成功改装了现有的超重型步兵载具（S.H.I.V.），其可以在战场上提供移动式掩护。"
+Comment=""
+
+[CE_EngineeringSHIVIII SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们从外星人那里回收的小型脉冲驱动器非常适合用在S.H.I.V.上，我们需要做的，只有开发合适的底座，接下来一切就能顺利进行。"
+Comment=""
+
+[CE_EngineeringSkeleton SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="利用附加的钩爪，我们的士兵应该可以更轻松地攀登上更高的制高点。"
+Comment=""
+
+[CE_EngineeringTitan SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="借着这件套甲新增的结构性支撑功能，我预期士兵们可因此充分发挥他们身上所携带的额外火力，穿上这件套甲也能防御环境中像是火焰等等的危害，减少对士兵所受到的影响。"
+Comment=""
+
+[CE_EngineeringUnlocked SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="工程人员正在待命，只等您下令了。"
+Comment=""
+
+[CE_EngineerToughMission_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="真丢人...也许我们可以想办法改进我们的装备，避免这样情形再次发生。"
+Comment=""
+
+[CE_EngineerToughMission_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们的战士都配有最佳的装备...但我想这样似乎还不够。"
+Comment=""
+
+[CE_EngineerToughMission_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="这样的情况下，我们不应再袖手旁观了，必须想办法帮助我们的士兵们。"
+Comment=""
+
+[CE_EngineerToughMission_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我无法相信...我从来没有料想到会发生这样的损失，我以为我们已准备充分。"
+Comment=""
+
+[CE_EngineerToughMission_05 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="整个工程团队都致力于避免这种情况再次发生，我们一定会有办法改善我们的装备...别无选择。"
+Comment=""
+
+[CE_EtherealDeviceRetrieved_LeadOut SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们从哪里开始偏离了轨道？我开始怀疑我们有没有考虑过大局。"
+Comment=""
+
+[CE_FacilityHelp SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="虽然我们这里还有一些空间可发展，但如果真的想要扩展设施，就需要向下开挖，利用基地的地下空间了，而不幸的是，挖得越深，费用就越高。"
+Comment=""
+
+[CE_FirestormBuilt_LeadOut SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们在这里的确有一些丰功伟业，但我得承认...我和我的团队感到最骄傲的，是烈焰风暴战机的成功。"
+Comment=""
+
+[CE_FirstEngineering SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="欢迎来到工程部，虽然研究团队可能告诉过您，但我还是要说，真正的魔法就在这里出现了，只要他们能想象到的...不论是武器、护甲或最新设施，我们都能在这里找到制作方法。"
+Comment=""
+
+[CE_FirstFacility SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="工作团队正准备开始施工，新设施开始运作时，我会通知您。"
+Comment=""
+
+[CE_FirstFoundryProjectSelected SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我现在通知铸造团队，您可以从工程部的计划队列远程监控他们的工作进度。"
+Comment=""
+
+[CE_FirstItem SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="马上就开始制造。当计划完成，准备好实地测试的时候我会通知你。"
+Comment=""
+
+[CE_FirstTerrorMission_LeadOut SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们最坏的假设可能在最后成真--它们不只是来劫持人类，而是有其他打算。"
+Comment=""
+
+[CE_Foundry SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="第一次到铸造车间来？ 这里不是最棒的地方，但我们有许多非常有趣的计划都得益于在这里进行的'调整'。"
+Comment=""
+
+[CE_FoundryProjectSelected01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="铸造车间已准备就绪，一旦铸造完毕我将立即通知您。"
+Comment=""
+
+[CE_FoundryProjectSelected02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我保证会让制造立刻开始，一旦有所收获，我一定会通知您。"
+Comment=""
+
+[CE_FoundryProjectSelected03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们当然不会让铸造车间里的伙伴们有机会偷懒，我会让他们知道，您有另一个制造计划。"
+Comment=""
+
+[CE_FusionDeviceSighted_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="那看起来简直就像个小型聚变反应炉，如果我们回收它，也许能对我们的武器和推进研究工作有莫大帮助。"
+Comment=""
+
+[CE_GollopUnlocked SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们必须尽快开始找地方安置这个装置，想到我们为了得到它所经历的一切，我们应该努力为它找个安全的存放地点。"
+Comment=""
+
+[CE_HyperwaveBeaconActivated_LeadOut SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="这场'赌注'似乎小有成果...但我们为了满足博士的好奇心，却让所有相关人员的生命受到威胁。"
+Comment=""
+
+[CE_InterceptorTutorialNoJets SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="指挥官，我们当前无任何拦截机可用，这将使我们无法对飞碟接触做出回应。在有资金可用后，我们应尽快订购新的喷射机。"
+Comment=""
+
+[CE_InterceptorTutorialTransfer SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="从现在开始，您就可以将我们的拦截机部署至世界各处基地。派遣我们的舰队进驻各大陆，就有更大机会拦截到飞碟。"
+Comment=""
+
+[CE_InterceptorTutorialWeapons SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="在机库选择喷射机时，您可以变更其现有的武器装备，以便符合我们的需求。"
+Comment=""
+
+[CE_OverseerEntry SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="...或非常危险。"
+Comment=""
+
+[CE_PsionicsDiscovered_LeadOut SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们难道没有道德义务，让这些士兵准备好面对他们将要遭遇的改变...那些永远影响他们的改变吗？"
+Comment=""
+
+[CE_SightDrone_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我相信我的团队非常愿意得到那个东西。"
+Comment=""
+
+[CE_Strategy_ArcWarning SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="指挥官，如果您打算利用电弧发射器带那个东西回来，我们首先需要一个囚禁设施。"
+Comment=""
+
+[CE_SupplyEntry SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="这看起来是一种补给船，而可能的储存容量相当巨大，如果外星人真的打算将这么多外来物质运进来，那只有一种可能，它们打算扩大入侵的规模。"
+Comment=""
+
+[CE_Tactical_ABM_Alien_Experiments SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们眼前的究竟是什么鬼东西？"
+Comment=""
+
+[CE_Tactical_ABM_Power_Source_Sighted SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="那看起来像是外星飞船的主要能量来源，我只能冒险地揣测，从产生的能量大小看来，它可能被用来推动那艘战舰，我得好好看着你的火力...那个装备还相当不稳定。"
+Comment=""
+
+[CE_Tactical_ABM_Rejected_Candidates SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="你怎么还会对这个感到惊讶？ 不论它们在找什么，一定都找到了--而且就在下面那些人的身上。"
+Comment=""
+
+[CE_Tactical_Alien_Musings_Chryssalid SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="看来它们已经得到符合它们所需条件的东西。"
+Comment=""
+
+[CE_Tactical_Alien_Musings_CyberdiscDrone_Intro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们无法从那东西身上得到任何信息，它的行动是如此的...不一致。"
+Comment=""
+
+[CE_Tactical_Alien_Musings_Ethereal_Intro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="在武器还都很明显的时代，我那时还更喜欢它。"
+Comment=""
+
+[CE_Tactical_Alien_Musings_Floater_Intro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="它绝对不会赢得任何选美比赛，这一点是确定的。"
+Comment=""
+
+[CE_Tactical_Alien_Musings_HeavyFloater_Intro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="这看起来的确像是有了明显的改善。"
+Comment=""
+
+[CE_Tactical_Alien_Musings_Muton_Intro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我不会羡慕任何得去对抗那东西的人。"
+Comment=""
+
+[CE_Tactical_Alien_Musings_MutonElite_Intro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="第一次碰到异变者时似乎还不算糟，它们现在竟然都穿上了护甲。"
+Comment=""
+
+[CE_Tactical_Alien_Musings_Sectopod_Intro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我们可能得花上数年来分析那东西的内部运作。"
+Comment=""
+
+[CE_Tactical_General_Alien_Surgery_Sighting SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我看够了，现在应该没有任何问题了...这个外星人的研究目的是要造成伤害...全人类的伤害。"
+Comment=""
+
+[CE_TentpoleNotifyBad03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="嗯...指挥官，我想您应该亲自看一下这个。"
+Comment=""
+
+[CE_TentpoleNotifyGood03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我想你应该看看这个，指挥官。"
+Comment=""
+
+[CE_UrgeBuildBasePassKey SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="我有预感，我们将如何进入外星人的设施--只要下指令，我将立刻开始工作。"
+Comment=""
+
+[CE_UrgeFacility SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="现在是时候考虑修建附加设施并扩建基地了。您可在工程部查看工程蓝图并选择修建扩展设施。"
+Comment=""
+
+[CE_UrgeFoundry SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="指挥官，现在若有一个铸造车间一定能够帮助增强这些武器与装备的效力。我建议现在就开始建造一座铸造车间。"
+Comment=""
+

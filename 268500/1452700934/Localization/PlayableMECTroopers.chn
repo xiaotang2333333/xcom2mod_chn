@@ -1,0 +1,37 @@
+;汉化：aotix
+
+[X2Effect_MecOverheat]
+BurningFriendlyName="过热"
+BurningFriendlyDesc="过热单位将无法运行，因为它们会从运行中释放热量。"
+BurningEffectAcquiredString="<XGParam:StrValue0/!UnitName/>过热。"
+BurningEffectTickedString="<XGParam:StrValue0/!UnitName/>仍旧过热。"
+BurningEffectLostString="<XGParam:StrValue0/!UnitName/>不再过热。"
+
+[UIPersonnel_MECTraining]
+EmptyListMessage="没有增强候选人"
+MecsUnavailable="无MEC铸升级"
+NotEnoughResources="没有足够的资源用于增强"
+BuildFoundry="没有足够的资源用于增强"
+MeetTechRequirement="研究MEC科技"
+MeetStoryRequirement="完成失落之塔/研究机械化战争"
+
+
+m_strTitle="候选人"
+m_strEmptyListLabels[eUIPersonnel_Soldiers]="没有增强候选人"
+
+[UIFacility_MecAugmentationSlot]
+m_strAugmentSoldierDialogTitle="增强士兵"
+m_strAugmentSoldierDialogText="<XGParam:StrValue0/!UnitName/>可以接受专门的手术成为MEC游骑兵，以<XGParam:IntValue0/>补给和 <XGParam:IntValue1/>超铀核心为代价取代他们以前的职业。这个过程一旦开始就不可逆转。您希望继续吗？"
+m_strNoSoldiersTooltip="没有可用于MEC游骑兵的候选人。"
+m_strSoldiersAvailableTooltip="增强一名士兵成为MEC游骑兵"
+
+[UIAlert_MecAugmentationComplete]
+m_strAugmentationCompleteLabel="增强完成"
+
+[UIChooseMEC]
+m_strTitle=MEC Augmentation Specialization
+m_strInventoryLabel=Available Specializations:
+m_strBuy=BEGIN SURGERY
+
+[X2Effect_RepairProtocol]
+HealedMessage="+<Heal/>生命恢复"

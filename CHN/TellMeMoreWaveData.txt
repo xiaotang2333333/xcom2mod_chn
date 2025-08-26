@@ -1,0 +1,231 @@
+﻿[TUT_Barracks_06_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="通过\"兵营\"，您可以选择雇用更多士兵来壮大小队，选取\"雇用士兵\"，就会显示基本数据，说明雇用指定士兵所需的总费用，以及兵营剩余的容量。"
+Comment=""
+
+[TUT_Barracks_07_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="在\"兵营\"选取\"查看士兵\"，就会显示出目前XCOM所雇用的士兵名单。选取各士兵的名字，然后选取\"自定义\"，就能选择并指定士兵的姓氏、名字和昵称，您也可以设定一个新的国籍，并修改士兵的身体特征。"
+Comment=""
+
+[TUT_Barracks_09_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="在\"兵营\"内选取\"纪念堂\"，就能查看战场上阵亡士兵的纪念碑。"
+Comment=""
+
+[TUT_Barracks_10_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="重型武器专家的职责是使用高爆性武器对抗敌人，主要依赖肩上式火箭发射器来进行袭击以及破坏障碍物，这些受过特殊训练的士兵，对是否能成功完成任务目标，扮演着关键角色。"
+Comment=""
+
+[TUT_Barracks_11_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="XCOM部队大多数成员为游侠，身为身先士卒及敢为人后的部队，这些士兵初期均配有 XCOM独有的突击步枪，X-9。"
+Comment=""
+
+[TUT_Barracks_12_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="狙击兵擅长远距离造成大量伤害，不论是进行侦察任务或精确消灭敌方部队，其都是非常重要的资源。注意：若没有受过补充训练，狙击兵不适合近距离战斗。"
+Comment=""
+
+[TUT_Barracks_13_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="接受支援训练的士兵负责其所属队伍的战地医疗以及后勤支持任务，装备有医疗补给品、烟雾榴弹和其他物品，这些士兵需负责确保部署在战场上的所有战友平安归来。"
+Comment=""
+
+[TUT_ConstantResearch_05_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="研究团队将持续努力，尽快完成被指派的计划，重要的是，由于他们的工作与工程部的可用制造选项息息相关，所以他们不能闲置，结束一项研究计划后，需尽快指派另一项给他们。"
+Comment=""
+
+[TUT_DoomTracker_03_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="理事会由16个成员国组成，如果其中有一个或更多国家退出，理事会对于XCOM计划的信任就会下降。如果有7个以上国家退出，XCOM计划将会中止。"
+Comment=""
+
+[TUT_DoomTracker_04_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="目前的恐慌等级经由战情室的显示画面所监控，如果恐慌值达到最高等级，受影响的国家就有可能退出理事会，且该国之后的资助也会终止。在产生质疑的国家中成功完成战地任务可以减低恐慌值，维护该地区的卫星监控也可以减低恐慌值。"
+Comment=""
+
+[TUT_DoomTracker_05_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="为了能成功管理全球的恐慌等级，增加XCOM的卫星监控范围是必要的，此外，受到卫星监控的国家会增加资助金额。XCOM中的每个卫星基地台可以支持两枚卫星，\"卫星基地台\"和\"卫星\"本身都可以由\"工程部\"制造出来，而卫星则是由\"战情室\"负责发射。"
+Comment=""
+
+[TUT_DoomTracker_06_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="XCOM计划的资金是由理事会所提供，其成员国提供维持XCOM营运所需的必要资源，对成员国所提出的援助要求做出成功的响应后，该国为表达感激之情，通常会提供更多资源。"
+Comment=""
+
+[TUT_DoomTracker_07_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="理事会的成员偶尔会要求XCOM提供特殊任务协助，成功完成这些独有任务的时候，即可能得到额外的奖赏。"
+Comment=""
+
+[TUT_Engineering_04_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="在研究实验室中完成计划后，新发现的科技产物可由工程部制造制造，查看工程部的主接口，选取\"制造物品\"即会显示目前可供制造的物品列表，列表中的每个物品皆会显示完成制造流程需消耗的资源和预估时间。"
+Comment=""
+
+[TUT_Engineering_05_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="如果要管理全球恐慌等级，具备适当的卫星监控范围将是关键因素，XCOM总部中的每个卫星基地台可以支持两枚卫星，假若有可用的基地台，在工程部选取\"建造卫星\"就能使用更多卫星，一旦完成制造，新的卫星可经由战情室发射。"
+Comment=""
+
+[TUT_Engineering_06_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="选取\"建造设施\"，即会显示能够建造的新设施清单，包含建造需消耗的相关资源支出和时间等信息。"
+Comment=""
+
+[TUT_Engineering_07_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="雷蒙·沈博士是XCOM计划的总工程师，他拥有数十年的相关经验，被公认为珍贵的人力资产，XCOM计划何其有幸，能拥有如此一位才华洋溢、充满热忱、全球著名且获奖无数的工程师参与其中。请注意：这项人工智能是由沈博士所创造。"
+Comment=""
+
+[TUT_FacilityConstruction_03_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="选择欲建造的设施时，系统将会提示您为新设施在XCOM计划总部中选择一个位置。请注意，把特定的设施紧邻设置在类似的设施旁时，将可提供额外的功能。"
+Comment=""
+
+[TUT_FacilityConstruction_04_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="XCOM计划总部目前位于地底深处，建造多项设施后，将会需要再向下清理空间。请注意，当向基地下方清理得越深，这些扩建所需的费用也会因此增加。"
+Comment=""
+
+[TUT_FacilityConstruction_05_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="把特定的设施建造在同类型的设施旁时，将可提供额外的奖励。"
+Comment=""
+
+[TUT_MissionControl_03_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="当更多的科学家被招募进来，或是由理事会授命至XCOM时，他们的贡献将能加速研究实验室中的研究与开发进度。"
+Comment=""
+
+[TUT_MissionControl_04_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="召募更多的工程师，或是通过向理事会成员国提供援助来获得工程师，将可减少工程部内各种物品和设施的制造时间。"
+Comment=""
+
+[TUT_MissionControl_05_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="要确保XCOM能对外星人威胁采取响应措施，维持足够的士兵数量非常重要，如果在战斗中失去士兵，可以在兵营雇用替补人选。此外，协助遇险国家后可能可以获得高阶士兵作为报酬。"
+Comment=""
+
+[TUT_MissionControl_06_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="理事会--一群资助着XCOM计划的国家--由一位发言人代表全体成员，他们持续监控着XCOM针对外星人威胁所采取的响应措施与成效，而且每个月都会评估计划的表现。"
+Comment=""
+
+[TUT_Objectives_01_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="XCOM计划的当前目标皆列在战情室主画面下方的\"控制台\"上，当执行程序启动，计划目标将会随着更新。"
+Comment=""
+
+[TUT_ScienceLab_05_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="在\"研究实验室\"，您可以根据自己的目标来管理研究团队目前计划的优先级，清单中的每个研究选项都包含开展计划所需的资源，以及完成研究需要的时间。请注意，若在原来的计划仍进行中时更改研究选项，将会中止原先计划的进度。"
+Comment=""
+
+[TUT_ScienceLab_06_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="在研究实验室中进行的解剖，除了一探外星人生理构造以外，XCOM也能借此洞悉出与它们战斗最有效的方法。"
+Comment=""
+
+[TUT_ScienceLab_07_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="一旦外星人俘虏被成功捉回基地并安置在囚禁设施中，便能接受审讯，在进行这些程序的过程中，内部安全将会处于高度警戒状态。"
+Comment=""
+
+[TUT_ScienceLab_08_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="瓦伦博士是XCOM项目的首席科学家，她带领科研团队致力于找出改造外星科技的方法，用以推进人类科学发展。"
+Comment=""
+
+[TUT_TheHangar_03_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="在机库的主接口中订购更多拦截机，此外，机库提供维修、安装以及强化武器系统等功能，并可将飞船传送至其他XCOM基地。"
+Comment=""
+
+[TUT_TheHangar_04_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="在机库中选取\"查看飞船列表\"，即会显示XCOM目前所有可用飞船的报告。拦截机会根据其部署国家列出，点击拦截机高亮并选取\"详细数据\"，就会显示所选飞机目前的武器数据，选取\"编辑装备\"即可变更目前装备的武器。"
+Comment=""
+
+[TUT_TheHangar_05_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="从\"飞船清单\"可以订购更多的拦截机，在飞船清单中，点击一个所列国家的空白停机位高亮，然后选取\"订购拦截机\"，在这个画面中，您会看到目前的租赁费用以及目前机库的容量。"
+Comment=""
+
+[TUT_TheHangar_06_Robo SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText="\"工程部\"制造后，先进的机载武器系统可于\"机库\"安装。查看\"飞机清单\"并点选可用拦截机，选取\"详细数据\"后，即可显示该飞机的专属消息。在此画面选取\"编辑装备\"，便可变更目前装备的武器。"
+Comment=""
+

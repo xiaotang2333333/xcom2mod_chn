@@ -1,0 +1,579 @@
+﻿[NoID_CentralThatGenetic_alta AkEvent]
+SpokenText="军事官，那种基因材料加上这些设备...只可能有一种解释。"
+
+[NoID_CommanderConstructionOf AkEvent]
+SpokenText="指挥官，建造暗影舱能更好的协助我们拆解和分析回收来的外星器具和资料。"
+
+[NoID_GladWeFound AkEvent]
+SpokenText="我们发现这里的时机真是凑巧，再晚一些可能就没有人力进行摧毁了。"
+
+[NoID_ItsLikeThis AkEvent]
+SpokenText="这片区域的灵能含量非常惊人，长期暴露在这样的地区会有怎样的后果完全无法预料。"
+
+[NoID_ThisIsIncredible AkEvent]
+SpokenText="难以置信。幼年时父亲给我讲过一个故事，内容大意是一个山谷里布满了美丽但邪恶的能量。我现在有非常似曾相识的感觉。"
+
+[NoID_WeCanStart AkEvent]
+SpokenText="指挥官，您现在可随时下令建造暗影舱。"
+
+[NoID_YouAndMe AkEvent]
+SpokenText="你我都是。"
+
+[S_Alien_Fortress_Shen_01 AkEvent]
+SpokenText="真讨厌做这个...但你是唯一一个能够做到这个的，如果我可以的话你知道我会亲自上阵的。"
+
+[S_Alien_Fortress_Shen_02 AkEvent]
+SpokenText="好了。"
+
+[S_Alien_Fortress_Shen_03 AkEvent]
+SpokenText="我把原典脑中剩余的部分和漫游者连起来了，它应该会发射出和原典通过通道所用一样的信号。"
+
+[S_Alien_Fortress_Shen_04 AkEvent]
+SpokenText="行了，我们需要记录所有的光谱。记住，进去，迅速查看，然后马上回来，行吗？"
+
+[S_Alien_Fortress_Shen_05 AkEvent]
+SpokenText="哇哦...你看到了吗？！"
+
+[S_Alien_Fortress_Shen_06 AkEvent]
+SpokenText="不像是任何我们去过的地方...或是任何地球上的地方。"
+
+[S_Alien_Fortress_Shen_07 AkEvent]
+SpokenText="只有一种方法能知道了。"
+
+[S_Alien_Fortress_Shen_08 AkEvent]
+SpokenText="继续，我们就指望你了。"
+
+[S_Alien_Fortress_Shen_09 AkEvent]
+SpokenText="那看起来一点也不好，博士。"
+
+[S_Alien_Fortress_Shen_10 AkEvent]
+SpokenText="是的。"
+
+[S_Alien_Fortress_Shen_11 AkEvent]
+SpokenText="那么我们最好在第二次尝试前，确保我们拿到了正确的钥匙，我讨厌这种不可捉摸的所谓的\"有机\"。"
+
+[S_Ambient_ADVENT_Burger_Shen AkEvent]
+SpokenText="我从没去过变种人的市中心，所以从没见过传说中那些变种人派发的汉堡。没人想过这些问题吗，比如，你还记得你最后一次什么时候看到牛吗？"
+
+[S_Ambient_Helpers_Shen AkEvent]
+SpokenText="我曾打算抢回一部变种人MEC，然后把小精灵的AI整合上去，做成一个机器人来协助员工。但我最终还是没把这个想法告诉军事官或是泰根博士，或许等情况再好一些的时候我会提出来。"
+
+[S_Autopsy_MEC_Blurb AkEvent]
+SpokenText="变种人通过部署这些机械单位军队来帮助\"维和\"。就目前我所知的，他们都是全自动化并且武装到了牙齿。"
+
+[S_Autopsy_Sectopod_Blurb AkEvent]
+SpokenText="军事官说曾见过这些东西。尽管有许多猜测，但当我们打开时却没有发现一个飞行员。"
+
+[S_Autopsy_Turret_Blurb AkEvent]
+SpokenText="变种人似乎没有在城市中接近人的地方布置全自动武器，这说明他们极其小心。"
+
+[S_Avenger_Ambient_Shen_ADVENTtech AkEvent]
+SpokenText="我有幸近距离看到过战场上回收来的变种人的部分武器。框体里用到的合金比我们明显要轻很多，对他们的人类形态更加适合。我猜应该和他们在所有殖民地使用的材质相同--但他们应该使用的是地球上的某种材质，因为他们似乎有源源不断的类似补给。"
+
+[S_Avenger_Ambient_Shen_Alientech AkEvent]
+SpokenText="虽说进展还比较慢，但是我已尝试将我们的设备与在飞船上使用的外星科技相连接。大多数的主要系统在两者的结合下现在都能正常运转。我希望结合两个世界最好的东西，创造出新的设备--外星人都想象不到的设备。"
+
+[S_Avenger_Ambient_Shen_CityMigration_01 AkEvent]
+SpokenText="博士，你对这些基因诊疗所了解多少？ 它们现在似乎是这些城市的巨大吸引力。"
+
+[S_Avenger_Ambient_Shen_CityMigration_02 AkEvent]
+SpokenText="但是首先你要被植入芯片？"
+
+[S_Avenger_Ambient_Shen_CityMigration_03 AkEvent]
+SpokenText="我慢慢感觉到它的吸引力了。"
+
+[S_Avenger_Ambient_Shen_FacadePeace_02 AkEvent]
+SpokenText="城市里的那些数百万民众看起来不大在乎。"
+
+[S_Avenger_Ambient_Shen_FacadePeaceB_01 AkEvent]
+SpokenText="你对于离开城市感到后悔吗？ 你一定会想念那边的生活吧？ 吃的东西？ 还是温暖的床？"
+
+[S_Avenger_Ambient_Shen_FacadePeaceB_02 AkEvent]
+SpokenText="我倒没有想到那方面...变种人多半给你弄了一个很不错的实验室吧。"
+
+[S_Avenger_Ambient_Shen_FacadePeaceB_03 AkEvent]
+SpokenText="别担心，我确定指挥官会给你准备一些好设备的。"
+
+[S_Avenger_Ambient_Shen_Father AkEvent]
+SpokenText="我相信爸爸会对我们现在所做的一切感到骄傲。我们终于第一次真正地对外星人造成威胁，他们也深知这点。我们现在只需要让殖民地的那些人们记住我们是为何而战的。父亲的死不是为了让我们成为让外星人实验的玩物。我们要让人们知道这点。"
+
+[S_Avenger_Ambient_Shen_Makeshift AkEvent]
+SpokenText="我不清楚别的船员如果知道我给这艘船贴了那么多补丁会作何感想。当你不用操心太多事的时候往往会有好运相伴，但我有点担心假使我们操之过急会带来什么后果。"
+
+[S_Avenger_Ambient_Shen_PowerCore AkEvent]
+SpokenText="我们早就发现复仇者号在引擎不启动的低负载情况下船身会常常前倾。起初我还以为这是稳定装置的问题，但我开始意识到这会是外星人宏观设计的一部分。核心本身不是完全稳定的，这也就解释了为什么外星人要花那么大力气在船头特意将核心隔离开来。"
+
+[S_Avenger_Ambient_Shen_Quick_01 AkEvent]
+SpokenText="我希望能有一个模拟器能让布拉德福德练习操作--如果他将飞船撞毁了的话，我会亲手将他交到变种人的手里的。"
+
+[S_Avenger_Ambient_Shen_Quick_02 AkEvent]
+SpokenText="我还是搞不明白变种人从哪里找来的增援部队？毫无疑问这不会是志愿军。"
+
+[S_Avenger_Ambient_Shen_Quick_03 AkEvent]
+SpokenText="我看到泰根在一个过道里自言自语。不知道他有没有注意到我。布拉德福德很信任他，但我会始终保持警惕的。"
+
+[S_Avenger_Ambient_Shen_Quick_04 AkEvent]
+SpokenText="你可能认为我们现在需要一些机器人帮手。嗯。也许我可以利用这些零件自己做一个。"
+
+[S_Avenger_Ambient_Shen_Quick_05 AkEvent]
+SpokenText="我昨天接收到一份船尾升降机咯吱作响的报告。我只希望这不是金属疲劳导致的。"
+
+[S_Avenger_Ambient_Shen_Quick_06 AkEvent]
+SpokenText="虽然希望渺茫，但我仍希望找一些会使扳手的新人来--他们能帮到我。"
+
+[S_Avenger_Ambient_Shen_Quick_07 AkEvent]
+SpokenText="假使我们能够翻译他们的语言，修理飞船系统这活儿就能节省大量宝贵时间。很可惜，我们这儿就缺语言学家。"
+
+[S_Avenger_Ambient_Shen_Quick_08 AkEvent]
+SpokenText="我不知道是否又回到了过去--无时无刻不是神经紧绷--随时都枕戈待旦。让你时刻保持警惕。"
+
+[S_Avenger_Ambient_Shen_Quick_09 AkEvent]
+SpokenText="我在想是否有军队一直在计算外星人击杀数--这也许是个有力的征兵手段。"
+
+[S_Avenger_Ambient_Shen_Quick_10 AkEvent]
+SpokenText="泰根好像有挠他后脑勺上那个疤痕的习惯--我想知道是否有人能确定他的那枚芯片真被取出了。"
+
+[S_Avenger_Ambient_Shen_ShenFather_01 AkEvent]
+SpokenText="让复仇者号重获动力确实是个奇迹。我不大确定他是如何破解系统的，但要是破解失败了，我们恐怕早就一命呜呼了。他不惜一切代价使飞船起飞，可惜他已经看不到她飞的样子了。"
+
+[S_Avenger_Ambient_Shen_ShenFather_02 AkEvent]
+SpokenText="你可以一看到外星人就用这艘飞船歼灭他们，以此来表示对他的纪念。"
+
+[S_Avenger_Ambient_Shen_ShenFatherB_01 AkEvent]
+SpokenText="我好希望他能一直活着看到我们进行反击...然后知道一切都没有白白牺牲。"
+
+[S_Avenger_Ambient_Shen_ShenFatherB_02 AkEvent]
+SpokenText="从目前来看，你大可用你的经验来做。"
+
+[S_Avenger_Ambient_Shen_ShensPrideB_01 AkEvent]
+SpokenText="我们只有这艘船了...但我知道外星人丢了艘船可不太高兴..."
+
+[S_Avenger_Ambient_Shen_ShensPrideB_02 AkEvent]
+SpokenText="我很高兴他们猜错了答案。"
+
+[S_Avenger_Ambient_Shen_ShensPrideC_01 AkEvent]
+SpokenText="爸爸为了让飞船能够成功起飞倾尽了他的所有心血，所以我绝不会让它白费。她现在只是装备烂了点，但如果有一些新的图纸再花一些力气的话，她绝对会是天空中最结实的家伙。"
+
+[S_Avenger_Ambient_Shen_TyganConscienceB_01 AkEvent]
+SpokenText="给我说说，博士。和变种人共事一定很开心吧，在殖民地...怎么会突然改变心意的？"
+
+[S_Avenger_Ambient_Shen_TyganConscienceB_02 AkEvent]
+SpokenText="看来你还没搞明白。外星人如果为了单单寻求和平是不会到这儿来的。"
+
+[S_Avenger_Ambient_Shen_TyganConscienceB_03 AkEvent]
+SpokenText="那我得说，这份工作就是为你量身定制的啊。"
+
+[S_Avenger_Ambient_ShenFacadePeace_01 AkEvent]
+SpokenText="你在和军事官接上头之前在殖民区住过几年，对吧？"
+
+[S_Avenger_Attack_Shen_01_Setup_Phase AkEvent]
+SpokenText="这不可能...引擎没事！除非...他们一定是使用了电磁脉冲！我试着绕开这个外星人回路...等等！"
+
+[S_Avenger_Attack_Shen_02_Setup_Phase AkEvent]
+SpokenText="传输没被接受！接口已准备好...但系统无视了我的命令！"
+
+[S_Avenger_Attack_Shen_03_Setup_Phase AkEvent]
+SpokenText="没错。"
+
+[S_Avenger_Attack_Shen_04_Setup_Phase AkEvent]
+SpokenText="我们遇到一个麻烦。"
+
+[S_Avenger_Attack_Shen_05_Setup_Phase AkEvent]
+SpokenText="他们在外面施放了一个尖塔设施。它在生成脉冲，和击落我们的那种一样。我没法在那东西存在的情况下启动引擎！"
+
+[S_Avenger_Attack_Shen_06_Setup_Phase AkEvent]
+SpokenText="我这里没办法。"
+
+[S_Avenger_Attack_Shen_07_Setup_Phase AkEvent]
+SpokenText="我没法在那东西存在的情况下启动引擎！"
+
+[S_Avenger_Shen_Exposed_Power_Coil_First AkEvent]
+SpokenText="这个线圈能提供给我们复仇者号系统一些额外的能源，但我们得增强护盾来保护所有船员。"
+
+[S_Avenger_Shen_Not_Enough_Engineers AkEvent]
+SpokenText="在工程方面我需要一些人手，指挥官。有的话请告诉我。"
+
+[S_Blacksite_Horror_Shen_01 AkEvent]
+SpokenText="我们马上就能知道了，我已经将暗影舱和飞船的电脑连接到一起了。"
+
+[S_Blacksite_Horror_Shen_02 AkEvent]
+SpokenText="我们回来之后它就一直在筛选我们回收的物质。给基因序列排列..."
+
+[S_Blacksite_Horror_Shen_03 AkEvent]
+SpokenText="这也是为什么我们需要电脑来帮我们找到它们来自哪里。"
+
+[S_Blacksite_Horror_Shen_04 AkEvent]
+SpokenText="将它们和我们从变种人网络中获取的数据进行交叉对比。"
+
+[S_Blacksite_Horror_Shen_05 AkEvent]
+SpokenText="这是...其中一个基因诊疗所的进入许可文件。"
+
+[S_Blacksite_Horror_Shen_06 AkEvent]
+SpokenText="基因诊疗所，几百万人都那儿在寻求帮助。"
+
+[S_Blacksite_Horror_Shen_07 AkEvent]
+SpokenText="博士，这是种族屠杀，而这些人正在自投罗网！"
+
+[S_Blacksite_Horror_Shen_08 AkEvent]
+SpokenText="我们可能不知道他们拿这些东西做什么，但我想我能查出现在是什么情况。"
+
+[S_Blacksite_Horror_Shen_09 AkEvent]
+SpokenText="明白。它是一个高度戒备的设施；标准防御配备。"
+
+[S_Broadcast_Truth_Shen_01 AkEvent]
+SpokenText="已准备完毕。虽然我们需要非常接近才能搞定这个。"
+
+[S_Broadcast_Truth_Shen_02 AkEvent]
+SpokenText="达到范围内，尝试进入！"
+
+[S_Build_This_Item_Engineering_Tutorial_Shen AkEvent]
+SpokenText="指挥官，别的不敢讲，但我应该能在很短的时间内把这些材料中的一些组合起来。我建议先开始制作急救包，这东西迟早会派上用场的。"
+
+[S_Build_This_Item_Engineering_Tutorial_Shen_ALT AkEvent]
+SpokenText="指挥官，别的不敢讲，但我应该能在很短的时间内把这些材料中的一些组合起来。我建议先开始制作急救包，这东西迟早会派上用场的。"
+
+[S_Commander_Awakens_Shen_01_Setup_Phase AkEvent]
+SpokenText="博士，有更好的地方干这个！"
+
+[S_Commander_Awakens_Shen_02_Setup_Phase AkEvent]
+SpokenText="一切就绪。"
+
+[S_Commander_Awakens_Shen_03_Setup_Phase AkEvent]
+SpokenText="读数现在非常混乱。"
+
+[S_Commander_Awakens_Shen_04_Setup_Phase AkEvent]
+SpokenText="博士！无生命体征..."
+
+[S_Dark_Volunteer_01_Shen_01 AkEvent]
+SpokenText="这不会很容易。但我认为这是我们现在唯一的出路。"
+
+[S_Dark_Volunteer_01_Shen_02 AkEvent]
+SpokenText="序列只是这个项目中的一部分；钥匙只能和信号配套使用。"
+
+[S_Dark_Volunteer_01_Shen_03 AkEvent]
+SpokenText="不，那部分我们可以解决，我们自己造了一个。"
+
+[S_Dark_Volunteer_01_Shen_04 AkEvent]
+SpokenText="某种意义上来说，我能。只要通过灵能网络操纵新的化身就行了。"
+
+[S_Dark_Volunteer_01_Shen_05 AkEvent]
+SpokenText="也不尽然，而且那人不会是我。"
+
+[S_Dark_Volunteer_01_Shen_06 AkEvent]
+SpokenText="同时，我会分解那个静滞护甲中的每一个回路，到时候，我会做好准备。"
+
+[S_Dark_Volunteer_02_Shen_01 AkEvent]
+SpokenText="最终连接完成。能量充足，缓冲区最后检查..."
+
+[S_Dark_Volunteer_02_Shen_02 AkEvent]
+SpokenText="一切就绪。"
+
+[S_Dark_Volunteer_02_Shen_03 AkEvent]
+SpokenText="初始化网络连接。"
+
+[S_First_Flight_Shen_01_Setup_Phase AkEvent]
+SpokenText="简单回答？\"是的\"。不过也许你们会想先抓稳了。"
+
+[S_FirstStasisLanceAvailable_Shen AkEvent]
+SpokenText="根据手头的图纸，我们可以准备开始组装了，指挥官。我们将制造头颅接入器，就等你的一声令下了。"
+
+[S_FirstStasisLanceBolted_Shen AkEvent]
+SpokenText="试验场已就绪，指挥官，只要你下令我们就开始制造头颅接入器。"
+
+[S_Here_they_Come_Shen AkEvent]
+SpokenText="他们来了。"
+
+[S_Human_Tubes_Shen_ALT AkEvent]
+SpokenText="但为什么是现在？现在这个时刻他们能做什么？"
+
+[S_Intro_Shen_01 AkEvent]
+SpokenText="信号已接收。十分清楚。"
+
+[S_Intro_Shen_02 AkEvent]
+SpokenText="好的粉碎者，轮到你了。"
+
+[S_Item_Selected_Engineering_Tutorial_Shen AkEvent]
+SpokenText="我在做了，指挥官。"
+
+[S_Old_Gods_01_Shen_01 AkEvent]
+SpokenText="指挥官，我们正在着手复原这东西，但不太成功。"
+
+[S_Old_Gods_01_Shen_02 AkEvent]
+SpokenText="我相信你，博士。"
+
+[S_Old_Gods_01_Shen_03 AkEvent]
+SpokenText="这些是坐标，返回坐标。看来我们找到了一个起源点！好吧...只是一部分。我猜这只是局部内容..."
+
+[S_Old_Gods_01_Shen_04 AkEvent]
+SpokenText="不光是这个。我之前破译的数据也不见了。"
+
+[S_Old_Gods_01_Shen_05 AkEvent]
+SpokenText="别想数据的事了，它在侵入能量核心。它破解了我的安全设置，正在把能量等级调高到...不！"
+
+[S_Old_Gods_01_Shen_06 AkEvent]
+SpokenText="泰根！切断连接！"
+
+[S_Old_Gods_01_Shen_07 AkEvent]
+SpokenText="那...可是非常庞大的数据。"
+
+[S_Old_Gods_01_Shen_08 AkEvent]
+SpokenText="最好赶紧开始。我们不可能再做到那样了。"
+
+[S_Old_Gods_01_Shen_09 AkEvent]
+SpokenText="只要我能重建之前丢失的数据。我只希望这一切都是值得的。"
+
+[S_Pre_Final_Mission_Broadcast_Shen_01 AkEvent]
+SpokenText="有过好消息吗？"
+
+[S_Pre_Final_Mission_Broadcast_Shen_02 AkEvent]
+SpokenText="没问题。"
+
+[S_ResistanceMusing_Shen AkEvent]
+SpokenText="指挥官在的话会给反抗军很大的鼓舞，更别说我们的船员了。我从未见过布拉德福德这么兴奋过。虽然他和指挥官在战前就认识且信任加藤，但我仍持保留意见。反抗军有多需要我们的帮助，我们就多渴望他们的支持。"
+
+[S_Setup_Phase_Avoid_Hostile_Detection_Radius_Shen AkEvent]
+SpokenText="你需要躲开他们的视线，远离侦查范围。"
+
+[S_Setup_Phase_Build_This_Facility_Shen AkEvent]
+SpokenText="指挥官，我认为现在建造这个设施能给我们带来最大收益。"
+
+[S_Setup_Phase_Excavation_Staff_Confirmed_Shen AkEvent]
+SpokenText="看起来不错，只要你下了命令我们马上就可以开始，指挥官。"
+
+[S_Setup_Phase_Excavation_Underway_Shen AkEvent]
+SpokenText="正在清理，指挥官，但需要一些时间才能把全部的东西都清理出来。"
+
+[S_Setup_Phase_First_Build_Item_Screen_Shen AkEvent]
+SpokenText="你会很惊讶这些东西能在战场上带来的不同，指挥官。只要一些其他的补给品我就可以立刻做出任何我们需要的东西。"
+
+[S_Setup_Phase_How_To_Excavate_Shen AkEvent]
+SpokenText="为了清理出这些空间，我们首先需要指派一个负责任务的工程师。一旦我们对飞船开始更深入的开发，就得花费更多的人力和时间来为新设施创造空间。"
+
+[S_Setup_Phase_Start_Excavation_Shen AkEvent]
+SpokenText="既然已经得到了新帮手，那么我们可以开始从飞船上清理一些旧设备和残骸来为新设施腾出空间。"
+
+[S_Setup_Phase_Use_Overwatch_Against_Reinforcements_Shen AkEvent]
+SpokenText="如果我们想在外星人的增援部队到达时有所行动，我们可以在适当的位置选择监视，等待他们自投罗网。"
+
+[S_Shen_Greeting_A AkEvent]
+SpokenText="嗨，指挥官。"
+
+[S_Shen_Greeting_B AkEvent]
+SpokenText="你好，指挥官。"
+
+[S_Shen_Greeting_C AkEvent]
+SpokenText="指挥官？"
+
+[S_Shen_Greeting_D AkEvent]
+SpokenText="有何吩咐，指挥官？"
+
+[S_Shen_Greeting_E AkEvent]
+SpokenText="什么事，指挥官？"
+
+[S_Shen_Greeting_F AkEvent]
+SpokenText="乐意效劳，指挥官。"
+
+[S_Shen_ThankYouForWorkshop AkEvent]
+SpokenText="多谢了，指挥官。新的工作间会很有用的。"
+
+[S_Shens_Loot_Shen_01_Setup_Phase AkEvent]
+SpokenText="你们干嘛干站在那？"
+
+[S_Shens_Loot_Shen_02_Setup_Phase AkEvent]
+SpokenText="非常...完美！快点，我们把它放进去。"
+
+[S_StasisLanceReminder_Shen AkEvent]
+SpokenText="准备就绪，指挥官。如果你需要一个头颅接入器的话，我们可以在任意时间进行组装。"
+
+[S_Support_Ambient_Musings_Misc_Shen_01 AkEvent]
+SpokenText="我还在研究军事官在战争之前保存的资料。这些笔记都是用英文或者一些支离破碎的德文潦草书写的。我也许应该直接去问问军事官。"
+
+[S_Support_Beam_Weapons_Shen_01 AkEvent]
+SpokenText="如果外星人发现我们也有了和他们一样的能量武器，他们一定不会高兴的。"
+
+[S_Support_Build_Proving_Grounds_Shen_01 AkEvent]
+SpokenText="指挥官，如果我们要造出泰根设想的头颅接入器，我们需要一个特殊的设施来测试它。"
+
+[S_Support_Excavate_Room_No_Engineer_Shen AkEvent]
+SpokenText="指挥官，在开始清理其他房间之前，我们工程部团队需要更多的帮助。我们应该招募一位工程师。"
+
+[S_Support_First_Engineer_Received_Shen AkEvent]
+SpokenText="现在我们有更多工程师了，我们就可以开始清理出建造新设施的空间了，指挥官。不过我们还需要继续招募人员，一旦设施建造完成我们就需要他们工作了。"
+
+[S_Support_First_Excavating_Room_Shen_01 AkEvent]
+SpokenText="指挥官，我没有在此区域内的外星遗留物中发现什么，如果我们清理一下的话，也许我们可以在这里建立我们的新设施。"
+
+[S_Support_First_Facility_Construction_Shen_01 AkEvent]
+SpokenText="我们会立刻开始在新设施上进行工作，指挥官。在设施完毕并开始运作后我会通知你的。"
+
+[S_Support_First_Item_Selected_Shen_01 AkEvent]
+SpokenText="这都是你的了，指挥官。如果你还要什么请告诉我。"
+
+[S_Support_First_Kill_Shen_01 AkEvent]
+SpokenText="指挥官，在变种人尸体上也许会有一些可收集的物资。我们能收集到的任何物资都会是我们制造自己的装备时的巨大帮助。"
+
+[S_Support_First_Time_Construction_Shen AkEvent]
+SpokenText="复仇者号上有空间让我们扩展设施，指挥官。但我们首先需要更多的工程师才能清理出建造的区域来。"
+
+[S_Support_Golden_Path_Musings_Advent_Shen_01 AkEvent]
+SpokenText="就目前我所知，变种人的技术以及我们在市中心所看到的一切都是基于变异，而在一些案例中，是根据在侵略中已使用的外星技术加以改进。幸运的是，这些物质越普通，对我们找到可以在复仇者号的动力系统中使用的部件就越容易。"
+
+[S_Support_Golden_Path_Musings_Blacksite_Horror_Shen_01 AkEvent]
+SpokenText="所有这些人，几百万个无辜的生命不知不觉地踏进了外星人的陷阱中。我们应该早点意识到的，我们早就知道外星人不可信任。但他们的声音一直比我们响亮，他们在市中心给平民的奖励也比我们多。不管怎样，我们不能再这么继续下去，无论付出什么代价。"
+
+[S_Support_Golden_Path_Musings_Dying_Ethereals_Shen_01 AkEvent]
+SpokenText="我觉得这艘船上任何人都不会因为听说长老们快死了这事产生一点点怜悯。说不定士气还会因为此事增长呢。当然，这未必不是一个陷阱--长老们总是满肚子坏水--我觉得不管我们乐不乐意，我们都得阻止他们的治疗了。"
+
+[S_Support_Great_Mission_Shen_01 AkEvent]
+SpokenText="如果我们坚持这么做的话，外星人就无机可乘了，指挥官。"
+
+[S_Support_Great_Mission_Shen_02 AkEvent]
+SpokenText="希望一切都能这么顺利，指挥官。干得不错。"
+
+[S_Support_Great_Mission_Shen_03 AkEvent]
+SpokenText="干得好，指挥官--完成这类任务有益于保持士气高涨。"
+
+[S_Support_Great_Mission_Shen_04 AkEvent]
+SpokenText="我不知道新装备能否发挥作用，指挥官。但在我看来效果不错。"
+
+[S_Support_Great_Mission_Shen_05 AkEvent]
+SpokenText="我很高兴新兵们对除掉外星人这件事毫不犹豫。"
+
+[S_Support_Great_Mission_Shen_06 AkEvent]
+SpokenText="干得好，指挥官。外星人现在一定觉得很焦虑。"
+
+[S_Support_Great_Mission_Shen_07 AkEvent]
+SpokenText="小队全数回来了，外星人损失惨重。干得好，指挥官。"
+
+[S_Support_Great_Mission_Shen_08 AkEvent]
+SpokenText="外星人绝对没想到会输得那么惨。干得不错，指挥官。"
+
+[S_Support_Great_Mission_Shen_09 AkEvent]
+SpokenText="完成这类任务之后，士气会很高涨。我们可能得再备点酒。"
+
+[S_Support_Great_Mission_Shen_10 AkEvent]
+SpokenText="外星人大概还想不通是什么袭击了他们呢。继续加油，指挥官。"
+
+[S_Support_Heavy_Plated_Armor_Shen_01 AkEvent]
+SpokenText="E.X.O.护甲会赋予士兵使用重型武器的力量以及相应的坚韧度。"
+
+[S_Support_Heavy_Powered_Armor_Shen_01 AkEvent]
+SpokenText="我们把这个重型装甲称为W.A.R.护甲。我们让它们尽可能的结实和强力，它有强大的动力，可以使用多种重武器。"
+
+[S_Support_Light_Plated_Armor_Shen_01 AkEvent]
+SpokenText="蜘蛛护甲能增加士兵闪避攻击的几率，同时提供额外的敏捷和抓钩能力。"
+
+[S_Support_Light_Powered_Armor_Shen_01 AkEvent]
+SpokenText="我们最为隐秘的护甲，幽灵护甲能够提供超强的移动能力，技术上甚至能超越物理的法则。它还带有一个钩爪可作它用。"
+
+[S_Support_Magnetic_Weapons_Shen_01 AkEvent]
+SpokenText="这些磁力武器和早期的轨道炮原型很相近，他们能以极高的速度发射子弹。"
+
+[S_Support_Medium_Plated_Armor_Shen_01 AkEvent]
+SpokenText="名副其实的掠食者护甲能提升战场士兵的生存力。"
+
+[S_Support_Medium_Powered_Armor_Shen_01 AkEvent]
+SpokenText="这个采用了我们基础动力护甲结构，能够提供巨型护甲所能带来的坚韧。"
+
+[S_Support_Modify_Skulljack_Shen_01 AkEvent]
+SpokenText="指挥官，如果我们真的想和外星人干上一仗，我想我们也可以利用头颅接入器在变种人网络扫描隐藏区域。不过老实说要让它在战场上生效，我们的军队会面临比较大的风险。"
+
+[S_Support_More_Engineers_Shen_01 AkEvent]
+SpokenText="指挥官，如果你遇到了技能娴熟的新人，可以让他们来工程部帮忙。"
+
+[S_Support_Not_Enough_Comms_Shen AkEvent]
+SpokenText="指挥官，我们已经使用了所有可用的通信系统，在升级系统前我们无法再建立任何新的联络。"
+
+[S_Support_Not_Enough_Power_Shen AkEvent]
+SpokenText="指挥官，目前的电力系统已经到达极限，没有多余电力了，这意味着我们无法再扩大我们的设施规模了。"
+
+[S_Support_Proving_Ground_Project_First_Shen_01 AkEvent]
+SpokenText="我会让团队立即开始工作，指挥官。只要有所发现我会马上通知你。"
+
+[S_Support_Proving_Ground_Visit_Shen_01 AkEvent]
+SpokenText="欢迎来到试验场，指挥官。把我们一些实验性概念单独拿出来试验是个好主意，尤其是在武器方面。"
+
+[S_Support_Proving_Grounds_Project_Selected_Shen_01 AkEvent]
+SpokenText="听起来不错，指挥官--项目一旦完成，我会立刻让你知道。"
+
+[S_Support_Proving_Grounds_Project_Selected_Shen_02 AkEvent]
+SpokenText="有趣的选择。我们完成之后就会通知你的，指挥官。"
+
+[S_Support_Proving_Grounds_Project_Selected_Shen_03 AkEvent]
+SpokenText="我们马上开始，指挥官。当计划完成，我会通知你。"
+
+[S_Support_Psi_Gate_Recovered_Shen AkEvent]
+SpokenText="指挥官，我们已经成功将外星器具带回了暗影舱，我们应该立刻对其开始分析。这会有风险，但我认为如果我们想要知道它的作用，就只能启动它。"
+
+[S_Support_Shadow_Chamber_Constructed_Shen AkEvent]
+SpokenText="指挥官，暗影舱已建成，我们已经可以分析回收的外星人器具和数据。"
+
+[S_Support_Shadow_Chamber_Nag_Shen AkEvent]
+SpokenText="指挥官，暗影舱已建成可用。我们应当充分利用暗影舱。"
+
+[S_Support_Shadow_Chamber_Tactical_UI_First_Shen_01 AkEvent]
+SpokenText="指挥官，我们使用暗影舱能够进行大量计算，这是对我们下次战斗敌人的预估情况。"
+
+[S_Support_Staffing_Investment_Shen_01 AkEvent]
+SpokenText="指挥官，当我们将工程人员指派到某一特定设备时，他们需要在那个区域工作一段时间才能继续下一项工作。"
+
+[S_Support_Thanks_Workshop_Shen_01 AkEvent]
+SpokenText="我知道空间有限，指挥官--因此我很感谢额外的工作间设施，我们会好好利用它们的。"
+
+[S_Support_Tough_Mission_Shen_01 AkEvent]
+SpokenText="情况不是太好。也许我要升级我们的武器和护甲，给我们的军队更好的装备。"
+
+[S_Support_Tough_Mission_Shen_02 AkEvent]
+SpokenText="再漂亮完成几个任务，外星人就会被我们消灭了。"
+
+[S_Support_Tough_Mission_Shen_03 AkEvent]
+SpokenText="我们还能做些别的来改善我们的军队。"
+
+[S_Support_Tough_Mission_Shen_04 AkEvent]
+SpokenText="我还以为我们已经准备好了。看来我还得继续努力--我们都要继续努力。"
+
+[S_Support_Tough_Mission_Shen_05 AkEvent]
+SpokenText="工程师们保证再也不会发生这种事情了。指挥官--我们一定会竭尽所能。"
+
+[S_Support_Unstaffed_Engineer_Shen AkEvent]
+SpokenText="指挥官，感谢你为工程部招募新的成员，但现在我们仍有空余人员未进行分配。我们可以让他们进行建设，清理或在设施任职。"
+
+[S_Support_Urge_Facility_Shen_01 AkEvent]
+SpokenText="指挥官，我们也许要做些清理工作了，但这里我们还有扩展空间。我们应该要考虑建造一些新设施。"
+
+[S_Victory_Shen_01 AkEvent]
+SpokenText="要不是长老使灵能网络稳定下来，还不都得乱了套！那扇门也撑不了那么久！"
+
+[S_Victory_Shen_02 AkEvent]
+SpokenText="我这边什么也没做。这完全不可能。除非..."
+
+[S_Victory_Shen_03 AkEvent]
+SpokenText="这样做，我们就会面临完全超负荷的危险！"
+
+[S_Victory_Shen_04 AkEvent]
+SpokenText="还有一个超越维度的灵能网络彻底瘫痪了。"
+
+[S_Welcome_Engineering_Shen_01_Setup_Phase AkEvent]
+SpokenText="来吧，来吧，不要那么固执。我检查过连接了，检查了五次！没，问，题，的。"
+
+[S_Welcome_Engineering_Shen_02_Setup_Phase AkEvent]
+SpokenText="指挥官！要让我们的技术人员和他们的说上话比你想象中的要难得多。虽然我也知道你们都理解这种困难。"
+
+[S_Welcome_Engineering_Shen_03_Setup_Phase AkEvent]
+SpokenText="我不是那个意思...我觉得我们还没有互相介绍过，至少没正式介绍。我是莉莉·沈，这艘飞船的工程师。可能你想见到的是我的父亲，关于以前发生的事我猜军事官还没有告诉你。"
+
+[S_Welcome_Engineering_Shen_04_Setup_Phase AkEvent]
+SpokenText="我父亲为了让我们走到这一步而付出了一切。这艘飞船是他一生的心血。他一定很想亲自为你介绍每个部分。他之前常常说到你。"
+
+[S_Welcome_Engineering_Shen_05_Setup_Phase AkEvent]
+SpokenText="我能保证继续完成我父亲的工作。虽然现在看起来还不太像样，但从此以后无论你碰到什么麻烦，我都会帮你好好解决的。其他方面我也会帮点忙...你会知道我有多能干的。"
+
+[S_Welcome_Engineering_Shen_06_Setup_Phase AkEvent]
+SpokenText="终于见到你了，我很荣幸。指挥官。"
+
+[S_Welcome_Engineering_Shen_07_Setup_Phase AkEvent]
+SpokenText="好了。"
+
+[S_What_he_Said_Shen AkEvent]
+SpokenText="他说什么。"
+

@@ -1,0 +1,18 @@
+﻿[Archetypes.ARC_IA_BlacksiteVial XComInteractiveLevelActor]
+FriendlyDisplayName="提纯离心机"
+
+[Archetypes.ARC_IA_BroadcastStationBase XComInteractiveLevelActor]
+FriendlyDisplayName="网络控制"
+
+[Archetypes.ARC_IA_FlightDevice XComInteractiveLevelActor]
+FriendlyDisplayName="动力转换装置"
+
+[Archetypes.ARC_IA_ForgeStasisTube XComInteractiveLevelActor]
+FriendlyDisplayName="静滞舱"
+
+[Archetypes.ARC_IA_HackableAlienComputerBase XComInteractiveLevelActor]
+FriendlyDisplayName="求救信标"
+
+[Archetypes.ARC_IA_HackableStationBase XComInteractiveLevelActor]
+FriendlyDisplayName="网络终端"
+

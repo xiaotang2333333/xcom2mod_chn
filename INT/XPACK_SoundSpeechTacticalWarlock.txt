@@ -1,0 +1,1704 @@
+﻿[Play_X2_XP_WRLK_T_1st_Stronghold_Post_Intro AkEvent]
+SpokenText="Such bravery. Such steadfast determination. Such arrogance. To step foot in this scared temple and dare strike down a child of the gods! Your hubris is your downfall."
+
+[Play_X2_XP_WRLK_T_2nd_Stronghold_Post_Intro AkEvent]
+SpokenText="So the god killers have come to continue their work. Such brave little humans. Come forth, feel the embrace of a true immortal..."
+
+[Play_X2_XP_WRLK_T_3rd_Stronghold_Post_Intro AkEvent]
+SpokenText="Indeed. My brother and sister were but pale shadows of the Elder's glory. Come forth XCOM and stand before a true child of the gods!"
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_A AkEvent]
+SpokenText="Go forth and honor the Elders with your actions."
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_B AkEvent]
+SpokenText="We fight for the glory of the Elders."
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_C AkEvent]
+SpokenText="We will cleanse this world in the name of the Elders."
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_D AkEvent]
+SpokenText="Those without faith will perish!"
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_E AkEvent]
+SpokenText="We cross time and space to serve the Elders."
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_F AkEvent]
+SpokenText="Serve your purpose, spread our message!"
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_G AkEvent]
+SpokenText="Bring the Elder's mercy to the godless."
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_H AkEvent]
+SpokenText="Go! Destroy all who would defy the Elders!"
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_I AkEvent]
+SpokenText="Now is our time to march."
+
+[Play_X2_XP_WRLK_T_AI_Turn_Begins_J AkEvent]
+SpokenText="We will bring this resistance to a close."
+
+[Play_X2_XP_WRLK_T_Avatar_Almost_Complete_A AkEvent]
+SpokenText="Your time grows short, Commander. The Elder's penultimate creation, the Avatar, is nearly ready."
+
+[Play_X2_XP_WRLK_T_Avatar_Almost_Complete_B AkEvent]
+SpokenText="The Elders greatest creation is nearly ready, Commander. Soon you will see the Avatar first hand."
+
+[Play_X2_XP_WRLK_T_Avatar_Almost_Complete_C AkEvent]
+SpokenText="The ascendency grows near, Commander. Soon the Avatar will be ready, and your resistance will be no more."
+
+[Play_X2_XP_WRLK_T_Avenger_Assault_Avenger_Critical AkEvent]
+SpokenText="Your return, and my ascension, grow near Commander!"
+
+[Play_X2_XP_WRLK_T_Avenger_Assault_First_Cannon_Hit AkEvent]
+SpokenText="The Elders' strike in many ways, this is but another instrument of their will."
+
+[Play_X2_XP_WRLK_T_Avenger_Assault_Generator_Destroyed AkEvent]
+SpokenText="Try as you might, you cannot escape from the Elders' wrath."
+
+[Play_X2_XP_WRLK_T_Avenger_Assault_On_Victory AkEvent]
+SpokenText="The Elders will embrace me as their true champion! The pinnacle of all their creations!"
+
+[Play_X2_XP_WRLK_T_Avenger_Assault_Turret_Destroyed AkEvent]
+SpokenText="You will slow nothing, prevent nothing!"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_A AkEvent]
+SpokenText="Servants of the Elders-Come forth!"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_B AkEvent]
+SpokenText="Come, minions! Serve me as you would the Elders!"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_C AkEvent]
+SpokenText="More will come to serve and die for the Elders."
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_D AkEvent]
+SpokenText="I call upon the Elders' endless reserves!"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_E AkEvent]
+SpokenText="They will serve me just as they serve my masters."
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_F AkEvent]
+SpokenText="The Elders will spare no friend or foe if it means victory."
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_G AkEvent]
+SpokenText="The Elders send more of their minions to serve me!"
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_H AkEvent]
+SpokenText="I am reinforced by countless servants of the Elders."
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_I AkEvent]
+SpokenText="I am humbled by the Elders charity towards my efforts here."
+
+[Play_X2_XP_WRLK_T_Calling_Reinforcements_J AkEvent]
+SpokenText="By the Elders favor, I am reinforced!"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_High_Rank_A AkEvent]
+SpokenText="This soldier bears the marks of a seasoned warrior-a veteran of many battles no doubt. Their knowledge will surely prove invaluable."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_High_Rank_B AkEvent]
+SpokenText="Do the most loyal of your warriors deserve no better than to be abandoned in the field?"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_High_Rank_C AkEvent]
+SpokenText="Your lackadaisical approach to aiding your wounded soldiers has culminated in this-a seasoned warrior left vulnerable to the capture."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Jane AkEvent]
+SpokenText="The Elders are all too familiar with the accomplice known as Jane Kelly. What insights would such a trusted confidante possess I wonder. Shall we find out, Commander?"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Multiple_Soldiers_A AkEvent]
+SpokenText="With each failure, the shame of allowing your soldiers to be held captive is only compounded further."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Multiple_Soldiers_B AkEvent]
+SpokenText="I prefer not to sully my hands with the trifling details, but time and time again you have left your soldiers vulnerable to my capture."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Multiple_Soldiers_C AkEvent]
+SpokenText="With so many of your soldiers having been taken captive, how long do you suppose it will be before one of them reveals your secrets, Commander?"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Psi_Op_A AkEvent]
+SpokenText="To usurp the Elders' precious gift and turn it against them is the greatest of affronts. If your knowledge were not so valuable, I would kill you here and now."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Psi_Op_B AkEvent]
+SpokenText="You've done this one a disservice, Commander. To understand the Elders' gift requires a mastery you do not possess, and therefore cannot teach."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Psi_Op_C AkEvent]
+SpokenText="All who would attempt to wield the Elders' power without their blessing are doomed to an eternity of unspeakable suffering!"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Reaper_A AkEvent]
+SpokenText="Your kind have hunted and defiled many of the Elders' children, and now you will tell me all that you've learned in that time."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Reaper_B AkEvent]
+SpokenText="It would seem the shadows have betrayed you, Reaper, and now you will betray your people in turn."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Reaper_C AkEvent]
+SpokenText="You will come to regret your service in defying the Elders, Reaper. Your kind were better left hiding in the wilderness."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Reaper_D AkEvent]
+SpokenText="Reaper...your barbarous ways are well known to the Elders, but now we will truly see the extent of your deviance!"
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Skirmisher_A AkEvent]
+SpokenText="Your betrayal of the Elders will never be forgotten, but your knowledge of the resistance may prove more valuable than your service ever did."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Skirmisher_B AkEvent]
+SpokenText="Given the chance I would slay you myself traitor, but the Elders would have me seize your knowledge of the resistance first."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Skirmisher_C AkEvent]
+SpokenText="Your kind make the ideal captives, traitor. The Elders created you, and there is nothing you can hope to hide from them."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Skirmisher_D AkEvent]
+SpokenText="Your so-called freedom from the Elders' service has come at a price, betrayer, and now your debts shall be repaid."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Templar_A AkEvent]
+SpokenText="Your attempts at wielding the Elders' power have only brought suffering and stigma to your people. Come, tell me your secrets before your life is forfeit."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Templar_B AkEvent]
+SpokenText="I am eager to discover the true depths of your understanding of the Elders' power, Templar. Soon you will reveal all to me."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Templar_C AkEvent]
+SpokenText="The Elders have delivered you to my grasp, Templar, so that I may take your knowledge just as you have absconded with their power."
+
+[Play_X2_XP_WRLK_T_Chosen_Captures_Templar_D AkEvent]
+SpokenText="The price for seizing upon the Elders power can only be paid with your lives, but your knowledge of the resistance will suffice for now."
+
+[Play_X2_XP_WRLK_T_Chosen_Close_To_Avenger_A AkEvent]
+SpokenText="The time is near, Commander. Soon I will be upon you, and your roving sanctuary will be reduced to ashes."
+
+[Play_X2_XP_WRLK_T_Chosen_Close_To_Avenger_B AkEvent]
+SpokenText="You have fled our advances for too long. The time approaches, Commander. Prepare your ship for my arrival."
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_First_Defeat_A AkEvent]
+SpokenText="You have bested me today, Commander, but I will not allow myself to fail in carrying out the Elders' vision."
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_First_Defeat_B AkEvent]
+SpokenText="If I am defeated today, it is but another trial in my service to the Elders, and their vision foresees all outcomes."
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_First_Defeat_C AkEvent]
+SpokenText="I will rededicate myself to the Elders' vision! I will take this defeat as a sign that I must elevate myself to a higher stratum!"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Generic_A AkEvent]
+SpokenText="I must reconsider my approach in the face of defeat under the Elders' gaze. I will return to you after I confer with my masters."
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Generic_B AkEvent]
+SpokenText="The Elders will not suffer failures such as this for long. I take my leave of this field of defeat!"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Generic_C AkEvent]
+SpokenText="I should have expected nothing less from you, for the Elders clearly see some value in your skills, Commander. When next we meet, I will be better prepared."
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Generic_D AkEvent]
+SpokenText="An impressive effort at my expense, Commander. When I return, I will make an example of you for this disgrace!"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Generic_E AkEvent]
+SpokenText="The Elders will no doubt be impressed by your prowess in battle today, Commander, and so I take my leave. But do not think for a moment that I am done with you!"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Multiple_Defeats_A AkEvent]
+SpokenText="You have shamed me once again in the eyes of my masters. But I trust in their vision; if you were weak, I would never have been called here."
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Multiple_Defeats_B AkEvent]
+SpokenText="The Elders' trust in me will be rightfully shaken by the outcome of our recent encounters. But I will redeem myself!"
+
+[Play_X2_XP_WRLK_T_Chosen_Flees_Multiple_Defeats_C AkEvent]
+SpokenText="When your people are wiped clean from this world, these trivial defeats I have suffered at your hands will be all but forgotten by the Elders!"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_First_Hit_A AkEvent]
+SpokenText="You can never break my bond with the Elders!"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_First_Hit_B AkEvent]
+SpokenText="Your efforts will prove meaningless!"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_First_Hit_C AkEvent]
+SpokenText="I will not be separated from the Elders embrace!"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Half_Health_A AkEvent]
+SpokenText="Their voices grow distant!"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Half_Health_B AkEvent]
+SpokenText="I... cannot hear them clearly!"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Hit_A AkEvent]
+SpokenText="Your impiety knows no bounds!"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Hit_B AkEvent]
+SpokenText="You would defile our most sacred link!"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Hit_C AkEvent]
+SpokenText="I will make you suffer for these acts!"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Miss_A AkEvent]
+SpokenText="The Elders control your fate!"
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Miss_B AkEvent]
+SpokenText="None will sully these sacred grounds."
+
+[Play_X2_XP_WRLK_T_Chosen_Link_Miss_C AkEvent]
+SpokenText="You cannot break this link."
+
+[Play_X2_XP_WRLK_T_Chosen_Reveal_I_am_Done_A AkEvent]
+SpokenText="I take my leave of you, Commander."
+
+[Play_X2_XP_WRLK_T_Chosen_Reveal_I_am_Done_B AkEvent]
+SpokenText="The day is mine, and so I will leave you to mourn."
+
+[Play_X2_XP_WRLK_T_Chosen_Reveal_I_am_Done_C AkEvent]
+SpokenText="Enjoy this brief respite from the campaign."
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_A AkEvent]
+SpokenText="The Elders' judgement is nearly upon you!"
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_B AkEvent]
+SpokenText="I cannot hide for long, my power precedes me wherever I go."
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_C AkEvent]
+SpokenText="Your forces will perish, and you will return to the Elders, Commander."
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_D AkEvent]
+SpokenText="You will make a fitting sacrifice for the Elders."
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_E AkEvent]
+SpokenText="I will sacrifice you for the Elders' blessings."
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_F AkEvent]
+SpokenText="I am nearly upon you."
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_G AkEvent]
+SpokenText="My power will wash over the battlefield."
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_H AkEvent]
+SpokenText="How long did you think you could hide?"
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_I AkEvent]
+SpokenText="It is nearly time for atonement."
+
+[Play_X2_XP_WRLK_T_Chosen_Stalking_XCOM_J AkEvent]
+SpokenText="Are you ready to be redeemed?"
+
+[Play_X2_XP_WRLK_T_Chosen_Still_Has_Captive_A AkEvent]
+SpokenText="Soon it will be time for me to dispose of this captive, as you have apparently seen fit to abandon them, Commander."
+
+[Play_X2_XP_WRLK_T_Chosen_Still_Has_Captive_B AkEvent]
+SpokenText="I wonder what value this captive would have among the Elders lesser minions? Since you have all but abandoned your ally, perhaps I will offer them to mine."
+
+[Play_X2_XP_WRLK_T_Chosen_Still_Has_Captive_C AkEvent]
+SpokenText="Do you feel nothing for your comrade in chains? Soon they will have nothing left to tell me, and I will have no further motivation to spare them."
+
+[Play_X2_XP_WRLK_T_Chosen_Stronghold_Start AkEvent]
+SpokenText="I have walked among you, across your world I have trampled upon all who would speak against the Elders. And now, you come for me, in my very sanctum. Let us act quickly, the gods await your arrival."
+
+[Play_X2_XP_WRLK_T_Chosen_True_Death_A AkEvent]
+SpokenText="Time in the void...is endless."
+
+[Play_X2_XP_WRLK_T_Chosen_Wounded_A AkEvent]
+SpokenText="My wounds serve only as testimony to your crimes against the Elders. All will be accounted for in the end."
+
+[Play_X2_XP_WRLK_T_Chosen_Wounded_B AkEvent]
+SpokenText="These trifling wounds will never slow my service to the Elders' vision. But rest assured, you will pay for all that you have inflicted upon me."
+
+[Play_X2_XP_WRLK_T_Chosen_Wounded_C AkEvent]
+SpokenText="You have dared to strike the Elders greatest champion?! I can see no end to the suffering you will endure in retribution!"
+
+[Play_X2_XP_WRLK_T_Corrupt_A AkEvent]
+SpokenText="Their minds are weak!"
+
+[Play_X2_XP_WRLK_T_Corrupt_B AkEvent]
+SpokenText="Even the weak have purpose."
+
+[Play_X2_XP_WRLK_T_Corrupt_C AkEvent]
+SpokenText="They move beyond death."
+
+[Play_X2_XP_WRLK_T_Corrupt_D AkEvent]
+SpokenText="Come! Transcend death itself!"
+
+[Play_X2_XP_WRLK_T_Corrupt_E AkEvent]
+SpokenText="My power corrupts them!"
+
+[Play_X2_XP_WRLK_T_Corrupt_F AkEvent]
+SpokenText="So easily corrupted."
+
+[Play_X2_XP_WRLK_T_Corrupt_G AkEvent]
+SpokenText="No one is innocent."
+
+[Play_X2_XP_WRLK_T_Corrupt_H AkEvent]
+SpokenText="Even the weak may serve."
+
+[Play_X2_XP_WRLK_T_Corrupt_I AkEvent]
+SpokenText="Death and rebirth."
+
+[Play_X2_XP_WRLK_T_Corrupt_J AkEvent]
+SpokenText="The corruption spreads forth."
+
+[Play_X2_XP_WRLK_T_Extract_Know_High_Rank_A AkEvent]
+SpokenText="This one bears the hallmarks of an experienced warrior. That experience extracted will no doubt prove valuable in my service to the Elders."
+
+[Play_X2_XP_WRLK_T_Extract_Know_High_Rank_B AkEvent]
+SpokenText="This one would certainly have me believe they are immune to fear, but I have no doubts they will succumb to the pressure just like the rest."
+
+[Play_X2_XP_WRLK_T_Extract_Know_High_Rank_C AkEvent]
+SpokenText="How will your soldiers feel, seeing one of their more experienced compatriots fall so easily into my grasp?"
+
+[Play_X2_XP_WRLK_T_Extract_Know_High_Rank_D AkEvent]
+SpokenText="I am intrigued by the prospect that this soldier knows so much of your ways, Commander. The Elders will be pleased."
+
+[Play_X2_XP_WRLK_T_Extract_Know_High_Rank_E AkEvent]
+SpokenText="To have such an experienced warrior fall so readily into the hands of your enemy, for shame Commander."
+
+[Play_X2_XP_WRLK_T_Extract_Know_Jane_Kelly_A AkEvent]
+SpokenText="This one bears some great importance to you, does she not, Commander? So crucial to your rescue, she must know a great deal of your operations."
+
+[Play_X2_XP_WRLK_T_Extract_Know_Jane_Kelly_B AkEvent]
+SpokenText="I am well aware of your crimes, Jane Kelly. I will use the knowledge I seize from you today as reparations for your affronts."
+
+[Play_X2_XP_WRLK_T_Extract_Know_Last_Time_A AkEvent]
+SpokenText="If I recall our last foray, you left one of your soldiers to writhe in the field, and I tore your secrets from their mind."
+
+[Play_X2_XP_WRLK_T_Extract_Know_Last_Time_B AkEvent]
+SpokenText="If your soldiers continue to expose their weaknesses as they did before, I will have no trouble extracting your location from their simple minds."
+
+[Play_X2_XP_WRLK_T_Extract_Know_Last_Time_C AkEvent]
+SpokenText="Your soldiers made it so easy for me to reach into their minds, I do hope you'll thank them for their insights."
+
+[Play_X2_XP_WRLK_T_Extract_Know_Last_Time_D AkEvent]
+SpokenText="Our last encounter left me wondering how long your soldiers can possibly last, if they are already so weak as to reveal your secrets to me."
+
+[Play_X2_XP_WRLK_T_Extract_Know_Last_Time_E AkEvent]
+SpokenText="I learned so very much from your weakened soldiers during our last engagement, I can only hope our current meeting will be so fruitful."
+
+[Play_X2_XP_WRLK_T_Extract_Know_Psi_Op_A AkEvent]
+SpokenText="This one is no better than the lowly Templars, attempting to wield the Elders power without their blessing. Let us see what you have learned."
+
+[Play_X2_XP_WRLK_T_Extract_Know_Psi_Op_B AkEvent]
+SpokenText="The power this one wields is not for the hands of transitory beings such as yourselves. Come, show me what you believe you know of the Elders gift."
+
+[Play_X2_XP_WRLK_T_Extract_Know_Psi_Op_C AkEvent]
+SpokenText="How would you presume to train in the ways of the Elders', without serving them in turn? Consider this a means of restitution."
+
+[Play_X2_XP_WRLK_T_Extract_Know_Reaper_A AkEvent]
+SpokenText="After so many years of hiding in the shadows, all of your secrets will be revealed in a matter of moments, Reaper."
+
+[Play_X2_XP_WRLK_T_Extract_Know_Skirmisher_A AkEvent]
+SpokenText="Let us see what you have learned in the time since your betrayal of the Elders, fiend."
+
+[Play_X2_XP_WRLK_T_Extract_Know_Templar_A AkEvent]
+SpokenText="Your misguided beliefs hold no sway here, Templar, and they will not protect the depths of your mind from the Elders grasp."
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Reaper_A AkEvent]
+SpokenText="Hide like the cowardly fiends you are!"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Reaper_B AkEvent]
+SpokenText="Do not presume to hunt me, Reaper!"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Reaper_C AkEvent]
+SpokenText="I know all too well of your repugnant ways!"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Reaper_D AkEvent]
+SpokenText="You are no better than vermin crawling the battlefield!"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Reaper_E AkEvent]
+SpokenText="I will feed you to the Elders' lesser minions Reaper!"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Skirmisher_A AkEvent]
+SpokenText="There will be no end to your suffering!"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Skirmisher_B AkEvent]
+SpokenText="Your kind will pay a price greater than death!"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Skirmisher_C AkEvent]
+SpokenText="You only compound the inevitable suffering coming to you!"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Skirmisher_D AkEvent]
+SpokenText="I will make you pay betrayer!"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Skirmisher_E AkEvent]
+SpokenText="Traitorous wretch!"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Templar_A AkEvent]
+SpokenText="You have perverted the Elders power for the last time!"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Templar_B AkEvent]
+SpokenText="You will pay for every iota of power you have stolen!"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Templar_C AkEvent]
+SpokenText="I will show you what true mastery of the gift looks like!"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Templar_D AkEvent]
+SpokenText="I will take back all that you have stolen, Templar!"
+
+[Play_X2_XP_WRLK_T_Faction_Hit_Templar_E AkEvent]
+SpokenText="This world will never be yours again!"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Skirmisher_A AkEvent]
+SpokenText="You are nothing without the Elders!"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Skirmisher_B AkEvent]
+SpokenText="It is futile for you to resist me!"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Skirmisher_C AkEvent]
+SpokenText="You wield no power over me, betrayer."
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Skirmisher_D AkEvent]
+SpokenText="Your shame knows no end, traitor."
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Skirmisher_E AkEvent]
+SpokenText="You are like children, lost in the world."
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Templar_A AkEvent]
+SpokenText="Your understanding is so very limited."
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Templar_B AkEvent]
+SpokenText="You squander the Elders' power!"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Templar_C AkEvent]
+SpokenText="Their power is wasted on you, Templar."
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Templar_D AkEvent]
+SpokenText="Perhaps you need a proper mentor?"
+
+[Play_X2_XP_WRLK_T_Faction_Miss_Templar_E AkEvent]
+SpokenText="You've learned so very little, Templar."
+
+[Play_X2_XP_WRLK_T_Favored_Final_Battle AkEvent]
+SpokenText="I now rule Earth by the Elder's will. Our tolerance of your actions is at an end."
+
+[Play_X2_XP_WRLK_T_Favored_Final_Battle_Alt AkEvent]
+SpokenText="The Elders have seen fit to use me as their shield. They will not be denied. Your journey ends here."
+
+[Play_X2_XP_WRLK_T_Final_Mission_Start AkEvent]
+SpokenText="You would dare trespass upon this holy ground, this sanctuary to the Elders' greatness!? There is no measure left in this world to grasp the suffering that awaits any who desecrate this holy place!"
+
+[Play_X2_XP_WRLK_T_First_Avenger_Assault_A AkEvent]
+SpokenText="Finally we arrive at your stronghold--the misbegotten shrine to the defiance of my masters! Today I will see it in flames!"
+
+[Play_X2_XP_WRLK_T_First_Avenger_Assault_B AkEvent]
+SpokenText="Renounce your heresy and kneel before the gods! Your Avenger will be a memorial to those who dare defy the Elders."
+
+[Play_X2_XP_WRLK_T_First_Avenger_Assault_C AkEvent]
+SpokenText="There will be no more evasion, no more withdrawal. Today you will face the Elders champion on the field of battle!"
+
+[Play_X2_XP_WRLK_T_First_Combat_Assassin_Favored AkEvent]
+SpokenText="The Elders have blessed my shadowy sister as their favored. They have given me all the motivation I need to bring you in."
+
+[Play_X2_XP_WRLK_T_First_Combat_Favored AkEvent]
+SpokenText="The Elders have favored me with their blessing. I will show you the wisdom of their choice."
+
+[Play_X2_XP_WRLK_T_First_Combat_Hunter_Favored AkEvent]
+SpokenText="My bloodthirsty brother has been favored by the grace of the Elders. I seek only to serve, and will not fail in ridding this world of XCOM."
+
+[Play_X2_XP_WRLK_T_First_Encounter_A AkEvent]
+SpokenText="The Elders have chosen me, just as they have chosen you, Commander. We are both destined to serve at their side, to bring their vision to this world and beyond. Come, allow yourself to be reclaimed."
+
+[Play_X2_XP_WRLK_T_First_Extraction_A AkEvent]
+SpokenText="The Elders' bestow much of their power upon me, and with it I will peer into the depths of this one's mind."
+
+[Play_X2_XP_WRLK_T_First_Extraction_B AkEvent]
+SpokenText="If you had any hope of escaping the Elders' wrath, allowing your soldiers to fall into my hands will surely quell that notion."
+
+[Play_X2_XP_WRLK_T_First_Monolith_Regeneration AkEvent]
+SpokenText="The Elder's power envelopes me and I am made whole. There is no pain. No death. Only the desire to destroy all who oppose them."
+
+[Play_X2_XP_WRLK_T_First_Soldier_Capture_A AkEvent]
+SpokenText="I am not in the habit of taking prisoners, Commander, nor serving as their jailor. But I would fail in my duty to the Elders were I to squander such a generous offering."
+
+[Play_X2_XP_WRLK_T_First_Soldier_Capture_B AkEvent]
+SpokenText="As someone who has themselves been a captive of the Elders, Commander, you should know all too well the risks you have now exposed your loyal follower to."
+
+[Play_X2_XP_WRLK_T_First_Time_Met_A AkEvent]
+SpokenText="The great Commander of Earth's resistance returns to the field of battle after serving my masters so very well, for so many years. Come, show me why the Elders favor you so."
+
+[Play_X2_XP_WRLK_T_Gained_Know_Last_Time_A AkEvent]
+SpokenText="Your forces were so eager to share their knowledge with me last we met, Commander. Will they be so cordial this time around?"
+
+[Play_X2_XP_WRLK_T_Gained_Know_Last_Time_B AkEvent]
+SpokenText="I learned so much from our previous encounter, your soldiers were certainly more knowledgeable than I had expected."
+
+[Play_X2_XP_WRLK_T_Gained_Know_Last_Time_C AkEvent]
+SpokenText="What greater knowledge could I gain of your plans, Commander, than the thoughts straight from your own soldiers minds?"
+
+[Play_X2_XP_WRLK_T_Generic_Extract_Know_A AkEvent]
+SpokenText="There is nothing in your simple minds that can ever truly be hidden from the Elders' power. In mere moments, I will see all that you have ever known."
+
+[Play_X2_XP_WRLK_T_Generic_Extract_Know_B AkEvent]
+SpokenText="What has taken you a lifetime of experience to accrue will become mine after a simple brush with the Elders' power."
+
+[Play_X2_XP_WRLK_T_Generic_Extract_Know_C AkEvent]
+SpokenText="All of your life's experiences, from your very birth to the lowly state in which you lie before me now, it is all there for the taking!"
+
+[Play_X2_XP_WRLK_T_Generic_Extract_Know_D AkEvent]
+SpokenText="Your commander has forsaken you, and now you will forsake your allies as well. I will reach into your mind and take all that you know!"
+
+[Play_X2_XP_WRLK_T_Generic_Extract_Know_E AkEvent]
+SpokenText="What secrets lie in the depths of that puny mind of yours? Soon I will know you better than you know yourself, peasant."
+
+[Play_X2_XP_WRLK_T_Generic_Soldier_Capture_A AkEvent]
+SpokenText="What sort of interesting things might this soldier tell me, given the proper motivation, Commander?"
+
+[Play_X2_XP_WRLK_T_Generic_Soldier_Capture_B AkEvent]
+SpokenText="You would leave your soldier so vulnerable as to be taken captive? Even I would question the honor in such an act."
+
+[Play_X2_XP_WRLK_T_Generic_Soldier_Capture_C AkEvent]
+SpokenText="The Elders would have me take your soldier captive, until they can be persuaded to share what they know of your plans, Commander."
+
+[Play_X2_XP_WRLK_T_Generic_Soldier_Capture_D AkEvent]
+SpokenText="I would just as soon punish all who would dare defy the Elders will, but in service to their vision, I will take this captive and learn all that they know of your resistance."
+
+[Play_X2_XP_WRLK_T_Generic_Soldier_Capture_E AkEvent]
+SpokenText="I do not enjoy the keeping of captives, it is a task beneath a champion of my standing. But I must do as the Elders ask, and will learn all there is from this pathetic being."
+
+[Play_X2_XP_WRLK_T_Golden_Path_Pod_Reveal_Blacksite AkEvent]
+SpokenText="You have already done more than your share to defy the Elders' decrees, but I will not allow you to desecrate this place. My masters have proclaimed that all who trespass here must die, and I am the instrument of their will."
+
+[Play_X2_XP_WRLK_T_Golden_Path_Pod_Reveal_Forge AkEvent]
+SpokenText="Too much of the Elders' time has been wasted already, their plans slowed by your clumsy interference. There will be no captives taken today, Commander. All those you send, you send to their deaths."
+
+[Play_X2_XP_WRLK_T_Golden_Path_Pod_Reveal_PsiGate AkEvent]
+SpokenText="You would presume to seize the Elders' sacred artifacts for your own misguided study? You have already proven yourselves incapable of understanding their vision, and now you will die for your childish curiosity."
+
+[Play_X2_XP_WRLK_T_Golden_Path_Pod_Reveal_Tower AkEvent]
+SpokenText="How far will you pursue this selfish campaign? How many more lives will you sacrifice? I will take no prisoners from this place, only the lives of those who dare to trespass here."
+
+[Play_X2_XP_WRLK_T_Has_XCOM_Bodyguards_A AkEvent]
+SpokenText="Now your own will turn against you, they will die to ensure that I live."
+
+[Play_X2_XP_WRLK_T_Has_XCOM_Bodyguards_B AkEvent]
+SpokenText="Will you take the lives of your own, knowing they now shield your enemy?"
+
+[Play_X2_XP_WRLK_T_Healthy_Escape_Capture_A AkEvent]
+SpokenText="The Elders have graced me with a glorious outcome today! I am unscathed, and your captive will make a truly interesting source of information."
+
+[Play_X2_XP_WRLK_T_Healthy_Escape_Capture_B AkEvent]
+SpokenText="I am reinvigorated by victory, and the Elders will be pleased I have returned with one of your compatriots still alive for their questioning."
+
+[Play_X2_XP_WRLK_T_Healthy_Escape_Capture_C AkEvent]
+SpokenText="The Elders power has ensured my vitality, while awarding me your captive soldier as my prize for victory on this day."
+
+[Play_X2_XP_WRLK_T_Healthy_Escape_Extract_A AkEvent]
+SpokenText="To come away with such valuable insights into your fledgling organization, and with so little energy expended. I had expected more from you."
+
+[Play_X2_XP_WRLK_T_Healthy_Escape_Extract_B AkEvent]
+SpokenText="The Elders are no doubt pleased with my diligence, having already learned so much of your plans, Commander. I will be seeing very soon."
+
+[Play_X2_XP_WRLK_T_Healthy_Escape_Extract_C AkEvent]
+SpokenText="The Elders have surely blessed me today! To have learned so much, and paid so little, only with their patronage could I have been so fortunate."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Avenger_A AkEvent]
+SpokenText="The Elders children have moved on your ship, Commander that much is clear. That they have failed in their effort is of no surprise."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Avenger_B AkEvent]
+SpokenText="I had hoped to be the first to honor the Elders by striking at your appropriated headquarters. No matter, I will be the first to see it in flames!"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Avenger_C AkEvent]
+SpokenText="For years you have besmirched the Elders by using our ship against us. Now you have seen how eager the Chosen are to end this shame."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Avenger_D AkEvent]
+SpokenText="How quickly my siblings have fallen upon your ship. And yet, you carry on, heralding their no-doubt shameful defeat."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Avenger_E AkEvent]
+SpokenText="I have sensed the strike your ship, and the failings of my kin to complete their sacred mission. I will not share in their dishonor."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeat_XCOM_A AkEvent]
+SpokenText="Though I should applaud my kin for their past victories over your forces, I can only feel regret in that they found you first."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeat_XCOM_B AkEvent]
+SpokenText="You leave me disappointed, Commander. I had hoped for a spirited outing, but as I hear it you can barely stand against my siblings."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeat_XCOM_C AkEvent]
+SpokenText="You've proven resilient in the past, yet your recent failings at the hands of my kin leave me questioning the extent of your power."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeat_XCOM_D AkEvent]
+SpokenText="How do you presume to ever get the better of me, Commander, if you can barely see past the diversions of my family?"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeat_XCOM_E AkEvent]
+SpokenText="The Elders have blessed me with many gifts, but as you've learned not all are created equal among the Chosen."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeated_A AkEvent]
+SpokenText="My brethren may have fallen for your transparent tactics, but you will find I am no ordinary child of the Elders."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeated_B AkEvent]
+SpokenText="I have warned my brother and sister not to waver in their devotion to the Elders. Their defeat before you is a testament to their lack of faith."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeated_C AkEvent]
+SpokenText="You should know, Commander, that the failings of my kin are not a reflection of my own power. Underestimate me at your peril."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeated_D AkEvent]
+SpokenText="You have deftly exploited the weaknesses of the other Chosen to vanquish them in combat. But do not expect that I will fall so easily."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Defeated_E AkEvent]
+SpokenText="The besting of one of the Elder's children will mean little to the two that remain. Remember that, Commander."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Killed_A AkEvent]
+SpokenText="I can sense it --one of us has returned to the Elders-their form in this world is lost forever."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Killed_B AkEvent]
+SpokenText="You have killed one of my brethren, one of the Elder's Chosen! The power of life and death is not yours to wield!"
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Killed_C AkEvent]
+SpokenText="The Elders rage grows, as my kin allow themselves to fall at the hands of your meager forces."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Killed_D AkEvent]
+SpokenText="As one of the other Chosen returns to the Elders, I am empowered to honor their sacrifice. You will be returned, Commander."
+
+[Play_X2_XP_WRLK_T_Interim_Chosen_Killed_E AkEvent]
+SpokenText="So many of your soldiers lost, yet finally one of the Chosen has fallen. Are you prepared now to face another?"
+
+[Play_X2_XP_WRLK_T_Last_Chosen_Alive_A AkEvent]
+SpokenText="The Elders bless me with their gifts, and now I am honored as the last of the Chosen. I will grant the gods their wish-you will kneel before them, Commander."
+
+[Play_X2_XP_WRLK_T_Last_Chosen_Alive_B AkEvent]
+SpokenText="My brother and sister never truly understood the Elders gift to them. Now that they are gone, the onus of carrying out our gods' decree falls to me alone."
+
+[Play_X2_XP_WRLK_T_Last_Chosen_Alive_C AkEvent]
+SpokenText="You have slain two of the Elders children. But now you face their greatest champion, a true master of the gods' gifts!"
+
+[Play_X2_XP_WRLK_T_Last_Chosen_Alive_D AkEvent]
+SpokenText="As it was fated, I am the last of my kind, the one true Chosen. There will be no further distractions, your reckoning is at hand!"
+
+[Play_X2_XP_WRLK_T_Last_Chosen_Alive_E AkEvent]
+SpokenText="I had long expected the great honor of carrying out the Elders wishes would fall to me alone. With the others gone, the path ahead is clear."
+
+[Play_X2_XP_WRLK_T_Last_Visible_Hostile_Killed_A AkEvent]
+SpokenText="I need no subordinates, no servants to carry out my will. I will fight on!"
+
+[Play_X2_XP_WRLK_T_Last_Visible_Hostile_Killed_B AkEvent]
+SpokenText="I stand alone, fearing no one. Come forth and perish!"
+
+[Play_X2_XP_WRLK_T_Last_Visible_Hostile_Killed_C AkEvent]
+SpokenText="The others may be gone, but you have yet to face your greatest challenger."
+
+[Play_X2_XP_WRLK_T_Last_Visible_Hostile_Killed_D AkEvent]
+SpokenText="There will be no more distractions, now you must face me directly."
+
+[Play_X2_XP_WRLK_T_Last_Visible_Hostile_Killed_E AkEvent]
+SpokenText="I only hope your forces still have the resolve to finish what you've started, Commander."
+
+[Play_X2_XP_WRLK_T_Lost_Turn_Begins_A AkEvent]
+SpokenText="These insipid pests exist outside the realms of our conflict. Their ignorance serves them well here."
+
+[Play_X2_XP_WRLK_T_Lost_Turn_Begins_B AkEvent]
+SpokenText="These wretched beings are perhaps even more pathetic now than they were before this pestilence afflicted them."
+
+[Play_X2_XP_WRLK_T_Lost_Turn_Begins_C AkEvent]
+SpokenText="They move in an aimless place, without purpose or insight. You humans should be grateful you will die still aware of your own existence."
+
+[Play_X2_XP_WRLK_T_MindControl_A AkEvent]
+SpokenText="Your thoughts betray you!"
+
+[Play_X2_XP_WRLK_T_MindControl_B AkEvent]
+SpokenText="You will obey me."
+
+[Play_X2_XP_WRLK_T_MindControl_C AkEvent]
+SpokenText="Let me guide your hand."
+
+[Play_X2_XP_WRLK_T_MindControl_D AkEvent]
+SpokenText="Accept my embrace!"
+
+[Play_X2_XP_WRLK_T_MindControl_E AkEvent]
+SpokenText="You will serve at my behest."
+
+[Play_X2_XP_WRLK_T_MindControl_F AkEvent]
+SpokenText="Come, join the righteous."
+
+[Play_X2_XP_WRLK_T_MindControl_G AkEvent]
+SpokenText="I compel you to serve."
+
+[Play_X2_XP_WRLK_T_MindControl_H AkEvent]
+SpokenText="You will be absolved!"
+
+[Play_X2_XP_WRLK_T_MindControl_I AkEvent]
+SpokenText="Kneel before your master!"
+
+[Play_X2_XP_WRLK_T_MindControl_J AkEvent]
+SpokenText="Open your mind to me!"
+
+[Play_X2_XP_WRLK_T_MindScorch_A AkEvent]
+SpokenText="Tell me-what do you see?"
+
+[Play_X2_XP_WRLK_T_MindScorch_B AkEvent]
+SpokenText="Witness the depths of madness!"
+
+[Play_X2_XP_WRLK_T_MindScorch_C AkEvent]
+SpokenText="Let me show you the truth!"
+
+[Play_X2_XP_WRLK_T_MindScorch_D AkEvent]
+SpokenText="Face the terror within."
+
+[Play_X2_XP_WRLK_T_MindScorch_E AkEvent]
+SpokenText="You will feel my vision."
+
+[Play_X2_XP_WRLK_T_MindScorch_F AkEvent]
+SpokenText="Let me show you."
+
+[Play_X2_XP_WRLK_T_MindScorch_G AkEvent]
+SpokenText="I am the voice within."
+
+[Play_X2_XP_WRLK_T_MindScorch_H AkEvent]
+SpokenText="You are your own worst enemy."
+
+[Play_X2_XP_WRLK_T_MindScorch_I AkEvent]
+SpokenText="The unknown enemy is within."
+
+[Play_X2_XP_WRLK_T_MindScorch_J AkEvent]
+SpokenText="Let us open the gates."
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Beat_XCOM_A AkEvent]
+SpokenText="So you've suffered greatly at the hands of my kin, and now you must face an even greater threat in me."
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Beat_XCOM_B AkEvent]
+SpokenText="Already your forces struggle against the lesser powers of the other Chosen. I foresee nothing but anguish in your future, Commander."
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Beat_XCOM_C AkEvent]
+SpokenText="If your armies cannot stand against the might of the lesser Chosen, then how will they ever come to defeat a true champion of the Elders?"
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Extract_Capture_A AkEvent]
+SpokenText="You would allow your forces to fall so easily to my depraved siblings? Perhaps my task will be simpler than I had foreseen."
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Extract_Capture_B AkEvent]
+SpokenText="Your troops have already suffered greatly at the hands of my siblings, Commander. Still, I will promise them no mercy either."
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Extract_Capture_C AkEvent]
+SpokenText="If you would already have your forces defeated so easily by my defiant siblings, how long do you expect they will last when facing a true champion of the Elders?"
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Extract_Capture_D AkEvent]
+SpokenText="I am far from impressed, Commander. To have allowed one of my siblings such a swift victory over your forces, it does not bode well for you at all."
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Have_Captives_A AkEvent]
+SpokenText="You have allowed one of my siblings to seize your soldier and hold them captive? A grim prospect for your kind, as weak as you are."
+
+[Play_X2_XP_WRLK_T_Other_Chosen_Have_Captives_B AkEvent]
+SpokenText="I understand my siblings have already taken prisoners from among your troops, Commander. Their pursuits are selfish, bordering on apostasy. You should be wary."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_A AkEvent]
+SpokenText="You would betray our gods..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_A2 AkEvent]
+SpokenText="Now you face their wrath."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_B AkEvent]
+SpokenText="I am but the instrument..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_B2 AkEvent]
+SpokenText="The Elders' will transcends all."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_C AkEvent]
+SpokenText="There can be no mercy..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_C2 AkEvent]
+SpokenText="No covenant for heretics!"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_D AkEvent]
+SpokenText="The Elders may offer forgiveness..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_D2 AkEvent]
+SpokenText="But I do not."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_E AkEvent]
+SpokenText="The gods elevate me..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_E2 AkEvent]
+SpokenText="So that I may strike you down!"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_F AkEvent]
+SpokenText="You have been judged..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_F2 AkEvent]
+SpokenText="...and I am your punishment."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_G AkEvent]
+SpokenText="Heretics! Come forth..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_G2 AkEvent]
+SpokenText="See the face of your ruin!"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_H AkEvent]
+SpokenText="If you would seek redemption..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_H2 AkEvent]
+SpokenText="Stand and be absolved!"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_I AkEvent]
+SpokenText="Abandon your empty lives..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_I2 AkEvent]
+SpokenText="I am the Elder's embrace!"
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_J AkEvent]
+SpokenText="Stand proud..."
+
+[Play_X2_XP_WRLK_T_Pod_Reveal_J2 AkEvent]
+SpokenText="You fall to the Elder's greatest warrior."
+
+[Play_X2_XP_WRLK_T_Possess_A AkEvent]
+SpokenText="They serve without question."
+
+[Play_X2_XP_WRLK_T_Possess_B AkEvent]
+SpokenText="I will lead them myself."
+
+[Play_X2_XP_WRLK_T_Possess_C AkEvent]
+SpokenText="This one will serve my purposes."
+
+[Play_X2_XP_WRLK_T_Possess_D AkEvent]
+SpokenText="I have pawns of my own, Commander."
+
+[Play_X2_XP_WRLK_T_Possess_E AkEvent]
+SpokenText="To fight and die for the Elders!"
+
+[Play_X2_XP_WRLK_T_Possess_F AkEvent]
+SpokenText="I will raise them to new heights!"
+
+[Play_X2_XP_WRLK_T_Possess_G AkEvent]
+SpokenText="I will pull their strings."
+
+[Play_X2_XP_WRLK_T_Possess_H AkEvent]
+SpokenText="They are mine to control."
+
+[Play_X2_XP_WRLK_T_Possess_I AkEvent]
+SpokenText="The Elders grant me their legions."
+
+[Play_X2_XP_WRLK_T_Possess_J AkEvent]
+SpokenText="Serve your gods with honor."
+
+[Play_X2_XP_WRLK_T_Post_Chosen_Reveal_Response AkEvent]
+SpokenText="At last the humans speak the truth."
+
+[Play_X2_XP_WRLK_T_Post_Monolith_Taunts_A AkEvent]
+SpokenText="Impossible! The Elders...they are silent. (cries out) Demons! I will destroy you for this outrage!"
+
+[Play_X2_XP_WRLK_T_Post_Monolith_Taunts_B AkEvent]
+SpokenText="The Elders do not abandon me completely. Their power still flows through my veins. I will prevail!"
+
+[Play_X2_XP_WRLK_T_Post_Monolith_Taunts_C AkEvent]
+SpokenText="And yet, there is another voice. One I have but heard in whispers. It grows stronger. It is beautiful."
+
+[Play_X2_XP_WRLK_T_Post_Monolith_Taunts_D AkEvent]
+SpokenText="Could the Elders have been mistaken? Never! Still, there is truth in what it says. Power!"
+
+[Play_X2_XP_WRLK_T_Post_Monolith_Taunts_E AkEvent]
+SpokenText="I must have answers. I must know! Your presence here disturbs them. You must fall!"
+
+[Play_X2_XP_WRLK_T_Post_Squad_Teleports AkEvent]
+SpokenText="Very good little humans. Come to me. Like a moth to a flame will you be consumed by my brilliance."
+
+[Play_X2_XP_WRLK_T_Pre_Monolith_Taunts_A AkEvent]
+SpokenText="You stand in this most sacred place before a true child of the gods. My power here is absolute. The Elders themselves guide my hand."
+
+[Play_X2_XP_WRLK_T_Pre_Monolith_Taunts_B AkEvent]
+SpokenText="And yet, it is not reverence I sense from you but defiance. You defile this place with your thoughts. You you shall suffer for your transgressions."
+
+[Play_X2_XP_WRLK_T_Pre_Monolith_Taunts_C AkEvent]
+SpokenText="Still, yours is a tragic race. Unable to hear the voice of the Elders. To feel their true power. Fear not, I shall provide you a taste shortly."
+
+[Play_X2_XP_WRLK_T_Pre_Monolith_Taunts_D AkEvent]
+SpokenText="Can you not feel it little humans. The Elders are here, watching. Your lives dangle on the precipice of death. The gods are smiling."
+
+[Play_X2_XP_WRLK_T_Pre_Monolith_Taunts_E AkEvent]
+SpokenText="Your determination does not amuse me as it does others of my kind. Your actions delay my masters' true purpose. You are the true threat."
+
+[Play_X2_XP_WRLK_T_Pre_Monolith_Taunts_F AkEvent]
+SpokenText="Would that I could purge this entire world to rid it of the pestilence of your race. But no, my masters have need for some of you. I must remain content with your destruction..."
+
+[Play_X2_XP_WRLK_T_Pre_Monolith_Taunts_G AkEvent]
+SpokenText="Your persistence no longer amuses me. I am weary of this combat. Of your very existence. This battle ends now."
+
+[Play_X2_XP_WRLK_T_Psi_Operative_Attack_A AkEvent]
+SpokenText="To abscond with the Elders power and turn it against their very forces is the greatest of affronts!"
+
+[Play_X2_XP_WRLK_T_Psi_Operative_Attack_B AkEvent]
+SpokenText="You know nothing of the powers with which you dabble so carelessly!"
+
+[Play_X2_XP_WRLK_T_Psi_Operative_Attack_C AkEvent]
+SpokenText="The gods' power is not to be trifled with by the likes of you!"
+
+[Play_X2_XP_WRLK_T_Psi_Operative_Attack_D AkEvent]
+SpokenText="I will not allow you to continue pilfering the gods' power!"
+
+[Play_X2_XP_WRLK_T_Psi_Operative_Attack_E AkEvent]
+SpokenText="You are like a child in the presence of a true master. Let me show you my power!"
+
+[Play_X2_XP_WRLK_T_Ranger_Sword_Attack_A AkEvent]
+SpokenText="Your sword strikes true, but your spirit falters!"
+
+[Play_X2_XP_WRLK_T_Ranger_Sword_Attack_B AkEvent]
+SpokenText="Save your garish displays of swordsmanship for my sister."
+
+[Play_X2_XP_WRLK_T_Ranger_Sword_Attack_C AkEvent]
+SpokenText="It would be an elegant weapon, were it wielded with grace."
+
+[Play_X2_XP_WRLK_T_Ranger_Sword_Attack_D AkEvent]
+SpokenText="A sword is an unusual choice for creatures so lacking in physical prowess."
+
+[Play_X2_XP_WRLK_T_Ranger_Sword_Attack_E AkEvent]
+SpokenText="It has been so long since I have seen a sword thrust in pure hatred."
+
+[Play_X2_XP_WRLK_T_Reaper_Taunts_A AkEvent]
+SpokenText="You who would feast upon the flesh of the Elders' children. A special place in the void awaits your kind."
+
+[Play_X2_XP_WRLK_T_Reaper_Taunts_B AkEvent]
+SpokenText="You will find my brother and sister more inclined to play your games, Reaper. I have no patience for diversions."
+
+[Play_X2_XP_WRLK_T_Reaper_Taunts_C AkEvent]
+SpokenText="Reaper! Your kind are among the most cowardly of the resistance! At least your allies stand and die in battle with some semblance of decorum."
+
+[Play_X2_XP_WRLK_T_Reaper_Taunts_D AkEvent]
+SpokenText="I think you quickly come to find that I am no mere prey for you to hunt, Reaper."
+
+[Play_X2_XP_WRLK_T_Reaper_Taunts_E AkEvent]
+SpokenText="Do not whet your appetite at the sight of my glorious visage, deviant. The Elders would release me to the void before ever satiating your hunger."
+
+[Play_X2_XP_WRLK_T_Reinforced_While_Regenerate AkEvent]
+SpokenText="Wouldn't want you to get bored while I clean up."
+
+[Play_X2_XP_WRLK_T_Retaliation_Taunt_A AkEvent]
+SpokenText="Their fate is the same as all who would defy the Elders."
+
+[Play_X2_XP_WRLK_T_Retaliation_Taunt_B AkEvent]
+SpokenText="Do not pity them, for soon you will join them!"
+
+[Play_X2_XP_WRLK_T_Retaliation_Taunt_C AkEvent]
+SpokenText="This, then, for all traitors in your resistance. A death of fire and pain."
+
+[Play_X2_XP_WRLK_T_RifleShot_A AkEvent]
+SpokenText="A simple weapon, for a simple foe."
+
+[Play_X2_XP_WRLK_T_RifleShot_B AkEvent]
+SpokenText="Perhaps you prefer it this way."
+
+[Play_X2_XP_WRLK_T_RifleShot_C AkEvent]
+SpokenText="My masters insist."
+
+[Play_X2_XP_WRLK_T_RifleShot_D AkEvent]
+SpokenText="No quarter given."
+
+[Play_X2_XP_WRLK_T_RifleShot_E AkEvent]
+SpokenText="An archaic practice."
+
+[Play_X2_XP_WRLK_T_RifleShot_F AkEvent]
+SpokenText="You force my hand."
+
+[Play_X2_XP_WRLK_T_RifleShot_G AkEvent]
+SpokenText="I do as I must."
+
+[Play_X2_XP_WRLK_T_RifleShot_H AkEvent]
+SpokenText="Forgiveness is at hand."
+
+[Play_X2_XP_WRLK_T_RifleShot_I AkEvent]
+SpokenText="Let us end this."
+
+[Play_X2_XP_WRLK_T_RifleShot_J AkEvent]
+SpokenText="As the gods will it."
+
+[Play_X2_XP_WRLK_T_Skirmisher_Taunts_A AkEvent]
+SpokenText="It would seem my sister has neglected her duty to eradicate your traitorous legions from this world. I will not be so careless."
+
+[Play_X2_XP_WRLK_T_Skirmisher_Taunts_B AkEvent]
+SpokenText="You were born a lowly servant of the Elders, and yet you managed to reach an even more wretched condition. I will end your suffering, traitor."
+
+[Play_X2_XP_WRLK_T_Skirmisher_Taunts_C AkEvent]
+SpokenText="Do not seek mercy or redemption here, Skirmisher. No, I will bring you only pain for your betrayal of the Elders!"
+
+[Play_X2_XP_WRLK_T_Skirmisher_Taunts_D AkEvent]
+SpokenText="You would blindly follow the nearest cause that would give you purpose, is that not the case, traitor? You would be better served under the Elders embrace."
+
+[Play_X2_XP_WRLK_T_Skirmisher_Taunts_E AkEvent]
+SpokenText="Do your new compatriots know of your many crimes against them in service to the Elders? Do they truly understand what you have done to humanity?"
+
+[Play_X2_XP_WRLK_T_Soldier_Captured_Last_Time_A AkEvent]
+SpokenText="Your captive soldier quivered in fear of my power, so quick were they to reveal your secrets, Commander."
+
+[Play_X2_XP_WRLK_T_Soldier_Captured_Last_Time_B AkEvent]
+SpokenText="The human mind is so very fragile, I hope I didn't leave your captive soldier too badly scarred."
+
+[Play_X2_XP_WRLK_T_Soldier_Captured_Last_Time_C AkEvent]
+SpokenText="I had expected your troops to be more resistant, but I found your captive soldier to be more than willing to share their expertise."
+
+[Play_X2_XP_WRLK_T_Soldier_Captured_Last_Time_D AkEvent]
+SpokenText="You've made taking captives so easy for me in the past, Commander, I'm afraid I might grow complacent."
+
+[Play_X2_XP_WRLK_T_Soldier_Captured_Last_Time_E AkEvent]
+SpokenText="Your soldiers trusted you to lead them, Commander, and yet you allowed me to capture one so easily when last we met."
+
+[Play_X2_XP_WRLK_T_Soldier_Captured_Last_Time_F AkEvent]
+SpokenText="The fear I instilled in your captive soldier was enough to make them tell me everything, Commander."
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_A AkEvent]
+SpokenText="It would appear I am to learn more of your operations than I had originally hoped. I appreciate your lackadaisical approach to aiding your soldiers, Commander."
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_B AkEvent]
+SpokenText="I should be able to learn a great deal about your plans from this unfortunate soul."
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_C AkEvent]
+SpokenText="Perhaps you do not understand the perils of leaving your soldier so vulnerable to my reach, for soon all of their knowledge will be mine."
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_D AkEvent]
+SpokenText="At the very least, I expect this soldier will know something of your future plans, Commander. And to think how little you did to save them."
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_E AkEvent]
+SpokenText="This one will suffer for your crimes, and tell me everything of your resistance. Your time grows short!"
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_F AkEvent]
+SpokenText="In this weakened condition, your soldier's feeble mind will stand no chance of resisting my inquiries. Soon enough I will be standing at the threshold of your precious Avenger."
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_G AkEvent]
+SpokenText="I trust this one is well versed in your ways, Commander. They volunteer nothing, and yet I will learn everything."
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_H AkEvent]
+SpokenText="As a true master of the Elders' power, the lightest touch will be all that is necessary to probe the depths of your soldiers' fragile mind."
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_I AkEvent]
+SpokenText="Whatever your soldier has learned, whatever they have seen, soon it will all be as familiar to me as it was to them."
+
+[Play_X2_XP_WRLK_T_Soldier_Disabled_Anticipate_Extract_Capture_J AkEvent]
+SpokenText="An intriguing prospect, gaining a source of knowledge so close to the heart of your operation. I wonder, what might they share of your plans?"
+
+[Play_X2_XP_WRLK_T_Soldier_Killed_A AkEvent]
+SpokenText="The Elders may still grant them forgiveness."
+
+[Play_X2_XP_WRLK_T_Soldier_Killed_B AkEvent]
+SpokenText="Do not mourn, for you will be together again soon enough."
+
+[Play_X2_XP_WRLK_T_Soldier_Killed_C AkEvent]
+SpokenText="Submit to the Elders, Commander. End these needless sacrifices."
+
+[Play_X2_XP_WRLK_T_Soldier_Killed_D AkEvent]
+SpokenText="Their fate was sealed the moment they defied the Elders!"
+
+[Play_X2_XP_WRLK_T_Soldier_Killed_E AkEvent]
+SpokenText="They die for your freedom, Commander."
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_A AkEvent]
+SpokenText="Occasionally even I am overwhelmed by the power."
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_B AkEvent]
+SpokenText="The Elders would have me strike elsewhere."
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_C AkEvent]
+SpokenText="It is but a momentary reprieve for you."
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_D AkEvent]
+SpokenText="The Elders would have me spare you for a moment longer."
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_E AkEvent]
+SpokenText="A curious outcome."
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_F AkEvent]
+SpokenText="I must atone for this misstep."
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_G AkEvent]
+SpokenText="The Elders will not be pleased."
+
+[Play_X2_XP_WRLK_T_Soldier_Missed_H AkEvent]
+SpokenText="Another time perhaps."
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_A AkEvent]
+SpokenText="Their suffering is well earned."
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_B AkEvent]
+SpokenText="That is but a taste of the Elders' true power!"
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_C AkEvent]
+SpokenText="Do you see now the pain that awaits you?"
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_D AkEvent]
+SpokenText="Your suffering will be prolonged."
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_E AkEvent]
+SpokenText="Death will come soon enough regardless."
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_F AkEvent]
+SpokenText="Make peace with the Elders while you still can."
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_G AkEvent]
+SpokenText="Enjoy these fleeting moments."
+
+[Play_X2_XP_WRLK_T_Soldier_Wounded_Not_Killed_H AkEvent]
+SpokenText="Your life escapes, and in turn the void consumes you."
+
+[Play_X2_XP_WRLK_T_Spark_Attacks_A AkEvent]
+SpokenText="Have you grown so desperate as to require machines to do your bidding, Commander?"
+
+[Play_X2_XP_WRLK_T_Spark_Attacks_B AkEvent]
+SpokenText="A pale simulation of life, programmed to serve the most fruitless of endeavors."
+
+[Play_X2_XP_WRLK_T_Spark_Attacks_C AkEvent]
+SpokenText="Are your own soldiers so demoralized that you must now rely on the efforts of a machine?"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_A AkEvent]
+SpokenText="Rise my servants!"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_B AkEvent]
+SpokenText="Step forth from the void!"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_C AkEvent]
+SpokenText="I summon you from beyond!"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_D AkEvent]
+SpokenText="My army rises!"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_E AkEvent]
+SpokenText="Protect your master!"
+
+[Play_X2_XP_WRLK_T_SpectralArmy_F AkEvent]
+SpokenText="The spirits protect me."
+
+[Play_X2_XP_WRLK_T_SpectralArmy_G AkEvent]
+SpokenText="Their slumber ends."
+
+[Play_X2_XP_WRLK_T_SpectralArmy_H AkEvent]
+SpokenText="They move between worlds."
+
+[Play_X2_XP_WRLK_T_SpectralArmy_I AkEvent]
+SpokenText="The spirits convene."
+
+[Play_X2_XP_WRLK_T_SpectralArmy_J AkEvent]
+SpokenText="Guardians awaken!"
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_A AkEvent]
+SpokenText="You have come far little humans. Boldly pushing forth into the unknown. If you only knew the truth of this place you would scurry back to the shadows where you were spawned."
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_B AkEvent]
+SpokenText="The Elder's will permeates all around us...can you not feel it humans? Their reach is eternal. Even now their hand closes upon you."
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_C AkEvent]
+SpokenText="For you are the true abominations. Microbes that think themselves greater than the gods. You taint this place with your infestation."
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_D AkEvent]
+SpokenText="Is it not the Elders who are the true saviors of your race? They who fight to preserve an entire universe. Yet here you stand. Willing to die to retain your ignorance."
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_E AkEvent]
+SpokenText="To think, I once considered myself a part of your race. You seem so small. So narrow of purpose. You do not deserve the Elders attentions."
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_F AkEvent]
+SpokenText="Even now the Elder's love of your race shines through. They counsel mercy and plead with me to show compassion. I will let you die quickly today."
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_G AkEvent]
+SpokenText="For only when you fall XCOM, shall your race be saved. An entire world and all its peoples, given to me, left to my tender mercies."
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_H AkEvent]
+SpokenText="Yet for any of us to survive the Elders must not fail! Humanity delays their own salvation. You must submit now before the true enemy appears!"
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_I AkEvent]
+SpokenText="How much longer must I endure your sacrilege! If it is peace you want I shall gladly oblige. Come forward XCOM and yield to my embrace. I shall grant you merciful slumber!"
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_J AkEvent]
+SpokenText="And still you defy us. We who have held this world together for years. Would that the Elders did not need your race, I would have ended it's existence long ago."
+
+[Play_X2_XP_WRLK_T_Stronghold_Maze_Taunts_K AkEvent]
+SpokenText="Only now is there hope. Your actions today force the Elders hands. They can no longer afford patience. Soon, very soon, this world shall be mine."
+
+[Play_X2_XP_WRLK_T_Stronghold_Post_Teleport AkEvent]
+SpokenText="Your fate was sealed the moment you entered this place XCOM. Go where you may, in the end all outcomes are the same."
+
+[Play_X2_XP_WRLK_T_Subs_Avenger_Assault_A AkEvent]
+SpokenText="Your ship may have survived our previous encounter, but I will not fail my masters again. You will submit, Commander."
+
+[Play_X2_XP_WRLK_T_Subs_Avenger_Assault_B AkEvent]
+SpokenText="I will not allow your ship to stand as a symbol to those who would defy the gods. This will be your final hour!"
+
+[Play_X2_XP_WRLK_T_Subs_Avenger_Assault_C AkEvent]
+SpokenText="The time for redemption has passed, now you will suffer the consequences of your resistance."
+
+[Play_X2_XP_WRLK_T_Subs_Avenger_Assault_D AkEvent]
+SpokenText="Today I will destroy your precious Avenger, and it will be forgotten by all who matter in this world."
+
+[Play_X2_XP_WRLK_T_Subs_Avenger_Assault_E AkEvent]
+SpokenText="Say your goodbyes, Commander. The Elders demand your return, and I intend on fulfilling my destiny."
+
+[Play_X2_XP_WRLK_T_Teleport_A AkEvent]
+SpokenText="The Elders will carry you."
+
+[Play_X2_XP_WRLK_T_Teleport_B AkEvent]
+SpokenText="A strategic shift."
+
+[Play_X2_XP_WRLK_T_Teleport_C AkEvent]
+SpokenText="A friend in need."
+
+[Play_X2_XP_WRLK_T_Teleport_D AkEvent]
+SpokenText="The world around you changes."
+
+[Play_X2_XP_WRLK_T_Teleport_E AkEvent]
+SpokenText="Let me elevate you."
+
+[Play_X2_XP_WRLK_T_Teleport_F AkEvent]
+SpokenText="The pieces must fall into place."
+
+[Play_X2_XP_WRLK_T_Teleport_G AkEvent]
+SpokenText="One must be versatile."
+
+[Play_X2_XP_WRLK_T_Teleport_H AkEvent]
+SpokenText="Adapt or die."
+
+[Play_X2_XP_WRLK_T_Teleport_I AkEvent]
+SpokenText="Tread more carefully."
+
+[Play_X2_XP_WRLK_T_Teleport_J AkEvent]
+SpokenText="They move as I command."
+
+[Play_X2_XP_WRLK_T_Templar_Taunts_A AkEvent]
+SpokenText="You embarrass yourself by attempting to wield the Elders' power in the face of a true master. I was born with a greater understanding than you will ever attain, Templar!"
+
+[Play_X2_XP_WRLK_T_Templar_Taunts_B AkEvent]
+SpokenText="When you are embraced by the void for your crimes against the Elders, the Templars will find that nothing but eternal darkness awaits them."
+
+[Play_X2_XP_WRLK_T_Templar_Taunts_C AkEvent]
+SpokenText="Your childish attempts at conjuring the Elders' power will only bring further shame and suffering to your people, Templar."
+
+[Play_X2_XP_WRLK_T_Templar_Taunts_D AkEvent]
+SpokenText="When the time comes, Templar, the Elders' power will drain from you just as your blood spills and your last breath escapes you."
+
+[Play_X2_XP_WRLK_T_Templar_Taunts_E AkEvent]
+SpokenText="I will make sure you die by the very power you had hoped to usurp, Templar!"
+
+[Play_X2_XP_WRLK_T_Two_Chosen_Remain_A AkEvent]
+SpokenText="They are my kin--I feel their loss, but do not expect this to slow my advance. The Elders designs, and my ascension, are fated."
+
+[Play_X2_XP_WRLK_T_Two_Chosen_Remain_B AkEvent]
+SpokenText="One of the others is gone, and I move one step closer to ruling this world in the Elders stead."
+
+[Play_X2_XP_WRLK_T_Two_Chosen_Remain_C AkEvent]
+SpokenText="I know what you have done, Commander. I will honor my fallen brethren once I have broken your will and crushed your opposition!"
+
+[Play_X2_XP_WRLK_T_Two_Chosen_Remain_D AkEvent]
+SpokenText="One of my siblings has joined the Elders beyond the pale of this world. Soon, you will come to know their embrace as well."
+
+[Play_X2_XP_WRLK_T_Two_Chosen_Remain_E AkEvent]
+SpokenText="I will not be bested as easily as my fallen kinsman. None can claim a greater understanding of the divine gift than I!"
+
+[Play_X2_XP_WRLK_T_Two_Chosen_Remain_F AkEvent]
+SpokenText="Just as one of their fallen children returns to them, the Elders bless my hand in battle. Prepare yourself, heretic!"
+
+[Play_X2_XP_WRLK_T_Was_Defeated_A AkEvent]
+SpokenText="Your past triumphs in battle will do nothing to discourage my faith in the Elders gift!"
+
+[Play_X2_XP_WRLK_T_Was_Defeated_B AkEvent]
+SpokenText="My faith, my conviction, only grows stronger in the face of my past defeat at your hands."
+
+[Play_X2_XP_WRLK_T_Was_Defeated_C AkEvent]
+SpokenText="In defeat, just as in victory, my faith in the Elders is unwavering. I will not be deterred!"
+
+[Play_X2_XP_WRLK_T_Was_Defeated_D AkEvent]
+SpokenText="I do not linger on thoughts of my past defeats, for I am here now, and a new battle lies before us."
+
+[Play_X2_XP_WRLK_T_Was_Defeated_E AkEvent]
+SpokenText="The Elders compel, no, empower me to fight on. Your past victories have no bearing on our latest conflict."
+
+[Play_X2_XP_WRLK_T_Was_Defeated_F AkEvent]
+SpokenText="Your pride in your past victory over me will prove short-lived, Commander. I will not falter again!"
+
+[Play_X2_XP_WRLK_T_Was_Defeated_G AkEvent]
+SpokenText="I will not dwell on past defeats, I will only look forward towards my inevitable rise and ascension over this world!"
+
+[Play_X2_XP_WRLK_T_Was_Defeated_H AkEvent]
+SpokenText="The Elders raise me up so that I may fight again, no defeat is too much for their embrace to overcome."
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Capture_A AkEvent]
+SpokenText="I do not accept the suffering of these wounds, for they are welcome in the face of victory in the Elders' name. And your soldier will surely herald my triumph."
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Capture_B AkEvent]
+SpokenText="I will bear any wound, if it means victory for the Elders. I leave here with your soldier as the Elders' prize, and they will make me whole again."
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Capture_C AkEvent]
+SpokenText="If I must suffer these wounds, then it is because the Elders have willed it. The same can be said of your soldier who is soon to join them as well."
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Capture_D AkEvent]
+SpokenText="You have fought as well as any could hope, however, these wounds are only temporary. But what of the knowledge you will lose through this soldier? It could be your undoing."
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Capture_E AkEvent]
+SpokenText="The wounds I suffer today, will be nothing more than an afterthought in the void. But the knowledge you sacrifice through this captive soldier will never be forgotten."
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Capture_F AkEvent]
+SpokenText="I have gladly shed my blood, for it and all else are the domain of the Elders. In turn, your soldier will soon join my masters, and their knowledge will bring us closer to the end."
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Extract_A AkEvent]
+SpokenText="The Elders will heal my wounds as if they never were, but the knowledge you've lost today, that I'm afraid will be forever ours, Commander."
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Extract_B AkEvent]
+SpokenText="In these critical moments, I am comforted knowing the Elders will heal all wounds. And with the knowledge I have gained today, they will be more than welcoming."
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Extract_C AkEvent]
+SpokenText="If I must shed my blood in the Elders name, then I will do so willingly if it contrives a means of learning your whereabouts, Commander. The Elders take solace in my victory."
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Extract_D AkEvent]
+SpokenText="I will gladly suffer the wounds of battle if you will persist in giving up your secrets to the Elders as easily as you have done today."
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Extract_E AkEvent]
+SpokenText="My victory today proves no wound is too great if it means my service to the Elders is fulfilled to their satisfaction. We will be upon you soon, Commander."
+
+[Play_X2_XP_WRLK_T_Wounded_Escape_Extract_F AkEvent]
+SpokenText="Faced with the endless march of time, these wounds mean little, for the knowledge gained today will surely please the Elders."
+
+[Play_X2_XP_WRLK_T_WRLK_Captures_Elena_Convo_A_1 AkEvent]
+SpokenText="What would your revered leader Volk think of you now, Elena? Weakened and taken captive, you will be an invaluable resource in the war ahead."
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Grenades_A AkEvent]
+SpokenText="A primitive attack."
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Grenades_B AkEvent]
+SpokenText="Truly archaic!"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Grenades_C AkEvent]
+SpokenText="I fear no trifling eruption!"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Grenades_D AkEvent]
+SpokenText="Have you nothing better?!"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Grenades_E AkEvent]
+SpokenText="How basic!"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Hunter_Weap_A AkEvent]
+SpokenText="What an odd choice of weapon."
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Hunter_Weap_B AkEvent]
+SpokenText="Perhaps that weapon was better left in another era."
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Hunter_Weap_C AkEvent]
+SpokenText="Have you come to rely on antiques now, Commander?"
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Squadsight_A AkEvent]
+SpokenText="Even your seemingly effective tricks are still nothing more than that."
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Squadsight_B AkEvent]
+SpokenText="So you have learned at least one tactic."
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Squadsight_C AkEvent]
+SpokenText="It seems your gambit has paid off."
+
+[Play_X2_XP_WRLK_T_XCOM_Attacks_With_Squadsight_D AkEvent]
+SpokenText="A clever ploy, Commander."
+
+[Play_X2_XP_WRLK_T_XCOM_Attempts_Rescue_A AkEvent]
+SpokenText="So, you have come for your imprisoned comrade. A noble, if not entirely foolish endeavor."
+
+[Play_X2_XP_WRLK_T_XCOM_Attempts_Rescue_B AkEvent]
+SpokenText="Your efforts at rectifying past mistakes will garner no praise from me, Commander."
+
+[Play_X2_XP_WRLK_T_XCOM_Attempts_Rescue_C AkEvent]
+SpokenText="You have come for your captive friend? And how many lives will you sacrifice for theirs?"
+
+[Play_X2_XP_WRLK_T_XCOM_Attempts_Rescue_D AkEvent]
+SpokenText="I had wondered if you would risk coming to save your ally. How courageous of you."
+
+[Play_X2_XP_WRLK_T_XCOM_Attempts_Rescue_E AkEvent]
+SpokenText="A rescue attempt? And at what cost I wonder? We shall see, Commander."
+
+[Play_X2_XP_WRLK_T_XCOM_Beam_Weapons_A AkEvent]
+SpokenText="The gods grant me weapons more powerful than any beam."
+
+[Play_X2_XP_WRLK_T_XCOM_Beam_Weapons_B AkEvent]
+SpokenText="If my subordinates fear the light, then they are weak."
+
+[Play_X2_XP_WRLK_T_XCOM_Beam_Weapons_C AkEvent]
+SpokenText="Your weapons are nothing compared to my divine gifts."
+
+[Play_X2_XP_WRLK_T_XCOM_Beam_Weapons_D AkEvent]
+SpokenText="Your weapons may improve, but your fate is sealed."
+
+[Play_X2_XP_WRLK_T_XCOM_Beam_Weapons_E AkEvent]
+SpokenText="I fear no weapon forged by mortal hands."
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Blacksite_A AkEvent]
+SpokenText="The Elders know of your trespasses into their facilities. You have delved too deeply, but now you see the truth behind ADVENT's endless numbers."
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Blacksite_B AkEvent]
+SpokenText="You have trespassed where no human was meant to tread, now having seen with your own eyes the miracle of ADVENT's creation."
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Blacksite_C AkEvent]
+SpokenText="Your discovery of the Elder's facility allowing for ADVENT's creation changes nothing. You cannot stop what is fated, the Elder's will be done."
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Blacksite_C_ALT AkEvent]
+SpokenText="Your discovery of the Elder's facility changes nothing. You cannot stop what is fated, the Elder's will be done."
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Forge_A AkEvent]
+SpokenText="The ADVENT Forge operates at the Elders behest. It is sacred ground, and you have sullied their holy sanctuary."
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Forge_B AkEvent]
+SpokenText="Despite what you may have seen in the Elder's Forge, I doubt you are capable of truly understanding the process at hand."
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Forge_C AkEvent]
+SpokenText="If you truly realized what it is you witnessed within the Elder's Forge, you would lay down your arms and welcome their embrace."
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Gate_A AkEvent]
+SpokenText="You would pilfer the Elder's most sacred artifacts, knowing nothing of their purpose or power! Cross its threshold and perish!"
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Gate_B AkEvent]
+SpokenText="Now that you've run off with one of the Elder's portals, perhaps you should consider what might be waiting on the other side."
+
+[Play_X2_XP_WRLK_T_XCOM_Completed_Gate_C AkEvent]
+SpokenText="The Elder's gateways are not the playthings of curious interlopers. You should return what you have taken, before it is too late."
+
+[Play_X2_XP_WRLK_T_XCOM_Hits_Chosen_First_Time_A AkEvent]
+SpokenText="Such audacity!"
+
+[Play_X2_XP_WRLK_T_XCOM_Hits_Chosen_First_Time_B AkEvent]
+SpokenText="Let us begin then!"
+
+[Play_X2_XP_WRLK_T_XCOM_Hits_Chosen_First_Time_C AkEvent]
+SpokenText="You would dare strike me?!"
+
+[Play_X2_XP_WRLK_T_XCOM_Killed_By_Hostiles_A AkEvent]
+SpokenText="Take no comfort, Commander. Their sacrifice will prove pointless in the end."
+
+[Play_X2_XP_WRLK_T_XCOM_Killed_By_Hostiles_B AkEvent]
+SpokenText="Your forces pass into the void, their lives forsaken."
+
+[Play_X2_XP_WRLK_T_XCOM_Killed_By_Hostiles_C AkEvent]
+SpokenText="Your incompetence has cost them dearly, Commander."
+
+[Play_X2_XP_WRLK_T_XCOM_Killed_By_Hostiles_D AkEvent]
+SpokenText="In death, some would speak of honor-I see only futility and waste."
+
+[Play_X2_XP_WRLK_T_XCOM_Killed_By_Hostiles_E AkEvent]
+SpokenText="Their lives forfeit, your fallen comrades will never feel the Elders embrace."
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_A AkEvent]
+SpokenText="There will be a reckoning for all of your offenses against the Elders, Commander."
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_B AkEvent]
+SpokenText="The weakness of these minions only furthers the need for my presence here."
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_C AkEvent]
+SpokenText="The loss of these subordinates is as meaningless to me as it is to you."
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_D AkEvent]
+SpokenText="The death of these subordinates will prevent nothing!"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_E AkEvent]
+SpokenText="My expectations for them were exceedingly low."
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_F AkEvent]
+SpokenText="My power cannot be compared to these lower forms of life."
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_G AkEvent]
+SpokenText="The Elders created them for this very purpose. In that respect, they are fulfilled."
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_H AkEvent]
+SpokenText="They should feel proud in having died for the glory of the Elders."
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_I AkEvent]
+SpokenText="Your continued defiance of the Elders will only strengthen my resolve."
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Hostiles_J AkEvent]
+SpokenText="For every fallen child of the Elders, humanity will repay a tally in flesh."
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Priest_A AkEvent]
+SpokenText="You would dare strike down one of the Elders' priests! You will suffer immeasurably!"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Priest_B AkEvent]
+SpokenText="You will pay for your offenses against the Elders' holy servants."
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Priest_C AkEvent]
+SpokenText="Our priests do not fear death, for they will join the Elders in eternity."
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Priest_D AkEvent]
+SpokenText="I will not allow you to rise against my holy servants!"
+
+[Play_X2_XP_WRLK_T_XCOM_Kills_Priest_E AkEvent]
+SpokenText="You will pay dearly for striking the Elder's holiest of warriors."
+
+[Play_X2_XP_WRLK_T_XCOM_Loss_Escape_Capture_A AkEvent]
+SpokenText="Your forces have suffered greatly today, and to what end? I still leave victorious, a fresh captive in tow. It is no longer a matter of how, but when, you will be returned to the Elders."
+
+[Play_X2_XP_WRLK_T_XCOM_Loss_Escape_Capture_B AkEvent]
+SpokenText="How do your forces approach the prospect of battle, knowing you will leave them to die, or allow them to be taken captive so easily? You are no threat."
+
+[Play_X2_XP_WRLK_T_XCOM_Loss_Escape_Capture_C AkEvent]
+SpokenText="Your soldiers have sacrificed so much today, and this captive will surely surrender even more give time. A demoralizing defeat for your people no doubt."
+
+[Play_X2_XP_WRLK_T_XCOM_Loss_Escape_Extract_A AkEvent]
+SpokenText="A glorious day for the Elders! The forces of the nonbelievers have suffered greatly, their minds defenseless to my incursions! The end grows near!"
+
+[Play_X2_XP_WRLK_T_XCOM_Loss_Escape_Extract_B AkEvent]
+SpokenText="Your forces fall in battle like the disposable heroes they are. Even as they pass on to the void, my knowledge grows and the Elders' grasp comes closer than ever."
+
+[Play_X2_XP_WRLK_T_XCOM_Loss_Escape_Extract_C AkEvent]
+SpokenText="How long do you expect to remain in hiding, with your forces left to suffer and die at my hand? I have already learned so much, in so short a time."
+
+[Play_X2_XP_WRLK_T_XCOM_Losses_Last_Time_A AkEvent]
+SpokenText="When last we met, your soldiers left the field awash in blood. Will you throw their lives away so carelessly once again?"
+
+[Play_X2_XP_WRLK_T_XCOM_Losses_Last_Time_B AkEvent]
+SpokenText="I have already claimed so many of your soldier's lives in the name of the Elders, and still you bring me more?"
+
+[Play_X2_XP_WRLK_T_XCOM_Losses_Last_Time_C AkEvent]
+SpokenText="You've allowed so many of your soldiers to fall before me in battle, do you feel nothing for their hollow sacrifice?"
+
+[Play_X2_XP_WRLK_T_XCOM_Mag_Weapons_A AkEvent]
+SpokenText="Such simple weapons. Advanced for your kind perhaps."
+
+[Play_X2_XP_WRLK_T_XCOM_Mag_Weapons_B AkEvent]
+SpokenText="Your pride in these archaic weapons is pitiful."
+
+[Play_X2_XP_WRLK_T_XCOM_Mag_Weapons_C AkEvent]
+SpokenText="Your petty weaponry is meaningless to me, Commander."
+
+[Play_X2_XP_WRLK_T_XCOM_Mag_Weapons_D AkEvent]
+SpokenText="Should I be impressed by these advances in technology?"
+
+[Play_X2_XP_WRLK_T_XCOM_Mag_Weapons_E AkEvent]
+SpokenText="You realize of course, the Elders mastered that technology eons ago."
+
+[Play_X2_XP_WRLK_T_XCOM_Misses_Chosen_First_Time_A AkEvent]
+SpokenText="Even the smallest misstep could be costly at this stage, Commander."
+
+[Play_X2_XP_WRLK_T_XCOM_Misses_Chosen_First_Time_B AkEvent]
+SpokenText="I had expected nothing less than failure."
+
+[Play_X2_XP_WRLK_T_XCOM_Misses_Chosen_First_Time_C AkEvent]
+SpokenText="You are predictably inept."
+
+[Play_X2_XP_WRLK_T_XCOM_Rescued_Captive_A AkEvent]
+SpokenText="I had already grown tired of keeping that captive alive, with its various needs. You have done me a favor, Commander."
+
+[Play_X2_XP_WRLK_T_XCOM_Rescued_Captive_B AkEvent]
+SpokenText="So you have finally managed to rescue your imprisoned compatriot. No matter, you will surely leave more to my taking in the days to come."
+
+[Play_X2_XP_WRLK_T_XCOM_Rescued_Captive_C AkEvent]
+SpokenText="What a daring rescue, Commander! If only you had placed that much effort in preventing your ally's capture before I scoured the depths of their mind."
+
+[Play_X2_XP_WRLK_T_XCOM_Sabotaged_Facility_A AkEvent]
+SpokenText="You have struck against one of the facilities necessary to completing the Elder's designs. I will make you regret these heinous crimes!"
+
+[Play_X2_XP_WRLK_T_XCOM_Sabotaged_Facility_B AkEvent]
+SpokenText="Your assault against one ADVENT's facilities is an affront to all who serve the Elders."
+
+[Play_X2_XP_WRLK_T_XCOM_Sabotaged_Facility_C AkEvent]
+SpokenText="Your brazen attack on one of ADVENT's facilities will do little to slow the Elder's plans, Commander."
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_A AkEvent]
+SpokenText="You will pay for every strike!"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_B AkEvent]
+SpokenText="Your time will come soon enough."
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_C AkEvent]
+SpokenText="There will be no mercy for you."
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_D AkEvent]
+SpokenText="A meager strike!"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_E AkEvent]
+SpokenText="That will not be enough."
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_F AkEvent]
+SpokenText="The Elders shield me!"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_G AkEvent]
+SpokenText="You dare strike the Elders Chosen?!"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_H AkEvent]
+SpokenText="A trivial effort."
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_I AkEvent]
+SpokenText="You will suffer!"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Hits_J AkEvent]
+SpokenText="I will see you kneel!"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_A AkEvent]
+SpokenText="A disappointing effort."
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_B AkEvent]
+SpokenText="At least make a good show of it."
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_C AkEvent]
+SpokenText="You may be out of your depth."
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_D AkEvent]
+SpokenText="You will have to do better."
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_E AkEvent]
+SpokenText="Was that meant for me?"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_F AkEvent]
+SpokenText="An artless strike."
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_G AkEvent]
+SpokenText="A feeble effort at best."
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_H AkEvent]
+SpokenText="You lack conviction!"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_I AkEvent]
+SpokenText="A squandered opportunity!"
+
+[Play_X2_XP_WRLK_T_XCOM_Subsequent_Misses_J AkEvent]
+SpokenText="I am not impressed."
+
+[Play_X2_XP_WRLK_T_XCOM_Taunts_A AkEvent]
+SpokenText="Truly you are loathsome creatures! Just look at you!"
+
+[Play_X2_XP_WRLK_T_XCOM_Taunts_B AkEvent]
+SpokenText="You are out of your depths! The Elders visions stretch beyond time itself!"
+
+[Play_X2_XP_WRLK_T_XCOM_Taunts_C AkEvent]
+SpokenText="Your selfish pursuits under the guise of resistance will lead to so many needless deaths."
+
+[Play_X2_XP_WRLK_T_XCOM_Taunts_D AkEvent]
+SpokenText="Do you not see that the Elders have a greater vision than your simple minds can conjure?"
+
+[Play_X2_XP_WRLK_T_XCOM_Taunts_E AkEvent]
+SpokenText="You should be thanking the Elders for their accord with the remains of your pathetic civilization!"
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_A AkEvent]
+SpokenText="Let us see the grand strategies of XCOM's fabled Commander."
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_B AkEvent]
+SpokenText="Send me your fledgling warriors, Commander. I am ready to absolve them."
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_C AkEvent]
+SpokenText="I bring the Elder's wrath to all who would oppose them."
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_D AkEvent]
+SpokenText="The Elder's edict is clear. You will return to them Commander."
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_E AkEvent]
+SpokenText="Surrender yourself, Commander, let no more perish in vain."
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_F AkEvent]
+SpokenText="Your commander will lead you only to your deaths!"
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_G AkEvent]
+SpokenText="The Elders would never have you fight such a futile battle!"
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_H AkEvent]
+SpokenText="Accept the Elder's embrace, or burn in the fires of their wrath!"
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_I AkEvent]
+SpokenText="Come, squander your lives as it is fated."
+
+[Play_X2_XP_WRLK_T_XCOM_Turn_Begins_J AkEvent]
+SpokenText="Die for your hollow resistance, it will make no difference."
+
+[Play_X2_XP_WRLK_T_XCOM_Uses_Chosen_Weapon_A AkEvent]
+SpokenText="That weapon was never meant to be beholden to your kind!"
+
+[Play_X2_XP_WRLK_T_XCOM_Uses_Chosen_Weapon_B AkEvent]
+SpokenText="I'm not sure you have the talent to properly wield that weapon."
+
+[Play_X2_XP_WRLK_T_XCOM_Uses_Chosen_Weapon_C AkEvent]
+SpokenText="In your hands, the weapon of a Chosen warrior is nothing more than slag and spoil."
+
+[Play_X2_XP_WRLK_T_XCOM_Uses_Chosen_Weapon_D AkEvent]
+SpokenText="Defiler! The weapons of the Chosen are sacred objects."
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_A AkEvent]
+SpokenText="These minions serve their purposes occasionally, just as yours do, Commander."
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_B AkEvent]
+SpokenText="With every strike, they honor their creators by shattering your soldier's resolve."
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_C AkEvent]
+SpokenText="Try as they might, occasionally they do succeed."
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_D AkEvent]
+SpokenText="The Elders servants will never cease their attacks!"
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_E AkEvent]
+SpokenText="Your soldiers cannot last forever, Commander."
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_F AkEvent]
+SpokenText="With each new wound, your troops grow weary of your failures."
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_G AkEvent]
+SpokenText="Their fragile forms succumb to the perils of battle."
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_H AkEvent]
+SpokenText="Their blood is spilled in vain, to the honor of no one."
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_I AkEvent]
+SpokenText="Even in the smallest strike, the Elders vengeance is carried forth."
+
+[Play_X2_XP_WRLK_T_XCOM_Wounded_By_Hostiles_J AkEvent]
+SpokenText="Do you feel their pain, Commander? Do you share their agony?"
+

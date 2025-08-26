@@ -1,0 +1,14 @@
+[Audio.S_Shadow_Chamber_Tygan_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Shadow_Chamber_Tygan_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+

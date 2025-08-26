@@ -1,0 +1,14 @@
+[Audio.S_Shens_Loot_Shen_01_Setup_Phase SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Shens_Loot_Shen_02_Setup_Phase SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+

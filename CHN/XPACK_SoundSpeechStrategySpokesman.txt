@@ -1,0 +1,6 @@
+﻿[Play_X2_XP_S_SPO_Faction_Leader_Screen AkEvent]
+SpokenText="干得漂亮，指挥官。反抗军的联络网规模越来越大了。我已经建立这个保密频道，供你更加方便地协调自己的行动。我们只有共同努力才能挫败变种人和长老的天选者。"
+
+[Play_X2_XP_SPO_S_First_Ring_Covert_Actions AkEvent]
+SpokenText="指挥官，你联系到的派系已经做好了追踪天选者的准备。有了他们的帮助，XCOM肯定能尽快定位并消灭这些威胁。"
+

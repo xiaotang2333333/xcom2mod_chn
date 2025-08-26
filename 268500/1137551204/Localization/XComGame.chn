@@ -1,0 +1,73 @@
+[RM_Mark X2AbilityTemplate]
+LocFriendlyName="标记目标"
+LocLongDescription="混血人可使用复仇者号的计算机系统和其改良芯片来标记目标，为其他XCOM士兵提供辅助瞄准。由于复仇者号系统的压力，有一个小队共享冷却时间。"
+LocHelpText="标记出一个敌方目标。当攻击目标时，友军单位获得+<Ability:MARKTARGETAIMBONUS/>命中。持续<Ability:MARK_COOLDOWN/>回合，有一个小队共享冷却时间<Ability:MARK_TURNS/>回合。"
+
+[HybridRookie X2SoldierClassTemplate]
+DisplayName="混血新兵"
+
+[RM_HybridSoldier X2CharacterTemplate]
+strCharacterName="士兵"
+
+strCharacterBackgroundMale[0]="<XGParam:StrValue1/!FirstName/>对他的出身知之甚少，并且对他在变种人麾下服役期间的经历也遗忘了不少。解放后的他在散兵同胞的引导下为自己确立了推翻长老统治的目标。"
+strCharacterBackgroundMale[1]="<XGParam:StrValue1/!FirstName/>是最近一批摆脱变种人控制的散兵中的一员，他那刚移除芯片的身体部位依旧隐隐作痛。他的同胞在这之上添加的仪式刻痕让这份痛苦更为刻骨铭心。"
+strCharacterBackgroundMale[2]="<XGParam:StrValue1/!FirstName/>原本驻扎在一处偏远的变种人前哨站，他在战场上受伤后便被变种人抛弃。当他从昏迷中醒来，却发现自己的控制芯片出了故障，不必再听令于长老，但孤身一人且身患重伤。"
+strCharacterBackgroundMale[3]="<XGParam:StrValue1/!FirstName/>是贝托斯亲手从长老的魔掌中解救出来的，因此他也是散兵战士中最为忠诚和令人生畏的。他想让长老永远记住他的名字，他那本不应该拥有的名字。"
+strCharacterBackgroundMale[4]="和莫克斯一样，<XGParam:StrValue1/!FirstName/>在处于长老控制时对人类派系犯下的罪行可以用骇人听闻来形容。尽管大多数人已经不再怪罪他们，<XGParam:StrValue1/!FirstName/>还是执意赎罪，这点和莫克斯也一样。"
+
+strCharacterBackgroundFemale[0]="<XGParam:StrValue1/!FirstName/>对她的出身知之甚少，并且对她在变种人麾下服役期间的经历也遗忘了不少。解放后的她在散兵同胞的引导下为自己确立了推翻长老统治的目标。"
+strCharacterBackgroundFemale[1]="<XGParam:StrValue1/!FirstName/>是最近一批摆脱变种人控制的散兵中的一员，她那刚移除芯片的身体部位依旧隐隐作痛。她的同胞在这之上添加的仪式刻痕让这份痛苦更为刻骨铭心。"
+strCharacterBackgroundFemale[2]="<XGParam:StrValue1/!FirstName/>原本驻扎在一处偏远的变种人前哨站，她在战场上受伤后便被变种人抛弃。当她从昏迷中醒来，却发现自己的控制芯片出了故障，不必再听令于长老，但孤身一人且身患重伤。"
+strCharacterBackgroundFemale[3]="<XGParam:StrValue1/!FirstName/>是贝托斯亲手从长老的魔掌中解救出来的，因此她也是散兵战士中最为忠诚和令人生畏的。她想让长老永远记住她的名字，她那本不应该拥有的名字。" 
+strCharacterBackgroundFemale[4]="和莫克斯一样，<XGParam:StrValue1/!FirstName/>在处于长老控制时对人类派系犯下的罪行可以用骇人听闻来形容。尽管大多数人已经不再怪罪他们，<XGParam:StrValue1/!FirstName/>还是执意赎罪，这点和莫克斯也一样。" 
+
+[Reward_HybridSoldier X2RewardTemplate]
+DisplayName="变种人混血新兵"
+
+[CovertActionNarrative_RecruitHybridSoldier_Skirmishers X2CovertActionNarrativeTemplate]
+ActionName="特别招募"
+ActionPreNarrative="只要没有妨碍到我们自身的行动，散兵永远乐意为急需帮助的友军效劳。我们来谈谈进一步合作的细节吧。"
+ActionPostNarrative="他们可能没有正式加入散兵，但我相信他们会对你有所帮助，指挥官。"
+
+[CovertAction_RecruitHybridSoldier X2CovertActionTemplate]
+ActionObjective="招募混血人"
+
+
+[HybridMale_A_Afr X2BodyPartTemplate]
+DisplayName="面部 A"
+[HybridMale_A_Asn X2BodyPartTemplate]
+DisplayName="面部 A"
+[HybridMale_A_Cauc X2BodyPartTemplate]
+DisplayName="面部 A"
+[HybridMale_A_Lat X2BodyPartTemplate]
+DisplayName="面部 A"
+
+[HybridFem_A_Afr X2BodyPartTemplate]
+DisplayName="面部 A"
+[HybridFem_A_Asn X2BodyPartTemplate]
+DisplayName="面部 A"
+[HybridFem_A_Cauc X2BodyPartTemplate]
+DisplayName="面部 A"
+[HybridFem_A_Lat X2BodyPartTemplate]
+DisplayName="面部 A"
+
+[HybridMaleVoice1_Localized X2BodyPartTemplate]
+DisplayName="混血人 1"
+[HybridMaleVoice2_Localized X2BodyPartTemplate]
+DisplayName="混血人 2"
+
+[HybridFemaleVoice1_Localized X2BodyPartTemplate]
+DisplayName="混血人 1"
+[HybridFemaleVoice2_Localized X2BodyPartTemplate]
+DisplayName="混血人 2"
+
+[Hybrid_Scar_A X2BodyPartTemplate]
+DisplayName="半球形"
+[Hybrid_Scar_B X2BodyPartTemplate]
+DisplayName="V形"
+[Hybrid_Scar_C X2BodyPartTemplate]
+DisplayName="中心点"
+[Hybrid_Scar_D X2BodyPartTemplate]
+DisplayName="头顶"
+[Hybrid_Scar_E X2BodyPartTemplate]
+DisplayName="老式"

@@ -1,0 +1,150 @@
+[Samurai X2SoldierClassTemplate]
++DisplayName="武士"
++ClassSummary="武士道者，死之谓也。每天身心平静时，要冥想必死之道。被箭枪矛剑杀死，巨浪卷走，抛进大火，闪电击中，强震掩埋，从千尺悬崖坠落，病痛而死，切腹殉主。每天视己如死，即是武士之道。"
++LeftAbilityTreeTitle="剑豪"
++RightAbilityTreeTitle="浪人"
+AbilityTreeTitles[0]="剑豪"
+AbilityTreeTitles[1]="修验者"
+AbilityTreeTitles[2]="浪人"
+
++RandomNickNames[0]="剑豪"
++RandomNickNames[1]="浪人"
++RandomNickNames[2]="幕府将军"
++RandomNickNames[3]="斩杀"
++RandomNickNames[4]="樱花"
++RandomNickNames[5]="木刀"
++RandomNickNames[6]="禅宗"
++RandomNickNames[7]="刀锋"
++RandomNickNames[8]="山中暴雨"
++RandomNickNames[9]="大雨"
++RandomNickNames[10]="云舞"
++RandomNickNames[11]="割草"
++RandomNickNames[12]="荣耀"
++RandomNickNames[13]="猝死"
++RandomNickNames[14]="追踪者"
++RandomNickNames[14]="武士道"
+
+[SamuraiTacticalRigging X2AbilityTemplate]
+LocFriendlyName="战术装配"
+LocHelpText="若士兵护甲没提供通用物品槽位，则额外增加一个通用物品槽位。"
+LocLongDescription="若士兵护甲没提供通用物品槽位，则额外增加一个通用物品槽位。"
+LocPromotionPopupText="<Bullet/> 允许该士兵额外装备一种榴弹、弹药或是防弹背心，增加其作战能力。<br/>"
+
+[HawkEye X2AbilityTemplate]
+LocFriendlyName="鹰眼"
+LocLongDescription="据一长者说，在战场杀敌就像鹰捕杀鸟。即使鹰进入千鸟群中，也不会注意其他鸟，只会专注最初标记的鸟。<br/>近战攻击的暴击率+15，暴击伤害+3"
+LocHelpText="近战攻击的暴击率+15，暴击伤害+3"
+LocFlyOverText="鹰眼" 
+LocPromotionPopupText="<Bullet/>近战的暴击率+15<br/><Bullet/>近战的暴击伤害+3<br/>"
+
+[WayOfTheSamurai X2AbilityTemplate]
+LocFriendlyName="武士之道"
+LocLongDescription="武士道者，死之谓也。每天身心平静时，要冥想必死之道。<br/>强化剑术训练，近战武器+3伤害和+10命中率。"
+LocHelpText="剑+3伤害和+10命中率"
+LocFlyOverText="武士之道" 
+LocPromotionPopupText="<Bullet/>强化剑术训练，近战武器+3伤害和+10命中率。"
+
+[Unstoppable X2AbilityTemplate]
+LocFriendlyName="不可擦伤"
+LocLongDescription="古人说，人该在七息之间做出决定。<br/>这是身体决定和精神突破到彼岸的问题。<br/>近战攻击永远不会擦伤。"
+LocHelpText="近战攻击永远不会擦伤，试着反击这些你们讨厌的杂种！"
+LocFlyOverText="不可擦伤" 
+LocPromotionPopupText="<Bullet/>近战攻击永远不会擦伤。"
+
+[MeleeShredder X2AbilityTemplate]
+LocFriendlyName="精力集中"
+LocLongDescription="SHUCHU RYOKU - 将你的所有精力集中于一点！ 为你的近战攻击增加破甲效果。"
+LocHelpText="为你的近战攻击增加破甲效果"
+LocFlyOverText="精力集中" 
+LocPromotionPopupText="<Bullet/>1级剑获得+1破甲<br/><Bullet/>2级剑获得+2破甲<br/><Bullet/>3级剑获得+3破甲"
+
+[WhirlwindStrike X2AbilityTemplate]
+LocFriendlyName="旋风斩"
+LocLongDescription="武士之道其一是疾如风，最好就是急速向前冲刺。<br/>向目标执行两次斩击。每次都有-15命中惩罚。<br/>无冷却时间。<br/>消耗1个专注点。"
+LocHelpText="向目标执行两次斩击。每次都有-15命中惩罚。<br/>消耗1个专注点。"
+LocFlyOverText="向目标执行两次斩击。每次都有-15命中惩罚。<br/>消耗1个专注点。" 
+LocPromotionPopupText="<Bullet/>向目标执行两次斩击。每次都有-15命中惩罚。<br/><Bullet/>无冷却时间。<br/><Bullet/>消耗1个专注点。"
+
+[WhirlwindFirstStrike X2AbilityTemplate]
+LocFriendlyName="旋风斩"
+LocLongDescription="武士之道其一是疾如风，最好就是急速向前冲刺。<br/>向目标执行两次斩击。每次都有-15命中惩罚。<br/>无冷却时间。<br/>消耗1个专注点。"
+LocHelpText="向目标执行两次斩击。每次都有-15命中惩罚。<br/>消耗1个专注点。"
+LocFlyOverText="向目标执行两次斩击。每次都有-15命中惩罚。<br/>消耗1个专注点。" 
+LocPromotionPopupText="<Bullet/>向目标执行两次斩击。每次都有-15命中惩罚。<br/><Bullet/>无冷却时间。<br/><Bullet/>消耗1个专注点。"
+
+[TrainingDiscipline X2AbilityTemplate]
+LocFriendlyName="武士训练"
+LocLongDescription="<i>真正的力量是智慧之花，然而花的种子是行动力。<i/><br/>武士不懈的训练给予+3移动力和+20闪避。"
+LocHelpText="武士不懈的训练给予+3移动力和+20闪避。"
+LocFlyOverText="武士训练" 
+LocPromotionPopupText="<Bullet>给予+3移动力<br/><Bullet/>给予+20闪避"
+
+[Yamabushi X2AbilityTemplate]
+LocFriendlyName="山伏秘传"
+LocLongDescription="<i>山伏门徒通过禁欲获得精神、神秘或超自然力量。<i/>你强壮如山脉，获得+1护甲，+15防御，每回合恢复2点生命，最高可达6点。"
+LocHelpText="你强壮如山脉，获得+1护甲，+15防御，每回合恢复2点生命，最高可达6点。"
+LocFlyOverText="山伏秘传" 
+LocPromotionPopupText="<Bullet>获得+2护甲<br/><Bullet/>获得+15防御<br/><Bullet/>每回合恢复2点生命，最高可达6点"
+
+[DragonStrike X2AbilityTemplate]
+LocFriendlyName="飞龙斩"
+LocLongDescription="理性无法决断；剑会决断！向敌人发起可怕的攻击，造成巨大伤害并使幸存者混乱。消耗1个专注点。"
+LocHelpText="向敌人发起可怕的攻击，造成范围伤害并使幸存者混乱。消耗1个专注点。"
+LocFlyOverText="飞龙斩" 
+LocPromotionPopupText="<Bullet>近战攻击5格半径范围<br/><Bullet/><Ability:SelfCooldown/> 冷却时间<br/><Bullet/>消耗1个专注点。"
+
+[DangerSense X2AbilityTemplate]
+LocFriendlyName="危险感知"
+LocLongDescription="你要在外面保持冷静，但头脑清醒并有所防范。武士敏锐地危险感知着足迹周围20格范围。他不会惊讶于无面怪或遁地的寄生兽。"
+LocHelpText="第六感，武士敏锐地危险感知着足迹周围20格范围。他不会惊讶于无面怪或遁地的寄生兽。"
+LocFlyOverText="危险感知"
+LocPromotionPopupText="<Bullet/>追踪20格范围内的运动轨迹。不会惊讶无面怪或遁地的寄生兽。<br/>"
+
+[SamuraiFrenzy X2AbilityTemplate]
+LocFriendlyName="生死斗"
+LocLongDescription="即使一人突然被斩首，他也定能再做一个动作。凭借勇武之气，如果一人变得像复仇的鬼魂，并且饱含极大决心，虽然他的头被砍掉，但他应该不会死。<br/>武士在战斗中受伤后，将进入死亡狂暴状态并且获得+1额外行动点，在近战2回合中+80闪避+50暴击率。"
+LocHelpText="Shigurui - 武士在战斗中受伤后，将进入死亡狂暴状态并且获得+1额外行动点，在近战2回合中+80闪避+50暴击率。"
+LocFlyOverText="生死斗"
+LocPromotionPopupText="<Bullet/>受伤将获得+1额外行动点<br/><Bullet/>+80 闪避<br/><Bullet/>+50 暴击率在近战中<br/><Bullet/>持续2回合"
+
+[Shinigami X2AbilityTemplate]
+LocFriendlyName="死神·武士"
+LocLongDescription="\"今天我成为死神\"我们的科学家不完全确定为何武士要比我们的普通士兵杀人更快。他们说这是因为一种灵能能力，可以吸收被他击杀的敌人能量。武士在近战中每杀一人，他就获得一个专注点。激活后，你的近战攻击不会结束回合。激活将消耗2个专注。"
+LocHelpText="他们说这是一种灵能能力，可以吸收被他击杀的敌人能量。武士在近战中每杀一人，他就获得一个专注点。激活后，你的近战攻击不会结束回合。激活将消耗2个专注。"
+LocFlyOverText="死神·武士"
+LocPromotionPopupText="<Bullet/>他们说这是一种灵能能力，可以吸收被他击杀的敌人能量。武士在近战中每杀一人，他就获得一个专注点。激活后，你的近战攻击不会结束回合。激活将消耗2个专注。<br/><Bullet/>每收集10个灵魂，你就获得+1暴击率，每20个灵魂+1暴击伤害。<br/>"
+
+[SamuraiSoulSteal X2AbilityTemplate]
+LocFriendlyName="死神·灵魂窃取"
+LocLongDescription="\"今天我成为死神\"我们的科学家不完全确定为何武士要比我们的普通士兵杀人更快。他们说这是因为一种灵能能力，可以吸收被他击杀的敌人能量。武士在近战中每杀一人，他就获得一个专注点。激活后，你的近战攻击不会结束回合。激活将消耗2个专注。"
+LocHelpText="他们说这是一种灵能能力，可以吸收被他击杀的敌人能量。武士在近战中每杀一人，他就获得一个专注点。激活后，你的近战攻击不会结束回合。激活将消耗2个专注。"
+LocFlyOverText="死神·灵魂窃取"
+LocPromotionPopupText="<Bullet/>他们说这是一种灵能能力，可以吸收被他击杀的敌人能量。武士在近战中每杀一人，他就获得一个专注点。激活后，你的近战攻击不会结束回合。激活将消耗2个专注。<br/><Bullet/>每收集10个灵魂，你就获得+1暴击率，每20个灵魂+1暴击伤害。<br/>"
+
+[SamuraiSoulStealConsumeSoul X2AbilityTemplate]
+LocFriendlyName="死神·吞噬灵魂"
+LocLongDescription="\"今天我成为死神\"我们的科学家不完全确定为何武士要比我们的普通士兵杀人更快。他们说这是因为一种灵能能力，可以吸收被他击杀的敌人能量。武士在近战中每杀一人，他就获得一个专注点。激活后，你的近战攻击不会结束回合。激活将消耗2个专注。"
+LocHelpText="他们说这是一种灵能能力，可以吸收被他击杀的敌人能量。武士在近战中每杀一人，他就获得一个专注点。激活后，你的近战攻击不会结束回合。激活将消耗2个专注。"
+LocFlyOverText="死神·吞噬灵魂"
+LocPromotionPopupText="<Bullet/>他们说这是一种灵能能力，可以吸收被他击杀的敌人能量。武士在近战中每杀一人，他就获得一个专注点。激活后，你的近战攻击不会结束回合。激活将消耗2个专注。<br/><Bullet/>每收集10个灵魂，你就获得+1暴击率，每20个灵魂+1暴击伤害。<br/>"
+
+[SamuraiCoupDeGrace X2AbilityTemplate]
+LocFriendlyName="慈悲斩"
+LocFlyOverText="慈悲斩"
+LocLongDescription="使用近战武器攻击已处于混乱、晕眩、恐慌的敌人时，奖励+50命中，+50暴击率和+2伤害。"
+LocHelpText="使用近战武器攻击已处于混乱、晕眩、恐慌的敌人时，奖励命中、伤害、暴击率。"
+LocPromotionPopupText="<Bullet/> 慈悲斩给予+50命中，+50暴击率和+2伤害对于攻击晕眩和恐慌的敌人时。<br/><Bullet/> 对于攻击混乱的敌人，奖励就少了。"
+
+[SamuraiCutthroat X2AbilityTemplate]
+LocFriendlyName="绝情斩"
+LocFlyOverText="绝情斩"
+LocLongDescription="你近战攻击生物敌人无视他们的护甲，有+15暴击率，+2暴击伤害。"
+LocHelpText="你近战攻击生物敌人无视他们的护甲，有+15暴击率，+2暴击伤害。"
+LocPromotionPopupText="<Bullet/> 你近战攻击生物敌人无视他们的护甲，有+15暴击率，+2暴击伤害。"
+
+[SwordThrust X2AbilityTemplate]
+LocFriendlyName="剑刺"
+LocFlyOverText="剑刺"
+LocLongDescription="特殊的近战攻击，穿透大部分盔甲并造成目标破甲。消耗1专注点。"
+LocHelpText="特殊的近战攻击，穿透大部分盔甲并造成目标破甲。消耗1专注点。"
+LocPromotionPopupText="<Bullet/>+5穿甲<br/><Bullet/>+4破甲<br/><Bullet/>3回合冷却<br/><Bullet/>消耗1专注点。"

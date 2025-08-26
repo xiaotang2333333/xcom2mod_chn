@@ -1,0 +1,39 @@
+﻿[Play_X2_XP_SHN_T_Chosen_Avenger_Cannon_Hit_Critical AkEvent]
+SpokenText="复仇者号的能源核心出现裂纹！再挨一下它就要达到临界点了，指挥官！"
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_Cannon_Primed AkEvent]
+SpokenText="变种人的加农炮充能完毕了，指挥官。它们已经准备好开火了。"
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_Cannon_Primed_Final_Hit AkEvent]
+SpokenText="他们的加农炮又充好能，准备发射了！再挨一下我们就完了！"
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_Chosen_Cannon_Power AkEvent]
+SpokenText="那门加农炮的能量来源是卡车上的后勤发电机。加农炮充能完毕还需要一定时间，在那之前毁掉那台发动机这门加农炮就废了。"
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_Chosen_Cannon_Sighted AkEvent]
+SpokenText="指挥官，那个天选者带来了某种巨型加农炮，只要有那东西在我们就没法起飞。"
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_First_Cannon_Hit AkEvent]
+SpokenText="飞船系统故障，指挥官！我们不能再挨上这样的炮击了！"
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_Power_Core_Critical AkEvent]
+SpokenText="我没辙了！核心已经破裂！"
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_Subs_Cannon_Hit_A AkEvent]
+SpokenText="系统就快全线崩溃了！我们必须毁掉那门加农炮！"
+
+[Play_X2_XP_SHN_T_Chosen_Avenger_Subs_Cannon_Hit_B AkEvent]
+SpokenText="如果我们不阻止那门大炮，复仇者号就再也飞不起来了！"
+
+[Play_X2_XP_SHN_T_SITREP_Automated_Defense AkEvent]
+SpokenText="我们已经确认了刚才的读数，指挥官。该区域内有大量机械敌人活动。"
+
+[Play_X2_XP_SHN_T_SITREP_High_Explosives AkEvent]
+SpokenText="别忘了，指挥官，该区域内到处都是易燃原料 -- 我们得让小队成员远离那些东西。"
+
+[Play_X2_XP_SHN_T_SITREP_Limited_Vis AkEvent]
+SpokenText="该区域内有强烈的电磁干扰，让我们的感应器统统失灵了，因此小队能见度有限且通讯距离也缩短了。都小心点。"
+
+[Play_X2_XP_SHN_T_SITREP_Location_Scout AkEvent]
+SpokenText="指挥官，我们成功激活了任务区上方一台旧的侦察卫星 -- 我们现在得到了该区域的全境俯视图 -- 这次你不必担心会碰上意外袭击了。"
+

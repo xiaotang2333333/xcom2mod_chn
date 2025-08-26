@@ -1,0 +1,636 @@
+﻿[Play_X2_XP_CEN_S_10_Negative_Traits_Nag AkEvent]
+SpokenText="我们部队中有一些人的心理状态相当糟糕，指挥官。如果不卸下他们心头的重压，他们可能就没法正常战斗了。我们应该建造一个训练中心。"
+
+[Play_X2_XP_CEN_S_3_Negative_Traits_Nag AkEvent]
+SpokenText="又有一些士兵出现了负面精神状态，指挥官。如果我们想帮他们克服这一问题，就应该建设一个训练中心。"
+
+[Play_X2_XP_CEN_S_6_Negative_Traits_Nag AkEvent]
+SpokenText="指挥官，我们部队中至少有一人的心理状态出现了一些必须立即处理的严重问题。我强烈建议我们尽快建造一个训练中心。"
+
+[Play_X2_XP_CEN_S_Alien_Ruler_Available AkEvent]
+SpokenText="指挥官，我们收到情报，瓦伦博士那逃脱的实验品中的一只在把守附近的一个变种人设施。请做好与它战斗的准备。"
+
+[Play_X2_XP_CEN_S_Avenger_Assault_Squad_Select AkEvent]
+SpokenText="天选者毫不留情，他们是真的想要把我们一劳永逸地解决掉。我们可以派出两支小队来防守复仇者号，保护你的安全，指挥官。"
+
+[Play_X2_XP_CEN_S_Bond_Level_Up_Reminder_A AkEvent]
+SpokenText="指挥官，我们有许多士兵只要经过一定训练就能提升彼此之间的羁绊强度。"
+
+[Play_X2_XP_CEN_S_Chosen_Avenger_Mission_Blade_A AkEvent]
+SpokenText="天选者终于找到我们了，指挥官！我们得准备防御才行。"
+
+[Play_X2_XP_CEN_S_Chosen_Avenger_Mission_Blade_B AkEvent]
+SpokenText="有个天选者马上就要攻击飞船了，指挥官。他们会不惜一切代价把你抓回去。"
+
+[Play_X2_XP_CEN_S_Chosen_Avenger_Mission_Blade_C AkEvent]
+SpokenText="天选者终于获得了足够的情报，找到了我们，指挥官。我们得进行备战，与他们过去的交锋告诉我们，天选者是非常难缠的。"
+
+[Play_X2_XP_CEN_S_Chosen_Chance_Mission_Appear AkEvent]
+SpokenText="我们下一次行动将会深入天选者势力范围腹地，指挥官。他们很有可能出面干扰我们的行动，因此，我们得做好相应的准备。"
+
+[Play_X2_XP_CEN_S_Chosen_Encounter_First_Post_Combat_A AkEvent]
+SpokenText="指挥官，反抗军帮忙追踪到了我们刚刚在战斗中遭遇的天选者。看样子那家伙正在附近立桩标地呢。"
+
+[Play_X2_XP_CEN_S_Chosen_Encounter_First_Post_Combat_B AkEvent]
+SpokenText="我们已经确认我们的反抗军联络人正在追踪刚刚与我们战斗的天选者，它似乎在附近占地的样子。"
+
+[Play_X2_XP_CEN_S_Chosen_Encounter_First_Post_Combat_C AkEvent]
+SpokenText="我们的反抗军联络人送来的情报显示刚与我们战斗的天选者正在占领邻近的一片区域。"
+
+[Play_X2_XP_CEN_S_Chosen_Encounter_Territory_Contact_A AkEvent]
+SpokenText="刚刚与我们取得联系的本地反抗军特工警告我们说有个天选者在这里出没了有一段时间了。这是目前为止他们收集到的情报。"
+
+[Play_X2_XP_CEN_S_Chosen_Encounter_Territory_Contact_B AkEvent]
+SpokenText="指挥官，刚与我们在这片地区建立联系的反抗军向我们提供了在这片区域内活动的天选者的所有情报。"
+
+[Play_X2_XP_CEN_S_Chosen_Encounter_Territory_Contact_C AkEvent]
+SpokenText="在与当地反抗军建立联系后，他们发来了收集到的有关在这片区域内活动的天选者的所有情报。"
+
+[Play_X2_XP_CEN_S_Chosen_Favored AkEvent]
+SpokenText="看来天选者中有一人获得了提拔，受到了长老的偏爱。我们应该把他作为主要目标，不然他肯定会给我们制造不少麻烦的。"
+
+[Play_X2_XP_CEN_S_Chosen_Favored_A AkEvent]
+SpokenText="指挥官，看来长老们似乎把天选者的其中一人认作了宠儿。他在战斗中很有可能会变得更为强大，对我们行动的干扰也会更加频繁，我们得做好相应的准备。"
+
+[Play_X2_XP_CEN_S_Chosen_Favored_B AkEvent]
+SpokenText="指挥官，我们目前为止对天选者处理得还算不错，但长老们似乎将其中一人提拔为宠儿了。他们会继续干扰我们的战术行动，在战斗中也会变得更为强大。"
+
+[Play_X2_XP_CEN_S_Chosen_Knowledge_First AkEvent]
+SpokenText="这些天选者试图猎杀我们并俘虏你，指挥官，他们所到之处无一不是生灵涂炭。我们必须密切注意他们的动向，因为他们肯定也在收集有关我们的情报。"
+
+[Play_X2_XP_CEN_S_Chosen_Knowledge_First_ALT AkEvent]
+SpokenText="指挥官，除了猎杀我们外，天选者还在反抗军中散播恐惧。要赢得这场战争我们就得密切注意他们的动向。"
+
+[Play_X2_XP_CEN_S_Chosen_Level_Up_A AkEvent]
+SpokenText="指挥官，天选者继续在变强。如果我们不尽快解决掉他们，迟早有一天我们会扛不住他们的攻势的。"
+
+[Play_X2_XP_CEN_S_Covert_Action_In_Progress AkEvent]
+SpokenText="我们已经在进行一项隐秘行动了，指挥官。完成还需要一些时间。"
+
+[Play_X2_XP_CEN_S_Covert_Action_Tutorial AkEvent]
+SpokenText="指挥官，要完成这些隐秘行动，就必须派出我们的士兵与其他反抗军派系协作。他们会离开数日，但该行动不仅能让我们获得物质上的支援，还能扩大我们在反抗军中的影响。"
+
+[Play_X2_XP_CEN_S_Covert_Action_Veteran_Required AkEvent]
+SpokenText="这项行动只有经验丰富的战士能够胜任，指挥官。我们得派个老兵领导小队。"
+
+[Play_X2_XP_CEN_S_Extra_Dark_Event AkEvent]
+SpokenText="在那个最近成为宠儿的天选者的领导下，外星人看起来变得干劲十足啊。"
+
+[Play_X2_XP_CEN_S_First_Bond_Available AkEvent]
+SpokenText="指挥官，我们的士兵在并肩作战的过程中，会自然而然地形成亲密的战友情谊。我们可以训练他们，让他们在战斗中更具默契。"
+
+[Play_X2_XP_CEN_S_First_Bond_Level_Up AkEvent]
+SpokenText="指挥官，我们士兵之间的羁绊越来越牢不可破了。如果我们把他们一起送到训练中心进一步训练，他们一定能在战斗中表现得更为出色。"
+
+[Play_X2_XP_CEN_S_First_Chosen_Favored AkEvent]
+SpokenText="指挥官，我们的情报源显示长老们决定将天选者的其中一人认作宠儿。虽然听上去很滑稽，但那个被偏爱的天选者在战斗中很有可能会变得更为强大，对我们行动的干扰也会更加频繁。真是越来越棘手了。"
+
+[Play_X2_XP_CEN_S_First_Chosen_Frag_Need AkEvent]
+SpokenText="追踪天选者的行动是击败他们的第一步。我们得继续和其他反抗军派系的合作才能进行下一步。"
+
+[Play_X2_XP_CEN_S_First_Chosen_Frag_Need_ALT AkEvent]
+SpokenText="我们得继续和其他反抗军派系的合作才能对天选者采取进一步的行动。追踪他们的行动只是击败他们的第一步。"
+
+[Play_X2_XP_CEN_S_First_Chosen_Frag_Next AkEvent]
+SpokenText="既然我们已经追踪到了天选者的行动，那我们就算领先他们一步了。而且因为我们和反抗军分部最近合作得很紧密，只要你做好准备，我们就可以开始进一步分析他们。"
+
+[Play_X2_XP_CEN_S_First_Chosen_Level_Up AkEvent]
+SpokenText="天选者看来是没打算让我们好受，指挥官。每次见面他们都会变得更强。我们决不能放过找到他们弱点的机会。"
+
+[Play_X2_XP_CEN_S_First_Com_Int AkEvent]
+SpokenText="不同反抗军派系士兵学习的速度也不同，战斗欲强的士兵能够更为频繁地学到战术技能。"
+
+[Play_X2_XP_CEN_S_First_Covert_Actions AkEvent]
+SpokenText="虽然世界上到处都是反抗势力，但规模最大的派系还是我们。每个派系都愿意协助我们对抗变种人。要接受哪个派系的帮助由你决定，指挥官。"
+
+[Play_X2_XP_CEN_S_First_End_Month_Chosen AkEvent]
+SpokenText="渗透到天选者的情报网中是非常困难的，但我们还是收集到了他们最近活动的情报，并且能够大概估计他们距离定位复仇者号还有多久。"
+
+[Play_X2_XP_CEN_S_First_End_Month_Chosen_ALT AkEvent]
+SpokenText="渗透到天选者的情报网中是非常困难的，但我们还是收集到了他们最近活动的情报。现在我们能够大概估计他们距离定位复仇者号还有多久了。"
+
+[Play_X2_XP_CEN_S_First_Fragment_Action AkEvent]
+SpokenText="指挥官，其他反抗军派系发现了一个能让我们获得有关天选者的重要情报的机会。这样的机会可不容错过。"
+
+[Play_X2_XP_CEN_S_First_Hero_Promotion AkEvent]
+SpokenText="这些反抗军派系对于晋升士兵似乎有不同的处理方式。一般来说他们的士兵一次晋升能够学得多项新能力。他们很快就能适应你的指挥的，指挥官。"
+
+[Play_X2_XP_CEN_S_First_Level_Two_Bond AkEvent]
+SpokenText="这两个士兵在训练中心共同训练终于有成果了，他们的羁绊变得更为牢固。如果我们能让把他们布置在一起，他们在战场上肯定能所向披靡。"
+
+[Play_X2_XP_CEN_S_First_Low_Will_Return AkEvent]
+SpokenText="指挥官，即使是最为强韧的士兵，也会被战斗的压力拖垮。必要的时候我们得让他们执行任务，但条件允许的话还是让他们在重新投入战斗前休息几天为好。"
+
+[Play_X2_XP_CEN_S_First_Mult_Negative_Traits AkEvent]
+SpokenText="指挥官，我注意到我们的士兵中有一部分人渐渐出现了负面的精神状态。如果我们建设一个训练中心，就能帮他们克服他们的心理疾病。"
+
+[Play_X2_XP_CEN_S_First_Negative_Trait AkEvent]
+SpokenText="指挥官，与外星人日复一日的战斗是非常辛苦的，也因此士兵们迟早被战斗中的压力影响。我们得时刻注意士兵们的心理状态才行。"
+
+[Play_X2_XP_CEN_S_First_Photobooth AkEvent]
+SpokenText="指挥官，媒体是一种强大的工具，变种人显然很清楚这点。我看我们也是时候利用媒体来对抗他们了。只要宣传我们士兵在战斗中的英勇表现，我们肯定能提升反抗军的士气。"
+
+[Play_X2_XP_CEN_S_First_Positive_Trait AkEvent]
+SpokenText="克服恐惧的最好办法就是直面恐惧，指挥官。完成了这一挑战的士兵会因此变得更为强大。"
+
+[Play_X2_XP_CEN_S_First_Resistance_Order AkEvent]
+SpokenText="指挥官，与其他反抗军派系合作能让我们获得相应的收益。我们每个月都有机会决定委派给每个派系的反抗军命令。"
+
+[Play_X2_XP_CEN_S_First_Resistance_Policies AkEvent]
+SpokenText="指挥官，这些派系表示了对XCOM的支持，准备好执行你的命令了。只要我们的影响力能上去，那规模也就能上去。"
+
+[Play_X2_XP_CEN_S_First_Shaken_Squad_Select AkEvent]
+SpokenText="指挥官，我们有一些士兵已经精神透支了，在战场的情绪会更加不稳定。如果有额外的人手，还是让这些士兵休整一下为好。"
+
+[Play_X2_XP_CEN_S_First_SITREP AkEvent]
+SpokenText="指挥官，在理想条件下我们一般都会以最完备的状态迎战外星人 -- 但现实是残酷的，我们必须抓住每一次向外星人反击的机会。所以我们必须做好在未知情况下迎战他们的准备，并进行相应的部署和调整。"
+
+[Play_X2_XP_CEN_S_First_SITREP_ALT AkEvent]
+SpokenText="指挥官，如果我们想要赢得这场战争，我们就得抓住每一次还击的机会。所以我们必须随时做好在未知情况下迎战他们的准备，并进行相应的部署和调整。"
+
+[Play_X2_XP_CEN_S_First_Soldier_Compatibility AkEvent]
+SpokenText="指挥官，我们的士兵和队友之间都有一种独特的关系。只要他们共同完成作战任务，他们的默契度就会上升，并成长为一种牢不可破的羁绊。"
+
+[Play_X2_XP_CEN_S_First_Soldier_Returns_Shaken AkEvent]
+SpokenText="我们士兵可说是身经百战了，指挥官，偶尔会感到疲惫也是难免的。最好还是让他们休整几天再重新投入战斗，不然他们可能会崩溃的。"
+
+[Play_X2_XP_CEN_S_First_Soldier_Returns_Tired AkEvent]
+SpokenText="我们虽然经常派遣士兵执行任务，但他们会累成这样实属罕见。我建议让疲惫的士兵休息几天再出任务，不然他们的战斗效率只会显著下降。"
+
+[Play_X2_XP_CEN_S_First_Soldier_Shaken AkEvent]
+SpokenText="如果士兵们始终不休息，那精神上的疲劳迟早会影响其战斗时的效率。可以的话是时候让他们休息几天了。"
+
+[Play_X2_XP_CEN_S_First_Strategy_Card AkEvent]
+SpokenText="指挥官，每个反抗军派系都能为我们提供其特有的强化反抗军手段。只要我们赢得了他们的信任，就一定能获取到帮助。"
+
+[Play_X2_XP_CEN_S_First_Time_Recovery_Center AkEvent]
+SpokenText="指挥官，这个训练设施不仅能让共同训练的士兵提升互相之间的羁绊，还能够让我们的士兵活用战斗中学得的知识，学习新的战术能力。"
+
+[Play_X2_XP_CEN_S_First_Tired_Squad_Select AkEvent]
+SpokenText="指挥官，派疲惫的士兵执行任务也不是不行，但这样他们会有精神崩溃的危险。"
+
+[Play_X2_XP_CEN_S_First_Watershed_Moment AkEvent]
+SpokenText="两个士兵之间的英勇作战行为必定能够大幅提升他们之间的默契。"
+
+[Play_X2_XP_CEN_S_Low_Staff_Covert_Action AkEvent]
+SpokenText="指挥官，如果我们派太多士兵执行隐秘行动，我们的后备队中就没有多余的人手执行自己的作战任务了。"
+
+[Play_X2_XP_CEN_S_Low_Staff_Covert_Actions_ALT AkEvent]
+SpokenText="指挥官，我们现在派去执行隐秘行动的士兵实在是太多，用于执行战术行动的人手反而不足了。要是还想执行战术任务，我们就得招募新兵了。"
+
+[Play_X2_XP_CEN_S_Multiple_Bonds_Build_Recovery_A AkEvent]
+SpokenText="指挥官，我们的一部分士兵在战斗中产生了浓厚的情谊。只要加以额外训练，我们就能从他们这牢固的羁绊中获益。我们应该尽快建造一个训练中心。"
+
+[Play_X2_XP_CEN_S_Multiple_Bonds_Build_Recovery_B AkEvent]
+SpokenText="没有训练中心，我们就白白浪费了利用我们的士兵在战斗中结成的这份深厚情谊的机会。如果我们能腾出足够的资源，就应该立刻建造这样一个设施，指挥官。"
+
+[Play_X2_XP_CEN_S_Multiple_Bonds_Build_Recovery_C AkEvent]
+SpokenText="指挥官，我们的士兵在继续在并肩作战的过程中结成羁绊。然而，没有训练中心的额外训练，他们的羁绊就无法成长。我们应该尽快建造一个训练中心。"
+
+[Play_X2_XP_CEN_S_Nag_Build_Recovery_Center_A AkEvent]
+SpokenText="我们许多士兵间都有牢固的羁绊，不过用训练设施应该能够进一步发展这种羁绊。"
+
+[Play_X2_XP_CEN_S_Nag_Build_Recovery_Center_B AkEvent]
+SpokenText="指挥官，如果我们建造一个专门用来训练的设施，那我们的士兵应该可以提升他们的战术能力。我们应该开始训练中心的建设。"
+
+[Play_X2_XP_CEN_S_Nag_Build_Recovery_Center_C AkEvent]
+SpokenText="没有训练中心，我们就白白浪费了利用我们的士兵在战斗中结成的这份深厚情谊的机会。如果我们能腾出足够的资源，就应该立刻建造这样一个设施，指挥官。"
+
+[Play_X2_XP_CEN_S_Nag_Build_Ring_A AkEvent]
+SpokenText="指挥官，其他派系的表示他们已经知道了如何追踪到天选者。我们应该立刻修建议事厅来讨论此事。"
+
+[Play_X2_XP_CEN_S_Nag_Build_Ring_B AkEvent]
+SpokenText="其他派系需要一个协调行动的场所，指挥官，所以选择沈设计的\"议事厅\"作为下一个要修建的设施吧。"
+
+[Play_X2_XP_CEN_S_Nag_Covert_Action_Available AkEvent]
+SpokenText="指挥官，其他派系准备了多项隐秘行动的草案。我们应该前往议事厅计划下一步行动。"
+
+[Play_X2_XP_CEN_S_Post_Avenger_Assault AkEvent]
+SpokenText="我们暂时击退了天选者，指挥官。但我确定他们一定会回来的。我们得继续与其他派系合作，追踪他们的位置，最好尽早解决掉它们。"
+
+[Play_X2_XP_CEN_S_Post_Ruler_Escapes AkEvent]
+SpokenText="这应该不是我们最后一次碰见瓦伦的实验品，指挥官。请小心点，它随时都可能蹦出来。"
+
+[Play_X2_XP_CEN_S_Reapers_Contact_Soon AkEvent]
+SpokenText="指挥官，我们现在停留在这个地点。流言称这片区域有死神派系在活动，希望他们能尽快联系上我们。"
+
+[Play_X2_XP_CEN_S_Rescue_Soldier_Mission_Blade_A AkEvent]
+SpokenText="我们收到可靠情报，确认了上次被天选者俘虏的士兵目前的位置。这是进行营救的绝佳机会。"
+
+[Play_X2_XP_CEN_S_Rescue_Soldier_Mission_Blade_B AkEvent]
+SpokenText="指挥官，我们收到可靠情报，确认了上次被天选者俘虏的士兵目前的位置。现在这是进行一次营救行动的绝佳机会。"
+
+[Play_X2_XP_CEN_S_Rescue_Soldier_Mission_Blade_C AkEvent]
+SpokenText="我们终于查到天选者把我们的士兵关押在什么地方了。是时候把他救出来了。"
+
+[Play_X2_XP_CEN_S_SITREP_Black_Ops AkEvent]
+SpokenText="指挥官，我们在任务区附近找到了一个不会引起变种人警觉的着陆点。这次我们应该能出其不意。"
+
+[Play_X2_XP_CEN_S_SITREP_Fireteam AkEvent]
+SpokenText="任务区太过危险，我们不能派一整支小队前去，指挥官，所以我们只能派两名士兵前去执行任务，只能看情况随机应变了。"
+
+[Play_X2_XP_CEN_S_SITREP_Horde AkEvent]
+SpokenText="小心了，这地方到处都是间歇性的信号，只有一种东西会发出这种信号 -- 失魂者。牢记训练，保持冷静。"
+
+[Play_X2_XP_CEN_S_SITREP_Low_Profile AkEvent]
+SpokenText="任务区受到了变种人的严密监视，因此考虑到隐蔽性，我们应该派出尚未被变种人记入黑名单的队员，可以降低小队暴露的风险。"
+
+[Play_X2_XP_CEN_S_SITREP_Shadow_Squad AkEvent]
+SpokenText="指挥官，看起来任务区的情况满足隐蔽执行任务的条件，如果我们能让小队处于合适位置，他们应该暂时不会暴露。"
+
+[Play_X2_XP_CEN_S_SITREP_Surgical AkEvent]
+SpokenText="为了增强行动的隐蔽性，指挥官，我们必须将小队规模减少到三人。希望他们能不借助支援完成这项任务吧。"
+
+[Play_X2_XP_CEN_S_Squad_Size_Limited_A AkEvent]
+SpokenText="指挥官，考虑到这次行动的特殊性，这次我们必须缩减派出小队的规模。"
+
+[Play_X2_XP_CEN_S_Squad_Size_Limited_B AkEvent]
+SpokenText="注意，下次行动我们派出的人数有限，指挥官。"
+
+[Play_X2_XP_CEN_S_Squad_Size_Limited_C AkEvent]
+SpokenText="我们得缩减这次行动的规模，指挥官，也就是说派出的士兵会比往常要少。"
+
+[Play_X2_XP_CEN_S_Stronghold_Revealed_Mission_Blade_A AkEvent]
+SpokenText="我们已经查明了天选者要塞的位置，但它的防备太过严密，没法从正面突入。我们得和反抗军讨论一下怎么进去。"
+
+[Play_X2_XP_CEN_S_Stronghold_Revealed_Mission_Blade_B AkEvent]
+SpokenText="我们已经确认了天选者要塞的位置，但我们尚未发现潜入该设施的途径。我们应该问问反抗军的联络人，看看他们有没有什么好主意。"
+
+[Play_X2_XP_CEN_S_Stronghold_Revealed_Mission_Blade_C AkEvent]
+SpokenText="天选者要塞就在那，不过我们目前暂时还没有发现进入他们要塞的办法。我们应该和反抗军商讨下，他们之中大概有人知道该怎么进去。"
+
+[Play_X2_XP_CEN_S_Super_Squad_Size_A AkEvent]
+SpokenText="这次行动我们有机会多派出一名士兵，指挥官。"
+
+[Play_X2_XP_CEN_S_Super_Squad_Size_B AkEvent]
+SpokenText="这次我们可以比往常派出更多士兵，指挥官。希望这能让我们在与外星人的战斗中获得一定优势。"
+
+[Play_X2_XP_CEN_S_Super_Squad_Size_C AkEvent]
+SpokenText="指挥官，大家伙儿都迫不及待地想要参与战斗，所以这次我们会多派点士兵投入战斗。多多益善，不是吗？"
+
+[Play_X2_XP_CEN_S_Training_Center_Available AkEvent]
+SpokenText="我们现在可以建设一个训练中心了，指挥官。该设施能够有效协助我们管理士兵的精神状态，还能帮他们加深彼此之间的羁绊。"
+
+[Play_X2_XP_CEN_S_Tutorial_Infirmary AkEvent]
+SpokenText="指挥官，医务室可用来提升受伤士兵的恢复速度，并渐渐消除他们在战斗中获得的负面状态。需要的话我们还能加速这一进程。"
+
+[Play_X2_XP_CEN_S_View_First_Bond_Available AkEvent]
+SpokenText="指挥官，让这两名士兵共同作战果然是正确的，他们现在对于对方可是相当的了解了，我们可以让他们共同接受训练，学习额外的战术能力。"
+
+[Play_X2_XP_CEN_S_View_First_Bond_Level_Up AkEvent]
+SpokenText="这两名士兵之间的羁绊越来越深，只要他们继续一起训练，就能获得额外的战术能力。"
+
+[Play_X2_XP_S_CEN_After_Chosen_Full_Knowledge_A AkEvent]
+SpokenText="有个天选者已经快做好袭击我们飞船的准备了，指挥官。我们快没有时间阻止它了。"
+
+[Play_X2_XP_S_CEN_After_Chosen_Full_Knowledge_B AkEvent]
+SpokenText="我们的位置已经暴露给天选者了，指挥官，他们对飞船发动袭击只是时间问题了。"
+
+[Play_X2_XP_S_CEN_After_Chosen_Full_Knowledge_C AkEvent]
+SpokenText="我们最近的报告表明有个天选者已经追踪到了我们的位置，指挥官，他就快做好袭击飞船的准备了。"
+
+[Play_X2_XP_S_CEN_After_Chosen_Half_Knowledge_A AkEvent]
+SpokenText="天选者在追踪我们位置方面取得了不少进展，指挥官。我们的时间不多了。"
+
+[Play_X2_XP_S_CEN_After_Chosen_Half_Knowledge_B AkEvent]
+SpokenText="有个天选者就快发现我们了，指挥官。我们应该在那之前抓住一切机会抢先干掉他们。"
+
+[Play_X2_XP_S_CEN_After_Chosen_Half_Knowledge_C AkEvent]
+SpokenText="天选者依旧在搜寻我们，指挥官，其中一人离我们非常近了。"
+
+[Play_X2_XP_S_CEN_After_Chosen_Retaliation_A AkEvent]
+SpokenText="长老对杀害平民向来没有什么愧疚心理，他们的天选者也是一样的。反抗军指望我们保护他们的人，我们不能让他们失望。"
+
+[Play_X2_XP_S_CEN_After_Chosen_Retaliation_B AkEvent]
+SpokenText="天选者为了阻止你会不择手段，指挥官，就算是杀光一整个殖民地的人他们也在所不惜。我们是唯一能够守护他们的人。"
+
+[Play_X2_XP_S_CEN_After_Chosen_Retaliation_C AkEvent]
+SpokenText="天选者对我们在反抗军的朋友造成了沉重打击。我们应该在他们再次袭击反抗军前干掉他们。"
+
+[Play_X2_XP_S_CEN_Ambient_Musing_A AkEvent]
+SpokenText="外星人本来就天天搞宣传战像个苍蝇一样烦人，然后现在他们还让这些天选者到处做演讲。"
+
+[Play_X2_XP_S_CEN_Ambient_Musing_B AkEvent]
+SpokenText="你还嫌我话太多呢，指挥官。你看我跟这些天选者比是不是要好多了？"
+
+[Play_X2_XP_S_CEN_Ambushed_Covert_Action_A AkEvent]
+SpokenText="我们收到了与反抗军共同执行任务中的XCOM士兵的求救信号，他们上次行动时被埋伏了。红恶魔正在前往他们的位置。"
+
+[Play_X2_XP_S_CEN_Ambushed_Covert_Action_B AkEvent]
+SpokenText="指挥官，我们收到了求救信号，看起来是我们之前派去执行隐秘行动的小队被伏击了。已经派出红恶魔前往他们的位置进行紧急撤离。"
+
+[Play_X2_XP_S_CEN_Ambushed_Covert_Action_C AkEvent]
+SpokenText="我们已确认最近外派去执行隐秘行动的人员发来了求救信号。他们被人伏击，急需撤离，红恶魔已起飞。"
+
+[Play_X2_XP_S_CEN_Assassin_Sighting_A AkEvent]
+SpokenText="那就是长老的刺客，正在努力巡逻呢。"
+
+[Play_X2_XP_S_CEN_Assassin_Sighting_B AkEvent]
+SpokenText="我们追踪到长老的刺客了，她正在该区域内移动。"
+
+[Play_X2_XP_S_CEN_Assassin_Sighting_C AkEvent]
+SpokenText="我们已经追踪到了天选者刺客，她正在这片区域内活动。"
+
+[Play_X2_XP_S_CEN_Captured_Soldier_Found_A AkEvent]
+SpokenText="反抗军派系找到我们的被抓的士兵关在哪里了。"
+
+[Play_X2_XP_S_CEN_Captured_Soldier_Found_B AkEvent]
+SpokenText="我们的反抗军朋友帮我们找到了失踪士兵的位置。"
+
+[Play_X2_XP_S_CEN_Chosen_Defeats_XCOM_A AkEvent]
+SpokenText="我们输得很惨，指挥官。我们得想办法主动突袭天选者。"
+
+[Play_X2_XP_S_CEN_Chosen_Defeats_XCOM_B AkEvent]
+SpokenText="天选者这次赢过我们了，但我们还不至于就此放弃。"
+
+[Play_X2_XP_S_CEN_Chosen_Defeats_XCOM_C AkEvent]
+SpokenText="我们不能再让天选者战胜我们了，指挥官，我们得想办法干掉他们。"
+
+[Play_X2_XP_S_CEN_Chosen_Encounter_Screen AkEvent]
+SpokenText="这就是我们在与天选者的上次交锋中获取的所有情报，我们得在他们找到我们前先下手为强。"
+
+[Play_X2_XP_S_CEN_Chosen_Fragment_Recovered_A AkEvent]
+SpokenText="我们又获得了一则有关天选者的重要情报。"
+
+[Play_X2_XP_S_CEN_Chosen_Fragment_Recovered_B AkEvent]
+SpokenText="我们掌握的这些天选者的情报是越来越详尽了。"
+
+[Play_X2_XP_S_CEN_Chosen_Fragment_Recovered_C AkEvent]
+SpokenText="很快，该躲藏的人就会变成天选者了。"
+
+[Play_X2_XP_S_CEN_Chosen_Fragment_Recovered_D AkEvent]
+SpokenText="我们刚收到了有关天选者的新情报，指挥官。"
+
+[Play_X2_XP_S_CEN_Chosen_Guarding_Golden_Path AkEvent]
+SpokenText="指挥官，我们已经确认目标由天选者中的一人保护着。如果我们不先解决他，就很难完成任务了。"
+
+[Play_X2_XP_S_CEN_Chosen_Guarding_Golden_Path_B AkEvent]
+SpokenText="情报显示已经确认有个天选者在守卫我们的目标，如果我们不先解决他，就很难完成任务了。"
+
+[Play_X2_XP_S_CEN_Chosen_Guarding_Golden_Path_C AkEvent]
+SpokenText="我们探测到有个天选者在守卫我们的目标，指挥官，如果我们不先排除掉他，他肯定会碍事的。"
+
+[Play_X2_XP_S_CEN_Chosen_Leveled_Up_A AkEvent]
+SpokenText="我们得小心点，天选者变得更强了，指挥官。"
+
+[Play_X2_XP_S_CEN_Chosen_Leveled_Up_B AkEvent]
+SpokenText="有个天选者的力量提升了，搞得他们好像之前不强似的。"
+
+[Play_X2_XP_S_CEN_Chosen_Leveled_Up_C AkEvent]
+SpokenText="战报表明有个天选者不知用什么手段提升了它的力量。"
+
+[Play_X2_XP_S_CEN_Chosen_Sabotages_XCOM_A AkEvent]
+SpokenText="天选者在不择手段干扰我们的行动，我们得留意他们的破坏企图。"
+
+[Play_X2_XP_S_CEN_Chosen_Sabotages_XCOM_B AkEvent]
+SpokenText="只要能给我们造成麻烦，天选者是一定会采用破坏性的战术。我们得料敌先机，防范这些攻击。"
+
+[Play_X2_XP_S_CEN_Chosen_Sabotages_XCOM_C AkEvent]
+SpokenText="指挥官，我们得对天选者进行破坏行动的企图保持警惕，不能浪费宝贵的时间。"
+
+[Play_X2_XP_S_CEN_Chosen_Strengths AkEvent]
+SpokenText="我们要对这些天选者多加注意，指挥官，他们每个人好像都有独有的战斗优势，而我们应当对此加以防范。"
+
+[Play_X2_XP_S_CEN_Chosen_Weakness_Found_A AkEvent]
+SpokenText="我们又发现了一个天选者的弱点，干得好。"
+
+[Play_X2_XP_S_CEN_Chosen_Weakness_Found_B AkEvent]
+SpokenText="我们渐渐了解这些天选者的弱点了。"
+
+[Play_X2_XP_S_CEN_Chosen_Weakness_Found_C AkEvent]
+SpokenText="就算是天选者也跟世间万物一样有弱点。"
+
+[Play_X2_XP_S_CEN_Chosen_Weakness_Found_D AkEvent]
+SpokenText="我们知道了他们的弱点，是时候利用起来了。"
+
+[Play_X2_XP_S_CEN_Chosen_Weakness_Found_E AkEvent]
+SpokenText="干得漂亮，我们又找到了天选者的一个弱点。"
+
+[Play_X2_XP_S_CEN_Chosen_Weakness_Found_F AkEvent]
+SpokenText="看来我们又找到他们那无敌护甲中的裂缝了。"
+
+[Play_X2_XP_S_CEN_Chosen_Weakness_Found_G AkEvent]
+SpokenText="没有人是无敌的，即便是天选者也不例外。"
+
+[Play_X2_XP_S_CEN_Chosen_Weakness_Found_H AkEvent]
+SpokenText="我们每天都在加深对他们的了解。"
+
+[Play_X2_XP_S_CEN_Combat_Intelligence AkEvent]
+SpokenText="指挥官，我们评价士兵的标准是基于他们对我们的战术和能力的理解，我们称之为战斗智商。反抗军派系的士兵因其独有的战场经验，往往会根据其战斗智商获得新的能力。"
+
+[Play_X2_XP_S_CEN_Contacted_Reaper_HQ AkEvent]
+SpokenText="指挥官，我们刚和一支名为死神的新反抗军派系取得了联系。他们一般不和别的派系交流，不过他们告诉了我们总部的坐标。我们应该现在扫描这片区域，获得合作带来的利益。"
+
+[Play_X2_XP_S_CEN_Contacted_Skirmisher_HQ AkEvent]
+SpokenText="这是散兵派系的总部，他们看起来虽然像是变种人，但做派跟变种人完全不同。既然我们已经跟他们取得了联系，最好还是扫描一下这片区域，看看能不能获得更多能够帮到我们的物资。"
+
+[Play_X2_XP_S_CEN_Contacted_Templar_HQ AkEvent]
+SpokenText="这里就是圣殿骑士派系的所在地。他们在灵能的使用上多少有点极端，但对反抗军还是非常忠诚的。我们可以扫描这片区域，看看他们的居民能不能为我们提供额外的支援。"
+
+[Play_X2_XP_S_CEN_Covert_Action_Already_Underway AkEvent]
+SpokenText="我们已经派遣其他部队执行隐秘行动了，指挥官。只有完成了目前的隐秘行动，我们才能开始新行动。"
+
+[Play_X2_XP_S_CEN_Covert_Action_Risks AkEvent]
+SpokenText="与其他反抗军派系合作进行隐秘行动会给我们带来的收益可观，但也会有风险。我们的士兵有可能会在执行任务时受到攻击，甚至被抓为俘虏，所以这是一项艰难的决定。"
+
+[Play_X2_XP_S_CEN_Faction_HQ_Revealed_A AkEvent]
+SpokenText="我们收到了反抗军派系之一的总部的坐标，但我们必须与该区域取得联系才能前往他们的总部。"
+
+[Play_X2_XP_S_CEN_Faction_HQ_Revealed_B AkEvent]
+SpokenText="我们已经定位了反抗军派系之一的总部，接下来只要与该区域取得联系就能去那里拜访了。"
+
+[Play_X2_XP_S_CEN_Favored_Chosen_4th_Dark_Event AkEvent]
+SpokenText="长老的宠儿似乎对这个名号很是重视，他们已经开始加大对我们行动的干扰力度了。"
+
+[Play_X2_XP_S_CEN_First_Assassin_Activity AkEvent]
+SpokenText="长老的刺客正在这片区域内活动，指挥官。如果你决定进入该区域，我们就得做好打硬仗的准备。"
+
+[Play_X2_XP_S_CEN_First_Chosen_Activity AkEvent]
+SpokenText="我们反抗军中的朋友与我们分享了他们所知道的有关长老派来的这几个天选者的情报。看起来除非我们把他们干掉，不然他们会一直追杀我们。"
+
+[Play_X2_XP_S_CEN_Fragment_Recover_Covert_Action_A AkEvent]
+SpokenText="我们最近的行动使我们获得了有关天选者的额外情报。"
+
+[Play_X2_XP_S_CEN_Fragment_Recover_Covert_Action_B AkEvent]
+SpokenText="这些有关天选者的新情报就是我们上次隐秘行动的成果。"
+
+[Play_X2_XP_S_CEN_Fragment_Recover_Covert_Action_C AkEvent]
+SpokenText="指挥官，我们最近一次隐秘行动获得了有关天选者的新情报，希望这能让你满意。"
+
+[Play_X2_XP_S_CEN_Fragment_Recover_Covert_Action_D AkEvent]
+SpokenText="我们刚收到了一些有关天选者的新情报，现在再去猎杀他们应该就更容易了。"
+
+[Play_X2_XP_S_CEN_Fragment_Recover_Covert_Action_E AkEvent]
+SpokenText="我们刚收到了一些有关天选者的新情报，很快我们就能一劳永逸地干掉他们了。"
+
+[Play_X2_XP_S_CEN_Generic_Chosen_Activity_A AkEvent]
+SpokenText="我们探测到了生命迹象...看来有个天选者过来了。"
+
+[Play_X2_XP_S_CEN_Generic_Chosen_Activity_B AkEvent]
+SpokenText="有个天选者在这片区域内活动，指挥官。"
+
+[Play_X2_XP_S_CEN_Generic_Chosen_Activity_C AkEvent]
+SpokenText="这片区域内的信号...看来这里有天选者。"
+
+[Play_X2_XP_S_CEN_Generic_Chosen_Activity_D AkEvent]
+SpokenText="天选者之一在这片区域内活动。"
+
+[Play_X2_XP_S_CEN_Generic_Chosen_Activity_E AkEvent]
+SpokenText="长老的天选者之一在这片区域内活动，指挥官。"
+
+[Play_X2_XP_S_CEN_How_Chosen_Work AkEvent]
+SpokenText="根据我们反抗军的联络人传来的消息，我们刚在任务区里碰到的那个天选者位列外星人食物链的顶端。他现在在狩猎我们，狩猎你，指挥官。据他所说，他随时都有可能出现，任何情况下都有可能出现。要我说，我们应该在他有机会找到我们前先做掉他。"
+
+[Play_X2_XP_S_CEN_Hunt_Chosen_Covert_Action_Nag_A AkEvent]
+SpokenText="目前看来，这些天选者不把我们全部歼灭是不会罢休的。我们唯一的选项就是先找到他们，为此我们需要在议事厅和反抗军策划一次隐秘行动。"
+
+[Play_X2_XP_S_CEN_Hunt_Chosen_Covert_Action_Nag_B AkEvent]
+SpokenText="指挥官，天选者离我们越来越近了。唯一阻止他们的办法就是抢先出击，所以我们得和反抗军一起策划一次隐秘行动。去议事厅讨论一下吧。"
+
+[Play_X2_XP_S_CEN_Hunt_Chosen_Covert_Action_Nag_C AkEvent]
+SpokenText="天选者对我们的行动知道的太多了，指挥官。如果我们再不和反抗军策划一场隐秘行动并找到天选者的位置，就只能被动挨打了。"
+
+[Play_X2_XP_S_CEN_Hunter_Sighting_A AkEvent]
+SpokenText="我们发现长老的猎手在该区域出没，指挥官。"
+
+[Play_X2_XP_S_CEN_Hunter_Sighting_B AkEvent]
+SpokenText="长老的猎手似乎在这片区域内搜寻着什么。"
+
+[Play_X2_XP_S_CEN_Hunter_Sighting_C AkEvent]
+SpokenText="我们追踪到天选者猎手了，他就在这片区域里。"
+
+[Play_X2_XP_S_CEN_Just_Met_Chosen_A AkEvent]
+SpokenText="那就是我们遇到的那个天选者。它还真是够勤快的。"
+
+[Play_X2_XP_S_CEN_Just_Met_Chosen_B AkEvent]
+SpokenText="这个家伙就是天选者了，他已经开始干活了。"
+
+[Play_X2_XP_S_CEN_Just_Met_Chosen_C AkEvent]
+SpokenText="看来这个天选者还真勤快。"
+
+[Play_X2_XP_S_CEN_Mox_Captured AkEvent]
+SpokenText="指挥官，莫克斯被俘虏了，我们得不惜一切代价在天选者让长老对付他前把他救出来。"
+
+[Play_X2_XP_S_CEN_Mox_Rescued AkEvent]
+SpokenText="虽然遭遇了不少困难，但我们还是成功救回了莫克斯，指挥官。他准备好回到战斗中了。"
+
+[Play_X2_XP_S_CEN_New_Chosen_Territory_A AkEvent]
+SpokenText="我们刚收到反抗军传来的消息，指挥官。有个天选者在这片区域内活动。"
+
+[Play_X2_XP_S_CEN_New_Chosen_Territory_B AkEvent]
+SpokenText="我们最新获得的情报显示有个天选者在该区域内活动，指挥官。"
+
+[Play_X2_XP_S_CEN_Photobooth_Musing_A AkEvent]
+SpokenText="或许我们应该转行卖日历。"
+
+[Play_X2_XP_S_CEN_Photobooth_Musing_B AkEvent]
+SpokenText="宣传画再好看不过了。"
+
+[Play_X2_XP_S_CEN_Photobooth_Musing_C AkEvent]
+SpokenText="战争结束后或许你可以转行做模特。"
+
+[Play_X2_XP_S_CEN_Photobooth_Musing_D AkEvent]
+SpokenText="我很确定这种设计在几十年前的专辑封面上出现过。"
+
+[Play_X2_XP_S_CEN_Photobooth_Musing_E AkEvent]
+SpokenText="能做出个这样的马克杯，变种人或许还真会吓得向我们投降。"
+
+[Play_X2_XP_S_CEN_Ring_After_Influence_Gained_Fragment_A AkEvent]
+SpokenText="我们在反抗军派系间的影响促使他们不断与我们分享有关天选者的情报。"
+
+[Play_X2_XP_S_CEN_Ring_After_Influence_Gained_Fragment_B AkEvent]
+SpokenText="其他反抗军派系将有关天选者的情报托付给了我们，指挥官。"
+
+[Play_X2_XP_S_CEN_Ring_After_Influence_Gained_Fragment_C AkEvent]
+SpokenText="我们在反抗军派系中的影响让他们乐于给我们有关天选者的一些有用情报。"
+
+[Play_X2_XP_S_CEN_Ring_Not_Used_Nag_A AkEvent]
+SpokenText="指挥官，议事厅目前闲置中，如果有多余的士兵，我们应该部署他们与反抗军共同执行隐秘行动。"
+
+[Play_X2_XP_S_CEN_Ring_Not_Used_Nag_B AkEvent]
+SpokenText="议事厅建设完成了，指挥官，但我们目前没有多余的人手用来和反抗军一起执行隐秘行动了。"
+
+[Play_X2_XP_S_CEN_Ring_Not_Used_Nag_C AkEvent]
+SpokenText="指挥官，我们应该将议事厅利用起来，部署空闲的士兵与反抗军一同执行隐秘行动。"
+
+[Play_X2_XP_S_CEN_Soldier_Captured_A AkEvent]
+SpokenText="我们应该和我们在反抗军的朋友谈谈，如果我们策划一次隐秘行动，他们或许能帮我们发现我们被抓的士兵关在哪里。"
+
+[Play_X2_XP_S_CEN_Soldier_Captured_B AkEvent]
+SpokenText="如果我们能与其他反抗军派系合作进行一次隐秘行动，他们或许能帮我们找到我们被俘虏的士兵。"
+
+[Play_X2_XP_S_CEN_Soldier_Captured_Covert_Action_A AkEvent]
+SpokenText="我们的一名士兵在行动过程中被敌人俘虏了，指挥官。不过，我们反抗军中的朋友已经在拟定营救计划了。"
+
+[Play_X2_XP_S_CEN_Soldier_Captured_Covert_Action_B AkEvent]
+SpokenText="指挥官，我们有一名士兵在执行最近的任务时被俘虏了。我们会用尽一切手段找到他，将他带回来。"
+
+[Play_X2_XP_S_CEN_Soldier_Captured_Covert_Action_C AkEvent]
+SpokenText="我们有一名士兵在执行最近的隐秘行动时受伤被俘，指挥官。我这就和友军协调，将事情的来龙去脉调查清楚。"
+
+[Play_X2_XP_S_CEN_Soldier_Wounded_Covert_Action_A AkEvent]
+SpokenText="我们的士兵在执行最近一次隐秘行动时受伤了，不过医疗队说他们很快就能康复。"
+
+[Play_X2_XP_S_CEN_Soldier_Wounded_Covert_Action_B AkEvent]
+SpokenText="指挥官，最近的隐秘行动中有人受伤，不过他们只需要几天就能恢复，重新投入战斗。"
+
+[Play_X2_XP_S_CEN_Soldier_Wounded_Covert_Action_C AkEvent]
+SpokenText="我们的士兵中有几人在上次隐秘行动中受了点伤，不过只要让他们休息一段时间应该就没事了。"
+
+[Play_X2_XP_S_CEN_Soldier_Wounded_Covert_Action_D AkEvent]
+SpokenText="上次隐秘行动中有人受伤了，指挥官，不过好好休息一下他们应该很快就能恢复。"
+
+[Play_X2_XP_S_CEN_Soldier_Wounded_Covert_Action_E AkEvent]
+SpokenText="上次隐秘行动中我们有几名士兵受伤了，不过休息几天他们应该就能重新投入战斗。"
+
+[Play_X2_XP_S_CEN_Stronghold_Available_A AkEvent]
+SpokenText="反抗军找到进入天选者要塞的办法了，指挥官。士兵已准备就绪，我们应该尽快发动突袭行动。"
+
+[Play_X2_XP_S_CEN_Stronghold_Available_B AkEvent]
+SpokenText="指挥官，我们刚收到反抗军的消息，他们找到进入天选者要塞的途径了。我们可不能错过这么好的反戈一击的机会。"
+
+[Play_X2_XP_S_CEN_Stronghold_Available_C AkEvent]
+SpokenText="如果我们想一劳永逸地解决掉天选者，那就应该对天选者要塞发动攻击。反抗军已经找到了进去的路，我们应该好好利用这一优势。"
+
+[Play_X2_XP_S_CEN_Walkup_Chosen_Defeated AkEvent]
+SpokenText="这说明天选者并不是不可战胜的，我们能够击败他们。我们只要想办法让他们没法如愿以偿就行。"
+
+[Play_X2_XP_S_CEN_Walkup_Chosen_Extracted AkEvent]
+SpokenText="天选者会不惜一切代价找到我们，我们得更小心地保护重伤的士兵。"
+
+[Play_X2_XP_S_CEN_Walkup_Chosen_Killed_Stronghold AkEvent]
+SpokenText="我们成功了，指挥官。和这位天选者的交锋终于以我们的胜利告终了，虽然和平尚未到来，但至少我们不用再对付他了。"
+
+[Play_X2_XP_S_CEN_Walkup_High_Level_Faction_Hero AkEvent]
+SpokenText="我们那来自反抗军的朋友已经成为我们之中最值得信赖的老兵之一了，这证明了我们的努力都是值得的。"
+
+[Play_X2_XP_S_CEN_Walkup_Lost_Abandoned AkEvent]
+SpokenText="虽然过程很艰辛，但我们总算是说服死神和散兵合作一次了，不论合作结果如何，这本身就很了不起了。"
+
+[Play_X2_XP_S_CEN_Walkup_Lost_Encountered AkEvent]
+SpokenText="处理长老、外星人军队、天选者本来就够我们忙活的了...现在又冒出来了这种僵尸。"
+
+[Play_X2_XP_S_CEN_Walkup_Soldier_Captured AkEvent]
+SpokenText="我们会救回他们的，指挥官，在反抗军中的友谊就是为了对付这种情况。"
+
+[Play_X2_XP_S_CEN_Warlock_Sighting_A AkEvent]
+SpokenText=天选者术士正在这片区域里为他们的主子卖命呢。
+
+[Play_X2_XP_S_CEN_Warlock_Sighting_B AkEvent]
+SpokenText="我们探测到长老的术士正在这片区域内活动。"
+
+[Play_X2_XP_S_CEN_Warlock_Sighting_C AkEvent]
+SpokenText="指挥官，我们目击到天选者术士了。"
+
+[Play_X2_XP_S_LNA_Scanning_Intro AkEvent]
+SpokenText="指挥官，我们正在尝试联系当地一支名为死神的反抗军派系。他们行事似乎相当隐蔽，所以可能要等上一段时间才能收到他们的回音。等待期间我们可以扫描这片区域看看有没有补给和资源。谁知道我们会发现什么呢。"
+
+[Play_X2_XP_S_REAP_HQ_Intro AkEvent]
+SpokenText="指挥官，看来我们还真引起死神的兴趣了。他们的联络员刚刚向我们提供了他们总部的坐标。既然我们已经在附近，不妨去那里看看。当然，更要见见他们的领袖，沃尔克。"
+
+[Play_X2_XP_S_SKRM_HQ_Intro AkEvent]
+SpokenText="指挥官，目前来看这些散兵说的话都是真的。他们的联络员刚刚发给我们他们目前总部的坐标，你看，考虑到他们的过去，这已经是很大的进步了。去那里调查一番应该会有所收获，还能见见他们的领袖，贝托斯。"
+
+[Play_X2_XP_S_TMPL_HQ_Intro AkEvent]
+SpokenText="这个圣殿骑士联络员虽然有些与众不同，但目前来看一切还算正常。我们已经知道了圣殿骑士总部的位置。我们还不是很了解这些圣殿骑士，所以去那里看看应该没错。还能与他们的领袖盖斯特取得联系。"
+

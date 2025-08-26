@@ -1,0 +1,7 @@
+﻿[S_TP_Transfer_Tentpole3_Tygan_02 AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+

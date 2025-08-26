@@ -1,0 +1,14 @@
+﻿[Unreal2DVox_AlphaSpeechOpAssassination AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Unreal2DVox_AlphaSpeechStandardAssault AkEvent]
+SpokenText=""
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+

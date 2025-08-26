@@ -1,0 +1,7 @@
+﻿[MostInTheWorld SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+

@@ -1,0 +1,21 @@
+﻿[S_Retaliation_Denmother_01_Setup_Phase AkEvent]
+SpokenText="一切平安，最近变种人很安静。我想我们得谢谢你们。"
+
+[S_Retaliation_Denmother_02_Setup_Phase AkEvent]
+SpokenText="我们也是这么想的，我们的净水系统..."
+
+[S_Retaliation_Denmother_03_Setup_Phase AkEvent]
+SpokenText="我们也看到了。知道他们现在在..."
+
+[S_Retaliation_Denmother_04_Setup_Phase AkEvent]
+SpokenText="不是现在，甜心。走，到里面去找你爸爸去..."
+
+[S_Retaliation_Denmother_05_Setup_Phase AkEvent]
+SpokenText="复仇者号，你的信号正在减弱。"
+
+[S_Retaliation_Denmother_06_Setup_Phase AkEvent]
+SpokenText="亲爱的，搞定她..."
+
+[S_Retaliation_Denmother_07_Setup_Phase AkEvent]
+SpokenText="你的信号要中断了..."
+

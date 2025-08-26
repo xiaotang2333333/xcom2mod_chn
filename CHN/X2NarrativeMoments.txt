@@ -1,0 +1,91 @@
+﻿[Strategy.GP_AvatarAutopsyScreen X2NarrativeMoment]
+UIHeaderText="检查回收的化身尸体"
+UIBodyText="使用暗影舱研究被XCOM部队击杀的化身尸体。"
+UIArrayText[0]="完成化身解剖暗影项目"
+
+[Strategy.GP_BroadcastTheTruthScreen X2NarrativeMoment]
+UIHeaderText="突袭变种人网络塔"
+UIBodyText="派遣小队入侵变种人网络塔以关闭变种人通信网络，搅乱其对世界各地的控制。"
+UIArrayText[0]="完成变种人网络塔任务"
+
+[Strategy.GP_BuildShadowChamberScreen X2NarrativeMoment]
+UIHeaderText="建造暗影舱"
+UIBodyText="在复仇者号内建设暗影舱。"
+UIArrayText[0]="建造暗影舱设施"
+
+[Strategy.GP_BuildStasisSuitScreen X2NarrativeMoment]
+UIHeaderText="检查变种人静滞护甲"
+UIBodyText="使用暗影舱研究在变种人锻造厂设施内回收到的静滞护甲。"
+UIArrayText[0]="完成静滞护甲暗影项目"
+
+[Strategy.GP_CaptainAutopsyScreen X2NarrativeMoment]
+UIHeaderText="检查一具变种人军官的尸体"
+UIBodyText="让泰根博士在实验室解剖变种人军官的尸体。"
+UIArrayText[0]="完成变种人军官解剖研究"
+
+[Strategy.GP_ConstructPsiGateScreen X2NarrativeMoment]
+UIHeaderText="检查灵能门"
+UIBodyText="将回收到的灵能门装在暗影舱内，方便对其进行研究。"
+UIArrayText[0]="升级暗影舱"
+UIArrayText[1]="完成灵能门暗影项目"
+
+[Strategy.GP_ContactBlacksiteRegionScreen X2NarrativeMoment]
+UIHeaderText="联络黑地的反抗军"
+UIBodyText="设法联络上黑地附近的反抗军以进入变种人设施。"
+UIArrayText[0]="研究反抗军通讯系统"
+UIArrayText[1]="飞往黑地区域"
+UIArrayText[2]="建立联络"
+
+[Strategy.GP_FinalMissionScreen X2NarrativeMoment]
+UIHeaderText="突袭外星人要塞"
+UIBodyText="派遣指挥官率领一队士兵穿越灵能门直捣外星人心脏，一举消灭长老，解放地球。"
+UIArrayText[0]="完成外星人要塞任务"
+
+[Strategy.GP_ForgeMissionScreen X2NarrativeMoment]
+UIHeaderText="侦察黑地小瓶的坐标"
+UIBodyText="在成功与当地反抗军取得联系后，调查黑地小瓶所指示的坐标点。"
+UIArrayText[0]="完成黑地小瓶坐标任务"
+
+[Strategy.GP_HackACaptainScreen X2NarrativeMoment]
+UIHeaderText="进入外星网络"
+UIBodyText="在战斗中对变种人军官使用头颅接入器以访问外星人通信网络。"
+UIArrayText[0]="建造试验场设施"
+UIArrayText[1]="完成试验场的头颅接入器项目"
+UIArrayText[2]="对变种人军官使用头颅接入器"
+
+[Strategy.GP_HackACodexScreen X2NarrativeMoment]
+UIHeaderText="破坏外星人的网络"
+UIBodyText="对原典外星人使用头颅接入器便可以侵入化身计划资料库阅览绝密情报。"
+UIArrayText[0]="对原典使用头颅接入器"
+
+[Strategy.GP_InvestigateBlacksiteScreen X2NarrativeMoment]
+UIHeaderText="调查变种人黑地"
+UIBodyText="我们必须派出突击小队调查变种人黑地并回收相关物品以作研究。"
+UIArrayText[0]="完成变种人黑地任务"
+
+[Strategy.GP_PsiGateMissionScreen X2NarrativeMoment]
+UIHeaderText="调查原典脑坐标"
+UIBodyText="在成功与当地反抗军取得联系后，调查原典脑所指示的坐标点。"
+UIArrayText[0]="完成原典脑坐标任务"
+
+[Strategy.GP_ResearchAlienEncryptionScreen X2NarrativeMoment]
+UIHeaderText="研究外星人加密算法"
+UIBodyText="让泰根博士破解外星人的加密手段。"
+UIArrayText[0]="完成外星人加密算法研究"
+
+[Strategy.GP_StudyBlacksiteDataScreen X2NarrativeMoment]
+UIHeaderText="检查回收的黑地小瓶"
+UIBodyText="检查回收的黑地小瓶"
+UIArrayText[0]="检查回收的黑地小瓶"
+
+[Strategy.GP_StudyCodexBrainPt2Screen X2NarrativeMoment]
+UIHeaderText="解密原典档案"
+UIBodyText="使用暗影舱解密剩余的原典情报。"
+UIArrayText[0]="完成加密原典数据暗影项目"
+
+[Strategy.GP_StudyCodexBrainScreen X2NarrativeMoment]
+UIHeaderText="检查原典脑"
+UIBodyText="使用暗影舱检查收集到的原典脑。"
+UIArrayText[0]="研究原典"
+UIArrayText[1]="解密原典档案"
+

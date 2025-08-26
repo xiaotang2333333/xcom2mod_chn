@@ -1,0 +1,42 @@
+[Audio.S_Shens_Loot_Shen_01_Setup_Phase_alta SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Shens_Loot_Shen_02_Setup_Phase_altm SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Shens_Loot_Shen_02_Setup_Phase_altm_ComonLetsGetItInside_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.S_Shens_Loot_Shen_02_Setup_Phase_altm_ItsPerfect_1 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.ShenGetsLoot_previs_Audio_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[Audio.ShenGetsLoot_previs_Audio_01_trim75framesOffHead SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+

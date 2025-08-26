@@ -1,0 +1,240 @@
+﻿[T_City_Center_Propaganda_01_Prop_Announcer AkEvent]
+SpokenText="严令禁止使用化石燃料。变种人动力电池只能有限地提供给具有资格的使用者。"
+
+[T_City_Center_Propaganda_02_Prop_Announcer AkEvent]
+SpokenText="请记住，我们是一根绳上的蚂蚱。变种人在这里就是为了你。"
+
+[T_City_Center_Propaganda_03_Prop_Announcer AkEvent]
+SpokenText="请成为变种人的眼线。向最近的维和者报告任何可疑的行动。"
+
+[T_City_Center_Propaganda_04_Prop_Announcer AkEvent]
+SpokenText="你的朋友或者家人还生活在城市之外吗？劝告他们今天就转移进来吧！"
+
+[T_City_Center_Propaganda_05_Prop_Announcer AkEvent]
+SpokenText="市民们被提醒要遵守所有的安全指令，包括那些来自无人的或者全自动系统的指令。"
+
+[T_City_Center_Propaganda_06_Prop_Announcer AkEvent]
+SpokenText="你的配合才使所有这一切成为可能。变种人，一起朝着和平努力。"
+
+[T_City_Center_Propaganda_07_Prop_Announcer AkEvent]
+SpokenText="变种人，20年的和平以及共同合作得来的繁荣。"
+
+[T_City_Center_Propaganda_08_Prop_Announcer AkEvent]
+SpokenText="享受任何市中心提供的东西，收获和平带来的好处吧。"
+
+[T_City_Center_Propaganda_09_Prop_Announcer AkEvent]
+SpokenText="干净，安全，稳定。市中心就是你的家，请享受吧。"
+
+[T_City_Center_Propaganda_10_Prop_Announcer AkEvent]
+SpokenText="有疑问或者顾虑？告诉离你最近的变种人维和者吧。"
+
+[T_City_Center_Propaganda_11_Prop_Announcer AkEvent]
+SpokenText="变种人不遗余力地保护你的未来。帮助我们也是在帮助你自己。请报告所有可疑的活动。"
+
+[T_City_Center_Propaganda_12_Prop_Announcer AkEvent]
+SpokenText="你的未来比任何时候都要光明。变种人在这里保证着你长久的安全和舒适。"
+
+[T_City_Center_Propaganda_13_Prop_Announcer AkEvent]
+SpokenText="所有到市中心外的远足活动都被无限期地暂停。给您带来的任何不便我们深表歉意。"
+
+[T_City_Center_Propaganda_14_Prop_Announcer AkEvent]
+SpokenText="前往你的基因诊疗所查看有关最新防御保障的样本。"
+
+[T_City_Center_Propaganda_15_Prop_Announcer AkEvent]
+SpokenText="变种人维和者始终在这保护着你。他们的警戒就是你的安全。"
+
+[T_City_Center_Propaganda_16_Prop_Announcer AkEvent]
+SpokenText="你对变种人安全指令的遵守确保了所有市民长久的安全。"
+
+[T_City_Center_Propaganda_17_Prop_Announcer AkEvent]
+SpokenText="对可疑的活动视而不见会给每一个人都带来危险。变种人呼吁所有市民都积极地进行报告。"
+
+[T_City_Center_Propaganda_18_Prop_Announcer AkEvent]
+SpokenText="我们希望你能享受所有在市中心的便利设施。有任何不便请联系变种人维和者。"
+
+[T_City_Center_Propaganda_19_Prop_Announcer AkEvent]
+SpokenText="我们对你在常规安全审查中遇到的任何不便表示歉意。变种人始终确保你的安全。"
+
+[T_City_Center_Propaganda_20_Prop_Announcer AkEvent]
+SpokenText="请注意，任何对变种人安全塔的不正当行为或者破坏行为都被严令禁止。"
+
+[T_City_Center_Propaganda_21_Prop_Announcer AkEvent]
+SpokenText="变种人提供无限的与你的独特情况相适应的娱乐活动。请停止消费或交易非法物质。"
+
+[T_City_Center_Propaganda_22_Prop_Announcer AkEvent]
+SpokenText="任何有关反政府组织活动的讨论或是参与都会受到来自变种人维和者力量的即时简易审判。"
+
+[T_City_Center_Propaganda_23_Prop_Announcer AkEvent]
+SpokenText="市民们需注意所有在市中心之外的行动都要有官方的事先授权。"
+
+[T_City_Center_Propaganda_24_Prop_Announcer AkEvent]
+SpokenText="变种人在这等着你。今天的合作就是明日的和平。"
+
+[T_City_Center_Propaganda_25_Prop_Announcer AkEvent]
+SpokenText="肆意破坏公物的行为或者公开的异议将不会得到宽恕。变种人感谢你为和谐的环境所做的努力。"
+
+[T_City_Center_Propaganda_26_Prop_Announcer AkEvent]
+SpokenText="请向离你最近的变种人维和者报告所有的担忧。"
+
+[T_City_Center_Propaganda_27_Prop_Announcer AkEvent]
+SpokenText="市民们被保证最近由反抗组织在市中心附近所做的活动将会很快得到控制。向你最近的变种人维和者报告所有的可疑人员。"
+
+[T_City_Center_Propaganda_28_Prop_Announcer AkEvent]
+SpokenText="长老们为人类所做的牺牲换来了我们今天的舒适与安逸。永远铭记长老们。"
+
+[T_City_Center_Propaganda_29_Prop_Announcer AkEvent]
+SpokenText="变种人官员们把最近有关所谓市中心失踪人口的说法和担忧当作了谣言。"
+
+[T_City_Center_Propaganda_30_Prop_Announcer AkEvent]
+SpokenText="尽管关于XCOM在市中心里采取行动的流言还在传播，但是对市民们来说，通敌是死罪。"
+
+[T_City_Center_Propaganda_31_Prop_Announcer AkEvent]
+SpokenText="变种人需要你的帮助！向你最近的变种人维和者报告可疑的人员或者活动。"
+
+[T_City_Center_Propaganda_32_Prop_Announcer AkEvent]
+SpokenText="只有一起我们才能创造一个更好的明天。变种人，与市民们携手前进。"
+
+[T_City_Center_Propaganda_33_Prop_Announcer AkEvent]
+SpokenText="尽到你的职责；今天就拜访你当地的变种人招募官。"
+
+[T_City_Center_Propaganda_34_Prop_Announcer AkEvent]
+SpokenText="市民们被提醒不要与变种人维和者接触，除非出现了紧急的安全问题。"
+
+[T_City_Center_Propaganda_35_Prop_Announcer AkEvent]
+SpokenText="变种人特意提醒所有市民，对违禁物品进行交易将是死罪。"
+
+[T_City_Center_Propaganda_36_Prop_Announcer AkEvent]
+SpokenText="健康困扰？变种人基因疗法可以给予帮助；今天就前往你最近的诊所！"
+
+[T_City_Center_Propaganda_37_Prop_Announcer AkEvent]
+SpokenText="你能享受到多种多样奇特脱俗的娱乐选择，今天就停止吧！"
+
+[T_City_Center_Propaganda_38_Prop_Announcer AkEvent]
+SpokenText="对变种人汽车的最新创造性设计感到好奇？今天就询问拥有所需的要求吧。"
+
+[T_City_Center_Propaganda_39_Prop_Announcer AkEvent]
+SpokenText="在紧急情况下，保持镇静并且听从变种人维和者的指令。"
+
+[T_City_Center_Propaganda_40_Prop_Announcer AkEvent]
+SpokenText="感谢你们一直以来的服从。"
+
+[T_City_Center_Propaganda_41_Prop_Announcer AkEvent]
+SpokenText="提醒所有市民。持有任何类型的武器或者火器都是死罪。"
+
+[T_Small_Town___Slums_Propaganda_01_Prop_Announcer AkEvent]
+SpokenText="为何要过欲求不满的生活呢？我们的城市有着足够供所有人使用的储备，今天就搬过来吧！"
+
+[T_Small_Town___Slums_Propaganda_02_Prop_Announcer AkEvent]
+SpokenText="市中心有更惬意的生活等待着你。欢迎任何人。"
+
+[T_Small_Town___Slums_Propaganda_03_Prop_Announcer AkEvent]
+SpokenText="自由并不意味着焦虑和不适。在城市里，你的生活不再艰难，完全由自己做主。现在就来体验吧！"
+
+[T_Small_Town___Slums_Propaganda_04_Prop_Announcer AkEvent]
+SpokenText="在市中心一个更美好的生活在等待着你和你的家人。现在就可立即转移。"
+
+[T_Small_Town___Slums_Propaganda_05_Prop_Announcer AkEvent]
+SpokenText="新的机遇等待着那些即刻转移的人！今天就前往你当地的市中心！"
+
+[T_Small_Town___Slums_Propaganda_06_Prop_Announcer AkEvent]
+SpokenText="你饱受疾病，饥饿，担惊受怕的困扰吗？变种人能帮你解除这些烦扰。到离你最近的市中心看看吧。"
+
+[T_Small_Town___Slums_Propaganda_07_Prop_Announcer AkEvent]
+SpokenText="你正在苦苦挣扎吗？城市正等着你。我们拥有所有你需要的东西。"
+
+[T_Small_Town___Slums_Propaganda_08_Prop_Announcer AkEvent]
+SpokenText="变种人欢迎所有来市中心的人。解放自己，即刻启程。"
+
+[T_Small_Town___Slums_Propaganda_09_Prop_Announcer AkEvent]
+SpokenText="数百万人已经来到这里享受更好的生活，迎接更光明的未来。你为什么还没有来呢？搬到离你最近的市中心去吧。"
+
+[T_Small_Town___Slums_Propaganda_10_Prop_Announcer AkEvent]
+SpokenText="感到疲惫不堪？变种人基因疗法能帮助你。对所有市中心居民的一个免费好处。"
+
+[T_Small_Town___Slums_Propaganda_11_Prop_Announcer AkEvent]
+SpokenText="请注意，家畜和驯养动物是被禁止的。把未经许可饲养的动物交给你附近的变种人维和者。"
+
+[T_Small_Town___Slums_Propaganda_12_Prop_Announcer AkEvent]
+SpokenText="离你最近的前哨站提供免费的变种人核心配给。"
+
+[T_Small_Town___Slums_Propaganda_13_Prop_Announcer AkEvent]
+SpokenText="违禁品大赦计划对那些在市中心寻求避难的人都有效。"
+
+[T_Small_Town___Slums_Propaganda_14_Prop_Announcer AkEvent]
+SpokenText="上交违禁物品的人会得到赦免。去找离你最近的维和者。"
+
+[T_Small_Town___Slums_Propaganda_15_Prop_Announcer AkEvent]
+SpokenText="变种人基因疗法可以治疗所有那些在旧世界标准下被认为是致命的疾病。到离你最近的市中心了解详情。"
+
+[T_Small_Town___Slums_Propaganda_16_Prop_Announcer AkEvent]
+SpokenText="市中心的所有居民都被保证在他们生命的剩余时间里拥有食物，庇护场所以及医疗帮助。"
+
+[T_Small_Town___Slums_Propaganda_17_Prop_Announcer AkEvent]
+SpokenText="我们已经失去的难道还不够多吗？多亏了变种人，在市中心犯罪已经成为过去式。"
+
+[T_Small_Town___Slums_Propaganda_18_Prop_Announcer AkEvent]
+SpokenText="变种人维和者们正在打听几个需要被问话的个体的下落。请向你最近的维和者报告任何有关他们的消息。"
+
+[T_Small_Town___Slums_Propaganda_19_Prop_Announcer AkEvent]
+SpokenText="数百万人的选择绝对不会错。市中心能提供任何你需要的东西，告别不稳定的生活。即刻启程。"
+
+[T_Small_Town___Slums_Propaganda_20_Prop_Announcer AkEvent]
+SpokenText="变种人维和者在这里确保政策法规在所有人类居住地区实行。"
+
+[T_Small_Town___Slums_Propaganda_21_Prop_Announcer AkEvent]
+SpokenText="在超过80%的已知例子里，外部地区的失踪人口最后都被发现幸福地生活在变种人市中心。"
+
+[T_Small_Town___Slums_Propaganda_22_Prop_Announcer AkEvent]
+SpokenText="为何要在充斥着非法或者二手商品的地方饱受生活的不确定性。变种人在市中心提供所有的生活必需品。"
+
+[T_Small_Town___Slums_Propaganda_23_Prop_Announcer AkEvent]
+SpokenText="决不允许走私。变种人已经对那些流通未经授权材料的人制定了严厉的惩罚。"
+
+[T_Small_Town___Slums_Propaganda_24_Prop_Announcer AkEvent]
+SpokenText="变种人维和者将会在这个月进行随机的清扫走私活动。你的配合将会确保这是一个安全，平静无事的过程。"
+
+[T_Small_Town___Slums_Propaganda_25_Prop_Announcer AkEvent]
+SpokenText="更好的生活在等着你。今天就转移至市中心。"
+
+[T_Small_Town___Slums_Propaganda_26_Prop_Announcer AkEvent]
+SpokenText="为更高的目标而服务；今天就去见你当地的变种人招募官。"
+
+[T_Small_Town___Slums_Propaganda_27_Prop_Announcer AkEvent]
+SpokenText="变种人维和部队正在招募有志加入的新兵。咨询你当地的变种人前哨站。"
+
+[T_Small_Town___Slums_Propaganda_28_Prop_Announcer AkEvent]
+SpokenText="变种人致力于建造一个更美好的世界，为所有人类创造一个更光明的未来。今天就去找你的招募官。"
+
+[T_Small_Town___Slums_Propaganda_29_Prop_Announcer AkEvent]
+SpokenText="你不必再遭受旧世界的那些残酷现实。变种人欢迎所有前来市中心的难民们。"
+
+[T_Small_Town___Slums_Propaganda_30_Prop_Announcer AkEvent]
+SpokenText="不要被任何出现在变种人维和者身边的非人类物种所惊吓到。他们的存在完全是无害的。"
+
+[T_Small_Town___Slums_Propaganda_31_Prop_Announcer AkEvent]
+SpokenText="变种人对所有失踪人口的报告都很重视。如果你要提交一份官方声明的话，到你最近的变种人保安站进行询问。"
+
+[T_Small_Town___Slums_Propaganda_32_Prop_Announcer AkEvent]
+SpokenText="寻求进一步帮助的居民可以得到限量的经过核准的变种人配给。"
+
+[T_Small_Town___Slums_Propaganda_33_Prop_Announcer AkEvent]
+SpokenText="不要被那些不守承诺的反抗煽动者所蒙蔽了。只有变种人能给你提供你应该得到的长久安全保障。"
+
+[T_Small_Town___Slums_Propaganda_34_Prop_Announcer AkEvent]
+SpokenText="变种人正在携手为地球上所有的居民打造一个更光明的未来。"
+
+[T_Small_Town___Slums_Propaganda_35_Prop_Announcer AkEvent]
+SpokenText="变种人汉堡现在能提供最新的美食蛋白质，今天就尝试我们的新选择吧。"
+
+[T_Small_Town___Slums_Propaganda_36_Prop_Announcer AkEvent]
+SpokenText="变种人会帮你们承受重担，你只需要开口就行。"
+
+[T_Small_Town___Slums_Propaganda_37_Prop_Announcer AkEvent]
+SpokenText="此时此刻在全球的市中心，像你一样的人们都很温暖和舒服。加入他们，加入变种人。"
+
+[T_Small_Town___Slums_Propaganda_38_Prop_Announcer AkEvent]
+SpokenText="对仍然活在旧时代感到厌倦了？加入属于未来的我们。变种人。"
+
+[T_Small_Town___Slums_Propaganda_39_Prop_Announcer AkEvent]
+SpokenText="反抗很困难，顺从很简单。选择权在你手上。"
+

@@ -1,0 +1,70 @@
+[T_Setup_Phase_Combat_Tutorial_Central_34 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[T_Setup_Phase_Combat_Tutorial_Central_36 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[T_Setup_Phase_Combat_Tutorial_Central_38 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[T_Setup_Phase_Combat_Tutorial_Central_40 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[T_Setup_Phase_Combat_Tutorial_Central_41 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_37 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[T_Setup_Phase_Combat_Tutorial_Shen_32 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[T_Setup_Phase_Combat_Tutorial_Shen_33 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[T_Setup_Phase_Combat_Tutorial_Shen_35 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+
+[T_Setup_Phase_Combat_Tutorial_Shen_39 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=""
+Comment=""
+

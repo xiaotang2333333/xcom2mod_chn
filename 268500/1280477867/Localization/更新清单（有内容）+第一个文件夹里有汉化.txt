@@ -1,0 +1,6 @@
+1.ExtendedUpgrades文件夹里，更改了部分描述错误，该错误可能是由于大佬使用旧版本进行了汉化
+2.删除了NewPromotionScreenbyDefault的汉化，原因是最新的int为空
+3.更改了StatUpgradeUI的描述“士兵SP”为“AP”，原因是游戏中加点界面显示均为15AP，13AP这样。另外转移末尾的一大串，原因是与最新int同步
+4.增加了缺失的WOTC_LW2SecondaryWeapons汉化
+5.XCOM2RPGOverhaul缺的实在太多了，原因可能是由于大佬使用旧版本进行了汉化。另外第3条转移的部分来到了这里，似乎是代码标题有所改变。
+6.XComGame缺的实在太多了，重新缝。另外人物背景部分根据技能更改了部分人物背景名称，让人物背景区别加大而非同质化。

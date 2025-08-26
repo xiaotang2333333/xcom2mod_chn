@@ -1,0 +1,21 @@
+﻿[S_Retaliation_Denmother_01_Setup_Phase AkEvent]
+SpokenText="Nothing on the local comms.  ADVENT's been quiet lately.  I'm guessing we have you to thank for that."
+
+[S_Retaliation_Denmother_02_Setup_Phase AkEvent]
+SpokenText="We plan to.  Our water purification system-"
+
+[S_Retaliation_Denmother_03_Setup_Phase AkEvent]
+SpokenText="We saw it too.  Any idea where they're-"
+
+[S_Retaliation_Denmother_04_Setup_Phase AkEvent]
+SpokenText="Not now, sweetie.  Go look for daddy inside..."
+
+[S_Retaliation_Denmother_05_Setup_Phase AkEvent]
+SpokenText="Losing you Avenger. "
+
+[S_Retaliation_Denmother_06_Setup_Phase AkEvent]
+SpokenText="Honey, take her..."
+
+[S_Retaliation_Denmother_07_Setup_Phase AkEvent]
+SpokenText="Your signals breaking up..."
+

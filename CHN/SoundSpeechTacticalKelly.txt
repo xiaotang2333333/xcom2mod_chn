@@ -1,0 +1,63 @@
+﻿[T_Setup_Phase_Combat_Tutorial_Kelly_37 AkEvent]
+SpokenText="这些到底是什么？！"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_48 AkEvent]
+SpokenText="如果我知道在找什么的话会更有帮助。"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_54 AkEvent]
+SpokenText="他哪儿都不能去！"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_56 AkEvent]
+SpokenText="我们得走了！"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_58 AkEvent]
+SpokenText="我去开门！"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_60 AkEvent]
+SpokenText="我们进来了！"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_69 AkEvent]
+SpokenText="这就是目标？费了那么大劲儿就为了一个..."
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_74 AkEvent]
+SpokenText="注意爆炸！"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_76 AkEvent]
+SpokenText="他们紧跟着我们！"
+
+[T_Setup_Phase_Combat_Tutorial_Kelly_78 AkEvent]
+SpokenText="你不用说两次！"
+
+[T_Tutorial_Kelly_Confirmations_1 AkEvent]
+SpokenText="明白。"
+
+[T_Tutorial_Kelly_Confirmations_2 AkEvent]
+SpokenText="收到了。"
+
+[T_Tutorial_Kelly_Confirmations_3 AkEvent]
+SpokenText="没问题。"
+
+[T_Tutorial_Kelly_Confirmations_4 AkEvent]
+SpokenText="准备好了。"
+
+[T_Tutorial_Kelly_Confirmations_5 AkEvent]
+SpokenText="已完成。"
+
+[T_Tutorial_Kelly_Confirmations_6 AkEvent]
+SpokenText="没必要说两次。"
+
+[T_Tutorial_Kelly_Confirmations_7 AkEvent]
+SpokenText="收到。"
+
+[T_Tutorial_Kelly_Confirmations_8 AkEvent]
+SpokenText="命令执行中。"
+
+[T_Tutorial_Kelly_Taking_Fire_01 AkEvent]
+SpokenText="啊！正遭受攻击！"
+
+[T_Tutorial_Kelly_Taking_Fire_02 AkEvent]
+SpokenText="啊！好险。"
+
+[T_Tutorial_Kelly_Taking_Fire_03 AkEvent]
+SpokenText="太危险了！"
+
