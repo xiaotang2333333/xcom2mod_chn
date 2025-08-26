@@ -1,3 +1,0 @@
-﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_8 XComInteractiveLevelActor]
-FriendlyDisplayName="Secure Door"
-

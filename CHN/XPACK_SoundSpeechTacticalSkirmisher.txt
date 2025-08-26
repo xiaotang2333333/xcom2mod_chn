@@ -1,6 +1,0 @@
-﻿[Play_X2_XP_SKRM_T_Chosen_Captures_Skirmisher_Response AkEvent]
-SpokenText="你什么都不会知道的。我的自由，比我的生命更有价值。"
-
-[Play_X2_XP_SKRMM1_T_Extract_Know_SkirmisherM1_Convo_A_2 AkEvent]
-SpokenText="我们永远不会屈服与你，荷斯普利马。"
-

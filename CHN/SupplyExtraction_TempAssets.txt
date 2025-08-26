@@ -1,3 +1,0 @@
-﻿[Archetypes.ARC_IA_SupplyCrate XComInteractiveLevelActor]
-FriendlyDisplayName="变种人补给箱"
-

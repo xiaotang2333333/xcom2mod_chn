@@ -1,5 +1,0 @@
-﻿[General]
-Start=XComGame（正在启动）
-Exit=XComGame（正在离开）
-Run=XComGame（正在运行）
-Product=XComGame

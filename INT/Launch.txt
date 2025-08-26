@@ -1,5 +1,0 @@
-﻿[General]
-Start=XComGame (Starting)
-Exit=XComGame (Exiting)
-Run=XComGame (Running)
-Product=XComGame

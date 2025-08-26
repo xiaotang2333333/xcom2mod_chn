@@ -1,3 +1,0 @@
-﻿[HelloCommander AkEvent]
-SpokenText="Hello, Commander."
-

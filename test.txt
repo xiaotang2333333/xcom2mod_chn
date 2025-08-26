@@ -1,0 +1,17 @@
+[SWATRS X2SoldierClassTemplate]  
++DisplayName="特警"  
++ClassSummary="特警专精中近距离遭遇战与目标削弱战术。他们能强攻敌方阵地、提供火力支援、实施战术牵制。"  
++LeftAbilityTreeTitle="破障者"  
++RightAbilityTreeTitle="支援兵"  
++AbilityTreeTitles="破障者"  
++AbilityTreeTitles=""  
++AbilityTreeTitles="支援兵"  
+
+[TechnicianRS X2SoldierClassTemplate]  
++DisplayName="技师"  
++ClassSummary="技师运用小精灵无人机侵入ADVENT网络并获取敏感数据。他们擅长辅助友军与干扰敌军行动。"  
++LeftAbilityTreeTitle="干扰者"  
++RightAbilityTreeTitle="瓦解者"  
++AbilityTreeTitles="干扰者"  
++AbilityTreeTitles=""  
++AbilityTreeTitles="瓦解者"  

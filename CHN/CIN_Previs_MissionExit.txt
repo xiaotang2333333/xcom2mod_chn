@@ -1,7 +1,0 @@
-﻿[Audio.Previs_PostMissionA SoundNodeWave]
-bMature=False
-bManualWordWrap=False
-bSingleLine=False
-SpokenText=""
-Comment=""
-

@@ -1,3 +1,0 @@
-﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_1 XComInteractiveLevelActor]
-FriendlyDisplayName="变种人容器"
-

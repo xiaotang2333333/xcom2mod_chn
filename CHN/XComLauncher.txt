@@ -1,5 +1,0 @@
-﻿[XComLauncher]
-ModsTitle=模组
-PlayButton=游玩
-WorkshopButton=创意工坊
-QuitButton=退出

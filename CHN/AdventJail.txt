@@ -1,3 +1,0 @@
-﻿[Archetypes.ARC_AdventJailDoor_x1 XComInteractiveLevelActor]
-FriendlyDisplayName="牢房门"
-

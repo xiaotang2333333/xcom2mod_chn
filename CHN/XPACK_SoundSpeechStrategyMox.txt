@@ -1,3 +1,0 @@
-﻿[Play_X2_XP_S_Mox_Returns_To_XCOM AkEvent]
-SpokenText="很高兴能再次为你效命，指挥官。我不会忘记你和你的士兵为我做过什么的。"
-

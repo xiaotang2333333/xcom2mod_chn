@@ -1,3 +1,0 @@
-﻿[Play_X2_XP_SINGER_S_ADVENT_Burger AkEvent]
-SpokenText="When you're tired or hungry or just need a treat:  ADVENT Burger! The place for meat!"
-

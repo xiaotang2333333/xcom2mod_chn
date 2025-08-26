@@ -1,9 +1,0 @@
-﻿[S_Avatar_Autopsy_Angelic_Elder_02 AkEvent]
-SpokenText="我们曾对你们抱有很大的期望..."
-
-[T_Final_Mission_The_Fortress_Angelic_Elder_03_a AkEvent]
-SpokenText="多么大的损失。多么不必要的浪费。你强迫我们出手。但我们仍然提供和平。再次加入我们，你的世界将会幸免于难。"
-
-[T_Final_Mission_The_Fortress_Angelic_Elder_05_a AkEvent]
-SpokenText="真不幸。但这都是在预料之中。"
-

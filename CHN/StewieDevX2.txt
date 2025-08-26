@@ -1,7 +1,0 @@
-﻿[FaceFX.SHEN_Salli_SAffriotti_03_27_14_MoCap_04 SoundNodeWave]
-bMature=False
-bManualWordWrap=False
-bSingleLine=False
-SpokenText=""
-Comment=""
-

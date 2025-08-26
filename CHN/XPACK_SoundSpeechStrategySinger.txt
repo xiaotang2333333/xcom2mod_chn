@@ -1,3 +1,0 @@
-﻿[Play_X2_XP_SINGER_S_ADVENT_Burger AkEvent]
-SpokenText="如果你累了或者饿了或者只想要个零嘴：变种人汉堡！肉食者的天堂！"
-

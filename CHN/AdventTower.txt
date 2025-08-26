@@ -1,3 +1,0 @@
-﻿[Archetypes.ARC_AdventTower_Hackable XComInteractiveLevelActor]
-FriendlyDisplayName="警戒塔"
-

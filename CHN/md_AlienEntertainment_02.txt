@@ -1,6 +1,0 @@
-﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_27 XComInteractiveLevelActor]
-FriendlyDisplayName="牢房门"
-
-[TheWorld:PersistentLevel.XComInteractiveLevelActor_28 XComInteractiveLevelActor]
-FriendlyDisplayName="牢房门"
-

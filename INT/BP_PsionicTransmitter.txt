@@ -1,3 +1,0 @@
-﻿[TheWorld:PersistentLevel.XComInteractiveLevelActor_0 XComInteractiveLevelActor]
-FriendlyDisplayName="Advent Supply Crate"
-

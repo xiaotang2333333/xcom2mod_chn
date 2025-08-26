@@ -1,7 +1,0 @@
-﻿[Story_Intro_SURR AkEvent]
-SpokenText=""
-bMature=False
-bManualWordWrap=False
-bSingleLine=False
-Comment=""
-

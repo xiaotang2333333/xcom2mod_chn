@@ -1,9 +1,0 @@
-﻿[S_Avatar_Autopsy_Angelic_Elder_02 AkEvent]
-SpokenText="We had such hope for you..."
-
-[T_Final_Mission_The_Fortress_Angelic_Elder_03_a AkEvent]
-SpokenText="Such loss. Such needless waste. You force our hand. Yet still we offer peace. Rejoin us and your world will be spared. "
-
-[T_Final_Mission_The_Fortress_Angelic_Elder_05_a AkEvent]
-SpokenText="Unfortunate. Yet expected."
-

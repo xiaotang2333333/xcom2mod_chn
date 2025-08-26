@@ -1,3 +1,0 @@
-﻿[Play_X2_XP_S_Mox_Returns_To_XCOM AkEvent]
-SpokenText="I am glad to return to your service, Commander. I will not forget what you and your soldiers have done for me."
-

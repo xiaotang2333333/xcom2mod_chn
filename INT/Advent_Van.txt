@@ -1,6 +1,0 @@
-﻿[Archetypes.ARC_AdventVanDoor_Shanty_x2 XComInteractiveLevelActor]
-FriendlyDisplayName="Van Door"
-
-[Archetypes.ARC_AdventVanDoor_x2 XComInteractiveLevelActor]
-FriendlyDisplayName="Van Door"
-

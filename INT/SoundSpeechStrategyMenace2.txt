@@ -1,6 +1,0 @@
-﻿[S_Intro_Menace2_01 AkEvent]
-SpokenText="Approaching position."
-
-[S_Intro_Menace2_02 AkEvent]
-SpokenText="You were right, They've definitely got their hands full today."
-

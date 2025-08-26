@@ -1,3 +1,0 @@
-﻿[Archetypes.ARC_BoxTruckA_DoorBack XComInteractiveLevelActor]
-FriendlyDisplayName="Van Door"
-

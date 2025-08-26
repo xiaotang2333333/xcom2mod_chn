@@ -1,9 +1,0 @@
-﻿[Prefabs.PF_ACUnitSet_1x2A:PF_ACUnitSet_1x2A_2Arc0 XComInteractiveLevelActor]
-FriendlyDisplayName="ADVENT Container"
-
-[Prefabs.PF_ACUnitSet_HiCov_2x2A:PF_ACUnitSet_HiCov_2x2A_1Arc0 XComInteractiveLevelActor]
-FriendlyDisplayName="ADVENT Container"
-
-[Prefabs.PF_ACUnitSet_LoCov_1x1A:PF_ACUnitSet_LoCov_1x1A_1Arc0 XComInteractiveLevelActor]
-FriendlyDisplayName="ADVENT Container"
-
