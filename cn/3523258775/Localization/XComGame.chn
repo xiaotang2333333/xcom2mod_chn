@@ -1,0 +1,71 @@
+[Relationship_Eternal_Soulmates X2AbilityTemplate]
+LocFriendlyName="永恒灵魂伴侣"
+LocLongDescription="这份羁绊深厚到跨越时空，无论在战斗中还是生活里，都能让两人彼此变强。"
+LocHelpText=""
+LocFlyOverText="以永恒为契"
+
+[Relationship_Tumultuous_Affair X2AbilityTemplate]
+LocFriendlyName="跌宕情事"
+LocLongDescription="爱意来得汹涌，矛盾也同样激烈。这段充满变数的关系，催生出无数紧张炽热的时刻。"
+LocHelpText=""
+LocFlyOverText="怒火交织"
+
+[Relationship_Sensual_Passion X2AbilityTemplate]
+LocFriendlyName="浓情蜜意"
+LocLongDescription="两人之间强烈的吸引力，转化为战场上默契十足的协作与配合。"
+LocHelpText=""
+LocFlyOverText="欲望之火"
+
+[Relationship_Kindred_Kin X2AbilityTemplate]
+LocFriendlyName="至亲手足"
+LocLongDescription="情同兄弟姐妹，忠诚坚定不移，协作天衣无缝。"
+LocHelpText=""
+LocFlyOverText="家族之盾"
+
+[Relationship_Dysfunctional_Bunch X2AbilityTemplate]
+LocFriendlyName="问题家族"
+LocLongDescription="血缘纽带虽伴随着起起落落，但他们始终会为彼此撑腰。"
+LocHelpText=""
+LocFlyOverText="家族纷争"
+
+[Relationship_Clan_Pride X2AbilityTemplate]
+LocFriendlyName="宗族荣耀"
+LocLongDescription="共同的血脉传承与荣誉感，驱使他们奋不顾身地守护彼此。"
+LocHelpText=""
+LocFlyOverText="宗族之傲"
+
+[Relationship_Comedic_Duo X2AbilityTemplate]
+LocFriendlyName="搞笑搭档"
+LocLongDescription="擅长用幽默活跃气氛，即便在最危急的时刻，也能让士气保持高昂。"
+LocHelpText=""
+LocFlyOverText="一笑了之"
+
+[Relationship_Lifelong_Comrades X2AbilityTemplate]
+LocFriendlyName="毕生战友"
+LocLongDescription="多年的信任铸就了牢不可破的伙伴关系，足以应对任何挑战。"
+LocHelpText=""
+LocFlyOverText="亲密战友"
+
+[Relationship_Forged_In_Fire X2AbilityTemplate]
+LocFriendlyName="浴火而生"
+LocLongDescription="他们的友谊在最残酷的战斗中经受考验，让两人并肩时愈发强大。"
+LocHelpText=""
+LocFlyOverText="钢铁羁绊"
+
+[Relationship_Burning_Grudge X2AbilityTemplate]
+LocFriendlyName="刻骨积怨"
+LocLongDescription="彼此的敌对情绪点燃了无休止的争斗，两人都誓要超越对方。"
+LocHelpText=""
+LocFlyOverText="复仇之火"
+
+[Relationship_Opposing_Ideals X2AbilityTemplate]
+LocFriendlyName="理念相悖"
+LocLongDescription="对立的信念引发激烈冲突，却也让双方的能力愈发精进。"
+LocHelpText=""
+LocFlyOverText="理念交锋"
+
+[Relationship_Competitive_Spirits X2AbilityTemplate]
+LocFriendlyName="竞争之心"
+LocLongDescription="友好的竞争氛围促使他们不断突破，绝不甘心屈居人后。"
+LocHelpText=""
+LocFlyOverText="力争上游"

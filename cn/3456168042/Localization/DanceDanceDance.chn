@@ -1,0 +1,12 @@
+[MCM_Dancing_Options]
+sSettingsPage_Label="XCOM舞力全开！"
+sPageTitle_Label="XCOM舞力全开！- 自定义你的舞步"
+sGroup_Label="选项设置："
+bHideButton_Label="隐藏【来段热舞】技能按钮"
+bHideButton_Tip="当你不想被炫酷舞步不断提醒时"
+bEnemyTaunts_Label="变种人击杀后跳舞庆祝"
+bEnemyTaunts_Tip="变种人辛苦击倒XCOM小混混后，值得来段即兴舞蹈犒赏自己"
+bXCOMTaunts_Label="XCOM击杀后跳舞庆祝"
+bXCOMTaunts_Tip="若触发概率设得过高可能会很烦人"
+iTauntChance_Label="击杀嘲讽触发概率"
+iTauntChance_Tip="大家的嘲讽值有多高？"

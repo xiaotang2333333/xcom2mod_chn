@@ -1,0 +1,223 @@
+[X2DownloadableContentInfo_SoldierMoods]
+MoodChangeEventLabel="%CLASSNAME 心情："
+
+[UIFacility_PartyBarSlot]
+m_strWarnFirstTimePartyDialogTitle="开启派对"
+m_strWarnFirstTimePartyDialogText="消耗 %SUPPLIES 补给为 %UNITNAME 举办派对？期间该士兵无法执行任务，但回归后会精神饱满。"
+m_strWarnStopPartyDialogTitle="停止派对"
+m_strWarnStopPartyNegEnabledDialogText="若取消为 %UNITNAME 筹备的派对，%GENDER 的心情将保持不变！不仅如此，筹备已投入的资源也会白白浪费！您确定仍要取消该活动吗？"
+m_strWarnStopPartyNegDisabledDialogText="若取消为 %UNITNAME 筹备的派对，筹备已投入的资源会白白浪费！您确定仍要取消该活动吗？"
+m_strWarnNotEnoughSuppliesForPartyDialogTitle="指挥官，目前我们没有多余的补给来举办派对。"
+m_strSoldiersAvailableTooltip="为士兵组织派对可改善其心情。"
+m_strOKDisable="不再显示此提示"
+
+[XComGameStateContext_HeadquartersOrder_SoldierMood]
+PartyCompleteNotification="%UNIT 已回归岗位，状态前所未有的好！"
+
+[Feeling_Nothing X2SoldierMoodTemplate]
+DisplayName="毫无情绪"
+Summary="%UNITNAME 无法感知任何人类情绪。"
+
+[Feeling_Neutral X2SoldierMoodTemplate]
+DisplayName="状态良好"
+Summary="%UNITNAME 与船员们相互交流、分享故事，在群体中感到愉悦。"
+
+[Feeling_Jubilant X2SoldierMoodTemplate]
+DisplayName="喜气洋洋"
+Summary="在最近为其举办的庆功活动后，%UNITNAME 欣喜若狂。派对让其充满活力！"
+
+[Feeling_Amused X2SoldierMoodTemplate]
+DisplayName="觉得好笑"
+Summary="晚餐时，一名小队成员惟妙惟肖地模仿布拉德福德，逗得 %UNITNAME 笑个不停。"
+
+[Feeling_Anxious X2SoldierMoodTemplate]
+DisplayName="焦虑不安"
+Summary="%UNITNAME 无法放松，担心下次任务中哪怕一次射失，都可能让团队付出惨痛代价。"
+
+[Feeling_Angry X2SoldierMoodTemplate]
+DisplayName="怒火中烧"
+Summary="一名战友对 %UNITNAME 近期表现发表了轻率评论，使其怒不可遏。"
+
+[Feeling_Annoyed X2SoldierMoodTemplate]
+DisplayName="心生厌烦"
+Summary="在任务简报会上，总有人吹嘘自己潜入变种人设施的“绝妙主意”，%UNITNAME 已经听够了。"
+
+[Feeling_Bored X2SoldierMoodTemplate]
+DisplayName="百无聊赖"
+Summary="%UNITNAME 在复仇者号上漫无目的地闲逛，随手摆弄装备，试图找点有意思的事做。"
+
+[Feeling_Brave X2SoldierMoodTemplate]
+DisplayName="勇敢无畏"
+Summary="在与狂战士的模拟对战中，%UNITNAME 坚守阵地，如今早已迫不及待想与真正的敌人交锋。"
+
+[Feeling_Clumsy X2SoldierMoodTemplate]
+DisplayName="笨手笨脚"
+Summary="%UNITNAME 在前往舰桥的途中绊倒，引得几名船员发笑。"
+
+[Feeling_Confident X2SoldierMoodTemplate]
+DisplayName="信心满满"
+Summary="%UNITNAME 近期一直在指导新兵，鼓励并帮助他们为下次任务做准备。"
+
+[Feeling_Cheerful X2SoldierMoodTemplate]
+DisplayName="心情愉悦"
+Summary="在与小队的扑克游戏中大获全胜后，%UNITNAME 的笑声在复仇者号上回荡。"
+
+[Feeling_Curious X2SoldierMoodTemplate]
+DisplayName="充满好奇"
+Summary="%UNITNAME 花了更多时间与沈和泰根相处，迫切希望了解敌人及其技术。"
+
+[Feeling_Disappointed X2SoldierMoodTemplate]
+DisplayName="心灰意冷"
+Summary="由于未被选中参与某次任务，%UNITNAME 一整天都独自待在军械库擦拭武器。"
+
+[Feeling_Distracted X2SoldierMoodTemplate]
+DisplayName="注意力不集中"
+Summary="%UNITNAME 一直在回想上次与“天选者”的遭遇，在最近的战术会议上频频走神。"
+
+[Feeling_Energetic X2SoldierMoodTemplate]
+DisplayName="精力充沛"
+Summary="%UNITNAME 加入了小队的晨跑活动，还享用了一顿丰盛的早餐。"
+
+[Feeling_Embarrassed X2SoldierMoodTemplate]
+DisplayName="尴尬难堪"
+Summary="在训练演习中，%UNITNAME 的护甲出现故障，如今不敢与团队其他成员对视。"
+
+[Feeling_Excited X2SoldierMoodTemplate]
+DisplayName="兴奋不已"
+Summary="%UNITNAME 得知有一项新的秘密行动，早已迫不及待想向变种人发起进攻。"
+
+[Feeling_Focused X2SoldierMoodTemplate]
+DisplayName="全神贯注"
+Summary="%UNITNAME 一整天都在练习爆头射击，认为自己已准备好在下次任务中带头冲锋。"
+
+[Feeling_Grateful X2SoldierMoodTemplate]
+DisplayName="心怀感激"
+Summary="%UNITNAME 与工程团队共进晚餐，并感谢他们所提供的一切帮助。"
+
+[Feeling_Groggy X2SoldierMoodTemplate]
+DisplayName="昏昏沉沉"
+Summary="%UNITNAME 在酒吧喝多了，如今难以集中注意力。"
+
+[Feeling_Happy X2SoldierMoodTemplate]
+DisplayName="开心快乐"
+Summary="%UNITNAME 与团队其他成员一同庆祝艰难赢得的胜利，欢声笑语不断。"
+
+[Feeling_Hungry X2SoldierMoodTemplate]
+DisplayName="饥肠辘辘"
+Summary="%UNITNAME 没吃早餐，现在肚子饿得咕咕叫，声音大到可能暴露隐蔽状态。"
+
+[Feeling_Impatient X2SoldierMoodTemplate]
+DisplayName="急不可耐"
+Summary="%UNITNAME 迫不及待想参与新任务，渴望将近期学到的技能付诸实践。"
+
+[Feeling_Lonely X2SoldierMoodTemplate]
+DisplayName="孤独寂寞"
+Summary="%UNITNAME 一整晚都在电脑前度过，渴望与人交流。"
+
+[Feeling_Lucky X2SoldierMoodTemplate]
+DisplayName="好运连连"
+Summary="训练中，%UNITNAME 侥幸躲过一劫，此后一直笑容满面。"
+
+[Feeling_Nervous X2SoldierMoodTemplate]
+DisplayName="紧张不安"
+Summary="%UNITNAME 听到有关即将执行高风险任务的传言，不愿参与。"
+
+[Feeling_Nostalgic X2SoldierMoodTemplate]
+DisplayName="怀旧感伤"
+Summary="%UNITNAME 在收音机里听到一首久违的喜爱歌曲，多年来第一次有了家的感觉。"
+
+[Feeling_Optimistic X2SoldierMoodTemplate]
+DisplayName="乐观向上"
+Summary="看到抵抗组织对抗 Advent 的力量日益壮大，%UNITNAME 看到了最初的希望曙光。"
+
+[Feeling_Productive X2SoldierMoodTemplate]
+DisplayName="高效务实"
+Summary="%UNITNAME 整个下午都在复仇者号的指挥中心，试图解读一些外星数据。"
+
+[Feeling_Proud X2SoldierMoodTemplate]
+DisplayName="自豪骄傲"
+Summary="%UNITNAME 协助设计了一套新的战斗训练方案，小队表现已因此得到提升。"
+
+[Feeling_Refreshed X2SoldierMoodTemplate]
+DisplayName="神清气爽"
+Summary="完美完成任务后，%UNITNAME 和船员们在酒吧即兴庆祝。"
+
+[Feeling_Restless X2SoldierMoodTemplate]
+DisplayName="坐立不安"
+Summary="上次任务的肾上腺素仍未消退，%UNITNAME 整晚都在复仇者号上徘徊。"
+
+[Feeling_Sad X2SoldierMoodTemplate]
+DisplayName="悲伤难过"
+Summary="%UNITNAME 得知自己亲近的人前往变种人诊所后便再也没有回来。"
+
+[Feeling_Sleepy X2SoldierMoodTemplate]
+DisplayName="昏昏欲睡"
+Summary="经过漫长的任务执行与复仇者号值班后，%UNITNAME 已难以保持清醒。"
+
+[Feeling_Spooked X2SoldierMoodTemplate]
+DisplayName="惊恐不安"
+Summary="%UNITNAME 无意中听到船员们讨论无面怪，现在看到任何影子都会心生疑虑。"
+
+[Feeling_Shy X2SoldierMoodTemplate]
+DisplayName="羞涩腼腆"
+Summary="休息时，%UNITNAME 悄悄避开人群，选择看书、喝酒独处。"
+
+[Feeling_Surprised X2SoldierMoodTemplate]
+DisplayName="意外惊喜"
+Summary="%UNITNAME 收到了其他船员送的礼物，而且今天甚至不是他的生日。"
+
+[Feeling_Worried X2SoldierMoodTemplate]
+DisplayName="忧心忡忡"
+Summary="%UNITNAME 花了数小时查看安全摄像头，坚信自己看到了工程舱内有异动。"
+
+[Feeling_Confused X2SoldierMoodTemplate]
+DisplayName="困惑不解"
+Summary="%UNITNAME 研究了任务带回的部分外星科技，却始终无法弄明白其原理。"
+
+[Feeling_Queasy X2SoldierMoodTemplate]
+DisplayName="恶心反胃"
+Summary="%UNITNAME 尝试了变种人汉堡，吃完后立刻就后悔了。"
+
+[Feeling_Sore X2SoldierMoodTemplate]
+DisplayName="浑身酸痛"
+Summary="%UNITNAME 额外花了数小时锻炼，如今每一次肌肉活动都十分吃力。"
+
+[Feeling_Motivated X2SoldierMoodTemplate]
+DisplayName="干劲十足"
+Summary="%UNITNAME 无意中听到沈谈论新型先进武器的研发计划，迫不及待想试用。"
+
+[Feeling_Loved X2SoldierMoodTemplate]
+DisplayName="被爱包围"
+Summary="%UNITNAME 收到了家乡亲人发来的暖心消息，内心充满温暖。"
+
+[Feeling_Inspired X2SoldierMoodTemplate]
+DisplayName="备受鼓舞"
+Summary="得知抵抗组织最近取得的胜利后，%UNITNAME 重新找到了奋斗目标。"
+
+[Feeling_Relaxed X2SoldierMoodTemplate]
+DisplayName="放松惬意"
+Summary="%UNITNAME 在飞船上找到一个安静的角落观赏日落，细细品味这难得的宁静时刻。"
+
+[Feeling_Regretful X2SoldierMoodTemplate]
+DisplayName="懊悔不已"
+Summary="%UNITNAME 无法停止回想：要是当初那一枪没有射失，事情会是怎样的结局。"
+
+[Feeling_Naughty X2SoldierMoodTemplate]
+DisplayName="调皮捣蛋"
+Summary="%UNITNAME 黑入了医务室系统，为上次任务后的半数小队成员安排了“强制眼部校准”。"
+
+[Feeling_Insecure X2SoldierMoodTemplate]
+DisplayName="缺乏自信"
+Summary="%UNITNAME 在下层甲板徘徊，暗自揣测指挥官是否会注意到自己的贡献。"
+
+[Feeling_Lazy X2SoldierMoodTemplate]
+DisplayName="慵懒懈怠"
+Summary="%UNITNAME 认为把椅子搬到射击场就算完成了当天的锻炼，选择坐着练习狙击。"
+
+[Feeling_Agitated X2SoldierMoodTemplate]
+DisplayName="烦躁不安"
+Summary="%UNITNAME 不得不加班清理堵塞的马桶，拖地时还不停嘟囔抱怨。"
+
+[Feeling_Playful X2SoldierMoodTemplate]
+DisplayName="嬉皮笑脸"
+Summary="%UNITNAME 用手榴弹即兴表演杂耍，逗得营房里的人喝彩，直到布拉德福德发现才停下。"

@@ -1,0 +1,135 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+; these are examples.
+; every entry consists of a
+;     .*Template="TemplateName"
+; and a
+;     .*Name="DisplayString"
+; without semicolons of course
+
+; * can be Torso, Arms, Legs
+; order is important. to not get confused, you should arrange them like this:
+; failing to have one line registered (for whatever reason)
+; results in ALL subsequent ones being shifted by one, so all parts after that will have the wrong name
+; TL:DR it is CRUCIAL to always pair these entries
+; parts that don't have entries at all, or have the .*Name Empty will get the old style "Torso 1" thing, for example
+
+
+;==============================================================================================================================
+;------------------------------------------------------------------------------------------------------------------------------
+;TRACER - OG
+;------------------------------------------------------------------------------------------------------------------------------
+;==============================================================================================================================
+
+.TorsoTemplate="CNV_Tracer_Torso"
+.TorsoName="猎空 身体"
+
+.TorsoTemplate="LPL_Tracer_Torso"
+.TorsoName="猎空 身体"
+
+.TorsoTemplate="MPL_Tracer_Torso"
+.TorsoName="猎空 身体"
+
+.TorsoTemplate="HPL_Tracer_Torso"
+.TorsoName="猎空 身体"
+
+.TorsoTemplate="LPW_Tracer_Torso"
+.TorsoName="猎空 身体"
+
+.TorsoTemplate="MPW_Tracer_Torso"
+.TorsoName="猎空 身体"
+
+.TorsoTemplate="HPW_Tracer_Torso"
+.TorsoName="猎空 身体"
+
+.TorsoTemplate="CNV_Tracer_Torso2"
+.TorsoName="猎空 身体 (Without Chronal Acc.)"
+
+.TorsoTemplate="LPL_Tracer_Torso2"
+.TorsoName="猎空 身体 (Without Chronal Acc.)"
+
+.TorsoTemplate="MPL_Tracer_Torso2"
+.TorsoName="猎空 身体 (Without Chronal Acc.)"
+
+.TorsoTemplate="HPL_Tracer_Torso2"
+.TorsoName="猎空 身体 (Without Chronal Acc.)"
+
+.TorsoTemplate="LPW_Tracer_Torso2"
+.TorsoName="猎空 身体 (Without Chronal Acc.)"
+
+.TorsoTemplate="MPW_Tracer_Torso2"
+.TorsoName="猎空 身体 (Without Chronal Acc.)"
+
+.TorsoTemplate="HPW_Tracer_Torso2"
+.TorsoName="猎空 身体 (Without Chronal Acc.)"
+
+.LegsTemplate="CNV_Tracer_Legs"
+.LegsName="猎空 下肢"
+
+.LegsTemplate="LPL_Tracer_Legs"
+.LegsName="猎空 下肢"
+
+.LegsTemplate="MPL_Tracer_Legs"
+.LegsName="猎空 下肢"
+
+.LegsTemplate="HPL_Tracer_Legs"
+.LegsName="猎空 下肢"
+
+.LegsTemplate="LPW_Tracer_Legs"
+.LegsName="猎空 下肢"
+
+.LegsTemplate="MPW_Tracer_Legs"
+.LegsName="猎空 下肢"
+
+.LegsTemplate="HPW_Tracer_Legs"
+.LegsName="猎空 下肢"
+
+;==============================================================================================================================
+;------------------------------------------------------------------------------------------------------------------------------
+;TRACER - SLIPSTREAM
+;------------------------------------------------------------------------------------------------------------------------------
+;==============================================================================================================================
+
+.TorsoTemplate="CNV_Tracer_SS_Torso"
+.TorsoName="猎空 身体 (飞行员)"
+
+.TorsoTemplate="LPL_Tracer_SS_Torso"
+.TorsoName="猎空 身体 (飞行员)"
+
+.TorsoTemplate="MPL_Tracer_SS_Torso"
+.TorsoName="猎空 身体 (飞行员)"
+
+.TorsoTemplate="HPL_Tracer_SS_Torso"
+.TorsoName="猎空 身体 (飞行员)"
+
+.TorsoTemplate="LPW_Tracer_SS_Torso"
+.TorsoName="猎空 身体 (飞行员)"
+
+.TorsoTemplate="MPW_Tracer_SS_Torso"
+.TorsoName="猎空 身体 (飞行员)"
+
+.TorsoTemplate="HPW_Tracer_SS_Torso"
+.TorsoName="猎空 身体 (飞行员)"
+
+.LegsTemplate="CNV_Tracer_SS_Legs"
+.LegsName="猎空 下肢 (飞行员)"
+
+.LegsTemplate="LPL_Tracer_SS_Legs"
+.LegsName="猎空 下肢 (飞行员)"
+
+.LegsTemplate="MPL_Tracer_SS_Legs"
+.LegsName="猎空 下肢 (飞行员)"
+
+.LegsTemplate="HPL_Tracer_SS_Legs"
+.LegsName="猎空 下肢 (飞行员)"
+
+.LegsTemplate="LPW_Tracer_SS_Legs"
+.LegsName="猎空 下肢 (飞行员)"
+
+.LegsTemplate="MPW_Tracer_SS_Legs"
+.LegsName="猎空 下肢 (飞行员)"
+
+.LegsTemplate="HPW_Tracer_SS_Legs"
+.LegsName="猎空 下肢 (飞行员)"
+
+

@@ -1,0 +1,248 @@
+[CovertAction_RaiderRelationAdvent2x X2CovertActionTemplate]
+ActionObjective="帮助袭击者对抗变种人"
+
+[CovertAction_RaiderRelationAdvent3x X2CovertActionTemplate]
+ActionObjective="帮助袭击者对抗变种人"
+
+[CovertAction_RaiderRelationAdvent4x X2CovertActionTemplate]
+ActionObjective="帮助袭击者对抗变种人"
+
+[CovertAction_RaiderRelationRaider2x X2CovertActionTemplate]
+ActionObjective="帮助袭击者对抗袭击者"
+
+[CovertAction_RaiderRelationRaider3x X2CovertActionTemplate]
+ActionObjective="帮助袭击者对抗袭击者"
+
+[CovertAction_RaiderRelationRaider4x X2CovertActionTemplate]
+ActionObjective="帮助袭击者对抗袭击者"
+
+[CovertActionNarrative_RaiderRelationAdvent X2CovertActionNarrativeTemplate]
+ActionName="帮助袭击者派系对抗变种人"
+ActionPreNarrative="袭击者需要你的帮助来伏击变种人者营地。派遣士兵帮助他们对抗变种人者并与他们建立关系。"
+ActionPostNarrative="您已经赢得了声誉并且增加了与该袭击者派系的关系。"
+
+[CovertActionNarrative_RaiderRelationRaider X2CovertActionNarrativeTemplate]
+ActionName="帮助袭击者派系对抗袭击者"
+ActionPreNarrative="袭击者需要你的帮助，以便从他们不喜欢的另一个袭击者派系那里窃取物资。被窃取物资的派系不会轻易接受这一点，最终会降低他们与 XCom 和攻击派系的关系。但是如果你忽略这个请求，你将失去与请求派系的关系。"
+ActionPostNarrative="您已经赢得了声誉并增加了与该袭击者派系的关系，同时降低了与另一个派系的关系。"
+
+[CovertActionRaiderRelationSoldierStaffSlot X2StaffSlotTemplate]
+EmptyText="士兵"
+BonusText="秘密行动"
+
+[CovertActionRaiderRelationLeaderStaffSlot X2StaffSlotTemplate]
+EmptyText="士兵"
+BonusText="秘密行动"
+
+[Reward_ImproveRelationsCA X2RewardTemplate]
+DisplayName="改善与袭击者派系的关系"
+RewardDetails="派遣士兵改善与袭击者派系的关系"
+
+; Changing name of the risk from Raider Bases to be better suited for what it is
+[CovertActionRisk_RaiderAmbush X2CovertActionRiskTemplate]
+RiskName="袭击者任务"
+
+[CovertActionRisk_RaiderRelationsAmbush X2CovertActionRiskTemplate]
+RiskName="袭击者伏击"
+
+[CovertActionRisk_RaiderInterference X2CovertActionRiskTemplate]
+RiskName="袭击者干扰"
+
+[CovertActionRisk_RaiderRelationsSoldierCaptured X2CovertActionRiskTemplate]
+RiskName="被袭击者派系捕获"
+
+[WYCHM1_WPN_KNIFE X2WeaponTemplate]
+FriendlyName="指挥棒"
+FriendlyNamePlural="指挥棒"
+BriefSummary="当关系良好时可获得 艾尔达突袭者 装备"
+TacticalText="警棍"
+AbilityDescName="接力棒"
+
+[KabaliteWarriorM2_WPN_DARKBLASTER X2WeaponTemplate]
+FriendlyName="黑暗冲击波"
+FriendlyNamePlural="黑暗爆能枪"
+BriefSummary="当关系良好时可获得 艾尔达突袭者 装备"
+TacticalText="黑暗冲击波"
+AbilityDescName="黑暗爆能枪"
+
+[WRACKM1_WPN X2WeaponTemplate]
+FriendlyName="指挥棒"
+FriendlyNamePlural="指挥棒"
+BriefSummary="当关系良好时可获得 艾尔达突袭者 装备"
+TacticalText="警棍"
+AbilityDescName="接力棒"
+
+[ChaosRifle_CV X2WeaponTemplate]
+FriendlyName="被盗的变种人步枪"
+FriendlyNamePlural="变种人步枪"
+BriefSummary="从混沌分裂者手中窃取的变种人步枪"
+TacticalText="从混沌分裂者那里偷来的变种人步枪"
+AbilityDescName="被盗的变种人步枪"
+
+[ChaosLMG_CV X2WeaponTemplate]
+FriendlyName="被盗基金会轻机枪"
+FriendlyNamePlural="失窃的轻机枪"
+BriefSummary="从混沌分裂者手中窃取的基金会轻机枪"
+TacticalText="从混沌分裂者手中窃取的基金会轻机枪"
+AbilityDescName="被盗基金会轻机枪"
+
+[ChaosShotgun_CV X2WeaponTemplate]
+FriendlyName="突击霰弹枪"
+FriendlyNamePlural="突击霰弹枪"
+BriefSummary="混沌叛乱者的突击霰弹枪"
+TacticalText="混沌叛乱者的突击霰弹枪"
+AbilityDescName="突击霰弹枪"
+
+[ChaosRifle_MG X2WeaponTemplate]
+FriendlyName="被盗的激光步枪"
+FriendlyNamePlural="激光步枪"
+BriefSummary="从混沌分裂者那里偷来的激光步枪"
+TacticalText="从混沌分裂者那里偷来的激光步枪"
+AbilityDescName="被盗激光步枪"
+
+[ChaosLMG_MG X2WeaponTemplate]
+FriendlyName="失窃的激光轻机枪"
+FriendlyNamePlural="激光轻机枪"
+BriefSummary="从混沌分裂者那里偷来的激光轻机枪"
+TacticalText="从混沌分裂者那里偷来的激光轻机枪"
+AbilityDescName="被盗激光轻机枪"
+
+[ChaosShotgun_MG X2WeaponTemplate]
+FriendlyName="激光突击霰弹枪"
+FriendlyNamePlural="激光突击霰弹枪"
+BriefSummary="混沌叛乱的激光突击霰弹枪"
+TacticalText="混沌叛乱的激光突击霰弹枪"
+AbilityDescName="激光突击霰弹枪"
+
+[ChaosRifle_BM X2WeaponTemplate]
+FriendlyName="被盗的蓝色激光步枪"
+FriendlyNamePlural="蓝色激光步枪"
+BriefSummary="从混沌分裂者那里偷来的蓝色激光步枪"
+TacticalText="从混沌分裂者那里偷来的蓝色激光步枪"
+AbilityDescName="被盗的蓝色激光步枪"
+
+[ChaosLMG_BM X2WeaponTemplate]
+FriendlyName="失窃的蓝色激光轻机枪"
+FriendlyNamePlural="蓝色激光轻机枪"
+BriefSummary="从混沌分裂者那里偷来的蓝色激光轻机枪"
+TacticalText="从混沌分裂者那里偷来的蓝色激光轻机枪"
+AbilityDescName="被盗蓝色激光轻机枪"
+
+[ChaosShotgun_BM X2WeaponTemplate]
+FriendlyName="蓝色激光突击霰弹枪"
+FriendlyNamePlural="蓝色激光突击霰弹枪"
+BriefSummary="混沌分裂者的蓝色激光突击霰弹枪"
+TacticalText="混沌叛乱者的蓝色激光突击霰弹枪"
+AbilityDescName="蓝色激光突击霰弹枪"
+
+[CHAOS_PsiAmp_CV X2WeaponTemplate]
+FriendlyName="被盗的 灵能增幅器"
+FriendlyNamePlural="被盗的 灵能增幅器s"
+BriefSummary="从混沌分裂者那里偷来的灵能放大器"
+TacticalText="从混沌分裂者那里偷来的灵能放大器"
+AbilityDescName="被盗的灵能放大器"
+
+[CHAOS_PsiAmp_MG X2WeaponTemplate]
+FriendlyName="被盗高级 灵能增幅器"
+FriendlyNamePlural="被盗的高级灵能放大器"
+BriefSummary="从混沌分裂者那里偷来的高级灵能增幅器"
+TacticalText="从混沌分裂者那里偷来的高级灵能增幅器"
+AbilityDescName="窃取高级 灵能增幅器"
+
+[CHAOS_PsiAmp_BM X2WeaponTemplate]
+FriendlyName="被盗的高级 灵能增幅器"
+FriendlyNamePlural="被盗的高级 灵能增幅器s"
+BriefSummary="从混沌分裂者那里偷来的高级灵能增幅器"
+TacticalText="从混沌分裂者那里偷来的高级灵能增幅器"
+AbilityDescName="窃取高级 灵能增幅器"
+
+[ChaosRounds X2AmmoTemplate]
+FriendlyName="SCP-4MM0"
+FriendlyNamePlural="SCP-4MM0"
+BriefSummary="利用危险认知危害的弹药"
+TacticalText="<Bullet/> 这些子弹中注入了一种异常物质，会引发"词汇认知危害"。\n<Bullet/> 当它击中生物目标时，就像病毒感染一样，如果目标存活，它会在 5 格半径范围内传播。\n<Bullet/> 异常物质会继续传播到其他宿主，导致瞄准和意志力下降，并在两回合内造成 1 点伤害，但由于它会影响所有感知到"受感染"个体的人，因此宿主更难被击中。"
+AbilityDescName="SCP-4MM0"
+
+[Pyro_CV X2WeaponTemplate]
+FriendlyName="受损的火焰喷射器"
+FriendlyNamePlural="受损的火焰喷射器"
+BriefSummary="来自异端桀斯的受损火焰喷射器"
+TacticalText="来自异端桀斯的损坏的火焰喷射器"
+AbilityDescName="火焰喷射器"
+
+[Pyro_MG X2WeaponTemplate]
+FriendlyName="火焰喷射器"
+FriendlyNamePlural="火焰喷射器"
+BriefSummary="来自异端桀斯的火焰喷射器"
+TacticalText="来自异端桀斯的火焰喷射器"
+AbilityDescName="火焰喷射器"
+
+[Pyro_BM X2WeaponTemplate]
+FriendlyName="升级版火焰喷射器"
+FriendlyNamePlural="升级版火焰喷射器"
+BriefSummary="来自异端桀斯的升级版火焰喷射器"
+TacticalText="来自异端桀斯的升级版火焰喷射器"
+AbilityDescName="火焰喷射器"
+
+[HereticRifle_CV X2WeaponTemplate]
+FriendlyName="盖斯 等离子步枪"
+FriendlyNamePlural="桀斯等离子步枪"
+BriefSummary="这支步枪的工作原理与喷火式步枪相同：它发射超导环形线圈，环形线圈在撞击时会破裂，并保留电荷，从而将弹片瞬间转换为等离子体。然而，与喷火式步枪不同的是，这种较小的桀斯武器经过改装，可以使用热弹夹。按住扳机可加快射速，快速消耗枪支的散热器，从而实现近乎连续的射击。"
+TacticalText="<Bullet/> 在没有经过特殊训练的情况下，发射主要武器会结束士兵的回合。\n<Bullet/>"
+AbilityDescName="盖斯 等离子步枪"
+
+[HereticRifle_MG X2WeaponTemplate]
+FriendlyName="盖斯 等离子步枪马克二型"
+FriendlyNamePlural="盖斯 等离子步枪马克二型"
+BriefSummary="这支步枪的工作原理与喷火式步枪相同：它发射超导环形线圈，环形线圈在撞击时会破裂，并保留电荷，从而将弹片瞬间转换为等离子体。然而，与喷火式步枪不同的是，这种较小的桀斯武器经过改装，可以使用热弹夹。按住扳机可加快射速，快速消耗枪支的散热器，从而实现近乎连续的射击。"
+TacticalText="<Bullet/> 在没有经过特殊训练的情况下，发射主要武器会结束士兵的回合。\n<Bullet/>"
+AbilityDescName="盖斯 等离子步枪"
+
+[HereticRifle_BM X2WeaponTemplate]
+FriendlyName="盖斯 等离子步枪马克三型"
+FriendlyNamePlural="桀斯等离子步枪马克三型"
+BriefSummary="这支步枪的工作原理与喷火式步枪相同：它发射超导环形线圈，环形线圈在撞击时会破裂，并保留电荷，从而将弹片瞬间转换为等离子体。然而，与喷火式步枪不同的是，这种较小的桀斯武器经过改装，可以使用热弹夹。按住扳机可加快射速，快速消耗枪支的散热器，从而实现近乎连续的射击。"
+TacticalText="<Bullet/> 在没有经过特殊训练的情况下，发射主要武器会结束士兵的回合。\n<Bullet/>"
+AbilityDescName="盖斯 等离子步枪"
+
+[HereticCannon_CV X2WeaponTemplate]
+FriendlyName="盖斯喷火战斗机"
+FriendlyNamePlural="桀斯喷火战斗机"
+BriefSummary="与桀斯等离子霰弹枪一样，喷火式战斗机并非真正的能量武器。相反，这种迷你枪会磁力发射超导环形线圈簇。这种武器的制动力引起了联盟和奎利情报部门的注意，他们推测喷火式战斗机的设计初衷可能是摧毁其他桀斯。"
+TacticalText="<Bullet/> 在没有经过特殊训练的情况下，发射主要武器会结束士兵的回合。\n<Bullet/>"
+AbilityDescName="桀斯喷火战斗机"
+
+[HereticCannon_MG X2WeaponTemplate]
+FriendlyName="盖斯喷火战斗机马克二型"
+FriendlyNamePlural="桀斯喷火战斗机马克二型"
+BriefSummary="先进的弹道能力使得 盖斯喷火战斗机 能够发射速度更快、穿透力更强的子弹。"
+TacticalText="<Bullet/> 在没有经过特殊训练的情况下，发射主要武器会结束士兵的回合。\n<Bullet/>"
+AbilityDescName="桀斯喷火战斗机"
+
+[HereticCannon_BM X2WeaponTemplate]
+FriendlyName="盖斯喷火战斗机马克三型"
+FriendlyNamePlural="桀斯喷火战斗机马克三型"
+BriefSummary="先进的弹道能力使得 盖斯喷火战斗机 能够发射速度更快、穿透力更强的子弹。"
+TacticalText="<Bullet/> 在没有经过特殊训练的情况下，发射主要武器会结束士兵的回合。\n<Bullet/>"
+AbilityDescName="桀斯喷火战斗机"
+
+[HereticShotgun_CV X2WeaponTemplate]
+FriendlyName="盖斯 等离子霰弹枪"
+FriendlyNamePlural="盖斯 等离子霰弹枪"
+BriefSummary="这种三管桀斯武器发射微型但威力强大的超导射弹。两级触发系统允许快速发射电容器或充电和释放攻击，以便在射弹离开武器时给射弹通电。当子弹击中目标时，它们会碎裂，碎片之间会产生电弧，将空气瞬间转换为导电等离子体"
+TacticalText="<Bullet/> 在没有经过特殊训练的情况下，发射主要武器会结束士兵的回合。\n<Bullet/>"
+AbilityDescName="盖斯 等离子霰弹枪"
+
+[HereticShotgun_MG X2WeaponTemplate]
+FriendlyName="盖斯 等离子霰弹枪马克二型"
+FriendlyNamePlural="盖斯 等离子霰弹枪马克二型"
+BriefSummary="先进的弹道能力使得 盖斯 等离子霰弹枪能够发射速度更快、穿透力更强的子弹。"
+TacticalText="<Bullet/> 在没有经过特殊训练的情况下，发射主要武器会结束士兵的回合。\n<Bullet/>"
+AbilityDescName="盖斯 等离子霰弹枪"
+
+[HereticShotgun_BM X2WeaponTemplate]
+FriendlyName="盖斯 等离子霰弹枪马克三型"
+FriendlyNamePlural="盖斯 等离子霰弹枪马克三型"
+BriefSummary="先进的弹道能力使得 盖斯 等离子霰弹枪能够发射速度更快、穿透力更强的子弹。"
+TacticalText="<Bullet/> 在没有经过特殊训练的情况下，发射主要武器会结束士兵的回合。\n<Bullet/>"
+AbilityDescName="盖斯 等离子霰弹枪"

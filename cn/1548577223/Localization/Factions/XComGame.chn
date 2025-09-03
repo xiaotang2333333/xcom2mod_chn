@@ -1,0 +1,3600 @@
+
+;
+; Reaper Conventional
+;
+
+[Reaper_CnvMed_PlatedMix_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Reaper_CnvMed_PlatedMix_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Reaper_CnvMed_PlatedMix_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Reaper_CnvMed_PlatedMix_Thighs_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+
+[Reaper_CnvMed_PlatedMix_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Reaper_CnvMed_PlatedMix_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Reaper_CnvMed_PlatedMix_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Reaper_CnvMed_PlatedMix_Thighs_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+
+;
+; Reaper Plated
+;
+
+[Reaper_PltMed_KevlarAssault_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kit"
+[Reaper_PltMed_KevlarHeavy_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kit"
+[Reaper_PltMed_KevlarSniper_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kit"
+[Reaper_PltMed_KevlarSupport_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kit"
+
+[Reaper_PltMed_KevlarAssault_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kit"
+[Reaper_PltMed_KevlarHeavy_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kit"
+[Reaper_PltMed_KevlarSniper_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kit"
+[Reaper_PltMed_KevlarSupport_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kit"
+
+[Reaper_PltMed_KevlarAssault_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (A)"
+[Reaper_PltMed_KevlarAssault_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (B)"
+[Reaper_PltMed_KevlarAssault_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (C)"
+[Reaper_PltMed_KevlarHeavy_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (A)"
+[Reaper_PltMed_KevlarHeavy_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (B)"
+[Reaper_PltMed_KevlarHeavy_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (C)"
+[Reaper_PltMed_KevlarSniper_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (A)"
+[Reaper_PltMed_KevlarSniper_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (B)"
+[Reaper_PltMed_KevlarSniper_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (C)"
+[Reaper_PltMed_KevlarSupport_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (A)"
+[Reaper_PltMed_KevlarSupport_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (B)"
+[Reaper_PltMed_KevlarSupport_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (C)"
+[Reaper_PltMed_KevlarSupport_Shins_C_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (D)"
+
+[Reaper_PltMed_KevlarAssault_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (A)"
+[Reaper_PltMed_KevlarAssault_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (B)"
+[Reaper_PltMed_KevlarAssault_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (C)"
+[Reaper_PltMed_KevlarHeavy_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (A)"
+[Reaper_PltMed_KevlarHeavy_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (B)"
+[Reaper_PltMed_KevlarHeavy_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (C)"
+[Reaper_PltMed_KevlarSniper_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (A)"
+[Reaper_PltMed_KevlarSniper_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (B)"
+[Reaper_PltMed_KevlarSniper_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (C)"
+[Reaper_PltMed_KevlarSupport_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (A)"
+[Reaper_PltMed_KevlarSupport_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (B)"
+[Reaper_PltMed_KevlarSupport_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (C)"
+[Reaper_PltMed_KevlarSupport_Shins_C_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (D)"
+
+[Reaper_PltMed_KevlarHeavy_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (A)"
+[Reaper_PltMed_KevlarHeavy_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (B)"
+[Reaper_PltMed_KevlarHeavy_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (C)"
+[Reaper_PltMed_PlatedMix_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Reaper_PltMed_PlatedMix_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Reaper_PltMed_PlatedMix_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Reaper_PltMed_PlatedMix_Thighs_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+
+[Reaper_PltMed_KevlarHeavy_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (A)"
+[Reaper_PltMed_KevlarHeavy_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (B)"
+[Reaper_PltMed_KevlarHeavy_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (C)"
+[Reaper_PltMed_PlatedMix_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Reaper_PltMed_PlatedMix_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Reaper_PltMed_PlatedMix_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Reaper_PltMed_PlatedMix_Thighs_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+
+[Reaper_PltMed_KevlarBase_Arms_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+
+[Reaper_PltMed_KevlarBase_Arms_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+
+[Reaper_PltMed_KevlarBase_Arms_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+
+[Reaper_PltMed_KevlarBase_Arms_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+
+[Reaper_PltMed_KevlarBase_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Reaper_PltMed_KevlarBase_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Reaper_PltMed_KevlarBase_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Reaper_PltMed_KevlarHeavy_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Reaper_PltMed_KevlarHeavy_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Reaper_PltMed_KevlarSniper_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Reaper_PltMed_KevlarSniper_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Reaper_PltMed_KevlarSupport_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Reaper_PltMed_KevlarSupport_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Reaper_PltMed_KevlarSupport_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Reaper_PltMed_KevlarBase_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Reaper_PltMed_KevlarBase_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Reaper_PltMed_KevlarBase_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Reaper_PltMed_KevlarHeavy_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Reaper_PltMed_KevlarHeavy_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Reaper_PltMed_KevlarSniper_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Reaper_PltMed_KevlarSniper_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Reaper_PltMed_KevlarSupport_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Reaper_PltMed_KevlarSupport_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Reaper_PltMed_KevlarSupport_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Reaper_PltMed_KevlarBase_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Reaper_PltMed_KevlarBase_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Reaper_PltMed_KevlarBase_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Reaper_PltMed_KevlarHeavy_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Reaper_PltMed_KevlarHeavy_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Reaper_PltMed_KevlarSniper_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Reaper_PltMed_KevlarSniper_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Reaper_PltMed_KevlarSupport_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Reaper_PltMed_KevlarSupport_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Reaper_PltMed_KevlarSupport_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Reaper_PltMed_KevlarBase_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Reaper_PltMed_KevlarBase_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Reaper_PltMed_KevlarBase_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Reaper_PltMed_KevlarHeavy_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Reaper_PltMed_KevlarHeavy_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Reaper_PltMed_KevlarSniper_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Reaper_PltMed_KevlarSniper_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Reaper_PltMed_KevlarSupport_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Reaper_PltMed_KevlarSupport_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Reaper_PltMed_KevlarSupport_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Reaper_PltMed_KevlarBase_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Reaper_PltMed_KevlarBase_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Reaper_PltMed_KevlarHeavy_Forearm_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Reaper_PltMed_KevlarHeavy_Forearm_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Reaper_PltMed_KevlarMix_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Reaper_PltMed_KevlarMix_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Reaper_PltMed_KevlarMix_Forearm_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Reaper_PltMed_KevlarMix_Forearm_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Reaper_PltMed_KevlarBase_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Reaper_PltMed_KevlarBase_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Reaper_PltMed_KevlarHeavy_Forearm_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Reaper_PltMed_KevlarHeavy_Forearm_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Reaper_PltMed_KevlarMix_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Reaper_PltMed_KevlarMix_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Reaper_PltMed_KevlarMix_Forearm_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Reaper_PltMed_KevlarMix_Forearm_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Reaper_PltMed_KevlarBase_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Reaper_PltMed_KevlarBase_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Reaper_PltMed_KevlarHeavy_Forearm_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Reaper_PltMed_KevlarHeavy_Forearm_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Reaper_PltMed_KevlarMix_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Reaper_PltMed_KevlarMix_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Reaper_PltMed_KevlarMix_Forearm_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Reaper_PltMed_KevlarMix_Forearm_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Reaper_PltMed_KevlarBase_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Reaper_PltMed_KevlarBase_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Reaper_PltMed_KevlarHeavy_Forearm_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Reaper_PltMed_KevlarHeavy_Forearm_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Reaper_PltMed_KevlarMix_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Reaper_PltMed_KevlarMix_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Reaper_PltMed_KevlarMix_Forearm_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Reaper_PltMed_KevlarMix_Forearm_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+;
+; Reaper Powered
+;
+
+[Reaper_PwrMed_KevlarAssault_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kit"
+[Reaper_PwrMed_KevlarHeavy_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kit"
+[Reaper_PwrMed_KevlarSniper_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kit"
+[Reaper_PwrMed_KevlarSupport_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kit"
+[Reaper_PwrMed_PlatedAssault_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kit"
+[Reaper_PwrMed_PlatedHeavy_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Kit"
+[Reaper_PwrMed_PlatedSniper_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kit"
+[Reaper_PwrMed_PlatedSupport_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kit"
+
+[Reaper_PwrMed_KevlarAssault_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kit"
+[Reaper_PwrMed_KevlarHeavy_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kit"
+[Reaper_PwrMed_KevlarSniper_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kit"
+[Reaper_PwrMed_KevlarSupport_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kit"
+[Reaper_PwrMed_PlatedAssault_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kit"
+[Reaper_PwrMed_PlatedHeavy_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Kit"
+[Reaper_PwrMed_PlatedSniper_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kit"
+[Reaper_PwrMed_PlatedSupport_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kit"
+
+[Reaper_PwrMed_KevlarAssault_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (A)"
+[Reaper_PwrMed_KevlarAssault_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (B)"
+[Reaper_PwrMed_KevlarAssault_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (C)"
+[Reaper_PwrMed_KevlarHeavy_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (A)"
+[Reaper_PwrMed_KevlarHeavy_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (B)"
+[Reaper_PwrMed_KevlarHeavy_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (C)"
+[Reaper_PwrMed_KevlarSniper_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (A)"
+[Reaper_PwrMed_KevlarSniper_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (B)"
+[Reaper_PwrMed_KevlarSniper_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (C)"
+[Reaper_PwrMed_KevlarSupport_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (A)"
+[Reaper_PwrMed_KevlarSupport_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (B)"
+[Reaper_PwrMed_KevlarSupport_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (C)"
+[Reaper_PwrMed_KevlarSupport_Shins_C_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (D)"
+
+[Reaper_PwrMed_PlatedAssault_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (A)"
+[Reaper_PwrMed_PlatedAssault_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (B)"
+[Reaper_PwrMed_PlatedAssault_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (C)"
+[Reaper_PwrMed_PlatedAssault_Shins_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (D)"
+[Reaper_PwrMed_PlatedHeavy_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (A)"
+[Reaper_PwrMed_PlatedHeavy_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (B)"
+[Reaper_PwrMed_PlatedHeavy_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (C)"
+[Reaper_PwrMed_PlatedSniper_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (A)"
+[Reaper_PwrMed_PlatedSniper_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (B)"
+[Reaper_PwrMed_PlatedSniper_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (C)"
+[Reaper_PwrMed_PlatedSupport_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (A)"
+[Reaper_PwrMed_PlatedSupport_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (B)"
+[Reaper_PwrMed_PlatedSupport_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (C)"
+
+[Reaper_PwrMed_KevlarAssault_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (A)"
+[Reaper_PwrMed_KevlarAssault_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (B)"
+[Reaper_PwrMed_KevlarAssault_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (C)"
+[Reaper_PwrMed_KevlarHeavy_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (A)"
+[Reaper_PwrMed_KevlarHeavy_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (B)"
+[Reaper_PwrMed_KevlarHeavy_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (C)"
+[Reaper_PwrMed_KevlarSniper_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (A)"
+[Reaper_PwrMed_KevlarSniper_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (B)"
+[Reaper_PwrMed_KevlarSniper_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (C)"
+[Reaper_PwrMed_KevlarSupport_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (A)"
+[Reaper_PwrMed_KevlarSupport_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (B)"
+[Reaper_PwrMed_KevlarSupport_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (C)"
+[Reaper_PwrMed_KevlarSupport_Shins_C_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (D)"
+
+[Reaper_PwrMed_PlatedAssault_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (A)"
+[Reaper_PwrMed_PlatedAssault_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (B)"
+[Reaper_PwrMed_PlatedAssault_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (C)"
+[Reaper_PwrMed_PlatedAssault_Shins_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (D)"
+[Reaper_PwrMed_PlatedHeavy_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (A)"
+[Reaper_PwrMed_PlatedHeavy_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (B)"
+[Reaper_PwrMed_PlatedHeavy_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (C)"
+[Reaper_PwrMed_PlatedSniper_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (A)"
+[Reaper_PwrMed_PlatedSniper_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (B)"
+[Reaper_PwrMed_PlatedSniper_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (C)"
+[Reaper_PwrMed_PlatedSupport_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (A)"
+[Reaper_PwrMed_PlatedSupport_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (B)"
+[Reaper_PwrMed_PlatedSupport_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (C)"
+
+[Reaper_PwrMed_KevlarHeavy_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (A)"
+[Reaper_PwrMed_KevlarHeavy_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (B)"
+[Reaper_PwrMed_KevlarHeavy_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (C)"
+[Reaper_PwrMed_PlatedMix_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Reaper_PwrMed_PlatedMix_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Reaper_PwrMed_PlatedMix_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Reaper_PwrMed_PlatedMix_Thighs_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Reaper_PwrMed_PlatedAssault_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(A)"
+[Reaper_PwrMed_PlatedAssault_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(B)"
+[Reaper_PwrMed_PlatedAssault_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(C)"
+[Reaper_PwrMed_PlatedAssault_Thighs_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (A)"
+[Reaper_PwrMed_PlatedAssault_Thighs_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (B)"
+[Reaper_PwrMed_PlatedAssault_Thighs_B3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (C)"
+[Reaper_PwrMed_PlatedAssault_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Mixed)(A)"
+[Reaper_PwrMed_PlatedAssault_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Mixed)(B)"
+[Reaper_PwrMed_PlatedHeavy_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (A)"
+[Reaper_PwrMed_PlatedHeavy_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (B)"
+[Reaper_PwrMed_PlatedHeavy_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (C)"
+[Reaper_PwrMed_PlatedSniper_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (A)"
+[Reaper_PwrMed_PlatedSniper_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (B)"
+[Reaper_PwrMed_PlatedSniper_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (C)"
+[Reaper_PwrMed_PlatedMix_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Reaper_PwrMed_PlatedMix_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Reaper_PwrMed_PlatedMix_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Reaper_PwrMed_PlatedMix_Thighs_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Reaper_PwrMed_PlatedMix_Thighs_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(A)"
+[Reaper_PwrMed_PlatedMix_Thighs_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(B)"
+[Reaper_PwrMed_PlatedMix_Thighs_B3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(C)"
+[Reaper_PwrMed_PlatedMix_Thighs_B4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(D)"
+[Reaper_PwrMed_PlatedMix_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Pouch (Support)(A)"
+[Reaper_PwrMed_PlatedMix_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Pouch (Support)(B)"
+[Reaper_PwrMed_PlatedMix_Thighs_D1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(A)"
+[Reaper_PwrMed_PlatedMix_Thighs_D2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(B)"
+[Reaper_PwrMed_PlatedMix_Thighs_D3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(C)"
+[Reaper_PwrMed_PlatedMix_Thighs_D4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(D)"
+[Reaper_PwrMed_PlatedSupport_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouch (A)"
+[Reaper_PwrMed_PlatedSupport_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouch (B)"
+[Reaper_PwrMed_PlatedSupport_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouches"
+
+[Reaper_PwrMed_KevlarHeavy_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (A)"
+[Reaper_PwrMed_KevlarHeavy_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (B)"
+[Reaper_PwrMed_KevlarHeavy_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (C)"
+[Reaper_PwrMed_PlatedMix_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Reaper_PwrMed_PlatedMix_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Reaper_PwrMed_PlatedMix_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Reaper_PwrMed_PlatedMix_Thighs_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Reaper_PwrMed_PlatedAssault_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(A)"
+[Reaper_PwrMed_PlatedAssault_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(B)"
+[Reaper_PwrMed_PlatedAssault_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(C)"
+[Reaper_PwrMed_PlatedAssault_Thighs_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (A)"
+[Reaper_PwrMed_PlatedAssault_Thighs_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (B)"
+[Reaper_PwrMed_PlatedAssault_Thighs_B3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (C)"
+[Reaper_PwrMed_PlatedAssault_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Mixed)(A)"
+[Reaper_PwrMed_PlatedAssault_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Mixed)(B)"
+[Reaper_PwrMed_PlatedHeavy_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (A)"
+[Reaper_PwrMed_PlatedHeavy_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (B)"
+[Reaper_PwrMed_PlatedHeavy_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (C)"
+[Reaper_PwrMed_PlatedSniper_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (A)"
+[Reaper_PwrMed_PlatedSniper_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (B)"
+[Reaper_PwrMed_PlatedSniper_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (C)"
+[Reaper_PwrMed_PlatedMix_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Reaper_PwrMed_PlatedMix_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Reaper_PwrMed_PlatedMix_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Reaper_PwrMed_PlatedMix_Thighs_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Reaper_PwrMed_PlatedMix_Thighs_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(A)"
+[Reaper_PwrMed_PlatedMix_Thighs_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(B)"
+[Reaper_PwrMed_PlatedMix_Thighs_B3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(C)"
+[Reaper_PwrMed_PlatedMix_Thighs_B4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(D)"
+[Reaper_PwrMed_PlatedMix_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Pouch (Support)(A)"
+[Reaper_PwrMed_PlatedMix_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Pouch (Support)(B)"
+[Reaper_PwrMed_PlatedMix_Thighs_D1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(A)"
+[Reaper_PwrMed_PlatedMix_Thighs_D2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(B)"
+[Reaper_PwrMed_PlatedMix_Thighs_D3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(C)"
+[Reaper_PwrMed_PlatedMix_Thighs_D4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(D)"
+[Reaper_PwrMed_PlatedSupport_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouch (A)"
+[Reaper_PwrMed_PlatedSupport_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouch (B)"
+[Reaper_PwrMed_PlatedSupport_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouches"
+
+[Reaper_PwrMed_KevlarBase_Arms_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+[Reaper_PwrMed_PlatedBase_Arms_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Plated"
+[Reaper_PwrMed_PlatedBase_Arms_Left_Heavy_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy"
+[Reaper_PwrMed_PlatedBase_Arms_Left_Sniper_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper"
+
+[Reaper_PwrMed_KevlarBase_Arms_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+[Reaper_PwrMed_PlatedBase_Arms_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Plated"
+[Reaper_PwrMed_PlatedBase_Arms_Left_Heavy_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy"
+[Reaper_PwrMed_PlatedBase_Arms_Left_Sniper_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper"
+
+[Reaper_PwrMed_KevlarBase_Arms_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+[Reaper_PwrMed_PlatedBase_Arms_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Plated"
+[Reaper_PwrMed_PlatedBase_Arms_Right_Heavy_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy"
+[Reaper_PwrMed_PlatedBase_Arms_Right_Sniper_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper"
+
+[Reaper_PwrMed_KevlarBase_Arms_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+[Reaper_PwrMed_PlatedBase_Arms_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Plated"
+[Reaper_PwrMed_PlatedBase_Arms_Right_Heavy_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy"
+[Reaper_PwrMed_PlatedBase_Arms_Right_Sniper_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper"
+
+[Reaper_PwrMed_KevlarBase_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Reaper_PwrMed_KevlarBase_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Reaper_PwrMed_KevlarBase_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Reaper_PwrMed_KevlarHeavy_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Reaper_PwrMed_KevlarHeavy_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Reaper_PwrMed_KevlarSniper_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Reaper_PwrMed_KevlarSniper_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Reaper_PwrMed_KevlarSupport_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Reaper_PwrMed_KevlarSupport_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Reaper_PwrMed_KevlarSupport_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Reaper_PwrMed_PlatedAssault_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (A)"
+[Reaper_PwrMed_PlatedAssault_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (B)"
+[Reaper_PwrMed_PlatedAssault_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (C)"
+[Reaper_PwrMed_PlatedAssault_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (D)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (A)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (B)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (C)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (D)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Left_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (E)"
+[Reaper_PwrMed_PlatedSniper_Shoulder_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Shoulderpad"
+[Reaper_PwrMed_PlatedSupport_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (A)"
+[Reaper_PwrMed_PlatedSupport_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (B)"
+
+[Reaper_PwrMed_KevlarBase_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Reaper_PwrMed_KevlarBase_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Reaper_PwrMed_KevlarBase_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Reaper_PwrMed_KevlarHeavy_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Reaper_PwrMed_KevlarHeavy_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Reaper_PwrMed_KevlarSniper_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Reaper_PwrMed_KevlarSniper_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Reaper_PwrMed_KevlarSupport_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Reaper_PwrMed_KevlarSupport_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Reaper_PwrMed_KevlarSupport_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Reaper_PwrMed_PlatedAssault_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (A)"
+[Reaper_PwrMed_PlatedAssault_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (B)"
+[Reaper_PwrMed_PlatedAssault_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (C)"
+[Reaper_PwrMed_PlatedAssault_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (D)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (A)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (B)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (C)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (D)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Left_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (E)"
+[Reaper_PwrMed_PlatedSniper_Shoulder_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Shoulderpad"
+[Reaper_PwrMed_PlatedSupport_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (A)"
+[Reaper_PwrMed_PlatedSupport_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (B)"
+
+[Reaper_PwrMed_KevlarBase_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Reaper_PwrMed_KevlarBase_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Reaper_PwrMed_KevlarBase_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Reaper_PwrMed_KevlarHeavy_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Reaper_PwrMed_KevlarHeavy_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Reaper_PwrMed_KevlarSniper_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Reaper_PwrMed_KevlarSniper_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Reaper_PwrMed_KevlarSupport_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Reaper_PwrMed_KevlarSupport_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Reaper_PwrMed_KevlarSupport_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Reaper_PwrMed_PlatedAssault_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (A)"
+[Reaper_PwrMed_PlatedAssault_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (B)"
+[Reaper_PwrMed_PlatedAssault_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (C)"
+[Reaper_PwrMed_PlatedAssault_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (D)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (A)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (B)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (C)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (D)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Right_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (E)"
+[Reaper_PwrMed_PlatedSniper_Shoulder_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Shoulderpad"
+[Reaper_PwrMed_PlatedSupport_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (A)"
+[Reaper_PwrMed_PlatedSupport_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (B)"
+
+[Reaper_PwrMed_KevlarBase_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Reaper_PwrMed_KevlarBase_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Reaper_PwrMed_KevlarBase_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Reaper_PwrMed_KevlarHeavy_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Reaper_PwrMed_KevlarHeavy_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Reaper_PwrMed_KevlarSniper_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Reaper_PwrMed_KevlarSniper_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Reaper_PwrMed_KevlarSupport_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Reaper_PwrMed_KevlarSupport_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Reaper_PwrMed_KevlarSupport_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Reaper_PwrMed_PlatedAssault_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (A)"
+[Reaper_PwrMed_PlatedAssault_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (B)"
+[Reaper_PwrMed_PlatedAssault_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (C)"
+[Reaper_PwrMed_PlatedAssault_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (D)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (A)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (B)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (C)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (D)"
+[Reaper_PwrMed_PlatedHeavy_Shoulder_Right_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (E)"
+[Reaper_PwrMed_PlatedSniper_Shoulder_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Shoulderpad"
+[Reaper_PwrMed_PlatedSupport_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (A)"
+[Reaper_PwrMed_PlatedSupport_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (B)"
+
+[Reaper_PwrMed_KevlarBase_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Reaper_PwrMed_KevlarBase_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Reaper_PwrMed_KevlarHeavy_Forearm_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Reaper_PwrMed_KevlarHeavy_Forearm_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Reaper_PwrMed_KevlarMix_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Reaper_PwrMed_KevlarMix_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Reaper_PwrMed_KevlarMix_Forearm_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Reaper_PwrMed_KevlarMix_Forearm_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Reaper_PwrMed_PlatedBase_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (A)"
+[Reaper_PwrMed_PlatedBase_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (B)"
+[Reaper_PwrMed_PlatedBase_Forearm_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (C)"
+[Reaper_PwrMed_PlatedBase_Forearm_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (D)"
+[Reaper_PwrMed_PlatedBase_Forearm_Left_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Gauntlet"
+[Reaper_PwrMed_PlatedBase_Forearm_Left_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Reinforced Gauntlet"
+[Reaper_PwrMed_PlatedAssault_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Wrap"
+[Reaper_PwrMed_PlatedHeavy_Forearm_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (A)"
+[Reaper_PwrMed_PlatedHeavy_Forearm_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (B)"
+[Reaper_PwrMed_PlatedHeavy_Forearm_Left_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Gauntlet"
+[Reaper_PwrMed_PlatedSniper_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad"
+
+[Reaper_PwrMed_PlatedMix_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_B3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_B4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_C3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_C4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_D1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_D2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_D3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_D4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_E1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_E2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Reinforced)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_E3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Assault)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_E4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Heavy)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_F1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_F2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_F3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_F4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_G1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_G2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_G3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_G4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(B)"
+
+[Reaper_PwrMed_PlatedBase_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (A)"
+[Reaper_PwrMed_PlatedBase_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (B)"
+[Reaper_PwrMed_PlatedBase_Forearm_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (C)"
+[Reaper_PwrMed_PlatedBase_Forearm_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (D)"
+[Reaper_PwrMed_PlatedBase_Forearm_Left_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Gauntlet"
+[Reaper_PwrMed_PlatedBase_Forearm_Left_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Reinforced Gauntlet"
+[Reaper_PwrMed_PlatedAssault_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Wrap"
+[Reaper_PwrMed_PlatedHeavy_Forearm_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (A)"
+[Reaper_PwrMed_PlatedHeavy_Forearm_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (B)"
+[Reaper_PwrMed_PlatedHeavy_Forearm_Left_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Gauntlet"
+[Reaper_PwrMed_PlatedSniper_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad"
+
+[Reaper_PwrMed_KevlarBase_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Reaper_PwrMed_KevlarBase_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Reaper_PwrMed_KevlarHeavy_Forearm_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Reaper_PwrMed_KevlarHeavy_Forearm_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Reaper_PwrMed_KevlarMix_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Reaper_PwrMed_KevlarMix_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Reaper_PwrMed_KevlarMix_Forearm_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Reaper_PwrMed_KevlarMix_Forearm_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Reaper_PwrMed_PlatedMix_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_B3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_B4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_C3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_C4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_D1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_D2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_D3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_D4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_E1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_E2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Reinforced)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_E3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Assault)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_E4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Heavy)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_F1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_F2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_F3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_F4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_G1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_G2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_G3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Left_G4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(B)"
+
+[Reaper_PwrMed_KevlarBase_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Reaper_PwrMed_KevlarBase_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Reaper_PwrMed_KevlarHeavy_Forearm_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Reaper_PwrMed_KevlarHeavy_Forearm_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Reaper_PwrMed_KevlarMix_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Reaper_PwrMed_KevlarMix_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Reaper_PwrMed_KevlarMix_Forearm_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Reaper_PwrMed_KevlarMix_Forearm_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Reaper_PwrMed_PlatedBase_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (A)"
+[Reaper_PwrMed_PlatedBase_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (B)"
+[Reaper_PwrMed_PlatedBase_Forearm_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (C)"
+[Reaper_PwrMed_PlatedBase_Forearm_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (D)"
+[Reaper_PwrMed_PlatedBase_Forearm_Right_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Gauntlet"
+[Reaper_PwrMed_PlatedBase_Forearm_Right_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Reinforced Gauntlet"
+[Reaper_PwrMed_PlatedAssault_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Wrap"
+[Reaper_PwrMed_PlatedHeavy_Forearm_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (A)"
+[Reaper_PwrMed_PlatedHeavy_Forearm_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (B)"
+[Reaper_PwrMed_PlatedHeavy_Forearm_Right_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Gauntlet"
+[Reaper_PwrMed_PlatedSniper_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad"
+
+[Reaper_PwrMed_PlatedMix_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_B3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_B4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_C3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_C4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_D1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_D2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_D3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_D4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_E1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_E2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Reinforced)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_E3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Assault)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_E4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Heavy)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_F1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_F2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_F3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_F4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_G1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_G2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_G3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_G4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(B)"
+
+[Reaper_PwrMed_KevlarBase_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Reaper_PwrMed_KevlarBase_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Reaper_PwrMed_KevlarHeavy_Forearm_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Reaper_PwrMed_KevlarHeavy_Forearm_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Reaper_PwrMed_KevlarMix_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Reaper_PwrMed_KevlarMix_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Reaper_PwrMed_KevlarMix_Forearm_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Reaper_PwrMed_KevlarMix_Forearm_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Reaper_PwrMed_PlatedBase_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (A)"
+[Reaper_PwrMed_PlatedBase_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (B)"
+[Reaper_PwrMed_PlatedBase_Forearm_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (C)"
+[Reaper_PwrMed_PlatedBase_Forearm_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (D)"
+[Reaper_PwrMed_PlatedBase_Forearm_Right_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Gauntlet"
+[Reaper_PwrMed_PlatedBase_Forearm_Right_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Reinforced Gauntlet"
+[Reaper_PwrMed_PlatedAssault_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Wrap"
+[Reaper_PwrMed_PlatedHeavy_Forearm_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (A)"
+[Reaper_PwrMed_PlatedHeavy_Forearm_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (B)"
+[Reaper_PwrMed_PlatedHeavy_Forearm_Right_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Gauntlet"
+[Reaper_PwrMed_PlatedSniper_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad"
+
+[Reaper_PwrMed_PlatedMix_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_B3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_B4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_C3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_C4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(C)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_D1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_D2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_D3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_D4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(D)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_E1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_E2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Reinforced)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_E3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Assault)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_E4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Heavy)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_F1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_F2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_F3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_F4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(A)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_G1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_G2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_G3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(B)"
+[Reaper_PwrMed_PlatedMix_Forearm_Right_G4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(B)"
+
+;
+; Skirmisher Conventional
+;
+
+[Skirmisher_CnvMed_PlatedMix_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Skirmisher_CnvMed_PlatedMix_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Skirmisher_CnvMed_PlatedMix_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Skirmisher_CnvMed_PlatedMix_Thighs_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+
+[Skirmisher_CnvMed_PlatedMix_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Skirmisher_CnvMed_PlatedMix_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Skirmisher_CnvMed_PlatedMix_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Skirmisher_CnvMed_PlatedMix_Thighs_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+
+;
+; Skirmisher Plated
+;
+
+[Skirmisher_PltMed_KevlarAssault_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kit"
+[Skirmisher_PltMed_KevlarHeavy_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kit"
+[Skirmisher_PltMed_KevlarSniper_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kit"
+[Skirmisher_PltMed_KevlarSupport_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kit"
+
+[Skirmisher_PltMed_KevlarAssault_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kit"
+[Skirmisher_PltMed_KevlarHeavy_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kit"
+[Skirmisher_PltMed_KevlarSniper_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kit"
+[Skirmisher_PltMed_KevlarSupport_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kit"
+
+[Skirmisher_PltMed_KevlarAssault_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (A)"
+[Skirmisher_PltMed_KevlarAssault_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (B)"
+[Skirmisher_PltMed_KevlarAssault_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (C)"
+[Skirmisher_PltMed_KevlarHeavy_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (A)"
+[Skirmisher_PltMed_KevlarHeavy_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (B)"
+[Skirmisher_PltMed_KevlarHeavy_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (C)"
+[Skirmisher_PltMed_KevlarSniper_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (A)"
+[Skirmisher_PltMed_KevlarSniper_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (B)"
+[Skirmisher_PltMed_KevlarSniper_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (C)"
+[Skirmisher_PltMed_KevlarSupport_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (A)"
+[Skirmisher_PltMed_KevlarSupport_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (B)"
+[Skirmisher_PltMed_KevlarSupport_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (C)"
+[Skirmisher_PltMed_KevlarSupport_Shins_C_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (D)"
+
+[Skirmisher_PltMed_KevlarAssault_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (A)"
+[Skirmisher_PltMed_KevlarAssault_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (B)"
+[Skirmisher_PltMed_KevlarAssault_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (C)"
+[Skirmisher_PltMed_KevlarHeavy_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (A)"
+[Skirmisher_PltMed_KevlarHeavy_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (B)"
+[Skirmisher_PltMed_KevlarHeavy_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (C)"
+[Skirmisher_PltMed_KevlarSniper_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (A)"
+[Skirmisher_PltMed_KevlarSniper_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (B)"
+[Skirmisher_PltMed_KevlarSniper_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (C)"
+[Skirmisher_PltMed_KevlarSupport_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (A)"
+[Skirmisher_PltMed_KevlarSupport_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (B)"
+[Skirmisher_PltMed_KevlarSupport_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (C)"
+[Skirmisher_PltMed_KevlarSupport_Shins_C_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (D)"
+
+[Skirmisher_PltMed_KevlarHeavy_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (A)"
+[Skirmisher_PltMed_KevlarHeavy_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (B)"
+[Skirmisher_PltMed_KevlarHeavy_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (C)"
+[Skirmisher_PltMed_PlatedMix_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Skirmisher_PltMed_PlatedMix_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Skirmisher_PltMed_PlatedMix_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Skirmisher_PltMed_PlatedMix_Thighs_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+
+[Skirmisher_PltMed_KevlarHeavy_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (A)"
+[Skirmisher_PltMed_KevlarHeavy_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (B)"
+[Skirmisher_PltMed_KevlarHeavy_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (C)"
+[Skirmisher_PltMed_PlatedMix_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Skirmisher_PltMed_PlatedMix_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Skirmisher_PltMed_PlatedMix_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Skirmisher_PltMed_PlatedMix_Thighs_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+
+[Skirmisher_PltMed_KevlarBase_Arms_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+
+[Skirmisher_PltMed_KevlarBase_Arms_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+
+[Skirmisher_PltMed_KevlarBase_Arms_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+
+[Skirmisher_PltMed_KevlarBase_Arms_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+
+[Skirmisher_PltMed_KevlarBase_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarBase_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Skirmisher_PltMed_KevlarBase_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarHeavy_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarHeavy_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarSniper_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarSniper_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarSupport_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarSupport_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarSupport_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Skirmisher_PltMed_KevlarBase_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarBase_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Skirmisher_PltMed_KevlarBase_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarHeavy_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarHeavy_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarSniper_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarSniper_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarSupport_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarSupport_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarSupport_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Skirmisher_PltMed_KevlarBase_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarBase_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Skirmisher_PltMed_KevlarBase_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarHeavy_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarHeavy_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarSniper_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarSniper_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarSupport_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarSupport_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarSupport_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Skirmisher_PltMed_KevlarBase_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarBase_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Skirmisher_PltMed_KevlarBase_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarHeavy_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarHeavy_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarSniper_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarSniper_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarSupport_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Skirmisher_PltMed_KevlarSupport_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Skirmisher_PltMed_KevlarSupport_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Skirmisher_PltMed_KevlarBase_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Skirmisher_PltMed_KevlarBase_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Skirmisher_PltMed_KevlarHeavy_Forearm_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Skirmisher_PltMed_KevlarHeavy_Forearm_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Skirmisher_PltMed_KevlarBase_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Skirmisher_PltMed_KevlarBase_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Skirmisher_PltMed_KevlarHeavy_Forearm_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Skirmisher_PltMed_KevlarHeavy_Forearm_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Skirmisher_PltMed_KevlarBase_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Skirmisher_PltMed_KevlarBase_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Skirmisher_PltMed_KevlarHeavy_Forearm_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Skirmisher_PltMed_KevlarHeavy_Forearm_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Skirmisher_PltMed_KevlarBase_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Skirmisher_PltMed_KevlarBase_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Skirmisher_PltMed_KevlarHeavy_Forearm_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Skirmisher_PltMed_KevlarHeavy_Forearm_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Skirmisher_PltMed_KevlarMix_Forearm_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+;
+; Skirmisher Powered
+;
+
+[Skirmisher_PwrMed_KevlarAssault_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kit"
+[Skirmisher_PwrMed_KevlarHeavy_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kit"
+[Skirmisher_PwrMed_KevlarSniper_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kit"
+[Skirmisher_PwrMed_KevlarSupport_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kit"
+[Skirmisher_PwrMed_PlatedAssault_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kit"
+[Skirmisher_PwrMed_PlatedHeavy_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Kit"
+[Skirmisher_PwrMed_PlatedSniper_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kit"
+[Skirmisher_PwrMed_PlatedSupport_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kit"
+
+[Skirmisher_PwrMed_KevlarAssault_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kit"
+[Skirmisher_PwrMed_KevlarHeavy_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kit"
+[Skirmisher_PwrMed_KevlarSniper_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kit"
+[Skirmisher_PwrMed_KevlarSupport_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kit"
+[Skirmisher_PwrMed_PlatedAssault_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kit"
+[Skirmisher_PwrMed_PlatedHeavy_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Kit"
+[Skirmisher_PwrMed_PlatedSniper_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kit"
+[Skirmisher_PwrMed_PlatedSupport_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kit"
+
+[Skirmisher_PwrMed_KevlarAssault_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (A)"
+[Skirmisher_PwrMed_KevlarAssault_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (B)"
+[Skirmisher_PwrMed_KevlarAssault_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (C)"
+[Skirmisher_PwrMed_KevlarHeavy_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (A)"
+[Skirmisher_PwrMed_KevlarHeavy_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (B)"
+[Skirmisher_PwrMed_KevlarHeavy_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (C)"
+[Skirmisher_PwrMed_KevlarSniper_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (A)"
+[Skirmisher_PwrMed_KevlarSniper_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (B)"
+[Skirmisher_PwrMed_KevlarSniper_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (C)"
+[Skirmisher_PwrMed_KevlarSupport_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (A)"
+[Skirmisher_PwrMed_KevlarSupport_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (B)"
+[Skirmisher_PwrMed_KevlarSupport_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (C)"
+[Skirmisher_PwrMed_KevlarSupport_Shins_C_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (D)"
+
+[Skirmisher_PwrMed_PlatedAssault_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (A)"
+[Skirmisher_PwrMed_PlatedAssault_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (B)"
+[Skirmisher_PwrMed_PlatedAssault_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (C)"
+[Skirmisher_PwrMed_PlatedAssault_Shins_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (D)"
+[Skirmisher_PwrMed_PlatedHeavy_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (A)"
+[Skirmisher_PwrMed_PlatedHeavy_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (B)"
+[Skirmisher_PwrMed_PlatedHeavy_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (C)"
+[Skirmisher_PwrMed_PlatedSniper_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (A)"
+[Skirmisher_PwrMed_PlatedSniper_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (B)"
+[Skirmisher_PwrMed_PlatedSniper_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (C)"
+[Skirmisher_PwrMed_PlatedSupport_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (A)"
+[Skirmisher_PwrMed_PlatedSupport_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (B)"
+[Skirmisher_PwrMed_PlatedSupport_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (C)"
+
+[Skirmisher_PwrMed_KevlarAssault_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (A)"
+[Skirmisher_PwrMed_KevlarAssault_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (B)"
+[Skirmisher_PwrMed_KevlarAssault_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (C)"
+[Skirmisher_PwrMed_KevlarHeavy_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (A)"
+[Skirmisher_PwrMed_KevlarHeavy_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (B)"
+[Skirmisher_PwrMed_KevlarHeavy_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (C)"
+[Skirmisher_PwrMed_KevlarSniper_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (A)"
+[Skirmisher_PwrMed_KevlarSniper_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (B)"
+[Skirmisher_PwrMed_KevlarSniper_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (C)"
+[Skirmisher_PwrMed_KevlarSupport_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (A)"
+[Skirmisher_PwrMed_KevlarSupport_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (B)"
+[Skirmisher_PwrMed_KevlarSupport_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (C)"
+[Skirmisher_PwrMed_KevlarSupport_Shins_C_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (D)"
+
+[Skirmisher_PwrMed_PlatedAssault_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (A)"
+[Skirmisher_PwrMed_PlatedAssault_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (B)"
+[Skirmisher_PwrMed_PlatedAssault_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (C)"
+[Skirmisher_PwrMed_PlatedAssault_Shins_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (D)"
+[Skirmisher_PwrMed_PlatedHeavy_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (A)"
+[Skirmisher_PwrMed_PlatedHeavy_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (B)"
+[Skirmisher_PwrMed_PlatedHeavy_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (C)"
+[Skirmisher_PwrMed_PlatedSniper_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (A)"
+[Skirmisher_PwrMed_PlatedSniper_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (B)"
+[Skirmisher_PwrMed_PlatedSniper_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (C)"
+[Skirmisher_PwrMed_PlatedSupport_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (A)"
+[Skirmisher_PwrMed_PlatedSupport_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (B)"
+[Skirmisher_PwrMed_PlatedSupport_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (C)"
+
+[Skirmisher_PwrMed_KevlarHeavy_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (A)"
+[Skirmisher_PwrMed_KevlarHeavy_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (B)"
+[Skirmisher_PwrMed_KevlarHeavy_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (C)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(A)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(B)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(C)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (A)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (B)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_B3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (C)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Mixed)(A)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Mixed)(B)"
+[Skirmisher_PwrMed_PlatedHeavy_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (A)"
+[Skirmisher_PwrMed_PlatedHeavy_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (B)"
+[Skirmisher_PwrMed_PlatedHeavy_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (C)"
+[Skirmisher_PwrMed_PlatedSniper_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (A)"
+[Skirmisher_PwrMed_PlatedSniper_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (B)"
+[Skirmisher_PwrMed_PlatedSniper_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (C)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(A)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(B)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_B3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(C)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_B4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(D)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Pouch (Support)(A)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Pouch (Support)(B)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_D1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(A)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_D2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(B)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_D3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(C)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_D4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(D)"
+[Skirmisher_PwrMed_PlatedSupport_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouch (A)"
+[Skirmisher_PwrMed_PlatedSupport_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouch (B)"
+[Skirmisher_PwrMed_PlatedSupport_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouches"
+
+[Skirmisher_PwrMed_KevlarHeavy_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (A)"
+[Skirmisher_PwrMed_KevlarHeavy_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (B)"
+[Skirmisher_PwrMed_KevlarHeavy_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (C)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(A)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(B)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(C)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (A)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (B)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_B3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (C)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Mixed)(A)"
+[Skirmisher_PwrMed_PlatedAssault_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Mixed)(B)"
+[Skirmisher_PwrMed_PlatedHeavy_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (A)"
+[Skirmisher_PwrMed_PlatedHeavy_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (B)"
+[Skirmisher_PwrMed_PlatedHeavy_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (C)"
+[Skirmisher_PwrMed_PlatedSniper_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (A)"
+[Skirmisher_PwrMed_PlatedSniper_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (B)"
+[Skirmisher_PwrMed_PlatedSniper_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (C)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(A)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(B)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_B3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(C)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_B4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(D)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Pouch (Support)(A)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Pouch (Support)(B)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_D1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(A)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_D2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(B)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_D3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(C)"
+[Skirmisher_PwrMed_PlatedMix_Thighs_D4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(D)"
+[Skirmisher_PwrMed_PlatedSupport_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouch (A)"
+[Skirmisher_PwrMed_PlatedSupport_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouch (B)"
+[Skirmisher_PwrMed_PlatedSupport_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouches"
+
+[Skirmisher_PwrMed_KevlarBase_Arms_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+[Skirmisher_PwrMed_PlatedBase_Arms_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Plated"
+[Skirmisher_PwrMed_PlatedBase_Arms_Left_Heavy_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy"
+[Skirmisher_PwrMed_PlatedBase_Arms_Left_Sniper_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper"
+
+[Skirmisher_PwrMed_KevlarBase_Arms_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+[Skirmisher_PwrMed_PlatedBase_Arms_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Plated"
+[Skirmisher_PwrMed_PlatedBase_Arms_Left_Heavy_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy"
+[Skirmisher_PwrMed_PlatedBase_Arms_Left_Sniper_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper"
+
+[Skirmisher_PwrMed_KevlarBase_Arms_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+[Skirmisher_PwrMed_PlatedBase_Arms_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Plated"
+[Skirmisher_PwrMed_PlatedBase_Arms_Right_Heavy_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy"
+[Skirmisher_PwrMed_PlatedBase_Arms_Right_Sniper_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper"
+
+[Skirmisher_PwrMed_KevlarBase_Arms_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+[Skirmisher_PwrMed_PlatedBase_Arms_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Plated"
+[Skirmisher_PwrMed_PlatedBase_Arms_Right_Heavy_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy"
+[Skirmisher_PwrMed_PlatedBase_Arms_Right_Sniper_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper"
+
+[Skirmisher_PwrMed_KevlarBase_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarBase_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Skirmisher_PwrMed_KevlarBase_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarHeavy_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarHeavy_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarSniper_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarSniper_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarSupport_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarSupport_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarSupport_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (A)"
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (B)"
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (C)"
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (D)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (A)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (B)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (C)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (D)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Left_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (E)"
+[Skirmisher_PwrMed_PlatedSniper_Shoulder_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Shoulderpad"
+[Skirmisher_PwrMed_PlatedSupport_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (A)"
+[Skirmisher_PwrMed_PlatedSupport_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (B)"
+
+[Skirmisher_PwrMed_KevlarBase_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarBase_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Skirmisher_PwrMed_KevlarBase_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarHeavy_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarHeavy_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarSniper_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarSniper_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarSupport_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarSupport_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarSupport_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (A)"
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (B)"
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (C)"
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (D)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (A)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (B)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (C)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (D)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Left_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (E)"
+[Skirmisher_PwrMed_PlatedSniper_Shoulder_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Shoulderpad"
+[Skirmisher_PwrMed_PlatedSupport_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (A)"
+[Skirmisher_PwrMed_PlatedSupport_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (B)"
+
+[Skirmisher_PwrMed_KevlarBase_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarBase_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Skirmisher_PwrMed_KevlarBase_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarHeavy_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarHeavy_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarSniper_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarSniper_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarSupport_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarSupport_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarSupport_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (A)"
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (B)"
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (C)"
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (D)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (A)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (B)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (C)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (D)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Right_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (E)"
+[Skirmisher_PwrMed_PlatedSniper_Shoulder_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Shoulderpad"
+[Skirmisher_PwrMed_PlatedSupport_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (A)"
+[Skirmisher_PwrMed_PlatedSupport_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (B)"
+
+[Skirmisher_PwrMed_KevlarBase_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarBase_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Skirmisher_PwrMed_KevlarBase_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarHeavy_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarHeavy_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarSniper_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarSniper_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarSupport_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Skirmisher_PwrMed_KevlarSupport_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Skirmisher_PwrMed_KevlarSupport_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (A)"
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (B)"
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (C)"
+[Skirmisher_PwrMed_PlatedAssault_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (D)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (A)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (B)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (C)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (D)"
+[Skirmisher_PwrMed_PlatedHeavy_Shoulder_Right_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (E)"
+[Skirmisher_PwrMed_PlatedSniper_Shoulder_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Shoulderpad"
+[Skirmisher_PwrMed_PlatedSupport_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (A)"
+[Skirmisher_PwrMed_PlatedSupport_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (B)"
+
+[Skirmisher_PwrMed_KevlarBase_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Skirmisher_PwrMed_KevlarBase_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Skirmisher_PwrMed_KevlarHeavy_Forearm_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Skirmisher_PwrMed_KevlarHeavy_Forearm_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Skirmisher_PwrMed_PlatedBase_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (A)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (B)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (C)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (D)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Left_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Gauntlet"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Left_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Reinforced Gauntlet"
+[Skirmisher_PwrMed_PlatedAssault_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Wrap"
+[Skirmisher_PwrMed_PlatedHeavy_Forearm_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (A)"
+[Skirmisher_PwrMed_PlatedHeavy_Forearm_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (B)"
+[Skirmisher_PwrMed_PlatedHeavy_Forearm_Left_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Gauntlet"
+[Skirmisher_PwrMed_PlatedSniper_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad"
+
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_B3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_B4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_C3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_C4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_D1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_D2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_D3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_D4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_E1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_E2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Reinforced)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_E3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Assault)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_E4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Heavy)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_F1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_F2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_F3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_F4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_G1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_G2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_G3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_G4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(B)"
+
+[Skirmisher_PwrMed_PlatedBase_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (A)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (B)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (C)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (D)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Left_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Gauntlet"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Left_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Reinforced Gauntlet"
+[Skirmisher_PwrMed_PlatedAssault_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Wrap"
+[Skirmisher_PwrMed_PlatedHeavy_Forearm_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (A)"
+[Skirmisher_PwrMed_PlatedHeavy_Forearm_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (B)"
+[Skirmisher_PwrMed_PlatedHeavy_Forearm_Left_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Gauntlet"
+[Skirmisher_PwrMed_PlatedSniper_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad"
+
+[Skirmisher_PwrMed_KevlarBase_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Skirmisher_PwrMed_KevlarBase_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Skirmisher_PwrMed_KevlarHeavy_Forearm_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Skirmisher_PwrMed_KevlarHeavy_Forearm_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_B3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_B4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_C3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_C4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_D1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_D2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_D3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_D4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_E1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_E2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Reinforced)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_E3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Assault)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_E4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Heavy)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_F1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_F2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_F3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_F4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_G1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_G2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_G3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Left_G4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(B)"
+
+[Skirmisher_PwrMed_KevlarBase_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Skirmisher_PwrMed_KevlarBase_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Skirmisher_PwrMed_KevlarHeavy_Forearm_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Skirmisher_PwrMed_KevlarHeavy_Forearm_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Skirmisher_PwrMed_PlatedBase_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (A)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (B)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (C)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (D)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Right_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Gauntlet"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Right_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Reinforced Gauntlet"
+[Skirmisher_PwrMed_PlatedAssault_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Wrap"
+[Skirmisher_PwrMed_PlatedHeavy_Forearm_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (A)"
+[Skirmisher_PwrMed_PlatedHeavy_Forearm_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (B)"
+[Skirmisher_PwrMed_PlatedHeavy_Forearm_Right_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Gauntlet"
+[Skirmisher_PwrMed_PlatedSniper_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad"
+
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_B3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_B4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_C3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_C4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_D1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_D2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_D3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_D4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_E1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_E2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Reinforced)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_E3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Assault)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_E4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Heavy)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_F1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_F2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_F3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_F4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_G1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_G2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_G3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_G4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(B)"
+
+[Skirmisher_PwrMed_KevlarBase_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Skirmisher_PwrMed_KevlarBase_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Skirmisher_PwrMed_KevlarHeavy_Forearm_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Skirmisher_PwrMed_KevlarHeavy_Forearm_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Skirmisher_PwrMed_KevlarMix_Forearm_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Skirmisher_PwrMed_PlatedBase_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (A)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (B)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (C)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (D)"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Right_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Gauntlet"
+[Skirmisher_PwrMed_PlatedBase_Forearm_Right_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Reinforced Gauntlet"
+[Skirmisher_PwrMed_PlatedAssault_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Wrap"
+[Skirmisher_PwrMed_PlatedHeavy_Forearm_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (A)"
+[Skirmisher_PwrMed_PlatedHeavy_Forearm_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (B)"
+[Skirmisher_PwrMed_PlatedHeavy_Forearm_Right_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Gauntlet"
+[Skirmisher_PwrMed_PlatedSniper_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad"
+
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_B3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_B4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_C3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_C4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(C)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_D1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_D2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_D3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_D4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(D)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_E1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_E2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Reinforced)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_E3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Assault)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_E4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Heavy)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_F1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_F2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_F3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_F4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(A)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_G1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_G2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_G3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(B)"
+[Skirmisher_PwrMed_PlatedMix_Forearm_Right_G4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(B)"
+
+;
+; Templar Conventional
+;
+
+[Templar_CnvMed_PlatedMix_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Templar_CnvMed_PlatedMix_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Templar_CnvMed_PlatedMix_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Templar_CnvMed_PlatedMix_Thighs_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+
+[Templar_CnvMed_PlatedMix_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Templar_CnvMed_PlatedMix_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Templar_CnvMed_PlatedMix_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Templar_CnvMed_PlatedMix_Thighs_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+
+;
+; Templar Plated
+;
+
+[Templar_PltMed_KevlarAssault_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kit"
+[Templar_PltMed_KevlarHeavy_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kit"
+[Templar_PltMed_KevlarSniper_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kit"
+[Templar_PltMed_KevlarSupport_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kit"
+
+[Templar_PltMed_KevlarAssault_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kit"
+[Templar_PltMed_KevlarHeavy_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kit"
+[Templar_PltMed_KevlarSniper_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kit"
+[Templar_PltMed_KevlarSupport_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kit"
+
+[Templar_PltMed_KevlarAssault_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (A)"
+[Templar_PltMed_KevlarAssault_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (B)"
+[Templar_PltMed_KevlarAssault_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (C)"
+[Templar_PltMed_KevlarHeavy_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (A)"
+[Templar_PltMed_KevlarHeavy_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (B)"
+[Templar_PltMed_KevlarHeavy_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (C)"
+[Templar_PltMed_KevlarSniper_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (A)"
+[Templar_PltMed_KevlarSniper_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (B)"
+[Templar_PltMed_KevlarSniper_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (C)"
+[Templar_PltMed_KevlarSupport_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (A)"
+[Templar_PltMed_KevlarSupport_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (B)"
+[Templar_PltMed_KevlarSupport_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (C)"
+[Templar_PltMed_KevlarSupport_Shins_C_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (D)"
+
+[Templar_PltMed_KevlarAssault_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (A)"
+[Templar_PltMed_KevlarAssault_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (B)"
+[Templar_PltMed_KevlarAssault_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (C)"
+[Templar_PltMed_KevlarHeavy_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (A)"
+[Templar_PltMed_KevlarHeavy_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (B)"
+[Templar_PltMed_KevlarHeavy_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (C)"
+[Templar_PltMed_KevlarSniper_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (A)"
+[Templar_PltMed_KevlarSniper_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (B)"
+[Templar_PltMed_KevlarSniper_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (C)"
+[Templar_PltMed_KevlarSupport_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (A)"
+[Templar_PltMed_KevlarSupport_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (B)"
+[Templar_PltMed_KevlarSupport_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (C)"
+[Templar_PltMed_KevlarSupport_Shins_C_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (D)"
+
+[Templar_PltMed_KevlarHeavy_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (A)"
+[Templar_PltMed_KevlarHeavy_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (B)"
+[Templar_PltMed_KevlarHeavy_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (C)"
+[Templar_PltMed_PlatedMix_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Templar_PltMed_PlatedMix_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Templar_PltMed_PlatedMix_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Templar_PltMed_PlatedMix_Thighs_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+
+[Templar_PltMed_KevlarHeavy_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (A)"
+[Templar_PltMed_KevlarHeavy_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (B)"
+[Templar_PltMed_KevlarHeavy_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (C)"
+[Templar_PltMed_PlatedMix_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Templar_PltMed_PlatedMix_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Templar_PltMed_PlatedMix_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Templar_PltMed_PlatedMix_Thighs_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+
+[Templar_PltMed_KevlarBase_Arms_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+
+[Templar_PltMed_KevlarBase_Arms_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+
+[Templar_PltMed_KevlarBase_Arms_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+
+[Templar_PltMed_KevlarBase_Arms_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+
+[Templar_PltMed_KevlarBase_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Templar_PltMed_KevlarBase_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Templar_PltMed_KevlarBase_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Templar_PltMed_KevlarHeavy_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Templar_PltMed_KevlarHeavy_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Templar_PltMed_KevlarSniper_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Templar_PltMed_KevlarSniper_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Templar_PltMed_KevlarSupport_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Templar_PltMed_KevlarSupport_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Templar_PltMed_KevlarSupport_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Templar_PltMed_KevlarBase_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Templar_PltMed_KevlarBase_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Templar_PltMed_KevlarBase_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Templar_PltMed_KevlarHeavy_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Templar_PltMed_KevlarHeavy_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Templar_PltMed_KevlarSniper_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Templar_PltMed_KevlarSniper_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Templar_PltMed_KevlarSupport_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Templar_PltMed_KevlarSupport_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Templar_PltMed_KevlarSupport_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Templar_PltMed_KevlarBase_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Templar_PltMed_KevlarBase_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Templar_PltMed_KevlarBase_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Templar_PltMed_KevlarHeavy_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Templar_PltMed_KevlarHeavy_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Templar_PltMed_KevlarSniper_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Templar_PltMed_KevlarSniper_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Templar_PltMed_KevlarSupport_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Templar_PltMed_KevlarSupport_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Templar_PltMed_KevlarSupport_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Templar_PltMed_KevlarBase_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Templar_PltMed_KevlarBase_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Templar_PltMed_KevlarBase_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Templar_PltMed_KevlarHeavy_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Templar_PltMed_KevlarHeavy_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Templar_PltMed_KevlarSniper_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Templar_PltMed_KevlarSniper_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Templar_PltMed_KevlarSupport_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Templar_PltMed_KevlarSupport_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Templar_PltMed_KevlarSupport_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Templar_PltMed_KevlarBase_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Templar_PltMed_KevlarBase_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Templar_PltMed_KevlarHeavy_Forearm_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Templar_PltMed_KevlarHeavy_Forearm_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Templar_PltMed_KevlarMix_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Templar_PltMed_KevlarMix_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Templar_PltMed_KevlarMix_Forearm_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Templar_PltMed_KevlarMix_Forearm_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Templar_PltMed_KevlarBase_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Templar_PltMed_KevlarBase_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Templar_PltMed_KevlarHeavy_Forearm_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Templar_PltMed_KevlarHeavy_Forearm_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Templar_PltMed_KevlarMix_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Templar_PltMed_KevlarMix_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Templar_PltMed_KevlarMix_Forearm_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Templar_PltMed_KevlarMix_Forearm_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Templar_PltMed_KevlarBase_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Templar_PltMed_KevlarBase_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Templar_PltMed_KevlarHeavy_Forearm_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Templar_PltMed_KevlarHeavy_Forearm_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Templar_PltMed_KevlarMix_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Templar_PltMed_KevlarMix_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Templar_PltMed_KevlarMix_Forearm_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Templar_PltMed_KevlarMix_Forearm_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Templar_PltMed_KevlarBase_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Templar_PltMed_KevlarBase_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Templar_PltMed_KevlarHeavy_Forearm_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Templar_PltMed_KevlarHeavy_Forearm_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Templar_PltMed_KevlarMix_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Templar_PltMed_KevlarMix_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Templar_PltMed_KevlarMix_Forearm_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Templar_PltMed_KevlarMix_Forearm_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+;
+; Templar Powered
+;
+
+[Templar_PwrMed_KevlarAssault_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kit"
+[Templar_PwrMed_KevlarHeavy_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kit"
+[Templar_PwrMed_KevlarSniper_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kit"
+[Templar_PwrMed_KevlarSupport_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kit"
+[Templar_PwrMed_PlatedAssault_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kit"
+[Templar_PwrMed_PlatedHeavy_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Kit"
+[Templar_PwrMed_PlatedSniper_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kit"
+[Templar_PwrMed_PlatedSupport_Torso_Deco_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kit"
+
+[Templar_PwrMed_KevlarAssault_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kit"
+[Templar_PwrMed_KevlarHeavy_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kit"
+[Templar_PwrMed_KevlarSniper_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kit"
+[Templar_PwrMed_KevlarSupport_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kit"
+[Templar_PwrMed_PlatedAssault_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kit"
+[Templar_PwrMed_PlatedHeavy_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Kit"
+[Templar_PwrMed_PlatedSniper_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kit"
+[Templar_PwrMed_PlatedSupport_Torso_Deco_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kit"
+
+[Templar_PwrMed_KevlarAssault_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (A)"
+[Templar_PwrMed_KevlarAssault_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (B)"
+[Templar_PwrMed_KevlarAssault_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (C)"
+[Templar_PwrMed_KevlarHeavy_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (A)"
+[Templar_PwrMed_KevlarHeavy_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (B)"
+[Templar_PwrMed_KevlarHeavy_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (C)"
+[Templar_PwrMed_KevlarSniper_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (A)"
+[Templar_PwrMed_KevlarSniper_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (B)"
+[Templar_PwrMed_KevlarSniper_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (C)"
+[Templar_PwrMed_KevlarSupport_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (A)"
+[Templar_PwrMed_KevlarSupport_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (B)"
+[Templar_PwrMed_KevlarSupport_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (C)"
+[Templar_PwrMed_KevlarSupport_Shins_C_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (D)"
+
+[Templar_PwrMed_PlatedAssault_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (A)"
+[Templar_PwrMed_PlatedAssault_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (B)"
+[Templar_PwrMed_PlatedAssault_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (C)"
+[Templar_PwrMed_PlatedAssault_Shins_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (D)"
+[Templar_PwrMed_PlatedHeavy_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (A)"
+[Templar_PwrMed_PlatedHeavy_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (B)"
+[Templar_PwrMed_PlatedHeavy_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (C)"
+[Templar_PwrMed_PlatedSniper_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (A)"
+[Templar_PwrMed_PlatedSniper_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (B)"
+[Templar_PwrMed_PlatedSniper_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (C)"
+[Templar_PwrMed_PlatedSupport_Shins_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (A)"
+[Templar_PwrMed_PlatedSupport_Shins_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (B)"
+[Templar_PwrMed_PlatedSupport_Shins_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (C)"
+
+[Templar_PwrMed_KevlarAssault_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (A)"
+[Templar_PwrMed_KevlarAssault_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (B)"
+[Templar_PwrMed_KevlarAssault_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Assault Kneepads (C)"
+[Templar_PwrMed_KevlarHeavy_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (A)"
+[Templar_PwrMed_KevlarHeavy_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (B)"
+[Templar_PwrMed_KevlarHeavy_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Kneepads (C)"
+[Templar_PwrMed_KevlarSniper_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (A)"
+[Templar_PwrMed_KevlarSniper_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (B)"
+[Templar_PwrMed_KevlarSniper_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Kneepads (C)"
+[Templar_PwrMed_KevlarSupport_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (A)"
+[Templar_PwrMed_KevlarSupport_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (B)"
+[Templar_PwrMed_KevlarSupport_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (C)"
+[Templar_PwrMed_KevlarSupport_Shins_C_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Kneepads (D)"
+
+[Templar_PwrMed_PlatedAssault_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (A)"
+[Templar_PwrMed_PlatedAssault_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (B)"
+[Templar_PwrMed_PlatedAssault_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (C)"
+[Templar_PwrMed_PlatedAssault_Shins_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Kneepads/Greaves (D)"
+[Templar_PwrMed_PlatedHeavy_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (A)"
+[Templar_PwrMed_PlatedHeavy_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (B)"
+[Templar_PwrMed_PlatedHeavy_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Greaves (C)"
+[Templar_PwrMed_PlatedSniper_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (A)"
+[Templar_PwrMed_PlatedSniper_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (B)"
+[Templar_PwrMed_PlatedSniper_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Kneepads (C)"
+[Templar_PwrMed_PlatedSupport_Shins_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (A)"
+[Templar_PwrMed_PlatedSupport_Shins_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (B)"
+[Templar_PwrMed_PlatedSupport_Shins_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Kneepads/Greaves (C)"
+
+[Templar_PwrMed_KevlarHeavy_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (A)"
+[Templar_PwrMed_KevlarHeavy_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (B)"
+[Templar_PwrMed_KevlarHeavy_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (C)"
+[Templar_PwrMed_PlatedMix_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Templar_PwrMed_PlatedMix_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Templar_PwrMed_PlatedMix_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Templar_PwrMed_PlatedMix_Thighs_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Templar_PwrMed_PlatedAssault_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(A)"
+[Templar_PwrMed_PlatedAssault_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(B)"
+[Templar_PwrMed_PlatedAssault_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(C)"
+[Templar_PwrMed_PlatedAssault_Thighs_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (A)"
+[Templar_PwrMed_PlatedAssault_Thighs_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (B)"
+[Templar_PwrMed_PlatedAssault_Thighs_B3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (C)"
+[Templar_PwrMed_PlatedAssault_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Mixed)(A)"
+[Templar_PwrMed_PlatedAssault_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Mixed)(B)"
+[Templar_PwrMed_PlatedHeavy_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (A)"
+[Templar_PwrMed_PlatedHeavy_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (B)"
+[Templar_PwrMed_PlatedHeavy_Thighs_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (C)"
+[Templar_PwrMed_PlatedSniper_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (A)"
+[Templar_PwrMed_PlatedSniper_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (B)"
+[Templar_PwrMed_PlatedSniper_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (C)"
+[Templar_PwrMed_PlatedMix_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Templar_PwrMed_PlatedMix_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Templar_PwrMed_PlatedMix_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Templar_PwrMed_PlatedMix_Thighs_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Templar_PwrMed_PlatedMix_Thighs_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(A)"
+[Templar_PwrMed_PlatedMix_Thighs_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(B)"
+[Templar_PwrMed_PlatedMix_Thighs_B3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(C)"
+[Templar_PwrMed_PlatedMix_Thighs_B4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(D)"
+[Templar_PwrMed_PlatedMix_Thighs_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Pouch (Support)(A)"
+[Templar_PwrMed_PlatedMix_Thighs_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Pouch (Support)(B)"
+[Templar_PwrMed_PlatedMix_Thighs_D1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(A)"
+[Templar_PwrMed_PlatedMix_Thighs_D2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(B)"
+[Templar_PwrMed_PlatedMix_Thighs_D3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(C)"
+[Templar_PwrMed_PlatedMix_Thighs_D4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(D)"
+[Templar_PwrMed_PlatedSupport_Thighs_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouch (A)"
+[Templar_PwrMed_PlatedSupport_Thighs_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouch (B)"
+[Templar_PwrMed_PlatedSupport_Thighs_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouches"
+
+[Templar_PwrMed_KevlarHeavy_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (A)"
+[Templar_PwrMed_KevlarHeavy_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (B)"
+[Templar_PwrMed_KevlarHeavy_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Armor (C)"
+[Templar_PwrMed_PlatedMix_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Templar_PwrMed_PlatedMix_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Templar_PwrMed_PlatedMix_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Templar_PwrMed_PlatedMix_Thighs_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Templar_PwrMed_PlatedAssault_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(A)"
+[Templar_PwrMed_PlatedAssault_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(B)"
+[Templar_PwrMed_PlatedAssault_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Shells)(C)"
+[Templar_PwrMed_PlatedAssault_Thighs_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (A)"
+[Templar_PwrMed_PlatedAssault_Thighs_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (B)"
+[Templar_PwrMed_PlatedAssault_Thighs_B3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (C)"
+[Templar_PwrMed_PlatedAssault_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Mixed)(A)"
+[Templar_PwrMed_PlatedAssault_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Armor (Mixed)(B)"
+[Templar_PwrMed_PlatedHeavy_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (A)"
+[Templar_PwrMed_PlatedHeavy_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (B)"
+[Templar_PwrMed_PlatedHeavy_Thighs_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Armor (C)"
+[Templar_PwrMed_PlatedSniper_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (A)"
+[Templar_PwrMed_PlatedSniper_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (B)"
+[Templar_PwrMed_PlatedSniper_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Holster (C)"
+[Templar_PwrMed_PlatedMix_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (A)"
+[Templar_PwrMed_PlatedMix_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (B)"
+[Templar_PwrMed_PlatedMix_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Templar_PwrMed_PlatedMix_Thighs_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Holster/Armor (C)"
+[Templar_PwrMed_PlatedMix_Thighs_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(A)"
+[Templar_PwrMed_PlatedMix_Thighs_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(B)"
+[Templar_PwrMed_PlatedMix_Thighs_B3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(C)"
+[Templar_PwrMed_PlatedMix_Thighs_B4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Assault)(D)"
+[Templar_PwrMed_PlatedMix_Thighs_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Pouch (Support)(A)"
+[Templar_PwrMed_PlatedMix_Thighs_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Pouch (Support)(B)"
+[Templar_PwrMed_PlatedMix_Thighs_D1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(A)"
+[Templar_PwrMed_PlatedMix_Thighs_D2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(B)"
+[Templar_PwrMed_PlatedMix_Thighs_D3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(C)"
+[Templar_PwrMed_PlatedMix_Thighs_D4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Holster/Armor (Heavy)(D)"
+[Templar_PwrMed_PlatedSupport_Thighs_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouch (A)"
+[Templar_PwrMed_PlatedSupport_Thighs_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouch (B)"
+[Templar_PwrMed_PlatedSupport_Thighs_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Pouches"
+
+[Templar_PwrMed_KevlarBase_Arms_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+[Templar_PwrMed_PlatedBase_Arms_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Plated"
+[Templar_PwrMed_PlatedBase_Arms_Left_Heavy_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy"
+[Templar_PwrMed_PlatedBase_Arms_Left_Sniper_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper"
+
+[Templar_PwrMed_KevlarBase_Arms_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+[Templar_PwrMed_PlatedBase_Arms_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Plated"
+[Templar_PwrMed_PlatedBase_Arms_Left_Heavy_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy"
+[Templar_PwrMed_PlatedBase_Arms_Left_Sniper_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper"
+
+[Templar_PwrMed_KevlarBase_Arms_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+[Templar_PwrMed_PlatedBase_Arms_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Plated"
+[Templar_PwrMed_PlatedBase_Arms_Right_Heavy_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy"
+[Templar_PwrMed_PlatedBase_Arms_Right_Sniper_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper"
+
+[Templar_PwrMed_KevlarBase_Arms_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar"
+[Templar_PwrMed_PlatedBase_Arms_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Plated"
+[Templar_PwrMed_PlatedBase_Arms_Right_Heavy_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy"
+[Templar_PwrMed_PlatedBase_Arms_Right_Sniper_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper"
+
+[Templar_PwrMed_KevlarBase_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Templar_PwrMed_KevlarBase_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Templar_PwrMed_KevlarBase_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Templar_PwrMed_KevlarHeavy_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Templar_PwrMed_KevlarHeavy_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Templar_PwrMed_KevlarSniper_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Templar_PwrMed_KevlarSniper_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Templar_PwrMed_KevlarSupport_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Templar_PwrMed_KevlarSupport_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Templar_PwrMed_KevlarSupport_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Templar_PwrMed_PlatedAssault_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (A)"
+[Templar_PwrMed_PlatedAssault_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (B)"
+[Templar_PwrMed_PlatedAssault_Shoulder_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (C)"
+[Templar_PwrMed_PlatedAssault_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (D)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (A)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (B)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (C)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (D)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Left_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (E)"
+[Templar_PwrMed_PlatedSniper_Shoulder_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Shoulderpad"
+[Templar_PwrMed_PlatedSupport_Shoulder_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (A)"
+[Templar_PwrMed_PlatedSupport_Shoulder_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (B)"
+
+[Templar_PwrMed_KevlarBase_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Templar_PwrMed_KevlarBase_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Templar_PwrMed_KevlarBase_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Templar_PwrMed_KevlarHeavy_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Templar_PwrMed_KevlarHeavy_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Templar_PwrMed_KevlarSniper_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Templar_PwrMed_KevlarSniper_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Templar_PwrMed_KevlarSupport_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Templar_PwrMed_KevlarSupport_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Templar_PwrMed_KevlarSupport_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Templar_PwrMed_PlatedAssault_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (A)"
+[Templar_PwrMed_PlatedAssault_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (B)"
+[Templar_PwrMed_PlatedAssault_Shoulder_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (C)"
+[Templar_PwrMed_PlatedAssault_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (D)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (A)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (B)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (C)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (D)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Left_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (E)"
+[Templar_PwrMed_PlatedSniper_Shoulder_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Shoulderpad"
+[Templar_PwrMed_PlatedSupport_Shoulder_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (A)"
+[Templar_PwrMed_PlatedSupport_Shoulder_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (B)"
+
+[Templar_PwrMed_KevlarBase_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Templar_PwrMed_KevlarBase_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Templar_PwrMed_KevlarBase_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Templar_PwrMed_KevlarHeavy_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Templar_PwrMed_KevlarHeavy_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Templar_PwrMed_KevlarSniper_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Templar_PwrMed_KevlarSniper_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Templar_PwrMed_KevlarSupport_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Templar_PwrMed_KevlarSupport_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Templar_PwrMed_KevlarSupport_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Templar_PwrMed_PlatedAssault_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (A)"
+[Templar_PwrMed_PlatedAssault_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (B)"
+[Templar_PwrMed_PlatedAssault_Shoulder_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (C)"
+[Templar_PwrMed_PlatedAssault_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (D)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (A)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (B)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (C)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (D)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Right_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (E)"
+[Templar_PwrMed_PlatedSniper_Shoulder_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Shoulderpad"
+[Templar_PwrMed_PlatedSupport_Shoulder_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (A)"
+[Templar_PwrMed_PlatedSupport_Shoulder_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (B)"
+
+[Templar_PwrMed_KevlarBase_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (A)"
+[Templar_PwrMed_KevlarBase_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (C)"
+[Templar_PwrMed_KevlarBase_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Shoulderpad (B)"
+[Templar_PwrMed_KevlarHeavy_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (A)"
+[Templar_PwrMed_KevlarHeavy_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Shoulderpad (B)"
+[Templar_PwrMed_KevlarSniper_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (A)"
+[Templar_PwrMed_KevlarSniper_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Sniper Shoulderpad (B)"
+[Templar_PwrMed_KevlarSupport_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (A)"
+[Templar_PwrMed_KevlarSupport_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (B)"
+[Templar_PwrMed_KevlarSupport_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Support Shoulderpad (C)"
+
+[Templar_PwrMed_PlatedAssault_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (A)"
+[Templar_PwrMed_PlatedAssault_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (B)"
+[Templar_PwrMed_PlatedAssault_Shoulder_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (C)"
+[Templar_PwrMed_PlatedAssault_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Shoulderpad (D)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (A)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (B)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (C)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (D)"
+[Templar_PwrMed_PlatedHeavy_Shoulder_Right_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Shoulderpad (E)"
+[Templar_PwrMed_PlatedSniper_Shoulder_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Shoulderpad"
+[Templar_PwrMed_PlatedSupport_Shoulder_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (A)"
+[Templar_PwrMed_PlatedSupport_Shoulder_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Support Shoulderpad (B)"
+
+[Templar_PwrMed_KevlarBase_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Templar_PwrMed_KevlarBase_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Templar_PwrMed_KevlarHeavy_Forearm_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Templar_PwrMed_KevlarHeavy_Forearm_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Templar_PwrMed_KevlarMix_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Templar_PwrMed_KevlarMix_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Templar_PwrMed_KevlarMix_Forearm_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Templar_PwrMed_KevlarMix_Forearm_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Templar_PwrMed_PlatedBase_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (A)"
+[Templar_PwrMed_PlatedBase_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (B)"
+[Templar_PwrMed_PlatedBase_Forearm_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (C)"
+[Templar_PwrMed_PlatedBase_Forearm_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (D)"
+[Templar_PwrMed_PlatedBase_Forearm_Left_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Gauntlet"
+[Templar_PwrMed_PlatedBase_Forearm_Left_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Reinforced Gauntlet"
+[Templar_PwrMed_PlatedAssault_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Wrap"
+[Templar_PwrMed_PlatedHeavy_Forearm_Left_A_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (A)"
+[Templar_PwrMed_PlatedHeavy_Forearm_Left_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (B)"
+[Templar_PwrMed_PlatedHeavy_Forearm_Left_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Gauntlet"
+[Templar_PwrMed_PlatedSniper_Forearm_Left_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad"
+
+[Templar_PwrMed_PlatedMix_Forearm_Left_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (B)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_B3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_B4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (C)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(C)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_C3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(C)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_C4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(C)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_D1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (D)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_D2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(D)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_D3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(D)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_D4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(D)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_E1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet"
+[Templar_PwrMed_PlatedMix_Forearm_Left_E2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Reinforced)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_E3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Assault)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_E4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Heavy)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_F1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_F2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_F3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_F4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_G1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (B)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_G2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_G3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_G4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(B)"
+
+[Templar_PwrMed_PlatedBase_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (A)"
+[Templar_PwrMed_PlatedBase_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (B)"
+[Templar_PwrMed_PlatedBase_Forearm_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (C)"
+[Templar_PwrMed_PlatedBase_Forearm_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (D)"
+[Templar_PwrMed_PlatedBase_Forearm_Left_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Gauntlet"
+[Templar_PwrMed_PlatedBase_Forearm_Left_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Reinforced Gauntlet"
+[Templar_PwrMed_PlatedAssault_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Wrap"
+[Templar_PwrMed_PlatedHeavy_Forearm_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (A)"
+[Templar_PwrMed_PlatedHeavy_Forearm_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (B)"
+[Templar_PwrMed_PlatedHeavy_Forearm_Left_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Gauntlet"
+[Templar_PwrMed_PlatedSniper_Forearm_Left_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad"
+
+[Templar_PwrMed_KevlarBase_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Templar_PwrMed_KevlarBase_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Templar_PwrMed_KevlarHeavy_Forearm_Left_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Templar_PwrMed_KevlarHeavy_Forearm_Left_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Templar_PwrMed_KevlarMix_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Templar_PwrMed_KevlarMix_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Templar_PwrMed_KevlarMix_Forearm_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Templar_PwrMed_KevlarMix_Forearm_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Templar_PwrMed_PlatedMix_Forearm_Left_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (B)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_B3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_B4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (C)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(C)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_C3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(C)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_C4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(C)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_D1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (D)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_D2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(D)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_D3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(D)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_D4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(D)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_E1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet"
+[Templar_PwrMed_PlatedMix_Forearm_Left_E2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Reinforced)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_E3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Assault)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_E4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Heavy)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_F1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_F2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_F3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_F4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_G1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (B)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_G2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_G3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Left_G4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(B)"
+
+[Templar_PwrMed_KevlarBase_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Templar_PwrMed_KevlarBase_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Templar_PwrMed_KevlarHeavy_Forearm_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Templar_PwrMed_KevlarHeavy_Forearm_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Templar_PwrMed_KevlarMix_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Templar_PwrMed_KevlarMix_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Templar_PwrMed_KevlarMix_Forearm_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Templar_PwrMed_KevlarMix_Forearm_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Templar_PwrMed_PlatedBase_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (A)"
+[Templar_PwrMed_PlatedBase_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (B)"
+[Templar_PwrMed_PlatedBase_Forearm_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (C)"
+[Templar_PwrMed_PlatedBase_Forearm_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (D)"
+[Templar_PwrMed_PlatedBase_Forearm_Right_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Gauntlet"
+[Templar_PwrMed_PlatedBase_Forearm_Right_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Reinforced Gauntlet"
+[Templar_PwrMed_PlatedAssault_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Wrap"
+[Templar_PwrMed_PlatedHeavy_Forearm_Right_A_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (A)"
+[Templar_PwrMed_PlatedHeavy_Forearm_Right_B_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (B)"
+[Templar_PwrMed_PlatedHeavy_Forearm_Right_C_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Gauntlet"
+[Templar_PwrMed_PlatedSniper_Forearm_Right_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad"
+
+[Templar_PwrMed_PlatedMix_Forearm_Right_A1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_A2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_A3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_A4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_B1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (B)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_B2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_B3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_B4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_C1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (C)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_C2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(C)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_C3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(C)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_C4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(C)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_D1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (D)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_D2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(D)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_D3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(D)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_D4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(D)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_E1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet"
+[Templar_PwrMed_PlatedMix_Forearm_Right_E2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Reinforced)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_E3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Assault)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_E4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Heavy)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_F1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_F2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_F3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_F4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_G1_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (B)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_G2_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_G3_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_G4_F X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(B)"
+
+[Templar_PwrMed_KevlarBase_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (A)"
+[Templar_PwrMed_KevlarBase_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad (B)"
+[Templar_PwrMed_KevlarHeavy_Forearm_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (A)"
+[Templar_PwrMed_KevlarHeavy_Forearm_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Heavy Gauntlet (B)"
+[Templar_PwrMed_KevlarMix_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (A)"
+[Templar_PwrMed_KevlarMix_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (B)"
+[Templar_PwrMed_KevlarMix_Forearm_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (C)"
+[Templar_PwrMed_KevlarMix_Forearm_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Kevlar Elbowpad/Gauntlet (D)"
+
+[Templar_PwrMed_PlatedBase_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (A)"
+[Templar_PwrMed_PlatedBase_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (B)"
+[Templar_PwrMed_PlatedBase_Forearm_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (C)"
+[Templar_PwrMed_PlatedBase_Forearm_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad (D)"
+[Templar_PwrMed_PlatedBase_Forearm_Right_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Gauntlet"
+[Templar_PwrMed_PlatedBase_Forearm_Right_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Reinforced Gauntlet"
+[Templar_PwrMed_PlatedAssault_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Assault Wrap"
+[Templar_PwrMed_PlatedHeavy_Forearm_Right_A_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (A)"
+[Templar_PwrMed_PlatedHeavy_Forearm_Right_B_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad (B)"
+[Templar_PwrMed_PlatedHeavy_Forearm_Right_C_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Gauntlet"
+[Templar_PwrMed_PlatedSniper_Forearm_Right_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad"
+
+[Templar_PwrMed_PlatedMix_Forearm_Right_A1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_A2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_A3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_A4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_B1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (B)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_B2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_B3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_B4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_C1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (C)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_C2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(C)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_C3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(C)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_C4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(C)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_D1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (D)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_D2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Reinforced)(D)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_D3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Assault)(D)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_D4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Elbowpad/Gauntlet (Heavy)(D)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_E1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet"
+[Templar_PwrMed_PlatedMix_Forearm_Right_E2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Reinforced)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_E3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Assault)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_E4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Sniper Elbowpad/Gauntlet (Heavy)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_F1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_F2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_F3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_F4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(A)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_G1_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (B)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_G2_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Reinforced)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_G3_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Assault)(B)"
+[Templar_PwrMed_PlatedMix_Forearm_Right_G4_M X2BodyPartTemplate]
+DisplayName="Legacy Plated Heavy Elbowpad/Gauntlet (Heavy)(B)"

@@ -1,0 +1,19 @@
+; Handles localization for stuff that's not an ability. Names aren't always available.
+; First character capitalization is handled automatically. (= name at start of string)
+; ------------------------------------------------------------------------------------
+
+[X2DownloadableContentInfo_XpanDsAbilitiesAndAssets]
+; Used when abilities need names but we can't know which slot we're in. (strategy UI)
+; UI example: "这件武器能使敌人陷入昏迷状态，持续2个行动回合."
+ThisWeaponString = "这件武器"
+ThisArmorString = "这件防具"
+ThisShieldString = "这面盾牌"
+ThisItemString = "这件物品"
+
+; Used in front of a weapon's name when the name IS available.
+; UI example: "你的小玩意儿" (don't forget that space!)
+YourString = "你 "
+
+[X2Ability_XAaABorrowedAbilitySet]
+UnstoppableForceFocus = "动能"
+UnstoppableForceFocusDescription = "每回合获得一点专注点。专注点超过2点时提升移动力，但低于2点时则会产生负面效果."

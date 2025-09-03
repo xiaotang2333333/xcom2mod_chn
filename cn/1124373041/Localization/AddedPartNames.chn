@@ -1,0 +1,298 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+.TorsoTemplate="CX_Marvel_DeadPool_Torso_KV"
+.TorsoName="死侍 经典版"
+
+.TorsoTemplate="CX_Marvel_DeadPool_Torso_LPA"
+.TorsoName="死侍 经典版"
+
+.TorsoTemplate="CX_Marvel_DeadPool_Torso_MPA"
+.TorsoName="死侍 经典版"
+
+.TorsoTemplate="CX_Marvel_DeadPool_Torso_HPA"
+.TorsoName="死侍 经典版"
+
+.TorsoTemplate="CX_Marvel_DeadPool_Torso_LPWRA"
+.TorsoName="死侍 经典版"
+
+.TorsoTemplate="CX_Marvel_DeadPool_Torso_MPWRA"
+.TorsoName="死侍 经典版"
+
+.TorsoTemplate="CX_Marvel_DeadPool_Torso_HPWRA"
+.TorsoName="死侍 经典版"
+
+.TorsoTemplate="CX_Marvel_DeadPool_Maid_KV"
+.TorsoName="女仆"
+
+.TorsoTemplate="CX_Marvel_DeadPool_Maid_LPA"
+.TorsoName="女仆"
+
+.TorsoTemplate="CX_Marvel_DeadPool_Maid_MPA"
+.TorsoName="女仆"
+
+.TorsoTemplate="CX_Marvel_DeadPool_Maid_HPA"
+.TorsoName="女仆"
+
+.TorsoTemplate="CX_Marvel_DeadPool_Maid_LPWRA"
+.TorsoName="女仆"
+
+.TorsoTemplate="CX_Marvel_DeadPool_Maid_MPWRA"
+.TorsoName="女仆"
+
+.TorsoTemplate="CX_Marvel_DeadPool_Maid_HPWRA"
+.TorsoName="女仆"
+
+.TorsoTemplate="CX_Marvel_Ultimate_DeadPool_Torso_KV"
+.TorsoName="死侍 终极版"
+
+.TorsoTemplate="CX_Marvel_Ultimate_DeadPool_Torso_LPA"
+.TorsoName="死侍 终极版"
+
+.TorsoTemplate="CX_Marvel_Ultimate_DeadPool_Torso_MPA"
+.TorsoName="死侍 终极版"
+
+.TorsoTemplate="CX_Marvel_Ultimate_DeadPool_Torso_HPA"
+.TorsoName="死侍 终极版"
+
+.TorsoTemplate="CX_Marvel_Ultimate_DeadPool_Torso_LPWRA"
+.TorsoName="死侍 终极版"
+
+.TorsoTemplate="CX_Marvel_Ultimate_DeadPool_Torso_MPWRA"
+.TorsoName="死侍 终极版"
+
+.TorsoTemplate="CX_Marvel_Ultimate_DeadPool_Torso_HPWRA"
+.TorsoName="死侍 终极版"
+
+.TorsoTemplate="CX_Marvel_XForce_DeadPool_Torso_KV"
+.TorsoName="死侍 X特工队"
+
+.TorsoTemplate="CX_Marvel_XForce_DeadPool_Torso_LPA"
+.TorsoName="死侍 X特工队"
+
+.TorsoTemplate="CX_Marvel_XForce_DeadPool_Torso_MPA"
+.TorsoName="死侍 X特工队"
+
+.TorsoTemplate="CX_Marvel_XForce_DeadPool_Torso_HPA"
+.TorsoName="死侍 X特工队"
+
+.TorsoTemplate="CX_Marvel_XForce_DeadPool_Torso_LPWRA"
+.TorsoName="死侍 X特工队"
+
+.TorsoTemplate="CX_Marvel_XForce_DeadPool_Torso_MPWRA"
+.TorsoName="死侍 X特工队"
+
+.TorsoTemplate="CX_Marvel_XForce_DeadPool_Torso_HPWRA"
+.TorsoName="死侍 X特工队"
+
+.TorsoTemplate="CX_Marvel_XMen_DeadPool_Torso_KV"
+.TorsoName="死侍 X战警"
+
+.TorsoTemplate="CX_Marvel_XMen_DeadPool_Torso_LPA"
+.TorsoName="死侍 X战警"
+
+.TorsoTemplate="CX_Marvel_XMen_DeadPool_Torso_MPA"
+.TorsoName="死侍 X战警"
+
+.TorsoTemplate="CX_Marvel_XMen_DeadPool_Torso_HPA"
+.TorsoName="死侍 X战警"
+
+.TorsoTemplate="CX_Marvel_XMen_DeadPool_Torso_LPWRA"
+.TorsoName="死侍 X战警"
+
+.TorsoTemplate="CX_Marvel_XMen_DeadPool_Torso_MPWRA"
+.TorsoName="死侍 X战警"
+
+.TorsoTemplate="CX_Marvel_XMen_DeadPool_Torso_HPWRA"
+.TorsoName="死侍 X战警"
+
+.LegsTemplate="CX_Marvel_DeadPool_Legs_M_KV"
+.LegsName="死侍 经典版 / 女仆"
+
+.LegsTemplate="CX_Marvel_DeadPool_Legs_M_LPA"
+.LegsName="死侍 经典版 / 女仆"
+
+.LegsTemplate="CX_Marvel_DeadPool_Legs_M_MPA"
+.LegsName="死侍 经典版 / 女仆"
+
+.LegsTemplate="CX_Marvel_DeadPool_Legs_M_HPA"
+.LegsName="死侍 经典版 / 女仆"
+
+.LegsTemplate="CX_Marvel_DeadPool_Legs_M_LPWRA"
+.LegsName="死侍 经典版 / 女仆"
+
+.LegsTemplate="CX_Marvel_DeadPool_Legs_M_MPWRA"
+.LegsName="死侍 经典版 / 女仆"
+
+.LegsTemplate="CX_Marvel_DeadPool_Legs_M_HPWRA"
+.LegsName="死侍 经典版 / 女仆"
+
+.LegsTemplate="CX_Marvel_Ultimate_DeadPool_Legs_M_KV"
+.LegsName="死侍 终极版"
+
+.LegsTemplate="CX_Marvel_Ultimate_DeadPool_Legs_M_LPA"
+.LegsName="死侍 终极版"
+
+.LegsTemplate="CX_Marvel_Ultimate_DeadPool_Legs_M_MPA"
+.LegsName="死侍 终极版"
+
+.LegsTemplate="CX_Marvel_Ultimate_DeadPool_Legs_M_HPA"
+.LegsName="死侍 终极版"
+
+.LegsTemplate="CX_Marvel_Ultimate_DeadPool_Legs_M_LPWRA"
+.LegsName="死侍 终极版"
+
+.LegsTemplate="CX_Marvel_Ultimate_DeadPool_Legs_M_MPWRA"
+.LegsName="死侍 终极版"
+
+.LegsTemplate="CX_Marvel_Ultimate_DeadPool_Legs_M_HPWRA"
+.LegsName="死侍 终极版"
+
+.LegsTemplate="CX_Marvel_XForce_DeadPool_Legs_M_KV"
+.LegsName="死侍 X特工队"
+
+.LegsTemplate="CX_Marvel_XForce_DeadPool_Legs_M_LPA"
+.LegsName="死侍 X特工队"
+
+.LegsTemplate="CX_Marvel_XForce_DeadPool_Legs_M_MPA"
+.LegsName="死侍 X特工队"
+
+.LegsTemplate="CX_Marvel_XForce_DeadPool_Legs_M_HPA"
+.LegsName="死侍 X特工队"
+
+.LegsTemplate="CX_Marvel_XForce_DeadPool_Legs_M_LPWRA"
+.LegsName="死侍 X特工队"
+
+.LegsTemplate="CX_Marvel_XForce_DeadPool_Legs_M_MPWRA"
+.LegsName="死侍 X特工队"
+
+.LegsTemplate="CX_Marvel_XForce_DeadPool_Legs_M_HPWRA"
+.LegsName="死侍 X特工队"
+
+.LegsTemplate="CX_Marvel_XMen_DeadPool_Legs_M_KV"
+.LegsName="死侍 X战警"
+
+.LegsTemplate="CX_Marvel_XMen_DeadPool_Legs_M_LPA"
+.LegsName="死侍 X战警"
+
+.LegsTemplate="CX_Marvel_XMen_DeadPool_Legs_M_MPA"
+.LegsName="死侍 X战警"
+
+.LegsTemplate="CX_Marvel_XMen_DeadPool_Legs_M_HPA"
+.LegsName="死侍 X战警"
+
+.LegsTemplate="CX_Marvel_XMen_DeadPool_Legs_M_LPWRA"
+.LegsName="死侍 X战警"
+
+.LegsTemplate="CX_Marvel_XMen_DeadPool_Legs_M_MPWRA"
+.LegsName="死侍 X战警"
+
+.LegsTemplate="CX_Marvel_XMen_DeadPool_Legs_M_HPWRA"
+.LegsName="死侍 X战警"
+
+.ArmsTemplate="CX_Marvel_DeadPool_Arms_M_KV"
+.ArmsName="死侍 经典版 / 女仆"
+
+.ArmsTemplate="CX_Marvel_DeadPool_Arms_M_LPA"
+.ArmsName="死侍 经典版 / 女仆"
+
+.ArmsTemplate="CX_Marvel_DeadPool_Arms_M_MPA"
+.ArmsName="死侍 经典版 / 女仆"
+
+.ArmsTemplate="CX_Marvel_DeadPool_Arms_M_LPWRA"
+.ArmsName="死侍 经典版 / 女仆"
+
+.ArmsTemplate="CX_Marvel_DeadPool_Arms_M_MPWRA"
+.ArmsName="死侍 经典版 / 女仆"
+
+.ArmsTemplate="CX_Marvel_DeadPool_Arms_M_HPWRA"
+.ArmsName="死侍 经典版 / 女仆"
+
+.ArmsTemplate="CX_Marvel_DeadPool_Arms_M_LPWRA"
+.ArmsName="死侍 经典版 / 女仆"
+
+.ArmsTemplate="CX_Marvel_DeadPool_Arms_M_MPWRA"
+.ArmsName="死侍 经典版 / 女仆"
+
+.ArmsTemplate="CX_Marvel_DeadPool_Arms_M_HPWRA"
+.ArmsName="死侍 经典版 / 女仆"
+
+.ArmsTemplate="CX_Marvel_Ultimate_DeadPool_Arms_M_KV"
+.ArmsName="死侍 终极版"
+
+.ArmsTemplate="CX_Marvel_Ultimate_DeadPool_Arms_M_LPA"
+.ArmsName="死侍 终极版"
+
+.ArmsTemplate="CX_Marvel_Ultimate_DeadPool_Arms_M_MPA"
+.ArmsName="死侍 终极版"
+
+.ArmsTemplate="CX_Marvel_Ultimate_DeadPool_Arms_M_LPWRA"
+.ArmsName="死侍 终极版"
+
+.ArmsTemplate="CX_Marvel_Ultimate_DeadPool_Arms_M_MPWRA"
+.ArmsName="死侍 终极版"
+
+.ArmsTemplate="CX_Marvel_Ultimate_DeadPool_Arms_M_HPWRA"
+.ArmsName="死侍 终极版"
+
+.ArmsTemplate="CX_Marvel_Ultimate_DeadPool_Arms_M_LPWRA"
+.ArmsName="死侍 终极版"
+
+.ArmsTemplate="CX_Marvel_Ultimate_DeadPool_Arms_M_MPWRA"
+.ArmsName="死侍 终极版"
+
+.ArmsTemplate="CX_Marvel_Ultimate_DeadPool_Arms_M_HPWRA"
+.ArmsName="死侍 终极版"
+
+.ArmsTemplate="CX_Marvel_XForce_DeadPool_Arms_M_KV"
+.ArmsName="死侍 X特工队"
+
+.ArmsTemplate="CX_Marvel_XForce_DeadPool_Arms_M_LPA"
+.ArmsName="死侍 X特工队"
+
+.ArmsTemplate="CX_Marvel_XForce_DeadPool_Arms_M_MPA"
+.ArmsName="死侍 X特工队"
+
+.ArmsTemplate="CX_Marvel_XForce_DeadPool_Arms_M_LPWRA"
+.ArmsName="死侍 X特工队"
+
+.ArmsTemplate="CX_Marvel_XForce_DeadPool_Arms_M_MPWRA"
+.ArmsName="死侍 X特工队"
+
+.ArmsTemplate="CX_Marvel_XForce_DeadPool_Arms_M_HPWRA"
+.ArmsName="死侍 X特工队"
+
+.ArmsTemplate="CX_Marvel_XForce_DeadPool_Arms_M_LPWRA"
+.ArmsName="死侍 X特工队"
+
+.ArmsTemplate="CX_Marvel_XForce_DeadPool_Arms_M_MPWRA"
+.ArmsName="死侍 X特工队"
+
+.ArmsTemplate="CX_Marvel_XForce_DeadPool_Arms_M_HPWRA"
+.ArmsName="死侍 X特工队"
+
+.ArmsTemplate="CX_Marvel_XMen_DeadPool_Arms_M_KV"
+.ArmsName="死侍 X战警"
+
+.ArmsTemplate="CX_Marvel_XMen_DeadPool_Arms_M_LPA"
+.ArmsName="死侍 X战警"
+
+.ArmsTemplate="CX_Marvel_XMen_DeadPool_Arms_M_MPA"
+.ArmsName="死侍 X战警"
+
+.ArmsTemplate="CX_Marvel_XMen_DeadPool_Arms_M_LPWRA"
+.ArmsName="死侍 X战警"
+
+.ArmsTemplate="CX_Marvel_XMen_DeadPool_Arms_M_MPWRA"
+.ArmsName="死侍 X战警"
+
+.ArmsTemplate="CX_Marvel_XMen_DeadPool_Arms_M_HPWRA"
+.ArmsName="死侍 X战警"
+
+.ArmsTemplate="CX_Marvel_XMen_DeadPool_Arms_M_LPWRA"
+.ArmsName="死侍 X战警"
+
+.ArmsTemplate="CX_Marvel_XMen_DeadPool_Arms_M_MPWRA"
+.ArmsName="死侍 X战警"
+
+.ArmsTemplate="CX_Marvel_XMen_DeadPool_Arms_M_HPWRA"
+.ArmsName="死侍 X战警"

@@ -1,0 +1,191 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; REAPER
+;
+
+.TorsoTemplate="CNV_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][裸露]"
+
+.TorsoTemplate="MPL_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][裸露]"
+
+.TorsoTemplate="MPW_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][裸露]"
+
+
+.TorsoTemplate="CNV_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放]"
+
+.TorsoTemplate="MPL_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放]"
+
+.TorsoTemplate="MPW_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放]"
+
+
+.TorsoTemplate="CNV_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕]"
+
+.TorsoTemplate="MPL_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕]"
+
+.TorsoTemplate="MPW_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕]"
+
+
+.TorsoTemplate="CNV_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕][裸露]"
+
+.TorsoTemplate="MPL_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕][裸露]"
+
+.TorsoTemplate="MPW_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕][裸露]"
+
+
+.LegsTemplate="CNV_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss潜行服 - 下肢 [开放][裸露]"
+
+.LegsTemplate="MPL_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss潜行服 - 下肢 [开放][裸露]"
+
+.LegsTemplate="MPW_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss潜行服 - 下肢 [开放][裸露]"
+
+
+.LegsTemplate="CNV_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss潜行服 - 下肢 [开放]"
+
+.LegsTemplate="MPL_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss潜行服 - 下肢 [开放]"
+
+.LegsTemplate="MPW_WotC_RPR_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss潜行服 - 下肢 [开放]"
+
+;
+; SKIRMISHER
+;
+
+.TorsoTemplate="CNV_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][裸露]"
+
+.TorsoTemplate="MPL_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][裸露]"
+
+.TorsoTemplate="MPW_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][裸露]"
+
+
+.TorsoTemplate="CNV_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放]"
+
+.TorsoTemplate="MPL_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放]"
+
+.TorsoTemplate="MPW_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放]"
+
+
+.TorsoTemplate="CNV_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕]"
+
+.TorsoTemplate="MPL_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕]"
+
+.TorsoTemplate="MPW_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕]"
+
+
+.TorsoTemplate="CNV_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕][裸露]"
+
+.TorsoTemplate="MPL_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕][裸露]"
+
+.TorsoTemplate="MPW_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕][裸露]"
+
+
+.LegsTemplate="CNV_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss潜行服 - 下肢 [开放][裸露]"
+
+.LegsTemplate="MPL_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss潜行服 - 下肢 [开放][裸露]"
+
+.LegsTemplate="MPW_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss潜行服 - 下肢 [开放][裸露]"
+
+
+.LegsTemplate="CNV_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss潜行服 - 下肢 [开放]"
+
+.LegsTemplate="MPL_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss潜行服 - 下肢 [开放]"
+
+.LegsTemplate="MPW_WotC_SKR_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss潜行服 - 下肢 [开放]"
+
+
+;
+; TEMPLAR
+;
+
+.TorsoTemplate="CNV_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][裸露]"
+
+.TorsoTemplate="MPL_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][裸露]"
+
+.TorsoTemplate="MPW_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Torso_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][裸露]"
+
+
+.TorsoTemplate="CNV_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放]"
+
+.TorsoTemplate="MPL_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放]"
+
+.TorsoTemplate="MPW_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Torso_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放]"
+
+
+.TorsoTemplate="CNV_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕]"
+
+.TorsoTemplate="MPL_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕]"
+
+.TorsoTemplate="MPW_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Full_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕]"
+
+
+.TorsoTemplate="CNV_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕][裸露]"
+
+.TorsoTemplate="MPL_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕][裸露]"
+
+.TorsoTemplate="MPW_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Torso_Scar_Bare_F"
+.TorsoName="Boss潜行服 - 身体 [开放][伤痕][裸露]"
+
+
+.LegsTemplate="CNV_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss潜行服 - 下肢 [开放][裸露]"
+
+.LegsTemplate="MPL_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss潜行服 - 下肢 [开放][裸露]"
+
+.LegsTemplate="MPW_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Legs_Bare_F"
+.LegsName="Boss潜行服 - 下肢 [开放][裸露]"
+
+
+.LegsTemplate="CNV_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss潜行服 - 下肢 [开放]"
+
+.LegsTemplate="MPL_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss潜行服 - 下肢 [开放]"
+
+.LegsTemplate="MPW_WotC_TMP_MGSV_Boss_SneakingSuit_Open_Legs_All_F"
+.LegsName="Boss潜行服 - 下肢 [开放]"

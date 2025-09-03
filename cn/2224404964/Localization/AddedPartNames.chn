@@ -1,0 +1,107 @@
+;A configuration File
+
+[X2DownloadableContentInfo_AddedPartNames]
+
+.TorsoTemplate="KV_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="LPL_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="MPL_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="HPL_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="LPW_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="MPW_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="HPW_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+
+.TorsoTemplate="KV_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+.TorsoTemplate="LPL_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+.TorsoTemplate="MPL_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+.TorsoTemplate="HPL_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+.TorsoTemplate="LPW_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+.TorsoTemplate="MPW_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+.TorsoTemplate="HPW_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+;hero variants
+;WOTC
+;
+;
+
+
+
+.TorsoTemplate="RA_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="PLR_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="POR_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="TA_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="PLT_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="POT_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="SA_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="PLS_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="POS_carlos_body"
+.TorsoName="卡洛斯 身体 (生化危机3)"
+
+.TorsoTemplate="RA_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+.TorsoTemplate="PLR_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+.TorsoTemplate="POR_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+.TorsoTemplate="TA_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+.TorsoTemplate="PLT_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+.TorsoTemplate="POT_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+.TorsoTemplate="SA_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+.TorsoTemplate="PLS_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"
+
+.TorsoTemplate="POS_carlos_body_TINT"
+.TorsoName="卡洛斯 身体 可变色 (生化危机3)"

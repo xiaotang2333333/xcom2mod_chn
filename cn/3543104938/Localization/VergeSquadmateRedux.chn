@@ -1,0 +1,15 @@
+[X2DLCInfo_VergeSquadmateRedux]
+strVergeFirstName = "权杖"
+strVergeLastName = ""
+strVergeNickName = ""
+strVergeBackground = "<font color='#bf80ff'>入侵前：</font>为一支由瘦人组成的渗透部队提供心灵支持。<font color='#bf80ff'>2015年入侵时期：</font>积极致力于颠覆人类政府。对人类实验对象进行精细、长期的精神控制实验。<font color='#bf80ff'>2016 - 2034 年沦陷期间：</font>长期控制一位有影响力的人类，此人能用通俗易懂且令人安心的答案来安抚民众对外星人的疑问。被选为“转化”对象，注入了灰人的基因。转化后，对人类民众表现出同情的迹象。悄悄开始向抵抗组织通风报信。<font color='#bf80ff'>2035 年解放战争：</font>作为内奸积极协助反抗军组织和XCOM。"
+strCountry = "国家: N/A"
+
+EnableContentLabel="让权杖加入小队吗?"
+EnableContentSummary="需要权杖吗?"
+EnableContentAcceptLabel="是"
+EnableContentCancelLabel="否"
+
+
+[UICustomize_VergeInfo]
+m_strIsVerge="无法编辑权杖的信息"

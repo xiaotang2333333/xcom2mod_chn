@@ -1,0 +1,390 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+; these are examples.
+; every entry consists of a
+;     .*Template="TemplateName"
+; and a
+;     .*Name="DisplayString"
+; without semicolons of course
+
+; * can be Torso, Arms, Legs
+; order is important. to not get confused, you should arrange them like this:
+; failing to have one line registered (for whatever reason)
+; results in ALL subsequent ones being shifted by one, so all parts after that will have the wrong name
+; TL:DR it is CRUCIAL to always pair these entries
+; parts that don't have entries at all, or have the .*Name Empty will get the old style "Torso 1" thing, for example
+
+;=============================================================================================
+;									Standard
+;=============================================================================================
+
+.TorsoTemplate="CNV_WotC_SLD_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+.TorsoTemplate="LPL_WotC_SLD_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+.TorsoTemplate="MPL_WotC_SLD_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+.TorsoTemplate="HPL_WotC_SLD_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+.TorsoTemplate="LPW_WotC_SLD_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+.TorsoTemplate="MPW_WotC_SLD_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+.TorsoTemplate="HPW_WotC_SLD_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+.TorsoTemplate="CNV_WotC_SLD_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+.LegsTemplate="CNV_WotC_SLD_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+.LegsTemplate="LPL_WotC_SLD_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+.LegsTemplate="MPL_WotC_SLD_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+.LegsTemplate="HPL_WotC_SLD_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+.LegsTemplate="LPW_WotC_SLD_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+.LegsTemplate="MPW_WotC_SLD_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+.LegsTemplate="HPW_WotC_SLD_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+.LegsTemplate="CNV_WotC_SLD_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+;=============================================================================================
+;									CARBON FIBER
+;=============================================================================================
+
+.TorsoTemplate="CNV_WotC_SLD_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+.TorsoTemplate="LPL_WotC_SLD_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+.TorsoTemplate="MPL_WotC_SLD_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+.TorsoTemplate="HPL_WotC_SLD_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+.TorsoTemplate="LPW_WotC_SLD_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+.TorsoTemplate="MPW_WotC_SLD_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+.TorsoTemplate="HPW_WotC_SLD_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+.LegsTemplate="CNV_WotC_SLD_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+.LegsTemplate="LPL_WotC_SLD_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+.LegsTemplate="MPL_WotC_SLD_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+.LegsTemplate="HPL_WotC_SLD_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+.LegsTemplate="LPW_WotC_SLD_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+.LegsTemplate="MPW_WotC_SLD_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+.LegsTemplate="HPW_WotC_SLD_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+;=============================================================================================
+;									CHROME
+;=============================================================================================
+
+.TorsoTemplate="CNV_WotC_SLD_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+.TorsoTemplate="LPL_WotC_SLD_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+.TorsoTemplate="MPL_WotC_SLD_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+.TorsoTemplate="HPL_WotC_SLD_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+.TorsoTemplate="LPW_WotC_SLD_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+.TorsoTemplate="MPW_WotC_SLD_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+.TorsoTemplate="HPW_WotC_SLD_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+.LegsTemplate="CNV_WotC_SLD_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+.LegsTemplate="LPL_WotC_SLD_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+.LegsTemplate="MPL_WotC_SLD_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+.LegsTemplate="HPL_WotC_SLD_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+.LegsTemplate="LPW_WotC_SLD_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+.LegsTemplate="MPW_WotC_SLD_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+.LegsTemplate="HPW_WotC_SLD_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+;
+;
+; War of the Chosen
+;
+;
+
+;
+; Reaper
+;
+
+;=============================================================================================
+;									Standard
+;=============================================================================================
+
+.TorsoTemplate="CNV_WotC_RPR_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+.TorsoTemplate="MPL_WotC_RPR_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+.TorsoTemplate="MPW_WotC_RPR_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+
+.LegsTemplate="CNV_WotC_RPR_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+.LegsTemplate="MPL_WotC_RPR_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+.LegsTemplate="MPW_WotC_RPR_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+;=============================================================================================
+;									CARBON FIBER
+;=============================================================================================
+
+.TorsoTemplate="CNV_WotC_RPR_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+.TorsoTemplate="MPL_WotC_RPR_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+.TorsoTemplate="MPW_WotC_RPR_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+.LegsTemplate="CNV_WotC_RPR_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+.LegsTemplate="MPL_WotC_RPR_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+.LegsTemplate="MPW_WotC_RPR_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+;=============================================================================================
+;									CHROME
+;=============================================================================================
+
+.TorsoTemplate="CNV_WotC_RPR_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+.TorsoTemplate="MPL_WotC_RPR_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+.TorsoTemplate="MPW_WotC_RPR_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+
+.LegsTemplate="CNV_WotC_RPR_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+.LegsTemplate="MPL_WotC_RPR_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+.LegsTemplate="MPW_WotC_RPR_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+
+
+;
+; Skirmisher
+;
+
+;=============================================================================================
+;									Standard
+;=============================================================================================
+
+.TorsoTemplate="CNV_WotC_SKR_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+.TorsoTemplate="MPL_WotC_SKR_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+.TorsoTemplate="MPW_WotC_SKR_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+
+.LegsTemplate="CNV_WotC_SKR_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+.LegsTemplate="MPL_WotC_SKR_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+.LegsTemplate="MPW_WotC_SKR_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+;=============================================================================================
+;									CARBON FIBER
+;=============================================================================================
+
+.TorsoTemplate="CNV_WotC_SKR_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+.TorsoTemplate="MPL_WotC_SKR_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+.TorsoTemplate="MPW_WotC_SKR_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+
+.LegsTemplate="CNV_WotC_SKR_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+.LegsTemplate="MPL_WotC_SKR_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+.LegsTemplate="MPW_WotC_SKR_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+;=============================================================================================
+;									CHROME
+;=============================================================================================
+
+.TorsoTemplate="CNV_WotC_SKR_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+
+.TorsoTemplate="MPL_WotC_SKR_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+.TorsoTemplate="MPW_WotC_SKR_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+
+.LegsTemplate="CNV_WotC_SKR_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+.LegsTemplate="MPL_WotC_SKR_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+.LegsTemplate="MPW_WotC_SKR_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+
+
+
+;
+; Templars
+;
+
+;=============================================================================================
+;									Standard
+;=============================================================================================
+
+.TorsoTemplate="CNV_WotC_TMP_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+.TorsoTemplate="MPL_WotC_TMP_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+.TorsoTemplate="MPW_WotC_TMP_OW_Genji_Torso"
+.TorsoName="源氏 身体 (默认皮肤)"
+
+
+.LegsTemplate="CNV_WotC_TMP_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+.LegsTemplate="MPL_WotC_TMP_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+.LegsTemplate="MPW_WotC_TMP_OW_Genji_Legs"
+.LegsName="源氏 下肢 (默认皮肤)"
+
+;=============================================================================================
+;									CARBON FIBER
+;=============================================================================================
+
+.TorsoTemplate="CNV_WotC_TMP_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+.TorsoTemplate="MPL_WotC_TMP_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+.TorsoTemplate="MPW_WotC_TMP_OW_Genji_Torso_CF"
+.TorsoName="源氏 身体 (碳纤维)"
+
+
+.LegsTemplate="CNV_WotC_TMP_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+.LegsTemplate="MPL_WotC_TMP_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+.LegsTemplate="MPW_WotC_TMP_OW_Genji_Legs_CF"
+.LegsName="源氏 下肢 (碳纤维)"
+
+;=============================================================================================
+;									CHROME
+;=============================================================================================
+
+.TorsoTemplate="CNV_WotC_TMP_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+
+.TorsoTemplate="MPL_WotC_TMP_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+.TorsoTemplate="MPW_WotC_TMP_OW_Genji_Torso_CHR"
+.TorsoName="源氏 身体 (铬合金)"
+
+
+.LegsTemplate="CNV_WotC_TMP_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+.LegsTemplate="MPL_WotC_TMP_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+
+.LegsTemplate="MPW_WotC_TMP_OW_Genji_Legs_CHR"
+.LegsName="源氏 下肢 (铬合金)"
+

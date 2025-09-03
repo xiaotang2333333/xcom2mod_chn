@@ -2,7 +2,7 @@ import os
 import shutil
 
 target_path = r"C:\Program Files (x86)\Steam\steamapps\workshop\content\268500"
-src_root = os.path.join(os.getcwd(), "268500")
+src_root = os.path.join(os.getcwd(), "cn")
 for mod_id in os.listdir(src_root):
     src_mod_path = os.path.join(src_root, mod_id, "Localization")
     tgt_mod_path = os.path.join(target_path, mod_id, "Localization")

@@ -1,0 +1,226 @@
+;汉化：aotix，由他人汉化补充而来。
+
+[ViperPrince1 X2CharacterTemplate]
+strCharacterName="毒蛇怪王子折断·獠牙"
+
+[ViperPrince2 X2CharacterTemplate]
+strCharacterName="毒蛇怪王子科瑞多姆"
+
+[ViperPrince3 X2CharacterTemplate]
+strCharacterName="毒蛇怪王子蒙莫霍克"
+
+[ViperPrincess X2CharacterTemplate]
+strCharacterName="毒蛇怪公主西斯斯特"
+
+[ViperHatchlingS X2CharacterTemplate]
+strCharacterName="幼年毒蛇怪"
+
+[ViperHatchlingC X2CharacterTemplate]
+strCharacterName="幼年毒蛇怪"
+
+[ViperHatchlingT X2CharacterTemplate]
+strCharacterName="幼年毒蛇怪"
+
+[ViperHatchling X2CharacterTemplate]
+strCharacterName="幼年毒蛇怪"
+
+[ViperFrostling X2CharacterTemplate]
+strCharacterName="寒霜毒蛇怪"
+
+[ViperPrince1_WPN X2WeaponTemplate]
+FriendlyName="皇家毒蛇怪狙击射手"
+AbilityDescName="寒霜投手狙击步枪"
+
+[ViperPrince2_WPN X2WeaponTemplate]
+FriendlyName="皇家毒蛇怪弩枪射手"
+
+[ViperFrostAxe X2WeaponTemplate]
+FriendlyName="皇家寒霜战斧手"
+
+[FrostScaleVest X2GrenadeTemplate]
+FriendlyName="<font color='#13B0E1'>霜鳞背心</font>"
+FriendlyNamePlural="<font color='#13B0E1'>霜鳞背心</font>"
+BriefSummary="霜鳞背心是用寒霜毒蛇怪的鳞片制成的，这使穿戴者免疫中毒和冻结。"
+TacticalText="<bullet/>增加士兵2点生命值。\n<bullet/>获得对中毒和冻结的免疫。"
+
+[XCOMFrostCaster X2WeaponTemplate]
+FriendlyName ="<font color='#13B0E1'>寒霜投手狙击步枪</font>"
+FriendlyNamePlural="<font color='#13B0E1'>寒霜投手狙击步枪</font>"
+TacticalText= "<bullet/>寒霜投手狙击步枪。\n<bullet/>有3发子弹容量。\n<bullet/>它有放逐，寒霜射击技能并提供+5命中。"
+BriefSummary= "寒霜投手狙击步枪拥有比拟3级光束武器的伤害输出并增加了5点命中。它自带放逐，寒霜射击技能。"
+AbilityDescName="寒霜投手狙击步枪"
+
+[XCOMFrostAxe X2WeaponTemplate]
+FriendlyName="<font color='#13B0E1'>寒霜战斧</font>"
+FriendlyNamePlural="<font color='#13B0E1'>寒霜战斧</font>"
+BriefSummary="寒霜战斧拥有比拟3级聚变战斧的伤害输出。它自带寒霜劈砍技能，如果命中敌人除造成基础伤害外还会冻结目标。"
+TacticalText="<bullet/>可以使用劈砍或寒霜劈砍。\n<bullet/>寒霜劈砍有4回合冷却时间。"
+AbilityDescName="寒霜战斧"
+
+[Frostbomb X2TechTemplate]
+DisplayName="<font color='#13B0E1'>寒霜炸弹</font>"
+Summary="这些手持爆炸物依赖于尚未确认的化学试剂，似乎能够瞬间降低周围区域的环境温度。暴露的组织接触后会被冷冻。这种武器是独一无二的，不能复制或更换。 "
+
+[Frostbomb X2GrenadeTemplate]
+FriendlyName="<font color='#13B0E1'>寒霜炸弹</font>"
+FriendlyNamePlural="<font color='#13B0E1'>寒霜炸弹</font>"
+BriefSummary="这些手持爆炸物依赖于尚未确认的化学试剂，似乎能够瞬间降低周围区域的环境温度。暴露的组织接触后会被冷冻。这种武器是独一无二的，不能复制或更换。 "
+TacticalText="<Bullet/>寒霜炸弹冻结爆炸半径内的所有单位，以防止它们在一个回合内采取任何行动。\n<Bullet/>寒霜炸弹的半径小于标准的碎片手榴弹。"
+ThrownAbilityName="投掷寒霜炸弹"
+ThrownAbilityHelpText="冻结目标区域内的所有单位。"
+LaunchedAbilityname="发射寒霜炸弹"
+LaunchedAbilityHelpText="冻结目标区域内的所有单位。"
+
+[FrostAxeSlash X2AbilityTemplate]
+LocFriendlyName="寒霜劈砍"
+LocLongDescription="劈砍敌人造成基础伤害并且冻结目标。"
+LocHelpText="寒霜劈砍"
+LocFlyOverText="寒霜劈砍"
+
+[FrostBiteShot X2AbilityTemplate]
+LocFriendlyName="寒霜射击"
+LocLongDescription="射击敌人霜冻损害伤害并且冻结目标。"
+LocHelpText="寒霜射击"
+LocFlyOverText="寒霜射击"
+
+[FrostBlood X2AbilityTemplate]
+LocFriendlyName="快速冻结"
+LocLongDescription="当某些毒蛇被杀死时，会爆炸对区域内造成霜冻损害。"
+LocHelpText="当某些毒蛇被杀死时，会爆炸对区域内造成霜冻损害"
+LocFlyOverText="快速冻结"
+
+[ViperChildrenInitialState X2AbilityTemplate]
+LocFriendlyName="3点行动力"
+LocLongDescription="与毒蛇怪国王不同的是，他的孩子们并没有裁决者反应。 然而，他们可以在每个战斗回合中可以使用3个行动点。"
+LocHelpText="拥有3点行动力。"
+LocFlyOverText="3点行动力"
+
+[ViperHatchlingMolt X2AbilityTemplate]
+LocFriendlyName="幼体蜕皮"
+LocLongDescription="这些幼年毒蛇怪有强力再生能力，受伤后通过蜕皮可以每回合恢复2HP。"
+LocHelpText="蜕皮可以每回合恢复2HP。"
+LocFlyOverText="幼体蜕皮"
+
+[ViperChildrenMolt X2AbilityTemplate]
+LocFriendlyName="蜕皮"
+LocLongDescription="尚未完全成长有其好处。寒霜毒蛇怪公主和王子有强力再生能力，受伤后通过蜕皮可以每回合恢复4HP。"
+LocHelpText="蜕皮可以每回合恢复4HP。"
+LocFlyOverText="蜕皮"
+
+[MultiActions X2AbilityTemplate]
+LocFriendlyName="多重行动"
+LocLongDescription="毒蛇幼体每回合能行动3次。"
+LocHelpText="毒蛇幼体每回合能行动3次。"
+
+
+[LiquidNitroExplosion X2AbilityTemplate]
+LocFriendlyName="快速冻结"
+LocLongDescription="快速冻结可以在霜鳞背心佩戴者周围的4格内生效。佩戴者免疫冻结。"
+LocHelpText="液态氮在该区域爆炸。"
+LocFlyOverText="快速冻结"
+
+[CorpseViperPrinceChromedome X2ItemTemplate]
+FriendlyName="<font color='#13B0E1'>毒蛇怪王子科瑞多姆尸体</font>"
+FriendlyNamePlural="<font color='#13B0E1'>毒蛇怪王子科瑞多姆尸体</font>"
+BriefSummary="这些新王子并没有毒蛇怪国王那么强大，但同样致命。科瑞多姆是他孵化的第一个卵。虽然只是早几秒钟出生，但也意味他是最年长的。 或许他不是最聪明的，但却最像他的父亲。窝里其他年幼的毒蛇都尊敬他们的大哥，而那些不尊重他的，则被吃进了他的肚子。"
+
+[CorpseViperPrinceMohawk X2ItemTemplate]
+FriendlyName="<font color='#13B0E1'>毒蛇怪王子蒙莫霍克尸体</font>"
+FriendlyNamePlural="<font color='#13B0E1'>毒蛇怪王子蒙莫霍克尸体</font>"
+BriefSummary="蒙莫霍克和他兄弟折断·獠牙是同一个卵孵化出的。他们总是互相竞争，相爱相杀。尽管他们彼此憎恨，但他们更讨厌其他兄弟姐妹。如果不是彼此保护对方，他们的哥哥科瑞多姆可能已经吃掉了他们。蒙莫霍克瞎了一只眼睛。因为在狭小的卵内要破壳而出时他兄弟的牙齿刺进了蒙莫霍克的眼睛里。 "
+
+[CorpseViperPrinceBrokenTusk X2ItemTemplate]
+FriendlyName="<font color='#13B0E1'>毒蛇怪王子折断·獠牙尸体</font>"
+FriendlyNamePlural="<font color='#13B0E1'>毒蛇怪王子折断·獠牙尸体</font>"
+BriefSummary="与他的孪生兄弟一样，折断·獠牙从同一个蛋中孵化出来。两人互相恨对方，但更讨厌他们的兄弟姐妹。两兄弟总是互相不断地战斗，但如果其中一方受到其他任何威胁，他们将会彼此保护对方。之所以被称为折断·獠牙，是因为他现在断掉的牙卡在了他哥哥的眼眶里。当两蛇争先恐后地打破他们的同一个蛋时，牙被折断了。"
+
+[CorpseViperPrincess X2ItemTemplate]
+FriendlyName="<font color='#13B0E1'>毒蛇怪公主西斯斯特尸体</font>"
+FriendlyNamePlural="<font color='#13B0E1'>毒蛇怪公主西斯斯特尸体</font>"
+BriefSummary="这位公主是毒蛇怪国王的第一个真正的女性后代。她并不像她的父亲那么强壮，但却同样致命。不知道他有多少后代可能会在那里。公主的孪生兄弟蒙莫霍克和波图斯克给她取名叫西斯斯特。 她是二十五个兄弟姐妹中最后一个孵化的。他们中的大多数没有长大，因为大哥哥科瑞多姆吃了比他弱的人。只有那些能够像双胞胎兄弟或西斯斯特一样保护自己的人才能活到长大。 西斯斯特是她兄弟中最强壮和最聪明的，但她并不想与他们中的任何一个进行战斗来证明这一点。 她知道有一天她会拿到父亲的位子，成为所有毒蛇怪的女王。"
+
+[AutopsyViperPrinceChromedome X2TechTemplate]
+DisplayName="<font color='#13B0E1'>解剖毒蛇怪王子科瑞多姆</font>"
+Summary="科瑞多姆是世界上最年长的毒蛇怪王子。这些孩子和它们的父亲一样聪明，而且大多数情况下更致命。"
+CodeName="铁头"
+LongDescription="这些新王子并没有毒蛇怪国王那么强大，但同样致命。科瑞多姆是他孵化的第一个卵。虽然只是早几秒钟出生，但也意味他是最年长的。 或许他不是最聪明的，但却最像他的父亲。窝里其他年幼的毒蛇都尊敬他们的大哥，而那些不尊重他的，则被吃进了他的肚子。理查德·泰根。"
+AlertString="科瑞多姆"
+
+[AutopsyViperPrinceMohawk X2TechTemplate]
+DisplayName="<font color='#13B0E1'>解剖毒蛇怪王子蒙莫霍克</font>"
+Summary="蒙莫霍克是两个毒蛇怪王子双胞胎之一。这些孩子和父亲一样聪明，而且大多数情况下更致命。"
+CodeName="独眼"
+LongDescription="蒙莫霍克和他兄弟波图斯克是同一个卵孵化出的。他们总是互相竞争，相爱相杀。尽管他们彼此憎恨，但他们更讨厌其他兄弟姐妹。如果不是彼此保护对方，他们的哥哥科瑞多姆可能已经吃掉了他们。蒙莫霍克瞎了一只眼睛。因为在狭小的卵内要破壳而出时他兄弟的牙齿刺进蒙莫霍克的眼睛里。理查德·泰根。"
+AlertString="蒙莫霍克"
+
+[AutopsyViperPrinceBrokenTusk X2TechTemplate]
+DisplayName="<font color='#13B0E1'>解剖毒蛇怪王子折断·獠牙</font>"
+Summary="折断·獠牙是两个毒蛇怪王子双胞胎之一。这些孩子和父亲一样聪明，而且大多数情况下更致命。"
+CodeName="无牙"
+LongDescription="与他的孪生兄弟一样，折断·獠牙从同一个卵孵化出来的。两人互相恨对方，但更讨厌他们的兄弟姐妹。两兄弟总是互相不断地战斗，但如果其中一方受到其他任何威胁，他们将会彼此保护对方。之所以被称为折断·獠牙是因为当两人奋力破壳而出时他断了的獠牙刺进了他兄弟的眼睛里。理查德·泰根。"
+AlertString="折断·獠牙"
+
+[AutopsyViperPrincess X2TechTemplate]
+DisplayName="<font color='#13B0E1'>解剖毒蛇怪公主西斯斯特</font>"
+Summary="西斯斯特是最年轻的毒蛇怪国王女儿。这些孩子和父亲一样聪明，而且大多数情况下更致命。"
+CodeName="白雪"
+LongDescription="这位公主是毒蛇怪国王的第一个真正的女性后代。她并不像她的父亲那么强壮，但却同样致命。不知道他有多少后代可能会在那里。公主的孪生兄弟蒙莫霍克和波图斯克给她取名叫西斯斯特。她是二十五个兄弟姐妹中最后一个孵化的。他们中的大多数没有长大，因为大哥哥科瑞多姆吃了比他弱的人。只有那些能够像双胞胎兄弟或西斯斯特一样保护自己的人才能活到长大。西斯斯特是她兄弟中最强壮和最聪明的，但她并不想与他们中的任何一个进行战斗来证明这一点。 她知道有一天她会拿到父亲的位子，成为所有毒蛇怪的女王。理查德·泰根。"
+AlertString="西斯斯特"
+
+
+[ViperportalC X2AbilityTemplate]
+LocFriendlyName="毒蛇怪传送门"
+LocLongDescription="开启一个毒蛇怪传送门，召唤更多的毒蛇怪增援。"
+LocHelpText="开启毒蛇怪传送门。"
+LocFlyOverText="派遣更多增援！"
+
+[ViperportalP X2AbilityTemplate]
+LocFriendlyName="毒蛇怪传送门"
+LocLongDescription="开启一个毒蛇怪传送门，召唤更多的毒蛇怪增援。"
+LocHelpText="开启毒蛇怪传送门。"
+LocFlyOverText="公主在召唤你！"
+
+[ViperportalT X2AbilityTemplate]
+LocFriendlyName="毒蛇怪传送门"
+LocLongDescription="开启一个毒蛇怪传送门，召唤更多的毒蛇怪增援。"
+LocHelpText="开启毒蛇怪传送门。"
+LocFlyOverText="我们需要更多增援"
+
+[ViperPrincessPortal X2AbilityTemplate]
+LocFriendlyName="呼叫公主"
+LocLongDescription="开启一个传送门呼叫毒蛇怪公主加入狩猎。"
+LocHelpText="开启毒蛇怪传送门。"
+LocFlyOverText="公主！帮帮我！"
+
+[ViperPrincePortal X2AbilityTemplate]
+LocFriendlyName="呼叫王子"
+LocLongDescription="开启一个传送门呼叫毒蛇怪王子加入狩猎。"
+LocHelpText="开启毒蛇怪传送门。"
+LocFlyOverText="找到这些人类了！"
+
+[ViperTwinsPortal X2AbilityTemplate]
+LocFriendlyName="呼叫孪生王子"
+LocLongDescription="开启一个传送门呼叫孪生毒蛇怪王子加入狩猎。"
+LocHelpText="开启毒蛇怪传送门。"
+LocFlyOverText="我们找到食物了！"
+
+[ViperTwinsPortal2 X2AbilityTemplate]
+LocFriendlyName="呼叫兄弟"
+LocLongDescription="开启一个传送门呼叫毒蛇怪王子加入狩猎。"
+LocHelpText="开启毒蛇怪传送门"
+LocFlyOverText="加入狩猎吧兄弟！"
+
+[ChildrenEscapes X2AbilityPointTemplate]
+ActionFriendlyName="毒蛇怪逃脱"
+
+
+[SlickAsIce X2AbilityTemplate]
+LocFriendlyName="脚底抹油"
+LocLongDescription="受到攻击后可以转移到新的掩体。"
+LocHelpText="受到攻击后可以转移到新的掩体。"
+
+[JustTooSlick X2AbilityTemplate]
+LocFriendlyName="滑不留手"
+LocLongDescription="毒蛇怪公主的快速反应不会触发监视或反应射击。"
+LocHelpText="毒蛇怪公主的快速反应不会触发监视或反应射击。"
+

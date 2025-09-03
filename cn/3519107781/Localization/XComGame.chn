@@ -1,0 +1,151 @@
+[AHWSeer X2SoldierClassTemplate]
+DisplayName="先知"
+ClassSummary="身负灵能伟力，腰挎灵能手枪。先知既能成为顶尖斥候，亦可凭腰间巨铁左轮大杀四方。"
+LeftAbilityTreeTitle="先知"
+RightAbilityTreeTitle="先知"
+AbilityTreeTitles[0]="先知"
+AbilityTreeTitles[1]="警长"
+AbilityTreeTitles[2]="灵能手枪"
+AbilityTreeTitles[3]="XCOM"
+
+[AHWSeerPillar X2AbilityTemplate]
+LocFriendlyName="灵能方尖碑"
+LocLongDescription="在目标位置创造灵能方尖碑，生成不可摧毁的高掩体并获取周边区域视野。"
+LocHelpText="在目标位置创造灵能方尖碑，生成不可摧毁的高掩体并获取周边区域视野。"
+LocFlyOverText="灵能方尖碑"
+
+[AHWSeerSecondSight X2AbilityTemplate]
+LocFriendlyName="灵视洞悉"
+LocLongDescription="灵能扫描目标区域，揭露隐匿单位并获取该区域视野。"
+LocHelpText="灵能扫描目标区域，揭露隐匿单位并获取该区域视野。"
+LocFlyOverText="灵视洞悉"
+
+[AHWSeerDetonation X2AbilityTemplate]
+LocFriendlyName="灵能引爆"
+LocLongDescription="远程引爆环境爆炸物，对更大范围造成额外伤害。"
+LocHelpText="远程引爆环境爆炸物，对更大范围造成额外伤害。"
+LocFlyOverText="灵能引爆"
+
+[AHWSeerMomentum X2AbilityTemplate]
+LocFriendlyName="灵能澎湃"
+LocLongDescription="每回合首次击杀获得自由行动点，可用于调整位置或施展灵能技能。"
+LocHelpText="每回合首次击杀获得自由行动点，可用于调整位置或施展灵能技能。"
+LocFlyOverText="灵能澎湃"
+
+[AHWSeerTeleport X2AbilityTemplate]
+LocFriendlyName="星界跃迁"
+LocLongDescription="向目标位置进行中距离传送。"
+LocHelpText="向目标位置进行中距离传送。"
+LocFlyOverText="星界跃迁"
+LocPromotionPopupText="<Bullet/>可使用自由和移动行动点。<br/>"
+
+[AHWSeerTeleportAlly X2AbilityTemplate]
+LocFriendlyName="星界锚定"
+LocLongDescription="将目标盟友传送至你所在位置附近。"
+LocHelpText="将目标盟友传送至你所在位置附近。"
+LocFlyOverText="星界锚定"
+LocPromotionPopupText="<Bullet/>可使用自由和移动行动点。<br/>"
+
+[AHWBigIron X2AbilityTemplate]
+LocFriendlyName="灵能手枪"
+LocLongDescription="使用独特的灵能手枪。"
+LocHelpText="使用独特的灵能手枪。"
+LocFlyOverText="灵能手枪"
+LocPromotionPopupText="<Bullet/>灵能手枪弹药有限。<br/><Bullet/> 攻击造成1+士兵等级半数的额外伤害。<br/><Bullet/> 暴击时此伤害翻倍。<br/><Bullet/> 若在无掩体状态下三格内射击，此伤害翻倍。<br/><Bullet/> 在无掩体三格内暴击时，巨铁左轮额外伤害再次翻倍。<br/>"
+
+[AHWSeerForesight X2AbilityTemplate]
+LocFriendlyName="先见之明"
+LocLongDescription="掩体提供额外50%防御加成。"
+LocHelpText="掩体提供额外50%防御加成。"
+LocFlyOverText="先见之明"
+
+[AHWSeerGutsOfSteel X2AbilityTemplate]
+LocFriendlyName="钢铁胆魄"
+LocLongDescription="无掩体状态下攻击造成伤害+2。"
+LocHelpText="无掩体状态下攻击造成的伤害+2。"
+LocFlyOverText="钢铁胆魄"
+
+[AHWSeerDodge X2AbilityTemplate]
+LocFriendlyName="天眼"
+LocLongDescription="先知有50%概率规避所有非直接锁定自身的攻击。"
+LocHelpText="先知有50%概率规避所有非直接锁定自身的攻击。"
+LocFlyOverText="天眼"
+
+[AHWSeerPrecognition X2AbilityTemplate]
+LocFriendlyName="危机预兆"
+LocLongDescription="所有友军对反应射击+20防御。"
+LocHelpText="所有友军对反应射击+20防御。"
+LocFlyOverText="危机预兆"
+
+[AHWSeerBigIronReload X2AbilityTemplate]
+LocFriendlyName="备用弹匣"
+LocLongDescription="每次任务最多补充三发巨铁左轮弹药。"
+LocHelpText="每次任务最多补充三发巨铁左轮弹药。"
+LocFlyOverText="备用弹匣"
+
+[AHWBigIronShot X2AbilityTemplate]
+LocFriendlyName="灵枪射击"
+LocLongDescription="用灵能手枪射击目标。"
+LocHelpText="使用灵能手枪射击。"
+LocFlyOverText="灵枪射击"
+
+[AHWBigIronOverwatch X2AbilityTemplate]
+LocFriendlyName="灵枪警戒"
+LocLongDescription="手持灵枪进入警戒状态。"
+LocHelpText="手持灵枪进入警戒状态。"
+LocFlyOverText="灵枪警戒"
+
+[AHWBigIronOverwatchShot X2AbilityTemplate]
+LocFriendlyName="灵枪警戒·射击"
+LocLongDescription="用灵能手枪射击目标。"
+LocHelpText="用灵能手枪射击目标。"
+LocFlyOverText="灵枪警戒·射击"
+
+[AHWBigIronTexasRed X2AbilityTemplate]
+LocFriendlyName="德州红"
+LocLongDescription="灵能手枪获得+1额外护甲粉碎，以及等同于目标护甲半数的穿甲加成。"
+LocHelpText="灵能手枪获得+1额外护甲粉碎，以及等同于目标护甲半数的穿甲加成。"
+LocFlyOverText="德州红"
+
+[AHWSeerBacktrack X2AbilityTemplate]
+LocFriendlyName="时光回溯"
+LocLongDescription="返回回合开始时士兵所在位置。"
+LocHelpText="返回回合开始时士兵所在位置。"
+LocFlyOverText="时光回溯"
+
+[AHWSeerTrickshot X2AbilityTemplate]
+LocFriendlyName="诡击"
+LocLongDescription="使用灵能手枪进行诡击，可能伤害直线上的所有目标。"
+LocHelpText="使用灵能手枪进行诡击，可能伤害直线上的所有目标"
+LocFlyOverText="诡击"
+LocPromotionPopupText="<Bullet/>精准度随距离快速衰减。<br/><Bullet/>4回合冷却。<br/>"
+
+[AHWSeerRanger X2AbilityTemplate]
+LocFriendlyName="亚利桑那游侠"
+LocLongDescription="射击者与目标距离越近，灵能手枪攻击获得额外命中加成。"
+LocHelpText="射击者与目标距离越近，灵能手枪攻击获得额外命中加成。"
+LocFlyOverText="亚利桑那游侠"
+
+[AHWSeerSnakeoiler X2AbilityTemplate]
+LocFriendlyName="蛇油灵药"
+LocLongDescription="永久获得+13暴击率，任务前四回合额外获得+10闪避。"
+LocHelpText="永久获得+13暴击率，任务前四回合额外获得+10闪避。"
+LocFlyOverText="蛇油灵药"
+
+[AHWSeerLuckySeven X2AbilityTemplate]
+LocFriendlyName="幸运七"
+LocLongDescription="永久获得+7命中。"
+LocHelpText="永久获得+7命中。"
+LocFlyOverText="幸运七"
+
+[AHWSeerRush X2AbilityTemplate]
+LocFriendlyName="寒泉疾行"
+LocLongDescription="永久获得+1移动力，任务前两回合额外获得+3移动力。"
+LocHelpText="永久获得+1移动力，任务前两回合额外获得+3移动力。"
+LocFlyOverText="寒泉疾行"
+
+[AHWSeerSubstances X2AbilityTemplate]
+LocFriendlyName="诡秘药剂"
+LocLongDescription="获得+30命中和+20暴击率持续两回合，但每回合损失士兵当前生命值的五分之一。"
+LocHelpText="获得+30命中和+20暴击率持续两回合，但每回合损失士兵当前生命值的五分之一。"
+LocFlyOverText="诡秘药剂"

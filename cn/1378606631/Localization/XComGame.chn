@@ -1,0 +1,4 @@
+[CarryUnitWorkaround X2AbilityTemplate]
+LocFriendlyName="搬运单位"
+LocHelpText="背起目标单位并搬运他们。(替代方案)"
+LocFlyOverText="背起单位"

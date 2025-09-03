@@ -1,17 +1,21 @@
-[SWATRS X2SoldierClassTemplate]  
-+DisplayName="特警"  
-+ClassSummary="特警专精中近距离遭遇战与目标削弱战术。他们能强攻敌方阵地、提供火力支援、实施战术牵制。"  
-+LeftAbilityTreeTitle="破障者"  
-+RightAbilityTreeTitle="支援兵"  
-+AbilityTreeTitles="破障者"  
-+AbilityTreeTitles=""  
-+AbilityTreeTitles="支援兵"  
+[PlasmaQuake X2AbilityTemplate]
+LocFriendlyName="等离子震击"
+LocLongDescription="欧米茄通过将她的欧米茄重锤砸向地面，令周围区域急剧升温。这会将区域点燃，对爆炸范围内的所有单位同时造成爆炸与火焰伤害。"
+LocHelpText="欧米茄通过将她的欧米茄重锤砸向地面，令周围区域急剧升温。这会将区域点燃，对爆炸范围内的所有单位同时造成爆炸与火焰伤害。"
+LocFlyOverText="等离子震击"
 
-[TechnicianRS X2SoldierClassTemplate]  
-+DisplayName="技师"  
-+ClassSummary="技师运用小精灵无人机侵入ADVENT网络并获取敏感数据。他们擅长辅助友军与干扰敌军行动。"  
-+LeftAbilityTreeTitle="干扰者"  
-+RightAbilityTreeTitle="瓦解者"  
-+AbilityTreeTitles="干扰者"  
-+AbilityTreeTitles=""  
-+AbilityTreeTitles="瓦解者"  
+[OmegaDevastatingPunch X2AbilityTemplate]
+LocFriendlyName="欧米茄毁灭重击"
+LocLongDescription="狂暴者欧米茄的力量因致命的欧米茄重锤武器而成倍增长。此攻击可击晕或迷惑目标，并穿透护甲。"
+LocHelpText="攻击近战目标，穿透护甲并可能造成击晕。"
+LocFlyOverText="欧米茄毁灭重击"
+
+[OmegaMeleeResistance X2AbilityTemplate]
+LocFriendlyName="近战抗性"
+LocLongDescription="狂暴者欧米茄承受的所有近战伤害减少4点。"
+LocHelpText="近战伤害减免。"
+LocFlyOverText="近战抗性"
+
+[BerserkerOmega X2CharacterTemplate]
+strCharacterName="狂暴者欧米茄"
+strAcquiredText="狂暴者欧米茄是为摧毁行进路线上一切事物而创造的强大野兽。它们能在数秒内荡平大片区域。"

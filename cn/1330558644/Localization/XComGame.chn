@@ -1,0 +1,46 @@
+;
+; Arms
+;
+
+[CNV_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Boss潜行服 - 左臂 [开放]"
+
+[LPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Boss潜行服 - 左臂 [开放]"
+
+[MPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Boss潜行服 - 左臂 [开放]"
+
+[HPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Boss潜行服 - 左臂 [开放]"
+
+[LPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Boss潜行服 - 左臂 [开放]"
+
+[MPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Boss潜行服 - 左臂 [开放]"
+
+[HPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Left_F X2BodyPartTemplate]
+DisplayName="Boss潜行服 - 左臂 [开放]"
+
+
+[CNV_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Boss潜行服 - 右臂 [开放]"
+
+[LPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Boss潜行服 - 右臂 [开放]"
+
+[MPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Boss潜行服 - 右臂 [开放]"
+
+[HPL_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Boss潜行服 - 右臂 [开放]"
+
+[LPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Boss潜行服 - 右臂 [开放]"
+
+[MPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Boss潜行服 - 右臂 [开放]"
+
+[HPW_WotC_SLD_MGSV_Boss_SneakingSuit_Open_Arm_Right_F X2BodyPartTemplate]
+DisplayName="Boss潜行服 - 右臂 [开放]"

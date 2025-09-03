@@ -1,0 +1,277 @@
+;TRACER HEAD
+[Tracer_Head X2BodyPartTemplate]
+DisplayName="猎空 头"
+;
+;TRACER 头 无护目镜
+[Tracer_Head_No_Goggles X2BodyPartTemplate]
+DisplayName="猎空 头 无护目镜"
+
+;
+; TRACER LEFT ARM
+[CNV_Tracer_LeftArm X2BodyPartTemplate]
+DisplayName="猎空 左臂"
+
+[LPL_Tracer_LeftArm X2BodyPartTemplate]
+DisplayName="猎空 左臂"
+
+[MPL_Tracer_LeftArm X2BodyPartTemplate]
+DisplayName="猎空 左臂"
+
+[HPL_Tracer_LeftArm X2BodyPartTemplate]
+DisplayName="猎空 左臂"
+
+[LPW_Tracer_LeftArm X2BodyPartTemplate]
+DisplayName="猎空 左臂"
+
+[MPW_Tracer_LeftArm X2BodyPartTemplate]
+DisplayName="猎空 左臂"
+
+[HPW_Tracer_LeftArm X2BodyPartTemplate]
+DisplayName="猎空 左臂"
+;
+; TRACER RIGHT ARM
+[CNV_Tracer_RightArm X2BodyPartTemplate]
+DisplayName="猎空 右臂"
+
+[LPL_Tracer_RightArm X2BodyPartTemplate]
+DisplayName="猎空 右臂"
+
+[MPL_Tracer_RightArm X2BodyPartTemplate]
+DisplayName="猎空 右臂"
+
+[HPL_Tracer_RightArm X2BodyPartTemplate]
+DisplayName="猎空 右臂"
+
+[LPW_Tracer_RightArm X2BodyPartTemplate]
+DisplayName="猎空 右臂"
+
+[MPW_Tracer_RightArm X2BodyPartTemplate]
+DisplayName="猎空 右臂"
+
+[HPW_Tracer_RightArm X2BodyPartTemplate]
+DisplayName="猎空 右臂"
+
+;TRACER LEFT BRACER
+[CNV_Left_Bracer X2BodyPartTemplate]
+DisplayName="猎空 护腕"
+
+[LPL_Left_Bracer X2BodyPartTemplate]
+DisplayName="猎空 护腕"
+
+[MPL_Left_Bracer X2BodyPartTemplate]
+DisplayName="猎空 护腕"
+
+[HPL_Left_Bracer X2BodyPartTemplate]
+DisplayName="猎空 护腕"
+
+[LPW_Left_Bracer X2BodyPartTemplate]
+DisplayName="猎空 护腕"
+
+[MPW_Left_Bracer X2BodyPartTemplate]
+DisplayName="猎空 护腕"
+
+[HPW_Left_Bracer X2BodyPartTemplate]
+DisplayName="猎空 护腕"
+
+;TRACER RIGHT BRACER
+[CNV_Right_Bracer X2BodyPartTemplate]
+DisplayName="猎空 护腕"
+
+[LPL_Right_Bracer X2BodyPartTemplate]
+DisplayName="猎空 护腕"
+
+[MPL_Right_Bracer X2BodyPartTemplate]
+DisplayName="猎空 护腕"
+
+[HPL_Right_Bracer X2BodyPartTemplate]
+DisplayName="猎空 护腕"
+
+[LPW_Right_Bracer X2BodyPartTemplate]
+DisplayName="猎空 护腕"
+
+[MPW_Right_Bracer X2BodyPartTemplate]
+DisplayName="猎空 护腕"
+
+[HPW_Right_Bracer X2BodyPartTemplate]
+DisplayName="猎空 护腕"
+
+;TRACER GOGGLES FOR XCOM OPERATIVES
+[Tracer_Goggles X2BodyPartTemplate]
+DisplayName="猎空 护目镜"
+;
+;TRACER HAIR FOR XCOM OPERATIVES
+[Tracer_Hair X2BodyPartTemplate]
+DisplayName="猎空 发型"
+
+
+;TRACER HEAD
+[Tracer_SS_Head_Sunglasses_Tparent X2BodyPartTemplate]
+DisplayName="猎空 头 (飞行员)(透明)"
+;
+;TRACER 头 无护目镜
+[Tracer_SS_Head_Sunglasses_Reflect X2BodyPartTemplate]
+DisplayName="猎空 头 (飞行员)(反光)"
+
+;==============================================================================================================================
+;------------------------------------------------------------------------------------------------------------------------------
+;TRACER - SLIPSTREAM
+;------------------------------------------------------------------------------------------------------------------------------
+;==============================================================================================================================
+
+; TRACER LEFT ARM
+[CNV_Tracer_SS_LeftArm X2BodyPartTemplate]
+DisplayName="猎空左臂 (飞行员)"
+
+[LPL_Tracer_SS_LeftArm X2BodyPartTemplate]
+DisplayName="猎空左臂 (飞行员)"
+
+[MPL_Tracer_SS_LeftArm X2BodyPartTemplate]
+DisplayName="猎空左臂 (飞行员)"
+
+[HPL_Tracer_SS_LeftArm X2BodyPartTemplate]
+DisplayName="猎空左臂 (飞行员)"
+
+[LPW_Tracer_SS_LeftArm X2BodyPartTemplate]
+DisplayName="猎空左臂 (飞行员)"
+
+[MPW_Tracer_SS_LeftArm X2BodyPartTemplate]
+DisplayName="猎空左臂 (飞行员)"
+
+[HPW_Tracer_SS_LeftArm X2BodyPartTemplate]
+DisplayName="猎空左臂 (飞行员)"
+;
+; TRACER RIGHT ARM
+[CNV_Tracer_SS_RightArm X2BodyPartTemplate]
+DisplayName="猎空右臂 (飞行员)"
+
+[LPL_Tracer_SS_RightArm X2BodyPartTemplate]
+DisplayName="猎空右臂 (飞行员)"
+
+[MPL_Tracer_SS_RightArm X2BodyPartTemplate]
+DisplayName="猎空右臂 (飞行员)"
+
+[HPL_Tracer_SS_RightArm X2BodyPartTemplate]
+DisplayName="猎空右臂 (飞行员)"
+
+[LPW_Tracer_SS_RightArm X2BodyPartTemplate]
+DisplayName="猎空右臂 (飞行员)"
+
+[MPW_Tracer_SS_RightArm X2BodyPartTemplate]
+DisplayName="猎空右臂 (飞行员)"
+
+[HPW_Tracer_SS_RightArm X2BodyPartTemplate]
+DisplayName="猎空右臂 (飞行员)"
+
+
+[CNV_Tracer_Torso X2BodyPartTemplate]
+DisplayName="裂空 身体"
+
+[LPL_Tracer_Torso X2BodyPartTemplate]
+DisplayName="裂空 身体"
+
+[MPL_Tracer_Torso X2BodyPartTemplate]
+DisplayName="裂空 身体"
+
+[HPL_Tracer_Torso X2BodyPartTemplate]
+DisplayName="裂空 身体"
+
+[LPW_Tracer_Torso X2BodyPartTemplate]
+DisplayName="裂空 身体"
+
+[MPW_Tracer_Torso X2BodyPartTemplate]
+DisplayName="裂空 身体"
+
+[HPW_Tracer_Torso X2BodyPartTemplate]
+DisplayName="裂空 身体"
+
+[CNV_Tracer_Torso2 X2BodyPartTemplate]
+DisplayName="裂空 身体(无加速器)"
+
+[LPL_Tracer_Torso2 X2BodyPartTemplate]
+DisplayName="裂空 身体(无加速器)"
+
+[MPL_Tracer_Torso2 X2BodyPartTemplate]
+DisplayName="裂空 身体(无加速器)"
+
+[HPL_Tracer_Torso2 X2BodyPartTemplate]
+DisplayName="裂空 身体(无加速器)"
+
+[LPW_Tracer_Torso2 X2BodyPartTemplate]
+DisplayName="裂空 身体(无加速器)"
+
+[MPW_Tracer_Torso2 X2BodyPartTemplate]
+DisplayName="裂空 身体(无加速器)"
+
+[HPW_Tracer_Torso2 X2BodyPartTemplate]
+DisplayName="裂空 身体(无加速器)"
+
+[CNV_Tracer_Legs X2BodyPartTemplate]
+DisplayName="裂空 腿"
+
+[LPL_Tracer_Legs X2BodyPartTemplate]
+DisplayName="裂空 腿"
+
+[MPL_Tracer_Legs X2BodyPartTemplate]
+DisplayName="裂空 腿"
+
+[HPL_Tracer_Legs X2BodyPartTemplate]
+DisplayName="裂空 腿"
+
+[LPW_Tracer_Legs X2BodyPartTemplate]
+DisplayName="裂空 腿"
+
+[MPW_Tracer_Legs X2BodyPartTemplate]
+DisplayName="裂空 腿"
+
+[HPW_Tracer_Legs X2BodyPartTemplate]
+DisplayName="裂空 腿"
+
+;==============================================================================================================================
+;------------------------------------------------------------------------------------------------------------------------------
+;TRACER - SLIPSTREAM
+;------------------------------------------------------------------------------------------------------------------------------
+;==============================================================================================================================
+
+[CNV_Tracer_SS_Torso X2BodyPartTemplate]
+DisplayName="裂空 身体 (飞行员)"
+
+[LPL_Tracer_SS_Torso X2BodyPartTemplate]
+DisplayName="裂空 身体 (飞行员)"
+
+[MPL_Tracer_SS_Torso X2BodyPartTemplate]
+DisplayName="裂空 身体 (飞行员)"
+
+[HPL_Tracer_SS_Torso X2BodyPartTemplate]
+DisplayName="裂空 身体 (飞行员)"
+
+[LPW_Tracer_SS_Torso X2BodyPartTemplate]
+DisplayName="裂空 身体 (飞行员)"
+
+[MPW_Tracer_SS_Torso X2BodyPartTemplate]
+DisplayName="裂空 身体 (飞行员)"
+
+[HPW_Tracer_SS_Torso X2BodyPartTemplate]
+DisplayName="裂空 身体 (飞行员)"
+
+[CNV_Tracer_SS_Legs X2BodyPartTemplate]
+DisplayName="裂空 腿 (飞行员)"
+
+[LPL_Tracer_SS_Legs X2BodyPartTemplate]
+DisplayName="裂空 腿 (飞行员)"
+
+[MPL_Tracer_SS_Legs X2BodyPartTemplate]
+DisplayName="裂空 腿 (飞行员)"
+
+[HPL_Tracer_SS_Legs X2BodyPartTemplate]
+DisplayName="裂空 腿 (飞行员)"
+
+[LPW_Tracer_SS_Legs X2BodyPartTemplate]
+DisplayName="裂空 腿 (飞行员)"
+
+[MPW_Tracer_SS_Legs X2BodyPartTemplate]
+DisplayName="裂空 腿 (飞行员)"
+
+[HPW_Tracer_SS_Legs X2BodyPartTemplate]
+DisplayName="裂空 腿 (飞行员)"
+
+

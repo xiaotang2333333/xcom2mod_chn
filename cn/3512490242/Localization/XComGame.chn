@@ -1,0 +1,239 @@
+[ARFMAdvKnightM1 X2CharacterTemplate]
+strCharacterName="变种人骑士"
+strAcquiredText="与那些常见于变种人宣传中心、相对温和的同类不同，这些身披重甲的战斗骑士正如其外表所示般危险。"
+ 
+[ARFMAdvKnightM2 X2CharacterTemplate]
+strCharacterName="变种人高级骑士"
+strAcquiredText="与那些常见于变种人宣传中心、相对温和的同类不同，这些身披重甲的战斗骑士正如其外表所示般危险。"
+ 
+[ARFMAdvKnightM3 X2CharacterTemplate]
+strCharacterName="变种人精英骑士"
+strAcquiredText="与那些常见于变种人宣传中心、相对温和的同类不同，这些身披重甲的战斗骑士正如其外表所示般危险。"
+ 
+[ARFMAdvTorcherM1 X2CharacterTemplate]
+strCharacterName="变种人焚烧兵"
+strAcquiredText="首次出现于新巴西的骚乱中，这种被称为变种人焚烧兵的重装净化者变体，专长于平息大规模动乱。"
+ 
+[ARFMAdvTorcherM2 X2CharacterTemplate]
+strCharacterName="变种人高级焚烧兵"
+strAcquiredText="首次出现于新巴西的骚乱中，这种被称为变种人焚烧兵的重装净化者变体，专长于平息大规模动乱。"
+ 
+[ARFMAdvTorcherM3 X2CharacterTemplate]
+strCharacterName="变种人精英焚烧兵"
+strAcquiredText="首次出现于新巴西的骚乱中，这种被称为变种人焚烧兵的重装净化者变体，专长于平息大规模动乱。"
+ 
+[ARFMTorcherGrapple X2AbilityTemplate]
+LocFriendlyName="平乱"
+LocLongDescription="通过抓钩将自己拉至与敌人相邻的位置。"
+LocHelpText="通过抓钩将自己拉至与敌人相邻的位置。"
+ 
+[ARFMAdvOutriderM1 X2CharacterTemplate]
+strCharacterName="变种人先驱队长"
+strAcquiredText="配备有威力强大的战锤，一击即可使目标陷入混乱甚至眩晕，这些队长在枪战和近战中都极具危险性。"
+ 
+[ARFMAdvOutriderM2 X2CharacterTemplate]
+strCharacterName="变种人高级先驱队长"
+strAcquiredText="配备有威力强大的战锤，一击即可使目标陷入混乱甚至眩晕，这些队长在枪战和近战中都极具危险性。"
+ 
+[ARFMAdvOutriderM3 X2CharacterTemplate]
+strCharacterName="变种人精英先驱队长"
+strAcquiredText="配备有威力强大的战锤，一击即可使目标陷入混乱甚至眩晕，这些队长在枪战和近战中都极具危险性。"
+ 
+[ARFMAdvArtilleryM1 X2CharacterTemplate]
+strCharacterName="变种人炮兵"
+strAcquiredText="这些变种人士兵配备有肩扛式微型导弹发射器，擅长于火力支援。"
+ 
+[ARFMAdvArtilleryM2 X2CharacterTemplate]
+strCharacterName="变种人高级炮兵"
+strAcquiredText="这些变种人士兵配备有肩扛式微型导弹发射器，擅长于火力支援。"
+ 
+[ARFMAdvArtilleryM3 X2CharacterTemplate]
+strCharacterName="变种人精英炮兵"
+strAcquiredText="这些变种人士兵配备有肩扛式微型导弹发射器，擅长于火力支援。"
+ 
+[ARFMAdvRunnerM1 X2CharacterTemplate]
+strCharacterName="变种人先驱兵"
+strAcquiredText="配备脉冲扫描仪并接受过近战训练，这些先驱兵是执行秘密行动的主要威胁。"
+ 
+[ARFMAdvRunnerM2 X2CharacterTemplate]
+strCharacterName="变种人高级先驱兵"
+strAcquiredText="配备脉冲扫描仪并接受过近战训练，这些先驱兵是执行秘密行动的主要威胁。"
+ 
+[ARFMAdvRunnerM3 X2CharacterTemplate]
+strCharacterName="变种人精英先驱兵"
+strAcquiredText="配备战场扫描仪并接受过近战训练，这些先驱兵是执行秘密行动的主要威胁。"
+ 
+[ARFMAdvKriegsmarineM1 X2CharacterTemplate]
+strCharacterName="变种人海军陆战队"
+strAcquiredText="配备防毒面具、耐酸装甲和反装甲磁轨手榴弹，变种人海战兵比普通变种人士兵更为精锐。"
+ 
+[ARFMAdvKriegsmarineM2 X2CharacterTemplate]
+strCharacterName="变种人高级海军陆战队"
+strAcquiredText="配备防毒面具、腐蚀装甲和反装甲磁轨手榴弹，变种人海战兵比普通变种人士兵更为精锐。"
+ 
+[ARFMAdvKriegsmarineM3 X2CharacterTemplate]
+strCharacterName="变种人精英海军陆战队"
+strAcquiredText="配备防毒面具、腐蚀装甲和反装甲磁轨手榴弹，变种人海战兵比普通变种人士兵更为精锐。"
+ 
+[ARFMKnightPsiBow X2AbilityTemplate]
+LocFriendlyName="灵能弩炮"
+LocLongDescription="向目标发射灵能弩炮，并对目标后方扇形范围内的所有单位造成伤害。"
+LocHelpText="向目标发射灵能弩炮，并对目标后方扇形范围内的所有单位造成伤害。"
+ 
+[ARFMKnightMelee X2AbilityTemplate]
+LocFriendlyName="横劈"
+LocLongDescription="对相邻目标进行近战攻击。此攻击必定命中。"
+LocHelpText="对相邻目标进行近战攻击。此攻击必定命中。"
+ 
+[ARFMKnightMelee X2AbilityTemplate]
+LocFriendlyName="打击"
+LocLongDescription="对相邻目标进行近战攻击。此攻击必定命中。"
+LocHelpText="对相邻目标进行近战攻击。此攻击必定命中。"
+ 
+[ARFMKnightParry X2AbilityTemplate]
+LocFriendlyName="信仰之甲"
+LocLongDescription="对灵能伤害和精神控制效果免疫。"
+LocHelpText="对灵能伤害和精神控制效果免疫。"
+LocFlyoverText="信仰之甲"
+ 
+[ARFMKnightParryActivate X2AbilityTemplate]
+LocFriendlyName="虔诚护盾"
+LocLongDescription="格挡下一次对变种人骑士发动的攻击。"
+LocHelpText="格挡下一次对变种人骑士发动的攻击。"
+LocFlyoverText="虔诚护盾"
+ 
+[ARFMKnightBladestorm X2AbilityTemplate]
+LocFriendlyName="目标清除"
+LocLongDescription="当敌人进入变种人骑士相邻范围或在其相邻范围内行动时，会对该敌人发动近战攻击。"
+LocHelpText="当敌人进入变种人骑士相邻范围或在其相邻范围内行动时，会对该敌人发动近战攻击。"
+LocFlyOverText="目标清除"
+ 
+[ARFMTorcherInit X2AbilityTemplate]
+LocFriendlyName="密封装甲"
+LocLongDescription="该单位对火焰、毒素、酸蚀和冰霜伤害免疫。"
+LocHelpText="该单位对火焰、毒素、酸蚀和冰霜伤害免疫。"
+LocFlyOverText="免疫"
+ 
+[ARFMKriegsmarineInit X2AbilityTemplate]
+LocFriendlyName="腐蚀装甲"
+LocLongDescription="该单位对毒素和酸蚀伤害免疫。"
+LocHelpText="该单位对毒素和酸蚀伤害免疫。"
+LocFlyOverText="免疫"
+ 
+[ARFM_RunnerCounterStats X2AbilityTemplate]
+LocFriendlyName="近战精通"
+LocLongDescription="该单位可格挡并反击近战攻击。"
+LocHelpText="该单位可格挡并反击近战攻击。"
+LocFlyOverText="正在反击！"
+ 
+[ARFMPulsescanner X2AbilityTemplate]
+LocFriendlyName="脉冲扫描仪"
+LocLongDescription="可揭示极广范围内的所有隐蔽单位。"
+LocHelpText="可揭示极广范围内的所有隐蔽单位。"
+LocFlyOverText="正在扫描！"
+ 
+[ARFMPulseScanners X2WeaponTemplate]
+FriendlyName="脉冲扫描仪"
+FriendlyNamePlural="脉冲扫描仪"
+BriefSummary="可揭示极广范围内的所有隐蔽单位。"
+TacticalText="可揭示极广范围内的所有隐蔽单位。"
+ 
+[ARFMTorchthrower X2WeaponTemplate]
+FriendlyName="TORCH-3重型火焰喷射器"
+FriendlyNamePlural="TORCH-3重型火焰喷射器"
+BriefSummary="汉斯，拿上那把重型的火焰喷射器。"
+TacticalText="汉斯，拿上那把重型的火焰喷射器。"
+ 
+[ARFMTorchthrowerM2 X2WeaponTemplate]
+FriendlyName="TORCH-3重型火焰喷射器"
+FriendlyNamePlural="TORCH-3重型火焰喷射器"
+BriefSummary="汉斯，拿上那把重型的火焰喷射器。"
+TacticalText="汉斯，拿上那把重型的火焰喷射器。"
+ 
+[ARFMTorchthrowerM3 X2WeaponTemplate]
+FriendlyName="TORCH-3重型火焰喷射器"
+FriendlyNamePlural="TORCH-3重型火焰喷射器"
+BriefSummary="汉斯，拿上那把重型的火焰喷射器。"
+TacticalText="汉斯，拿上那把重型的火焰喷射器。"
+ 
+[ARFMOutriderHammerM1 X2WeaponTemplate]
+FriendlyName="ADV-46战锤"
+FriendlyNamePlural="ADV-46战锤"
+BriefSummary="可造成眩晕或混乱效果的巨型战锤。"
+TacticalText="可造成眩晕或混乱效果的巨型战锤。"
+ 
+[ARFMOutriderHammerM2 X2WeaponTemplate]
+FriendlyName="ADV-46战锤"
+FriendlyNamePlural="ADV-46战锤"
+BriefSummary="可造成眩晕或混乱效果的巨型战锤。"
+TacticalText="可造成眩晕或混乱效果的巨型战锤。"
+ 
+[ARFMOutriderHammerM3 X2WeaponTemplate]
+FriendlyName="ADV-46战锤"
+FriendlyNamePlural="ADV-46战锤"
+BriefSummary="可造成眩晕或混乱效果的巨型战锤。"
+TacticalText="可造成眩晕或混乱效果的巨型战锤。"
+ 
+[ARFMArtilleryLauncherM2 X2WeaponTemplate]
+FriendlyName="ADV-17毒刺发射器"
+FriendlyNamePlural="ADV-17毒刺发射器"
+BriefSummary="便携式微型导弹发射器。"
+TacticalText="便携式微型导弹发射器。"
+ 
+[ARFMArtilleryLauncherM3 X2WeaponTemplate]
+FriendlyName="ADV-17毒刺发射器"
+FriendlyNamePlural="ADV-17毒刺发射器"
+BriefSummary="便携式微型导弹发射器。"
+TacticalText="便携式微型导弹发射器。"
+ 
+[ARFMArtilleryLauncher X2WeaponTemplate]
+FriendlyName="ADV-17毒刺发射器"
+FriendlyNamePlural="ADV-17毒刺发射器"
+BriefSummary="便携式微型导弹发射器。"
+TacticalText="便携式微型导弹发射器。"
+ 
+[ARFMArtilleryLauncherM2 X2WeaponTemplate]
+FriendlyName="ADV-17毒刺发射器"
+FriendlyNamePlural="ADV-17毒刺发射器"
+BriefSummary="便携式微型导弹发射器。"
+TacticalText="便携式微型导弹发射器。"
+ 
+[ARFMArtilleryLauncherM3 X2WeaponTemplate]
+FriendlyName="ADV-17毒刺发射器"
+FriendlyNamePlural="ADV-17毒刺发射器"
+BriefSummary="便携式微型导弹发射器。"
+TacticalText="便携式微型导弹发射器。"
+ 
+[ARFMKnightAmpM1 X2WeaponTemplate]
+FriendlyName="ADV-43灵能弩炮"
+FriendlyNamePlural="ADV-43灵能弩炮"
+BriefSummary="腕式灵能增幅器"
+TacticalText="腕式灵能增幅器"
+ 
+[ARFMKnightAmpM2 X2WeaponTemplate]
+FriendlyName="ADV-43灵能弩炮"
+FriendlyNamePlural="ADV-43灵能弩炮"
+BriefSummary="腕式灵能增幅器"
+TacticalText="腕式灵能增幅器"
+ 
+[ARFMKnightAmpM3 X2WeaponTemplate]
+FriendlyName="ADV-43灵能弩炮"
+FriendlyNamePlural="ADV-43灵能弩炮"
+BriefSummary="腕式灵能增幅器"
+TacticalText="腕式灵能增幅器"
+ 
+[ARFMPulseScanners X2WeaponTemplate]
+FriendlyName="ADV-61脉冲扫描仪"
+FriendlyNamePlural="ADV-61脉冲扫描仪"
+BriefSummary="变种人战场扫描仪"
+TacticalText="变种人战场扫描仪"
+ 
+[ARFMKriegsmarineGrenade X2GrenadeTemplate]
+FriendlyName="磁轨榴弹"
+FriendlyNamePlural="磁轨榴弹"
+BriefSummary="这款由外星能量脉冲技术驱动的磁通量榴弹，对无甲目标造成的伤害低于标准破片榴弹，但对重型装甲的效果显著更佳。"
+TacticalText="<Bullet/>等离子榴弹在破片榴弹的基础上提升了伤害和破甲能力。"
+ThrownAbilityName="投掷磁轨榴弹"
+ThrownAbilityHelpText="向目标区域投掷磁轨榴弹，目标护甲越厚，造成的伤害越高。"
+LaunchedAbilityname="发射磁轨榴弹"
+LaunchedAbilityHelpText="向目标区域发射磁轨榴弹，目标护甲越厚，造成的伤害越高。"

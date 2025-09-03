@@ -1,0 +1,16 @@
+[PR_Gunslinger X2SoldierClassTemplate]
++DisplayName="枪圣"
++ClassSummary="枪圣擅长以一击造成致命伤害，一回合内射击尽可能多的目标，或者辅助队友射击。"
++LeftAbilityTreeTitle="大口径武器"
++RightAbilityTreeTitle="快速拔枪"
+AbilityTreeTitles[0]="大口径武器"
+AbilityTreeTitles[1]="快速拔枪"
+AbilityTreeTitles[2]="辅助瞄准"
+AbilityTreeTitles[3]="XCOM"
+
++RandomNickNames[0]="死神之眼"
++RandomNickNames[1]="大枪"
++RandomNickNames[2]="警长"
++RandomNickNames[3]="神射手"
++RandomNickNames[4]="恶棍"
++RandomNickNames[5]="亡命之徒"

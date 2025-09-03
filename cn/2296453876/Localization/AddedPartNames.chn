@@ -1,0 +1,105 @@
+;A configuration File
+
+
+[X2DownloadableContentInfo_AddedPartNames]
+
+.TorsoTemplate="KV_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="LPL_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="MPL_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="HPL_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="LPW_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="MPW_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="HPW_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="KV_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+.TorsoTemplate="LPL_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+.TorsoTemplate="MPL_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+.TorsoTemplate="HPL_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+.TorsoTemplate="LPW_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+.TorsoTemplate="MPW_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+.TorsoTemplate="HPW_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+;hero variants
+;WOTC
+;
+;
+
+.TorsoTemplate="RA_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="PLR_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="POR_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="TA_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="PLT_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="POT_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="SA_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="PLS_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="POS_Default_Jill_torso"
+.TorsoName="默认 吉尔 身体 (RE3)"
+
+.TorsoTemplate="RA_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+.TorsoTemplate="PLR_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+.TorsoTemplate="POR_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+.TorsoTemplate="TA_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+.TorsoTemplate="PLT_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+.TorsoTemplate="POT_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+.TorsoTemplate="SA_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+.TorsoTemplate="PLS_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"
+
+.TorsoTemplate="POS_Default_Jill_torso_TINT"
+.TorsoName="默认 吉尔 身体 可变色 (RE3)"

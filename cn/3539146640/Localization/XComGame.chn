@@ -1,0 +1,197 @@
+;-----------------------
+; 基础能力
+;-----------------------
+[BasicConditioning_MPP X2AbilityTemplate]
+LocFriendlyName="基础体质"
+LocHelpText="生命值+<Ability:BASIC_CONDITIONING_HP/>"
+LocLongDescription="生命值+<Ability:BASIC_CONDITIONING_HP/>"
+LocFlyOverText="基础体质"
+
+[PlotArmor_MPP X2AbilityTemplate]
+LocFriendlyName="致命护甲"
+LocHelpText="承受致命伤害时陷入昏迷而非死亡。每任务限一次。"
+LocLongDescription="承受致命伤害时陷入昏迷而非死亡。每任务限一次。"
+LocPromotionPopupText="<Bullet/> 昏迷状态可通过复苏协议或类似效果唤醒<br/><Bullet/> 精神护盾等效果可防止昏迷，但剧情护甲仍能抵挡一次致命攻击"
+
+[Guardian_MPP X2AbilityTemplate]
+LocFriendlyName="守护者"
+LocFlyOverText="守护者"
+LocLongDescription="监视射击有<Ability:GUARDIAN_MEDIC_PROC>%几率触发多次攻击（弹药充足时）"
+LocHelpText="监视射击有<Ability:GUARDIAN_MEDIC_PROC>%几率触发多次攻击（弹药充足时）"
+
+[ChimeraSquad X2AbilityTemplate]
+LocFriendlyName="奇美拉小队"
+LocHelpText="由人类与外星特工组成的精英部队"
+LocLongDescription="由人类与外星特工组成的精英部队。与奇美拉小队成员共同作战时可获得增益。"
+LocFlyOverText="奇美拉小队"
+
+;-----------------------
+; 医疗兵能力
+;-----------------------
+
+[Resilience_MPP X2AbilityTemplate]
+LocFriendlyName="韧性复苏"
+LocFlyOverText="韧性复苏"
+LocLongDescription="回合开始时若无可见敌人，恢复全部生命值"
+LocHelpText="回合开始时若无可见敌人，恢复全部生命值"
+
+[Refresh_MPP X2AbilityTemplate]
+LocFriendlyName="焕新"
+LocFlyOverText="焕新"
+LocLongDescription="为<Ability:Classname/>及周围友军恢复<Ability:REFRESH_HEAL_AMOUNT>生命值，清除燃烧/酸液/中毒状态。<Ability:REFRESH_CHARGES>次/任务"
+LocHelpText="为<Ability:Classname/>及周围友军恢复<Ability:REFRESH_HEAL_AMOUNT>生命值，清除燃烧/酸液/中毒状态。<Ability:REFRESH_CHARGES>次/任务"
+
+[Supercharge_MPP X2AbilityTemplate]
+LocFriendlyName="超载充能"
+LocFlyOverText="超载充能"
+LocLongDescription="所有小精灵能力增加1次使用次数"
+LocHelpText="所有小精灵能力增加1次使用次数"
+
+
+;-----------------------
+; 神枪手能力
+;-----------------------
+
+[Desperado_MPP X2AbilityTemplate]
+LocFriendlyName="亡命徒"
+LocHelpText="手枪射击与必杀射击仅消耗一行动点，不强制结束回合"
+LocLongDescription="若仍有剩余行动点，手枪射击与必杀射击仅消耗行动点而不强制结束回合"
+LocFlyOverText="亡命徒"
+
+[Potential_Gunslinger_MPP X2AbilityTemplate]
+LocFriendlyName="潜能激发"
+LocHelpText="暴击率+<Ability:POTENTIAL_GUNSLINGER_CRIT/>"
+LocLongDescription="暴击率+<Ability:POTENTIAL_GUNSLINGER_CRIT/>"
+LocFlyOverText="潜能激发"
+
+[Deadeye_MPP X2AbilityTemplate]
+LocFriendlyName="必杀射击"
+LocHelpText="以减少<Ability:DEADEYEAIM/>%命中为代价，提升<Ability:DEADEYEDMG/>%伤害"
+LocLongDescription="<Ability:Classname/>以减少<Ability:DEADEYEAIM/>%命中为代价发动射击，提升<Ability:DEADEYEDMG/>%伤害。作为首动作时不结束回合"
+
+[DeadeyeDamage_MPP X2AbilityTemplate]
+LocFriendlyName="必杀射击"
+LocLongDescription="以减少<Ability:DEADEYEAIM/>%命中为代价，提升<Ability:DEADEYEDMG/>%伤害"
+LocHelpText="<Ability:Classname/>以减少<Ability:DEADEYEAIM/>%命中为代价发动射击，提升<Ability:DEADEYEDMG/>%伤害。作为首动作时不结束回合"
+
+[WarmWelcome_MPP X2AbilityTemplate]
+LocFriendlyName="热情款待"
+LocHelpText="弹匣首发非反应射击使目标混乱"
+LocLongDescription="弹匣首发非反应射击使目标陷入混乱状态"
+LocFlyOverText="热情款待"
+
+[FondFarewell_MPP X2AbilityTemplate]
+LocFriendlyName="深情告别"
+LocHelpText="弹匣末发单目标技能造成双倍伤害"
+LocLongDescription="弹匣末发单目标技能造成双倍伤害"
+LocFlyOverText="深情告别"
+
+[QuickReload_MPP X2AbilityTemplate]
+LocFriendlyName="快速装填"
+LocHelpText="免费装填武器"
+LocLongDescription="免费装填武器"
+LocFlyOverText="快速装填"
+
+[LightningHands_MPP X2AbilityTemplate]
+LocFriendlyName="闪电快手"
+LocLongDescription="使用<Ability:WeaponName/>射击目标，不消耗行动点。<Ability:LIGHTNINGHANDS_COOLDOWN/>回合冷却"
+LocHelpText="使用<Ability:WeaponName/>射击目标，不消耗行动点"
+LocFlyOverText="闪电快手"
+LocPromotionPopupText="<Bullet/> 闪电快手可与其他<Ability:ClassName/>能力形成连击，因不占用行动点<br/><Bullet/> <Ability:SelfCooldown/>回合冷却<br/>"
+
+[PistolStandardShot_MPP X2AbilityTemplate]
+LocFriendlyName="武器射击"
+LocHelpText="向目标开火"
+LocLongDescription="<Ability:Classname/>使用手枪射击"
+
+;-----------------------
+; 使节能力
+;-----------------------
+
+[NeuralNetworkAbility_MPP X2AbilityTemplate]
+LocFriendlyName="<font color='#bf80ff'>神经网络</font>"
+LocHelpText="每个<font color='#bf80ff'>神经网络</font>中的敌人提供+<Ability:NEURALNETWORK_HITADJUST/>命中"
+LocLongDescription="每个<font color='#bf80ff'>神经网络</font>中的敌人提供+<Ability:NEURALNETWORK_HITADJUST/>命中，同时降低敌人<Ability:NEURALNETWORK_WILLREDUCTION/>意志。特定技能可将单位接入<font color='#bf80ff'>神经网络</font>"
+LocFlyOverText="<font color='#bf80ff'>神经网络</font>"
+
+[BattleMadness_MPP X2AbilityTemplate]
+LocFriendlyName="战场狂乱"
+LocHelpText="使敌人狂暴并攻击附近目标，将其接入<font color='#bf80ff'>神经网络</font>"
+LocLongDescription="精神攻击使敌人陷入狂暴攻击邻近目标，将其接入<font color='#bf80ff'>神经网络</font>。无法作用于<font color='#bf80ff'>神经网络</font>中的敌人"
+LocFlyOverText="狂暴 ~ 已接入<font color='#bf80ff'>神经网络</font>"
+LocMissMessage="抵抗 ~ 仍接入<font color='#bf80ff'>神经网络</font>"
+
+[Stupor_MPP X2AbilityTemplate]
+LocFriendlyName="精神麻痹"
+LocHelpText="眩晕目标<Ability:STUPOR_SHORT_STUN/>-<Ability:STUPOR_LONG_STUN/>回合，将其接入<font color='#bf80ff'>神经网络</font>"
+LocLongDescription="精神冲击眩晕目标<Ability:STUPOR_SHORT_STUN/>-<Ability:STUPOR_LONG_STUN/>回合，将其接入<font color='#bf80ff'>神经网络</font>。无法作用于<font color='#bf80ff'>神经网络</font>中的敌人"
+LocFlyOverText="麻痹 ~ 已接入<font color='#bf80ff'>神经网络</font>"
+LocMissMessage="抵抗 ~ 仍接入<font color='#bf80ff'>神经网络</font>"
+
+[Levitation_MPP X2AbilityTemplate]
+LocFriendlyName="意念悬浮"
+LocHelpText="将敌人悬至半空，提升小队对悬浮目标的命中率"
+LocLongDescription="<Ability:ClassName/>将敌人悬至半空，小队对该目标获得命中加成。无法作用于<font color='#bf80ff'>神经网络</font>中的敌人"
+LocFlyOverText="意念悬浮"
+
+[Slam_MPP X2AbilityTemplate]
+LocFriendlyName="重力猛击"
+LocHelpText="悬浮状态结束时造成坠落伤害"
+LocLongDescription="悬浮结束时将目标猛砸向地面，造成无视护甲/护盾/续命效果的坠落伤害，并将其接入<font color='#bf80ff'>神经网络</font>"
+LocFlyOverText="重力猛击"
+
+[Mindflay_MPP X2AbilityTemplate]
+LocFriendlyName="心灵撕裂"
+LocHelpText="对所有<font color='#bf80ff'>神经网络</font>中的敌人造成精神伤害"
+LocLongDescription="释放精神冲击，对所有接入<font color='#bf80ff'>神经网络</font>的敌人造成精神伤害"
+LocFlyOverText="心灵撕裂"
+
+[Crowdsource_MPP X2AbilityTemplate]
+LocFriendlyName="群体智慧" 
+LocHelpText="每个<font color='#bf80ff'>神经网络</font>中的敌人提供+<Ability:CROWDSOURCE_HITADJUST/>命中与+<Ability:CROWDSOURCE_CRITADJUST/>暴击" 
+LocLongDescription="每个<font color='#bf80ff'>神经网络</font>中的敌人提供+<Ability:CROWDSOURCE_HITADJUST/>命中与+<Ability:CROWDSOURCE_CRITADJUST/>暴击"
+LocFlyOverText="群体智慧"
+
+[NetworkRegen_MPP X2AbilityTemplate]
+LocFriendlyName="网络愈合"
+LocHelpText="回合开始时，每个<font color='#bf80ff'>神经网络</font>中的敌人为你恢复<Ability:NETWORKREGEN_HEAL_PER_ENEMY/>生命值"
+LocLongDescription="回合开始时，每个<font color='#bf80ff'>神经网络</font>中的敌人为你恢复<Ability:NETWORKREGEN_HEAL_PER_ENEMY/>生命值"
+LocFlyOverText="网络愈合"
+
+[Puppeteer_MPP X2AbilityTemplate]
+LocFriendlyName="傀儡大师"
+LocHelpText="暂时控制所有<font color='#bf80ff'>神经网络</font>中的敌人"
+LocLongDescription="暂时控制所有接入<font color='#bf80ff'>神经网络</font>的敌人。<Ability:PUPPETEER_CHARGES/>次/任务"
+LocFlyOverText="傀儡大师"
+LocMissMessage="抵抗控制"
+
+[MindLash_MPP X2AbilityTemplate]
+LocFriendlyName="精神鞭笞"
+LocHelpText="心灵撕裂对每个<font color='#bf80ff'>神经网络</font>中的敌人伤害增加"
+LocLongDescription="心灵撕裂对每个<font color='#bf80ff'>神经网络</font>中的敌人伤害增加"
+LocFlyOverText="精神鞭笞"
+
+[Collar_MPP X2AbilityTemplate]
+LocFriendlyName="精神项圈"
+LocHelpText="短暂控制<font color='#bf80ff'>神经网络</font>中的敌人"
+LocLongDescription="精神控制<font color='#bf80ff'>神经网络</font>中的敌人直至玩家阶段结束"
+LocFlyOverText="精神项圈"
+LocMissMessage="抵抗控制！"
+
+[SeverLink X2AbilityTemplate]
++LocFriendlyName="驱散僵尸"
++LocLongDescription="灵能者可主动切断与复活僵尸的精神链接"
++LocHelpText="切断与僵尸的灵能链接"
++LocFlyOverText="切断链接"
+
+[Potential_Envoy_MPP X2AbilityTemplate]
+LocFriendlyName="潜能激发"
+LocHelpText="生命值+<Ability:POTENTIAL_ENVOY_HP/>，闪避+<Ability:POTENTIAL_ENVOY_DODGE/>"
+LocLongDescription="生命值+<Ability:POTENTIAL_ENVOY_HP/>，闪避+<Ability:POTENTIAL_ENVOY_DODGE/>"
+LocFlyOverText="潜能激发"
+
+[Puppeteer_Domination_MPP X2AbilityTemplate]
+LocFriendlyName="绝对支配"
+LocHelpText="傀儡大师升级为永久控制<font color='#bf80ff'>神经网络</font>中的所有敌人"
+LocLongDescription="傀儡大师升级为永久控制<font color='#bf80ff'>神经网络</font>中的所有敌人"
+LocFlyOverText="绝对支配"

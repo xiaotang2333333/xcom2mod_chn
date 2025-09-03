@@ -1,0 +1,1405 @@
+[ShadowOps_Dragoon_Redux X2SoldierClassTemplate]
+DisplayName="龙骑兵"
+ClassSummary="装备重型武器和护盾技术的龙骑兵，提供强大火力和防护，确保其小队在激战中保持掩护和战斗准备。"
+LeftAbilityTreeTitle="圣骑士"
+RightAbilityTreeTitle="增援者"
++AbilityTreeTitles[0]="圣骑士"
++AbilityTreeTitles[1]="增援者"
++AbilityTreeTitles[2]="炮兵"
++AbilityTreeTitles[3]="XCOM"
++AbilityTreeTitles[4]="手枪"
+RandomNickNames[0]="保险丝盒"
+RandomNickNames[1]="电路"
+RandomNickNames[2]="核心转储"
+RandomNickNames[3]="太空人"
+RandomNickNames[4]="生化人"
+RandomNickNames[5]="狮鹫"
+RandomNickNames[6]="战锤"
+RandomNickNames[7]="诱饵弹"
+RandomNickNames[8]="海德拉"
+RandomNickNames[9]="驮兽"
+RandomNickNames[10]="曼提柯尔"
+RandomNickNames[11]="米诺陶"
+RandomNickNames[12]="迷宫"
+RandomNickNames[13]="再试一次"
+RandomNickNames[14]="凤凰"
+RandomNickNames[15]="砖头"
+RandomNickNames[16]="蓝屏死机"
+RandomNickNames[17]="住院"
+RandomNickNames[18]="随便哥"
+RandomNickNames[19]="斯芬克斯"
+RandomNickNames[20]="那家伙"
+RandomNickNames[21]="数学不好"
+RandomNickNames[22]="独角兽"
+RandomNickNames_Male[0]="兽人"
+RandomNickNames_Female[0]="塞壬"
+
+[Z_ECMOverlays X2AbilityTemplate]
+LocFriendlyName="增强型叠加系统"
+LocLongDescription="提供ECM和传感器叠加能力，降低全队的被发现几率并提升暴击几率。"
+LocHelpText="提高的暴击几率适用于此士兵可见的单位。"
+LocFlyOverText="增强型叠加系统"
+
+[Z_SuppressingFire X2AbilityTemplate]
+LocFriendlyName="压制火力"
+LocLongDescription="提供压制火力，如果士兵尚未拥有压制能力，则同时获得压制能力。"
+LocHelpText="向目标开火，随后以持续火力压制目标。"
+LocFlyOverText="压制火力"
+
+[Z_AdvancedIntrusion X2AbilityTemplate]
+LocFriendlyName="高级入侵"
+LocLongDescription="获得<font color='#1abc9c'>故障保险</font>和<font color='#1abc9c'>木马</font>，抵消黑客失败的效果，并改进故障协议，使其结束时对目标造成伤害并消耗其行动点。"
+LocHelpText="获得<font color='#1abc9c'>故障保险</font>和<font color='#1abc9c'>木马</font>，抵消黑客失败的效果，并改进故障协议，使其结束时对目标造成伤害并消耗其行动点。"
+LocPromotionPopupText="<Bullet> <font color='#1abc9c'>故障保险</font>：如果骇入失败，你将防止任何负面效果发生。<br><Bullet> <font color='#1abc9c'>木马</font>：受故障协议影响的敌方单位会在黑客效果结束的回合受到伤害并失去行动点。"
+LocFlyOverText="高级入侵"
+
+[Z_RocketSalvo X2AbilityTemplate]
+LocFriendlyName="重型武器专家"
+LocLongDescription="提供单次使用的粉碎炮和齐射能力。"
+LocHelpText="提供单次使用的粉碎炮和齐射能力。"
+LocFlyOverText="轰！"
+
+[Tech_SPARKCannon_LS X2TechTemplate]
+DisplayName="BSG-12 激光炮"
+Summary="加特林炮是普通士兵携带的迷你炮的重型版本。这种坚固的武器提供重型火力，只能由我们的SPARK/MEC单位使用。其能力现通过激光武器技术得到进一步改进。"
+
+[Tech_SPARKCannon_MG X2TechTemplate]
+DisplayName="BSG-17 磁轨炮"
+Summary="加特林炮是普通士兵携带的迷你炮的重型版本。这种坚固的武器提供重型火力，只能由我们的SPARK/MEC单位使用。其能力现通过磁力武器技术得到进一步改进。"
+
+[Tech_SPARKCannon_CG X2TechTemplate]
+DisplayName="BSG-20 高斯炮"
+Summary="加特林炮是普通士兵携带的迷你炮的重型版本。这种坚固的武器提供重型火力，只能由我们的SPARK/MEC单位使用。其能力现通过线圈武器技术得到进一步改进。"
+
+[Tech_SPARKCannon_BM X2TechTemplate]
+DisplayName="BSG-25 电浆炮"
+Summary="加特林炮是普通士兵携带的迷你炮的重型版本。这种坚固的武器提供重型火力，只能由我们的SPARK/MEC单位使用。其能力现通过电浆武器技术得到进一步改进。"
+
+[SPARKCannon_CV X2WeaponTemplate]
+FriendlyName="BSG-09 加特林炮"
+FriendlyNamePlural="BSG-09 加特林炮"
+BriefSummary="一种强大但笨重的火炮，专为SPARK/MEC单位使用而设计。"
+TacticalText="<Bullet/> 在没有特殊训练的情况下，使用主武器开火会结束士兵的回合。"
+AbilityDescName="BSG-09 加特林炮"
+
+[SPARKCannon_LS X2WeaponTemplate]
+FriendlyName="BSG-12 激光炮"
+FriendlyNamePlural="BSG-12 激光炮"
+BriefSummary="一种强大但笨重的火炮，专为SPARK/MEC单位使用而设计。"
+TacticalText="<Bullet/> 在没有特殊训练的情况下，使用主武器开火会结束士兵的回合。"
+AbilityDescName="BSG-12 激光炮"
+
+[SPARKCannon_MG X2WeaponTemplate]
+FriendlyName="BSG-17 磁轨炮"
+FriendlyNamePlural="BSG-17 磁轨炮"
+BriefSummary="一种强大但笨重的火炮，专为SPARK/MEC单位使用而设计。"
+TacticalText="<Bullet/> 在没有特殊训练的情况下，使用主武器开火会结束士兵的回合。"
+AbilityDescName="BSG-17 磁轨炮"
+
+[SPARKCannon_CG X2WeaponTemplate]
+FriendlyName="BSG-20 高斯炮"
+FriendlyNamePlural="BSG-20 高斯炮"
+BriefSummary="一种强大但笨重的火炮，专为SPARK/MEC单位使用而设计。"
+TacticalText="<Bullet/> 在没有特殊训练的情况下，使用主武器开火会结束士兵的回合。"
+AbilityDescName="BSG-20 高斯炮"
+
+[SPARKCannon_BM X2WeaponTemplate]
+FriendlyName="BSG-25 电浆炮"
+FriendlyNamePlural="BSG-25 电浆炮"
+BriefSummary="一种强大但笨重的火炮，专为SPARK/MEC单位使用而设计。"
+TacticalText="<Bullet/> 在没有特殊训练的情况下，使用主武器开火会结束士兵的回合。"
+AbilityDescName="BSG-25 电浆炮"
+
+[MZImmolator_CV X2WeaponTemplate]
+FriendlyName="屠杀者"
+FriendlyNamePlural="屠杀者"
+BriefSummary="这种化学喷射器发射一股高度易燃的化学物质，燃烧并伤害多个目标。与火焰喷射器相比，屠杀者造成更高的直接伤害和持续伤害，并且能够装备武器改装。"
+TacticalText="<Bullet/> 化学喷射器在广阔区域内造成较低伤害，使其仅在对付多个目标或施加状态效果时有效。<br><Bullet/> 屠杀者总会点燃目标，造成持续伤害并禁用某些能力。<br><Bullet/> 某些敌人可能免疫火焰，不会受到屠杀者的伤害。<br><Bullet/> 对失魂者极其有效。"
+AbilityDescName="屠杀者"
+
+[MZImmolator_MG X2WeaponTemplate]
+FriendlyName="高级屠杀者"
+FriendlyNamePlural="高级屠杀者"
+BriefSummary="这种化学喷射器发射一股高度易燃的化学物质，燃烧并伤害多个目标。与基础屠杀者相比，这种高级版本造成更高的直接伤害和持续伤害。"
+TacticalText="<Bullet/> 化学喷射器在广阔区域内造成较低伤害，使其仅在对付多个目标或施加状态效果时有效。<br><Bullet/> 屠杀者总会点燃目标，造成持续伤害并禁用某些能力。<br><Bullet/> 某些敌人可能免疫火焰，不会受到屠杀者的伤害。<br><Bullet/> 对失魂者极其有效。"
+AbilityDescName="屠杀者"
+
+[MZImmolator_BM X2WeaponTemplate]
+FriendlyName="终极屠杀者"
+FriendlyNamePlural="终极屠杀者"
+BriefSummary="这种化学喷射器发射一股高度易燃的化学物质，燃烧并伤害多个目标。与高级焚化者相比，这种超级版本造成更高的直接伤害和持续伤害。"
+TacticalText="<Bullet/> 化学喷射器在广阔区域内造成较低伤害，使其仅在对付多个目标或施加状态效果时有效。<br><Bullet/> 屠杀者总会点燃目标，造成持续伤害并禁用某些能力。<br><Bullet/> 某些敌人可能免疫火焰，不会受到屠杀者的伤害。<br><Bullet/> 对失魂者极其有效。"
+AbilityDescName="屠杀者"
+
+[MZChemthrowerSuppression X2AbilityTemplate]
+LocFriendlyName="化学喷射器压制"
+LocLongDescription="用<Ability:ClassName/>的化学喷射器持续火力压制目标，如果目标移动则获得对其的反应射击机会，并对目标施加<Ability:SUPPRESSIONPENALTY/>的命中惩罚。保证将化学喷射器的状态效果施加到效果区域内的所有目标。每次使用后有2回合冷却时间，除非与冷冻喷射器一起使用。"
+LocHelpText="惩罚主要目标的命中，如果其移动则射击他们，并将此武器的状态效果施加到效果区域内的所有目标。"
+LocFlyOverText="化学喷射器压制"
+LocPromotionPopupText="<Bullet/> 化学喷射器压制消耗<Ability:SelfAmmoCost/>弹药点使用，但没有冷却时间。<br/><Bullet/> 反应射击不需要任何额外弹药，但只会对主要目标开火。<br/><Bullet/> 如果压制单位受到伤害，化学喷射器压制将被取消。<br/><Bullet/> 如果主要目标移动时附近有其他目标，将对锥形区域内的多个目标造成伤害。<br/><Bullet/> 化学喷射器的额外状态效果保证会立即施加给效果区域内的所有目标，除非他们免疫该效果。<br/><Bullet/> 反应射击受敌人掩体的惩罚减少，使其成为对付 entrenched 敌人的好选择。<br/><Bullet/> 每次使用后有2回合冷却时间，除非与冷冻喷射器一起使用。"
+
+
+[Sidearm_LS X2WeaponTemplate]
+FriendlyName="加热器"
+FriendlyNamePlural="加热器"
+BriefSummary="这款自动手枪变体的连续激光束能毫不费力地在无装甲目标上烧出洞来。可变的功率输出和宽敞的电池使该武器能在寒冷气候下兼作紧凑的热源。这个无意但受欢迎的副作用为该武器赢得了其绰号，并流传到连沈都记不清它原本应该叫什么的地步。"
+TacticalText="这款自动手枪变体的连续激光束能毫不费力地在无装甲目标上烧出洞来。可变的功率输出和宽敞的电池使该武器能在寒冷气候下兼作紧凑的热源。这个无意但受欢迎的副作用为该武器赢得了其绰号，并流传到连沈都记不清它原本应该叫什么的地步。<br/><Bullet/> 自动手枪可以用单个行动点发射。"
+AbilityDescName="自动手枪"
+
+[Sidearm_CG X2WeaponTemplate]
+FriendlyName="循环者"
+FriendlyNamePlural="循环者"
+BriefSummary="循环者在设计之初就着眼于两个关键特性：超紧凑尺寸和火力密度。改用无壳弹药使我们能够在不过度牺牲精度和伤害的情况下实现这两个目标。"
+TacticalText="循环者在设计之初就着眼于两个关键特性：超紧凑尺寸和火力密度。改用无壳弹药使我们能够在不过度牺牲精度和伤害的情况下实现这两个目标。<br/><Bullet/> 自动手枪可以用单个行动点发射。"
+AbilityDescName="自动手枪"
+
+[IRI_ArtilleryCannon_LS X2WeaponTemplate]
+FriendlyName="RS-9 激光器"
+FriendlyNamePlural="RS-9 激光器"
+BriefSummary="一种设计最为精密的脉冲激光武器，激光器能够通过调制激光束波长和以不同模式排列聚焦透镜阵列，对目标造成不同效果。"
+TacticalText="一种设计最为精密的脉冲激光武器，激光器能够通过调制激光束波长和以不同模式排列聚焦透镜阵列，对目标造成不同效果。<br/><bullet/> 重型加农炮发射的脉冲激光束可以烧穿掩体，承受<Ability:IRI_HEAVY_CANNON_LOW_COVER_DAMAGE_PENALTY/>/<Ability:IRI_HEAVY_CANNON_HIGH_COVER_DAMAGE_PENALTY/>伤害惩罚而非命中惩罚。<br/><bullet/> 重型加农炮每射击一次后必须重新装弹，并且需要2个行动点来开火。<br/><bullet/> 重型加农炮的战术灵活性可以通过携带特殊炮弹类型来潜在地提高。<br/><bullet/> 所有重型加农炮攻击都受益于特殊弹药。"
+AbilityDescName="重型加农炮"
+
+[IRI_ArtilleryCannon_CG X2WeaponTemplate]
+FriendlyName="DON-82 线圈重型加农炮"
+FriendlyNamePlural="DON-82 线圈重型加农炮"
+BriefSummary="以夜班初级技术员Donald的名字命名，他在摆弄复仇者号的线圈时差点在船体上开个洞。线圈重型加农炮是一种多功能滑膛火炮，能够以无与伦比的威力和精度远距离投送各种有效载荷的炮弹。"
+TacticalText="以夜班初级技术员Donald的名字命名，他在摆弄复仇者号的线圈时差点在船体上开个洞。线圈重型加农炮是一种多功能滑膛火炮，能够以无与伦比的威力和精度远距离投送各种有效载荷的炮弹。<br/><bullet/> 重型加农炮发射的高超音速射弹可以击穿掩体，承受<Ability:IRI_HEAVY_CANNON_LOW_COVER_DAMAGE_PENALTY/>/<Ability:IRI_HEAVY_CANNON_HIGH_COVER_DAMAGE_PENALTY/>伤害惩罚而非命中惩罚。<br/><bullet/> 重型加农炮每射击一次后必须重新装弹，并且需要2个行动点来开火。<br/><bullet/> 重型加农炮的战术灵活性可以通过携带特殊炮弹类型来潜在地提高。<br/><bullet/> 所有重型加农炮攻击都受益于特殊弹药。"
+AbilityDescName="重型加农炮"
+
+[SawedOffShotgun_LS X2WeaponTemplate]
+FriendlyName="炽焰者"
+FriendlyNamePlural="炽焰者"
+BriefSummary="官方命名为二元激光器，这种紧凑、近程的脉冲激光武器有两个射击腔室，装载着高脉冲一次性电池。我们的一名操作员一看到它开火，就立刻给它起了个“炽焰者”的绰号。"
+TacticalText="官方命名为二元激光器，这种紧凑、近程的脉冲激光武器有两个射击腔室，装载着高脉冲一次性电池。我们的一名操作员一看到它开火，就立刻给它起了个“炽焰者”的绰号。<br/><Bullet/> 无升级时每任务有2发弹药。"
+AbilityDescName="短管霰弹枪"
+
+[SawedOffShotgun_CG X2WeaponTemplate]
+FriendlyName="线圈短管"
+FriendlyNamePlural="线圈短管"
+BriefSummary="将古老简单的设计与最新的射弹加速技术相结合，你会得到一种可怕的有效武器，让任何敌人后悔靠得太近。"
+TacticalText="将古老简单的设计与最新的射弹加速技术相结合，你会得到一种可怕的有效武器，让任何敌人后悔靠得太近。<br/><Bullet/> 无升级时每任务有2发弹药。"
+AbilityDescName="短管霰弹枪"
+
+[WristBlade_LS X2PairedWeaponTemplate]
+FriendlyName="脉冲开颅刃"
+FriendlyNamePlural="脉冲开颅刃"
+BriefSummary="我们用脉冲投射刀刃发射器增强了标准的开颅刃，它能产生一对锋利的红色利爪。初步实地测试表明，新开颅刃在长时间使用时会过热，但我们没有收到来自散兵的投诉。"
+TacticalText="我们用脉冲投射刀刃发射器增强了标准的开颅刃，它能产生一对锋利的红色利爪。初步实地测试表明，新开颅刃在长时间使用时会过热，但我们没有收到来自散兵的投诉。<Bullet/> 散兵可以利用他们的开颅刃配合抓钩，成为整个战场的恐怖存在。\n<Bullet/> 决定与敌人进行近战可能是决定性的；请谨慎行事。\n<Bullet/> 留意提高我们刃武器强度的机会——敌人可能拥有更先进的技术。"
+AbilityDescName="开颅刃"
+
+[WristBlade_CG X2PairedWeaponTemplate]
+FriendlyName="纳米科技开颅刃"
+FriendlyNamePlural="纳米科技开颅刃"
+BriefSummary="纳米科技爪的最初原型采用了单分子刀刃以实现卓越的切割，但散兵的实地测试很快证明它们太脆弱，因此我们不得不退而求其次使用纳米级开颅刃。"
+TacticalText="纳米科技爪的最初原型采用了单分子刀刃以实现卓越的切割，但散兵的实地测试很快证明它们太脆弱，因此我们不得不退而求其次使用纳米级开颅刃。<Bullet/> 散兵可以利用他们的开颅刃配合抓钩，成为整个战场的恐怖存在。\n<Bullet/> 决定与敌人进行近战可能是决定性的；请谨慎行事。\n<Bullet/> 留意提高我们刃武器强度的机会——敌人可能拥有更先进的技术。"
+AbilityDescName="开颅刃"
+
+[Sword_CG X2WeaponTemplate]
+FriendlyName="线圈剑"
+FriendlyNamePlural="线圈剑"
+BriefSummary="外星材料技术的突破性进展使我们能够制造出具有单分子刃的合金刀刃。电磁磨刃系统将切割刃厚度维持在仅一个原子，使其无需在挥动时施加太多力量就能切割大多数物体。我们利用这一点增加了射程更远的次要“鞭击”攻击模式。AI控制的陀螺稳定系统保证了用户的安全，即使没有这种特殊武器通常所需的特殊训练。"
+TacticalText="外星材料技术的突破性进展使我们能够制造出具有单分子刃的合金刀刃。电磁磨刃系统将切割刃厚度维持在仅一个原子，使其无需在挥动时施加太多力量就能切割大多数物体。我们利用这一点增加了射程更远的次要“鞭击”攻击模式。AI控制的陀螺稳定系统保证了用户的安全，即使没有这种特殊武器通常所需的特殊训练。"
+AbilityDescName="剑"
+
+[Sword_LS X2WeaponTemplate]
+FriendlyName="激光战争刀"
+FriendlyNamePlural="激光战争刀"
+BriefSummary="激光战争刀是我们投射刀刃技术领域最佳努力的成果。调制脉冲发射器产生近乎实体的切割刃。刀刃形状经过优化，适用于劈砍和刺击，发达的护手既能保护使用者免受自身刀刃伤害，也能更有效地偏转敌人的近战攻击。集成在刀鞘中的便携电池组确保了在野外的充足自主性。"
+TacticalText="激光战争刀是我们投射刀刃技术领域最佳努力的成果。调制脉冲发射器产生近乎实体的切割刃。刀刃形状经过优化，适用于劈砍和刺击，发达的护手既能保护使用者免受自身刀刃伤害，也能更有效地偏转敌人的近战攻击。集成在刀鞘中的便携电池组确保了在野外的充足自主性。"
+AbilityDescName="剑"
+
+[CombatKnife_LS X2WeaponTemplate]
+FriendlyName="激光弯刀"
+FriendlyNamePlural="激光弯刀"
+BriefSummary="激光弯刀是一种用于近距离个人防卫的高级近战武器。它使用改进的脉冲发射器，投射频率和波长快速调制的光波，产生近乎实体的刀刃，可以毫不费力地切割大多数材料。"
+TacticalText="激光弯刀是一种用于近距离个人防卫的高级近战武器。它使用改进的脉冲发射器，投射频率和波长快速调制的光波，产生近乎实体的刀刃，可以毫不费力地切割大多数材料。<br/><Bullet/> 轻量级副武器 - 刀攻击需要一个行动点且不结束你的回合。<br/><Bullet/> 战斗刀攻击有<Ability:WOTCLW2SW_COLOR_2_OPEN/>+<ABILITY:COMBATKNIFE_CV_AIM/>%<Ability:WOTCLW2SW_COLOR_CLOSE/>的命中几率。"
+AbilityDescName="战斗刀"
+
+[CombatKnife_CG X2WeaponTemplate]
+FriendlyName="渐进式刀"
+FriendlyNamePlural="渐进式刀"
+BriefSummary="尽管外观实用，渐进式刀是一种致命的近战武器。"锋利"一词甚至无法形容其单分子切割刃。刀刃薄而易碎，因此我们在刀柄中设置了一个自动更换系统。"
+TacticalText="尽管外观实用，渐进式刀是一种致命的近战武器。"锋利"一词甚至无法形容其单分子切割刃。刀刃薄而易碎，因此我们在刀柄中设置了一个自动更换系统。<br/><Bullet/> 轻量级副武器 - 刀攻击需要一个行动点且不结束你的回合。<br/><Bullet/> 战斗刀攻击有<Ability:WOTCLW2SW_COLOR_2_OPEN/>+<ABILITY:COMBATKNIFE_CV_AIM/>%<Ability:WOTCLW2SW_COLOR_CLOSE/>的命中几率。"
+AbilityDescName="战斗刀"
+
+[HunterRifle_Laser X2WeaponTemplate]
+FriendlyName="激光猎人步枪"
+FriendlyNamePlural="激光猎人步枪"
+BriefSummary="激光猎人步枪配备了一系列较小的相干激光发射器，设置成快速连续发射。这种方法使武器更容易锁定目标以获得可靠的目标锁定，但引入了显著的伤害方差。"
+TacticalText="激光猎人步枪配备了一系列较小的相干激光发射器，设置成快速连续发射。这种方法使武器更容易锁定目标以获得可靠的目标锁定，但引入了显著的伤害方差。<br/><Bullet/> 在没有特殊训练的情况下，使用主武器开火会结束士兵的回合。\n<Bullet/> 使用从敌人那里缴获的升级来提高猎人步枪的战术效力。"
+AbilityDescName="突击步枪"
+
+[HunterRifle_Coil X2WeaponTemplate]
+FriendlyName="线圈猎人步枪"
+FriendlyNamePlural="线圈猎人步枪"
+BriefSummary="猎人步枪的线圈变体具有双枪管和双套反向螺旋加速线圈。每个枪管独立磁化，确保 stopping power 和精度之间的最佳比率。"
+TacticalText="猎人步枪的线圈变体具有双枪管和双套反向螺旋加速线圈。每个枪管独立磁化，确保 stopping power 和精度之间的最佳比率。<br/><Bullet/> 在没有特殊训练的情况下，使用主武器开火会结束士兵的回合。\n<Bullet/> 使用从敌人那里缴获的升级来提高猎人步枪的战术效力。"
+AbilityDescName="突击步枪"
+
+[PrototypeStrikeModule X2WeaponTemplate]
+FriendlyName="原型打击模块"
+FriendlyNamePlural="原型打击模块"
+BriefSummary="原型打击模块是一种臂装合金指虎，带有固体燃料火箭助推器，可提高我们机械化单位在近距离战斗中的效力。这是基于雷蒙德·沈博士工作的未完成原型。通过进一步研究和外星材料，我们也许能发挥其真正潜力。"
+TacticalText="<Bullet/> 原型打击模块是一种臂装合金指虎，带有固体燃料火箭助推器，可提高我们机械化单位在近距离战斗中的效力。\n<Bullet/> 这是基于雷蒙德·沈博士工作的未完成原型。通过进一步研究和外星材料，我们也许能发挥其真正潜力。\n<Bullet/> 经过编程或训练专精于近战战斗的SPARK和MEC士兵可能更容易操作这种武器及其后继产品（如果我们制造的话）。"
+AbilityDescName="原型打击模块"
+
+[Obliterator X2AbilityTemplate]
+LocFriendlyName="突击伺服"
+LocLongDescription="所有打击攻击+2伤害，并确保每次攻击都会命中。同时授予 破碎球 能力，并使由打击模块授予的动能打击能力（次要）不再结束回合。"
+LocHelpText="所有打击攻击+2伤害，并确保每次攻击都会命中。"
+LocPromotionPopupText="<Bullet/> 学习突击伺服能力将为所有动能打击攻击提供+2伤害和额外的+20命中。<br/><Bullet/> 加上伤害提升，动能打击的伤害将根据装备的SPARK底盘变为8/10/12。<br/><Bullet/> 半伤打击攻击只获得+1伤害提升。<br/><Bullet/> 此能力包含破碎球。它允许SPARK在使用过载时摧毁其经过的任何环境物体。<br/><Bullet/> 将 破碎球 过载与动能打击结合，不仅可以摧毁目标的掩体，还能造成大量伤害并在之后拥有一个行动点。<br/><Bullet/> 注意：只有由原型打击模块或动能打击模块授予的动能打击能力变为不结束回合；SPARK自行学习的打击能力不受此特性影响。<br/>"
+
+[SabotRoundsProject X2TechTemplate]
+DisplayName="脱壳穿甲弹"
+Summary="这些箭形次口径弹丸使用抛弃式弹托加速到高超音速，使其在远距离极为高效，并且更难被敌人躲避。"
+
+[IRI_Incinerator_MG X2WeaponTemplate]
+FriendlyName="SF-21 灰烬使者"
+FriendlyNamePlural="SF-21 灰烬使者"
+BriefSummary="“灰烬使者”的关键部件由外星合金制造，使其能承受更大的压力和温度，从而可能释放出火焰风暴。这是一种大型武器，只能由SPARK和MEC士兵单位使用。"
+TacticalText="“灰烬使者”的关键部件由外星合金制造，使其能承受更大的压力和温度，从而可能释放出火焰风暴。<br/><bullet/> 免疫火焰的目标不会受到此武器的伤害。<br/><bullet/> 常规和监视攻击都覆盖一个锥形区域。在靠近友军单位和敏感物体时必须小心操作此武器。"
+AbilityDescName="火焰喷射器"
+
+[IRI_Incinerator_BM X2WeaponTemplate]
+FriendlyName="SF-35 太阳耀斑"
+FriendlyNamePlural="SF-35 太阳耀斑"
+BriefSummary="“太阳耀斑”发射一股过热电离气体流，能给任何目标区域带来毁灭性的破坏。这是一种大型武器，只能由SPARK和MEC士兵单位使用。"
+TacticalText="“太阳耀斑”发射一股过热电离气体流，能给任何目标区域带来毁灭性的破坏。<br/><bullet/> 免疫火焰的目标不会受到此武器的伤害。<br/><bullet/> 常规和监视攻击都覆盖一个锥形区域。在靠近友军单位和敏感物体时必须小心操作此武器。"
+AbilityDescName="火焰喷射器"
+
+[IRI_ElectroPulse X2AbilityTemplate]
+LocFriendlyName="电磁脉冲"
+LocLongDescription="发射一个电磁脉冲，造成电击伤害并移除能量护盾，并关闭周围的机器人单位。"
+LocHelpText="发射一个电磁脉冲，造成电击伤害并移除能量护盾，并关闭周围的机器人单位。"
+LocFlyOverText="电磁脉冲"
+
+[IRI_ElectroPulse_Bit X2AbilityTemplate]
+LocFriendlyName="电磁脉冲"
+LocLongDescription="命令BIT发射一个电磁脉冲，对目标区域造成电击伤害、移除能量护盾，并关闭机器人单位。"
+LocHelpText="命令BIT发射一个电磁脉冲，对目标区域造成电击伤害、移除能量护盾，并关闭机器人单位。"
+LocFlyOverText="电磁脉冲"
+
+[IRI_ElectroPulse_CV X2WeaponTemplate]
+FriendlyName="电磁脉冲"
+FriendlyNamePlural="电磁脉冲"
+BriefSummary="该模块能够发射电磁脉冲，暂时关闭一个区域内的机器人单位。它还将禁用所有受影响单位的能量护盾，并造成电击伤害。作为重型武器携带。如果装备在BIT上，可以远程部署。"
+TacticalText="该模块能够发射电磁脉冲，暂时关闭一个区域内的机器人单位。它还将禁用所有受影响单位的能量护盾，并造成电击伤害。作为重型武器携带。如果装备在BIT上，可以远程部署。<br/><Bullet/> 携带电磁脉冲模块的单位免疫自身EMP的效果，但其他在区域内的友军单位会受到影响。<br/><Bullet/> 如果装备了BIT，可用于在目标区域释放电磁脉冲，从而可能影响远处的单位。"
+AbilityDescName="电磁脉冲"
+
+[IRI_HeavyStrikeModule_T1 X2WeaponTemplate]
+FriendlyName="重型打击模块"
+FriendlyNamePlural="重型打击模块"
+BriefSummary="设计为作为重型武器安装到我们的外骨骼服上，重型打击模块使其使用者能够突破敌人和墙壁。"
+TacticalText="设计为作为重型武器安装到我们的外骨骼服上，重型打击模块使其使用者能够突破敌人和墙壁。<br/><Bullet/> 如果士兵拥有以下能力之一：Insight, Windcaller's Legacy, Marauder, Fleche, Knife Fighter, or Rend，则此武器授予的重型打击能力在使用时不会结束回合。"
+AbilityDescName="重型打击模块"
+
+[IRI_HeavyStrikeModule_T2 X2WeaponTemplate]
+FriendlyName="动力打击模块"
+FriendlyNamePlural="动力打击模块"
+BriefSummary="动力打击模块能够从重型武器架汲取更多能量，对相邻的敌人和物体进行毁灭性打击。"
+TacticalText="动力打击模块能够从重型武器架汲取更多能量，对相邻的敌人和物体进行毁灭性打击。<br/><Bullet/> 如果士兵拥有以下能力之一：Insight, Windcaller's Legacy, Marauder, Fleche, Knife Fighter, or Rend，则此武器授予的重型打击能力在使用时不会结束回合。"
+AbilityDescName="动力打击模块"
+
+[ShieldWall X2AbilityTemplate]
+LocFriendlyName="盾墙"
+LocHelpText="为相邻单位提供全掩体，并获得<Ability:BS_TAG_SHIELD_WALL_DEFENSE/>防御和+20闪避，直到你的下回合开始。"
+LocLongDescription="为相邻单位提供全掩体，并获得<Ability:BS_TAG_SHIELD_WALL_DEFENSE/>防御和+20闪避，直到你的下回合开始。"
+LocFlyOverText="盾墙"
+
+[ShieldStatsMJ_CV X2AbilityTemplate]
+LocFriendlyName="弹道盾耐久"
+LocHelpText="提供1点护甲和20点闪避。"
+LocLongDescription="提供1点护甲和20点闪避。"
+
+[ShieldStatsMJ_MG X2AbilityTemplate]
+LocFriendlyName="弹道盾耐久"
+LocHelpText="提供2点护甲和20点闪避。"
+LocLongDescription="提供2点护甲和20点闪避。"
+
+[ShieldStatsMJ_BM X2AbilityTemplate]
+LocFriendlyName="弹道盾耐久"
+LocHelpText="提供2点护甲和40点闪避。"
+LocLongDescription="提供2点护甲和40点闪避。"
+
+[TemplarBallisticShield_GenerateCover X2AbilityTemplate]
+LocFriendlyName="弹道盾"
+LocHelpText="为盟友提供半掩体，并抵消针对此单位的侧翼攻击加成。"
+LocLongDescription="为盟友提供半掩体，并抵消针对此单位的侧翼攻击加成。"
+LocFlyOverText="弹道盾"
+
+[UBFlame_Ammo X2EquipmentTemplate]
+FriendlyName="下挂火焰喷射器燃料罐"
+FriendlyNamePlural="下挂火焰喷射器燃料罐"
+BriefSummary="下挂火焰喷射器可以额外使用一次。"
+TacticalText="下挂火焰喷射器可以额外使用一次。"
+
+[UBFlame_Ammo_Arsonist X2WeaponTemplate]
+FriendlyName="下挂火焰喷射器高容量燃料罐"
+FriendlyNamePlural="下挂火焰喷射器高容量燃料罐"
+BriefSummary="下挂火焰喷射器可以额外使用两次。"
+TacticalText="下挂火焰喷射器可以额外使用两次。"
+
+[UBS_Conv X2WeaponUpgradeTemplate]
+FriendlyName="下挂霰弹枪"
+FriendlyNamePlural="下挂霰弹枪"
+BriefSummary="为近距离交战提供额外火力。可发射3次后才需要重新装弹，这需要装备额外的下挂霰弹枪弹药。"
+TinySummary="额外武器"
+;LootTooltip="UBS 战利品提示。"
+
+[UBS_Mag X2WeaponUpgradeTemplate]
+FriendlyName="下挂破片枪"
+FriendlyNamePlural="下挂破片枪"
+BriefSummary="为近距离交战提供额外火力。与其前身相比，提供改进的伤害和暴击伤害。可发射3次后才需要重新装弹，这需要装备额外的下挂霰弹枪弹药。"
+TinySummary="额外武器"
+
+[UBS_Beam X2WeaponUpgradeTemplate]
+FriendlyName="下挂风暴枪"
+FriendlyNamePlural="下挂风暴枪"
+BriefSummary="为近距离交战提供额外火力。与其前身相比，提供改进的伤害和暴击伤害，以及一点撕裂效果。可发射3次后才需要重新装弹，这需要装备额外的下挂霰弹枪弹药。"
+TinySummary="额外武器"
+
+[UBFlame_Conv X2WeaponUpgradeTemplate]
+FriendlyName="下挂火焰喷射器"
+FriendlyNamePlural="下挂火焰喷射器"
+BriefSummary="为近距离交战提供额外火力。保证命中并造成燃烧，但会被高掩体阻挡。"
+TinySummary="额外武器"
+
+[UBFlame_Mag X2WeaponUpgradeTemplate]
+FriendlyName="下挂灵能喷射器"
+FriendlyNamePlural="下挂灵能喷射器"
+BriefSummary="这种下挂火焰喷射器的改进版本使用胶状灵能燃料，允许造成更高的直接伤害。射程和半径相比传统型号有所改进。保证命中并造成燃烧，但会被高掩体阻挡。"
+TinySummary="额外武器"
+
+[UBFlame_Beam X2WeaponUpgradeTemplate]
+FriendlyName="下挂灵能酸液喷射器"
+FriendlyNamePlural="下挂灵能酸液喷射器"
+BriefSummary="为了进一步改进我们的下挂火焰喷射器，我们在燃料混合物中添加了精炼的灵能酸，这提高了直接伤害并允许削减一点护甲。它还在标准燃烧之外对敌人施加持久的酸液灼伤。射程和半径与其前身相同。保证命中并造成燃烧和酸液腐蚀，但会被全掩体阻挡。"
+TinySummary="额外武器"
+
+[UBGL_Conv X2WeaponUpgradeTemplate]
+FriendlyName="下挂手榴发射器"
+FriendlyNamePlural="下挂手榴发射器"
+BriefSummary="提供发射特殊40mm高爆榴弹的能力。这些榴弹可以比投掷或从次要榴弹发射器发射的榴弹射得更远，但发射器每次射击后必须重新装弹，这需要装备额外的下挂榴弹。"
+TinySummary="额外武器"
+
+[UBGL_Mag X2WeaponUpgradeTemplate]
+FriendlyName="下挂磁力手榴发射器"
+FriendlyNamePlural="下挂磁力手榴发射器"
+BriefSummary="提供发射特殊合金高爆榴弹的能力，与其前身相比提供改进的伤害和 削减ding。这些榴弹可以比投掷或从次要榴弹发射器发射的榴弹射得更远，但发射器每次射击后必须重新装弹，这需要装备额外的下挂榴弹。"
+TinySummary="额外武器"
+
+[UBGL_Beam X2WeaponUpgradeTemplate]
+FriendlyName="下挂光束手榴发射器"
+FriendlyNamePlural="下挂光束手榴发射器"
+BriefSummary="提供发射特殊灵能高爆榴弹的能力，与其前身相比提供改进的伤害和 削减ding。这些榴弹还可以机动绕过障碍物到达目标。这些榴弹可以比投掷或从次要榴弹发射器发射的榴弹射得更远，但发射器每次射击后必须重新装弹，这需要装备额外的下挂榴弹。"
+TinySummary="额外武器"
+
+[UnderbarrelShotgunCompensator X2AbilityTemplate]
+LocFriendlyName="下挂霰弹枪补偿器"
+LocLongDescription="使用你的下挂霰弹枪不再结束你的回合。"
+LocHelpText="使用你的下挂霰弹枪不再结束你的回合。"
+LocPromotionPopupText="使用你的下挂霰弹枪不再结束你的回合。"
+
+[UBS_Ammo_Secondary X2WeaponTemplate]
+FriendlyName="下挂霰弹枪弹药（次要）"
+FriendlyNamePlural="下挂霰弹枪弹药（次要）"
+BriefSummary="携带额外弹药而不是次要武器，允许士兵在战场上重新装填他们的下挂霰弹枪。还包括一个下挂霰弹枪补偿器，允许其在不结束士兵回合的情况下发射。"
+TacticalText="<Bullet/> 可以无限使用。"
+
+[UnderbarrelShotgunProject X2TechTemplate]
+DisplayName="下挂霰弹枪"
+Summary="我们已经通过逆向工程足够的外星装备，能够制造我们自己的下挂霰弹枪，它们提供额外的近程火力。"
+
+[UnderbarrelGrenadeLauncherProject X2TechTemplate]
+DisplayName="下挂榴弹发射器"
+Summary="我们已经通过逆向工程足够的外星装备，能够制造我们自己的下挂榴弹发射器，它们提供额外的远程弹药。"
+
+[UnderbarrelFlamethrowerProject X2TechTemplate]
+DisplayName="下挂火焰喷射器"
+Summary="我们已经通过逆向工程足够的外星装备，能够制造我们自己的下挂火焰喷射器，它们提供额外的近程人群控制。"
+
+[UBS_Passive X2AbilityTemplate]
+LocFriendlyName="下挂附件"
+LocHelpText="下挂附件增加了武器的体积，略微增加了该士兵的潜入时间。"
+LocLongDescription="下挂附件增加了武器的体积，略微增加了该士兵的潜入时间。"
+
+[UBGL_Passive X2AbilityTemplate]
+LocFriendlyName="下挂附件"
+LocHelpText="下挂附件增加了武器的体积，略微增加了该士兵的潜入时间。"
+LocLongDescription="下挂附件增加了武器的体积，略微增加了该士兵的潜入时间。"
+
+[UBFlame_Passive X2AbilityTemplate]
+LocFriendlyName="下挂附件"
+LocHelpText="下挂附件增加了武器的体积，略微增加了该士兵的潜入时间。"
+LocLongDescription="下挂附件增加了武器的体积，略微增加了该士兵的潜入时间。"
+
+
+[MZMicroRounds X2AmmoTemplate]
+FriendlyName="微型弹"
+FriendlyNamePlural="微型弹"
+BriefSummary="紧凑的弹丸，可以在一个弹匣中装入更多。将弹匣容量增加2，但不会影响默认弹匣容量小于3的武器。"
+TacticalText="<Bullet/> 这些弹丸将最大弹匣容量增加2，但仅适用于默认弹匣容量至少为3的武器。"
+
+[MZScrambleRounds X2AmmoTemplate]
+FriendlyName="干扰弹"
+FriendlyNamePlural="干扰弹"
+BriefSummary="干扰弹在撞击时部署一个短程干扰场，削弱目标命中率。即使射击未命中也会施加此效果。"
+TacticalText="<Bullet/> 这些弹丸降低目标的命中和暴击几率。\n<Bullet/>即使射击未命中也会施加此效果。"
+
+[MZEnervativeRounds X2AmmoTemplate]
+FriendlyName="衰弱弹"
+FriendlyNamePlural="衰弱弹"
+BriefSummary="这些弹丸释放出一团碎片，干扰武器、伺服系统、肌肉和思维，减少敌人所能造成的伤害。它也可能影响目标的主武器，迫使其在再次使用前重新装弹。"
+TacticalText="<Bullet/> 这些弹丸导致目标造成显著更少的伤害。\n<Bullet/> 它们也可能导致敌人武器卡壳。\n<Bullet/> 卡壳的武器需要重新装弹才能再次开火。"
+
+[MZAntiVioletRounds X2AmmoTemplate]
+FriendlyName="反灵能弹"
+FriendlyNamePlural="反灵能弹"
+BriefSummary="反灵能弹释放不谐波，对具有灵能力量的敌人造成额外伤害，将其灵能能力置于短暂冷却，并禁用能量护盾。"
+TacticalText="<Bullet/> 这些弹丸对灵能敌人造成额外伤害。\n<Bullet/> 伤害加成随目标的灵能力量提高而提高。\n<Bullet/> 将目标的灵能能力被置于短暂冷却（如果他们有的话）。\n<Bullet/> 重复命中将延长能力的使用延迟。\n<Bullet/> 同时禁用能量护盾。"
+
+[MZMicroRoundsProject X2TechTemplate]
+DisplayName="微型弹"
+Summary="紧凑的弹丸，可以在一本弹匣中装入更多。将弹匣量增加2，但不会影响默认弹匣容量小于3的武器。"
+
+[MZScrambleRoundsProject X2TechTemplate]
+DisplayName="干扰弹"
+Summary="干扰弹在撞击时部署一个短程干扰场，削弱目标命中。即使射击未命中也会施加此效果。"
+
+[MZEnervativeRoundsProject X2TechTemplate]
+DisplayName="衰弱弹"
+Summary="这些弹丸释放出一团碎片，干扰武器、伺服系统、肌肉和思维，减少敌人所能造成的伤害。它也可能影响目标的主武器，迫使其在再次使用前重新装弹。"
+
+[MZAntiVioletRoundsProject X2TechTemplate]
+DisplayName="反灵能弹"
+Summary="反灵能弹释放不谐波，对具有灵能力量的敌人造成额外伤害，将其灵能能力置于短暂冷却，并禁用能量护盾。"
+
+[IRI_HackerLaptop X2WeaponTemplate]
+FriendlyName="黑客笔记本电脑"
+FriendlyNamePlural="黑客笔记本电脑"
+BriefSummary="这台笔记本电脑包含一个被盗的变种人安全代码库，以及我们迄今为止收集的关于其网络安全算法的所有信息。手头有这台笔记本电脑将显著提升我们现场特工的黑客能力。通过某些配置，该笔记本电脑允许士兵在没有小精灵或BIT的情况下黑客入侵相邻的变种人安全塔。"
+TacticalText="这台笔记本电脑包含一个被盗的变种人安全代码库，以及我们迄今为止收集的关于其网络安全算法的所有信息。手头有这台笔记本电脑将显著提升我们现场特工的黑客能力。通过某些配置，该笔记本电脑允许士兵在没有小精灵或BIT的情况下黑客入侵相邻的变种人安全塔。"
+
+
+[MZScabWeave X2EquipmentTemplate]
+FriendlyName="痂皮编织"
+FriendlyNamePlural="痂皮编织"
+BriefSummary="带有痂皮编织的护甲有助于减轻战斗中的伤口，减少恢复时间。额外提供一些额外生命值和对流血的免疫。"
+TacticalText="<Bullet/> 提供对流血的免疫。<br/><Bullet/> 战斗后治愈部分伤口，减少之后所需的恢复时间。<br/><Bullet/> 对于无法避免受到一些伤害的士兵，痂皮编织可以让他们更快重返战场。"
+
+[MZBubbleWeave X2EquipmentTemplate]
+FriendlyName="泡泡编织"
+FriendlyNamePlural="泡泡编织"
+BriefSummary="带有泡泡编织的护甲提供卓越的护盾，在不满时会自行重新充能。它提供2点护盾，每回合可以重新充能2点护盾，每任务最多总共6点。"
+TacticalText="<Bullet/> 包含一个内置发生器，在护盾不满时进行重新充能。每回合可以重新充能2点护盾，每任务最多总共6点。<br/><Bullet/> 泡泡编织是避免受伤的最佳选择之一。<br/><Bullet/> 可以与护甲叠加。"
+
+[MZRepairWeave X2EquipmentTemplate]
+FriendlyName="自动修复编织"
+FriendlyNamePlural="自动修复编织"
+BriefSummary="带有自动修复编织的护甲提供2点护甲，并能够在战场上自我修复。每回合可以修复1点护甲，每任务最多修复4点。"
+TacticalText="<Bullet/> 授予2点额外护甲。<br/><Bullet/> 如果有任何护甲被削减，自动修复每回合恢复少量护甲。每回合可以修复1点护甲，每任务最多修复4点。"
+
+[MZBubbleWeaveAbility X2AbilityTemplate]
+LocFriendlyName="泡泡编织"
+LocLongDescription="护盾在不满时再生。每回合最多2点，每任务最多6点。"
+LocHelpText="护盾在不满时再生。"
+LocFlyOverText="泡泡编织"
+
+[MZMindWeave X2EquipmentTemplate]
+FriendlyName="心智编织"
+FriendlyNamePlural="心智编织"
+BriefSummary="带有心智编织的护甲提供20点灵能，并授予对灵能伤害和精神效果免疫。但穿戴者将从其他来源承受额外33%的伤害。"
+TacticalText="<Bullet/> 请注意，虽然此物品不授予额外HP，但它仍然算作背心，一次只能装备一件。<br/><Bullet/> 考虑将其给予很少被攻击、拥有强大护甲或拥有可以格挡攻击的能力的士兵。"
+
+[MZScabWeaveProject X2TechTemplate]
+DisplayName="痂皮编织"
+Summary="带有痂皮编织的护甲有助于减轻战斗中的伤口，减少恢复时间。额外提供一些额外生命值和对流血免疫。"
+
+[MZBubbleWeaveProject X2TechTemplate]
+DisplayName="泡泡编织"
+Summary="带有泡泡编织的护甲提供卓越的护盾，在不满时会自行 recharge。它提供2点护盾，每回合可以 recharge 2点护盾，每任务最多总共6点。"
+
+[MZRepairWeaveProject X2TechTemplate]
+DisplayName="自动修复编织"
+Summary="带有自动修复编织的护甲提供2点护甲，并能够在战场上自我修复。每回合可以修复1点护甲，每任务最多修复4点。"
+
+[MZMindWeaveProject X2TechTemplate]
+DisplayName="心智编织"
+Summary="带有心智编织的护甲提供20点灵能攻击力，并授予对灵能伤害和精神效果免疫。穿戴者将从其他来源承受额外33%的伤害。"
+
+[CorrosiveRoundsProject X2TechTemplate]
+DisplayName="腐蚀弹"
+Summary="装满高腐蚀性酸液，这些致命的弹丸在移除敌人护甲方面特别有效，并且可以对生物和机械目标施加酸液腐蚀。"
+
+
+[RM_SPARKMissiles X2AbilityTemplate]
+LocFriendlyName="微型导弹"
+LocLongDescription="<Ability:ClassName/>的肩载导弹发射器可以齐射一波导弹，对一个区域造成伤害并削减护甲。"
+LocHelpText="以一个爆炸性导弹攻击目标区域。造成伤害并削减护甲。"
+
+[RM_FlashRain X2AbilityTemplate]
+LocFriendlyName="闪光弹雨"
+LocLongDescription="<Ability:ClassName/>可以部署基于闪光弹的弹丸来控制战场上的敌人。"
+LocHelpText="发射一系列闪光弹以 disorient 敌方目标。"
+LocFlyOverText="闪光弹雨"
+
+[RM_SmokeRain X2AbilityTemplate]
+LocFriendlyName="烟雾弹雨"
+LocLongDescription="<Ability:ClassName/>可以部署烟雾弹来帮助保护自己或盟友。作为第一个行动使用时不会结束回合。"
+LocHelpText="发射烟雾弹。作为第一个行动使用时不会结束回合。"
+LocFlyOverText="烟雾弹雨"
+
+[RM_SupportLauncher_CV X2WeaponTemplate]
+FriendlyName="重型烟雾发射器"
+FriendlyNamePlural="重型烟雾发射器"
+BriefSummary="改编自变种人 MEC的背载导弹发射器，这些烟雾发射器赋予我们的SPARK和MEC士兵为自己和队友提供烟雾掩护的能力。如果作为第一个行动使用，可以发射而不结束回合。"
+TacticalText="<Bullet/> 如果作为第一个行动使用，可以发射而不结束回合。\n<Bullet/> 该发射器默认配备三发弹药。"
+
+[RM_SupportLauncher_CV_Paired X2PairedWeaponTemplate]
+FriendlyName="重型烟雾发射器"
+FriendlyNamePlural="重型烟雾发射器"
+BriefSummary="改编自变种人 MEC的背载导弹发射器，这些烟雾发射器赋予我们的SPARK和MEC士兵为自己和队友提供烟雾掩护的能力。如果作为第一个行动使用，可以发射而不结束回合。"
+TacticalText="<Bullet/> 如果作为第一个行动使用，可以发射而不结束回合。\n<Bullet/> 该发射器默认配备三发弹药。"
+
+[RM_SupportLauncher_MG X2WeaponTemplate]
+FriendlyName="重型支援发射器"
+FriendlyNamePlural="重型支援发射器"
+BriefSummary="我们重型烟雾发射器的先进变体，这种支援发射器可以发射烟雾弹或闪光弹，但其有限容量由其两种发射模式共享。具有重型烟雾发射器双倍的射程。如果作为第一个行动使用，烟雾弹可以发射而不结束回合。"
+TacticalText="<Bullet/> 闪光弹比烟雾弹冷却时间更长，并且使用时结束回合，这与烟雾弹不同。\n<Bullet/> 该发射器默认配备三发弹药，由烟雾弹和闪光弹共享。"
+
+[RM_SupportLauncher_MG_Paired X2PairedWeaponTemplate]
+FriendlyName="重型支援发射器"
+FriendlyNamePlural="重型支援发射器"
+BriefSummary="我们重型烟雾发射器的先进变体，这种支援发射器可以发射烟雾弹或闪光弹，但其有限容量由其两种发射模式共享。具有重型烟雾发射器双倍的射程。如果作为第一个行动使用，烟雾弹可以发射而不结束回合。"
+TacticalText="<Bullet/> 闪光弹比烟雾弹冷却时间更长，并且使用时结束回合，这与烟雾弹不同。\n<Bullet/> 该发射器默认配备三发弹药，由烟雾弹和闪光弹共享。"
+
+[RM_SPARKLauncher_CV X2WeaponTemplate]
+FriendlyName="适配型肩部发射器"
+FriendlyNamePlural="适配型肩部发射器"
+BriefSummary="一种打捞并改进的变种人MEC微型导弹发射器。这种发射器赋予我们的SPARK和MEC士兵从远处向变种人倾泻爆炸物的能力，并携带足够两波齐射的导弹。"
+TacticalText="<Bullet/> 这些发射器不像其他爆炸物那样容易摧毁掩体。\n<Bullet/> 它们以比我们榴弹发射器更远的射程来弥补这一点。\n<Bullet/> 该发射器默认配备两发弹药。"
+
+[RM_SPARKLauncher_CV_Paired X2PairedWeaponTemplate]
+FriendlyName="适配型肩部发射器"
+FriendlyNamePlural="适配型肩部发射器"
+BriefSummary="一种打捞并改进的变种人 MEC微型导弹发射器。这种发射器赋予我们的SPARK和MEC士兵从远处向变种人倾泻爆炸物的能力，并携带足够两波齐射的导弹。"
+TacticalText="<Bullet/> 这些发射器不像其他爆炸物那样容易摧毁掩体。\n<Bullet/> 它们以比我们榴弹发射器更远的射程来弥补这一点。\n<Bullet/> 该发射器默认配备两发弹药。"
+
+[RM_SPARKLauncher_MG X2WeaponTemplate]
+FriendlyName="射手发射器"
+FriendlyNamePlural="射手发射器"
+BriefSummary="适配型肩部发射器的先进变体。射手发射器与其前身相比，具有额外的伤害、碎甲和导弹容量，以及双倍伤害射程。"
+TacticalText="<Bullet/> 这些发射器不像其他爆炸物那样容易摧毁掩体。\n<Bullet/> 具有适配型肩部发射器双倍的射程。\n<Bullet/> 该发射器默认配备三发弹药。"
+
+[RM_SPARKLauncher_MG_Paired X2PairedWeaponTemplate]
+FriendlyName="射手发射器"
+FriendlyNamePlural="射手发射器"
+BriefSummary="适配型肩部发射器的先进变体。射手发射器与其前身相比，具有额外的伤害、碎甲和导弹容量，以及双倍伤害射程。"
+TacticalText="<Bullet/> 这些发射器不像其他爆炸物那样容易摧毁掩体。\n<Bullet/> 具有适配型肩部发射器双倍的射程。\n<Bullet/> 该发射器默认配备三发弹药。"
+
+[AdaptedLauncherProject X2TechTemplate]
+DisplayName="适配型肩部发射器"
+Summary="一种打捞并改进的变种人 MEC微型导弹发射器。这种发射器赋予我们的SPARK和MEC士兵从远处向变种人倾泻爆炸物的能力，并携带足够两波齐射的导弹。"
+
+[ArcherLauncherProject X2TechTemplate]
+DisplayName="射手发射器"
+Summary="适配型肩部发射器的先进变体。射手发射器与其前身相比，具有额外的伤害、碎甲和导弹容量，以及双倍伤害射程。"
+
+[SmokeLauncherProject X2TechTemplate]
+DisplayName="重型烟雾发射器"
+Summary="改编自变种人 MEC的背载导弹发射器，这些烟雾发射器赋予我们的SPARK和MEC士兵为自己和队友提供烟雾掩护的能力。如果作为第一个行动使用，可以发射而不结束回合。"
+
+[SupportLauncherProject X2TechTemplate]
+DisplayName="重型支援发射器"
+Summary="我们重型烟雾发射器的先进变体，这种支援发射器可以发射烟雾弹或闪光弹，但其有限容量由其两种发射模式共享。具有重型烟雾发射器双倍的射程。如果作为第一个行动使用，烟雾弹可以发射而不结束回合。"
+
+[IRI_RagingBall X2AbilityTemplate]
+LocFriendlyName="破坏球"
+LocLongDescription="在此回合移动时突破墙壁和掩体。每任务2次使用次数，每次使用之间有2回合冷却时间。任何异变者或穿着对应战斗服的士兵获得2次额外使用次数，任何穿着泰坦护甲的士兵获得1次额外使用次数。"
+LocHelpText="在此回合移动时突破墙壁和掩体。使用1次使用次数。"
+LocFlyOverText="破坏球"
+
+[SwordSlice X2AbilityTemplate]
+LocFriendlyName="劈砍"
+LocLongDescription="用你的近战武器攻击移动范围内的任何敌人。"
+LocHelpText="用你的近战武器攻击移动范围内的敌人。"
+LocPromotionPopupText="<Bullet/> 你可以通过将移动光标悬停在敌人身上来触发劈砍能力。<br/><Bullet/> <Ability:ClassName/>可以执行冲刺移动，使用两个行动点移动，并且仍然对相邻的敌人触发劈砍。<br/>"
+
+[JetBoosters_MK1_Tech_LW X2TechTemplate]
+DisplayName="助推器喷射器"
+Summary="我们或许可以使用变种人MEC的助推器喷射器来改善我们士兵的向上机动性，并根据其装备的护甲类型提供额外的战术选项。需要一些合金屏蔽来保护士兵免受排气高温的影响。请注意，助推器喷射器是为人类士兵、SPARK和MEC士兵设计的。更奇特的外星物种将无法装备它们。"
+
+[JetBoosters_MK2_Tech_LW X2TechTemplate]
+DisplayName="灵能喷射器"
+Summary="我们或许可以重新利用执政官的悬浮喷射器，并将其与灵能能量旁路结合，以提升我们士兵的向上机动性，并根据其装备的护甲类型提供更多战术选项。请注意，灵能喷射器是为人类士兵、SPARK和MEC士兵设计的。更奇特的外星物种将无法装备它们。"
+
+[IRI_UnlockDynamicDeployment X2SoldierAbilityUnlockTemplate]
+DisplayName="动态部署"
+Summary="提供通过高空天空行者直接从复仇者号兵营动态部署装备了灵能喷射器的士兵的能力。战术限制：<br/><Bullet/> 任务中的士兵总数不能超过最大小队规模。这意味着要能够动态部署士兵，任务必须在不满编小队的情况下开始。<br/><Bullet/> 每回合最多额外部署1名士兵。<br/><Bullet/> 动态部署会打破隐匿。<br/><Bullet/> 部署范围有限，并且使用之间有很长的冷却时间。<br/><Bullet/> 跳跃喷射器和助推器喷射器没有安全进行此机动的推力,只有灵能喷射器才有。"
+
+
+[MZCryoLauncher X2WeaponTemplate]
+FriendlyName="冷冻发射器"
+FriendlyNamePlural="冷冻发射器"
+BriefSummary="变种人 冷冻火箭兵的特征性武器。该发射器通过火箭投送冷冻雾，抑制机动性并可能冻结多个目标。每个发射器装有两枚火箭。"
+TacticalText="<Bullet/> 与普通火箭不同，冷冻发射器不伤害掩体或护甲。<br><Bullet/> 第一次和第二次命中施加机动性和闪避减益。<br><Bullet/> 第三次命中将冻结目标。<br><Bullet/> 被冻结的敌人防御降低。"
+
+[CryoLauncherProject X2TechTemplate]
+DisplayName="冷冻发射器"
+Summary="变种人冷冻火箭兵的特征性武器。该发射器通过火箭投送冷冻雾，抑制机动性并可能冻结多个目标。每个发射器装有两枚火箭。"
+
+[MZCryoLauncherMk2 X2WeaponTemplate]
+FriendlyName="超级冷冻发射器"
+FriendlyNamePlural="超级冷冻发射器"
+BriefSummary="变种人冷冻火箭兵的特征性武器。该发射器通过火箭投送冷冻雾，抑制机动性并可能冻结多个目标。每个发射器装有两枚火箭。"
+TacticalText="<Bullet/> 与普通火箭不同，冷冻火箭不伤害掩体或护甲。\n<Bullet/> 第一次和第二次命中施加机动性和闪避减益。<br><Bullet/> 第三次命中将冻结目标。<br><Bullet/> 被冻结的敌人防御降低。"
+
+[CryoLauncherMk2Project X2TechTemplate]
+DisplayName="超级冷冻发射器"
+Summary="变种人冷冻火箭兵特征性武器的重制版本。该发射器通过火箭投送冷冻雾，抑制机动性并可能冻结多个目标。每个发射器装有两枚火箭。与标准版本相比，伤害和半径均得到改进。"
+
+[MZFrostRounds X2AmmoTemplate]
+FriendlyName="苦寒弹"
+FriendlyNamePlural="苦寒弹"
+BriefSummary="这些弹丸在撞击时投送冷气，削弱机动性和闪避，并在第三次霜冻影响下将敌人完全冻结。"
+TacticalText="<Bullet/> 第一次和第二次命中施加机动性和闪避减益。<br> <Bullet/> 第三次命中将冻结目标。<br><Bullet/> 被冻结的敌人防御降低。"
+
+[BitterfrostRoundsProject X2TechTemplate]
+DisplayName="苦寒弹"
+Summary="这些弹丸在撞击时投送冷气，削弱机动性和闪避，并在第三次霜冻影响下将敌人完全冻结"
+
+[MZIceVest X2EquipmentTemplate]
+FriendlyName="霜织护甲"
+FriendlyNamePlural="霜织护甲"
+BriefSummary="霜织护甲不仅授予士兵生命值加成，还会立即冻结任何近战攻击的敌人，此外还提供对冰冻和火焰的免疫。"
+TacticalText="<Bullet/> 霜织护甲将冻结任何近战攻击士兵的敌人。\n<Bullet/> 敌人还会被 chilled，即使在从冻结中恢复后也会降低机动性。\n<Bullet/>此背心中的绝缘提供对火焰和冰霜伤害免疫。\n<Bullet/>霜织护甲还授予少量生命值加成。"
+
+[FrostweaveProject X2TechTemplate]
+DisplayName="霜织护甲"
+Summary="霜织护甲不仅授予士兵生命值加成，还会立即冻结任何近战攻击的敌人，此外还授予对冰冻和火焰免疫。"
+
+[MZIceVestStatsDummy X2AbilityTemplate]
+LocFriendlyName="霜织护甲"
+LocLongDescription="授予对火焰和寒冷免疫，并将立即冻结任何近战攻击的敌人。"
+LocHelpText="授予对火焰和寒冷免疫，并将立即冻结任何近战攻击的敌人。"
+LocFlyOverText="霜织护甲"
+
+[MZBitterFrostGrenade X2GrenadeTemplate]
+FriendlyName="苦寒手榴弹"
+FriendlyNamePlural="苦寒手榴弹"
+Summary="一种冲击手榴弹，在小范围效果区域内用低温蒸汽冲击敌人。有效降低敌人机动性和闪避，以及造成伤害和削减护甲。"
+TacticalText="<Bullet/> 第一次和第二次命中施加机动性和闪避减益。<br> <Bullet/> 第三次命中将冻结目标。<br><Bullet/> 被冻结的敌人防御降低。<br><Bullet/> 手榴弹会摧毁目标的战利品，因此过度依赖手榴弹会减少我们的回收机会。"
+ThrownAbilityName="投掷苦寒手榴弹"
+ThrownAbilityHelpText="向目标区域投掷苦寒手榴弹。造成寒冷并削减护甲。"
+LaunchedAbilityname="发射苦寒手榴弹"
+LaunchedAbilityHelpText="向目标区域发射苦寒手榴弹。造成寒冷并削减护甲。"
+
+[BitterfrostGrenadeProject X2TechTemplate]
+DisplayName="苦寒手榴弹"
+Summary="一种冲击性手榴弹，在小范围效果区域内用低温蒸汽冲击敌人。有效降低敌人机动性和闪避，以及造成伤害和削减护甲。"
+
+[MZBitterFrostBomb X2GrenadeTemplate]
+FriendlyName="苦寒炸弹"
+FriendlyNamePlural="苦寒炸弹"
+BriefSummary="一种冲击性手榴弹，在小范围效果区域内用低温蒸汽冲击敌人。有效降低敌人机动性和闪避，以及造成伤害和护甲削减。与苦寒手榴弹相比，苦寒炸弹提供改进的伤害、半径和护甲削减。"
+TacticalText="<Bullet/> 第一次和第二次命中施加机动性和闪避减益。<br> <Bullet/> 第三次命中将冻结目标。<br><Bullet/> 被冻结的敌人防御降低。<br><Bullet/> 手榴弹可以摧毁目标的掉落物，因此过度依赖手榴弹会减少我们的回收机会。"
+ThrownAbilityName="投掷苦寒炸弹"
+ThrownAbilityHelpText="向目标区域投掷苦寒炸弹。造成寒冷并削减护甲。"
+LaunchedAbilityname="发射苦寒炸弹"
+LaunchedAbilityHelpText="向目标区域发射苦寒炸弹。造成寒冷并削减护甲。"
+
+[BitterfrostBombProject X2TechTemplate]
+DisplayName="苦寒炸弹"
+Summary="一种 concussive 手榴弹，在小范围效果区域内用低温蒸汽冲击敌人。有效降低敌人机动性和闪避，以及造成伤害和削减护甲。与苦寒手榴弹相比，苦寒炸弹提供改进的伤害、半径和削减。"
+
+[CX_PsiArmor_LW X2ArmorTemplate]
+FriendlyName="灵能护甲"
+FriendlyNamePlural="灵能护甲"
+BriefSummary="灵能护甲是经过灵能增强的套装。它提供生命值、防御和灵能攻击力加成，并授予不可动摇的霸主和灵能打击能力。"
+TacticalText="<Bullet/>授予生命值、防御和灵能攻击力加成。\n<Bullet/>注意：灵能提升仅对灵能者有益。"
+
+[PsiArmorTech_LW X2TechTemplate]
+DisplayName="灵能护甲"
+Summary="这是一种专门为我们的灵能士兵设计的新型护甲。它不会像守护者护甲那样提供那么多耐久性，但会通过提升灵能攻击力并授予不可动摇的霸主和灵能打击能力来针对性的帮助灵能者。"
+CodeName="欧米伽"
+LongDescription="灵能护甲是一款经过灵能增强的套装，通过属性和能力来增强灵能者。它提供生命值、防御和灵能攻击力加成。此外，穿戴者可以激活不可动摇的霸主能力，以牺牲移动能力为代价在一个回合内做更多事情，这非常适合不关心定位的灵能能力。穿戴者还可以无视武器选择或附件使用灵能打击，这是一种奔跑近战攻击，带有灵能刺刀，无法 miss 并对灵能目标造成额外伤害。"
+
+[UnmovableSovereign X2AbilityTemplate]
+LocFriendlyName="不可动摇的霸主"
+LocLongDescription="获得一个非移动行动点，但将此士兵的机动性降低至0，持续此回合。要求士兵有2个可用行动点，但不消耗任何行动点。可以每隔一回合使用一次。"
+LocHelpText="获得一个非移动行动点，但将此士兵的机动性降低至0，持续此回合。要求士兵有2个可用行动点，但不消耗任何行动点。可以每隔一回合使用一次。"
+LocFlyOverText="不可动摇的霸主"
+
+[WhippitShotgun X2WeaponTemplate]
+FriendlyName="威皮特霰弹枪"
+FriendlyNamePlural="威皮特霰弹枪"
+BriefSummary="一种XCOM在第一次入侵中使用的短管霰弹枪变体，以历史犯罪二人组邦妮和克莱德使用的短管霰弹枪命名。与我们游侠或生存主义者使用的标准短管霰弹枪相比，它更易于携带和隐藏，可以装备在手枪栏位。像其他手枪一样，无需担心弹药耗尽。因为是单管，每次射击只能发射一发霰弹。我们将无法用新武器技术升级它。"
+TacticalText="<Bullet/> 威皮特霰弹枪可以用一个行动点发射，在没有专门训练的情况下会结束回合。\n<Bullet/> 威皮特霰弹枪的射击射程即使与其他短管霰弹枪相比也 extremely limited。\n<Bullet/> 它不能用于横扫射击或狂热射击能力，或任何其他需要弹匣中多于一轮弹药的能力。\n<Bullet/> 该武器发射的霰弹威力强大，但仅对无装甲目标有效。对装甲目标的伤害将大幅降低。\n<Bullet/> 我们将无法用新技术改进这种武器，并且它不能用武器附件升级。"
+AbilityDescName="威皮特霰弹枪"
+
+[SNHeavyBarrel_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="重型枪管"
+FriendlyNamePlural="重型枪管"
+BriefSummary="增加暴击伤害加成<Ability:SNHEAVYBARRELT1DMG/>。"
+TinySummary="增加暴击伤害"
+LootTooltip="此武器升级安装后，对暴击造成的伤害略有加成。"
+
+[SNHeavyBarrel_Adv X2WeaponUpgradeTemplate]
+FriendlyName="高级重型枪管"
+FriendlyNamePlural="高级重型枪管"
+BriefSummary="增加暴击伤害加成<Ability:SNHEAVYBARRELT2DMG/>。"
+TinySummary="增加暴击伤害"
+LootTooltip="此武器升级安装后，对暴击造成的伤害有适量加成。"
+
+[SNHeavyBarrel_Sup X2WeaponUpgradeTemplate]
+FriendlyName="超级重型枪管"
+FriendlyNamePlural="超级重型枪管"
+BriefSummary="增加暴击伤害加成<Ability:SNHEAVYBARRELT3DMG/>。"
+TinySummary="增加暴击伤害"
+LootTooltip="此武器升级安装后，对暴击造成的伤害有明显加成。"
+
+[ARFM_HinterNeurons X2AbilityTemplate]
+DisplayName="镜像神经元"
+LocLongDescription="尝试这样做是一个非常糟糕的主意。将神经组织结节植入人脑可能允许两者整合，使士兵向虚空的贪婪力量敞开。这将让士兵的心理较为不稳定，但将使士兵能够获得深奥的力量。然而，这将使士兵对灵能十分脆弱，包括安魂曲的影响。不锈钢设备和心智护盾的收益将在此士兵身上无效。"
+LocHelpText="将神经组织结节植入人脑可能允许两者整合，使士兵向虚空的贪婪力量敞开。"
+LocFlyOverText="镜像神经元"
+
+[ARFMTaipanEyes X2AbilityTemplate]
+LocFriendlyName="晶状角膜"
+LocLongDescription="增强士兵的视觉敏锐度，授予其增加的命中和侧翼命中。"
+LocHelpText="增强士兵的视觉敏锐度，授予其增加的命中和侧翼命中。"
+LocFlyOverText="晶状角膜。"
+
+[ARFMTaipanSkin X2AbilityTemplate]
+LocFriendlyName="消融鳞片"
+LocLongDescription="针对此士兵的攻击有几率被降级为擦伤，但皮肤变化使士兵极度易燃。"
+LocHelpText="针对此士兵的攻击有几率被降级为擦伤，但皮肤变化使士兵极度易燃。"
+LocFlyOverText="消融鳞片。"
+
+[ARFM_TitanMuscle X2AbilityTemplate]
+DisplayName="超高密度肌肉组织"
+LocLongDescription="超高密度肌肉组织授予士兵坚韧，根据丢失的生命值的百分比按比例减少所受伤害。"
+LocHelpText="超高密度肌肉组织授予士兵坚韧，根据丢失的生命值的百分比按比例减少所受伤害。"
+LocFlyOverText="超高密度肌肉组织。"
+
+[Sidearm_CV X2WeaponTemplate]
+FriendlyName="自动手枪"
+FriendlyNamePlural="自动手枪"
+BriefSummary="如果他们的武器因某种原因失效，我们的士兵可以依赖一种相对传统的手枪配置，该配置经过修改大大增强其射速和整体操控性。这种直接的设计归功于武器的可靠性，尽管其结构中的材料质量不一致。"
+TacticalText="<Bullet/> 自动手枪在近处比标准手枪更准确，在远处则较差。与手枪相比，它具有更高的基础伤害但对装甲目标造成的伤害更少。"
+AbilityDescName="自动手枪"
+
+[Sidearm_MG X2WeaponTemplate]
+FriendlyName="磁力自动手枪"
+FriendlyNamePlural="磁力自动手枪"
+BriefSummary="将磁力射弹加速器引入我们士兵的自动手枪似乎与武器的原始设计有所。尽管如此，我们以某种方式使其工作。该武器的室内试验目前被禁止。"
+TacticalText="<Bullet/> 磁力自动手枪比其传统前身更强。\n<<Bullet/> 自动手枪在近处比标准手枪更准确，在远处则较差。与磁力手枪相比，它具有更高的基础伤害但对装甲目标造成的伤害更少。"
+AbilityDescName="自动手枪"
+
+[Sidearm_BM X2WeaponTemplate]
+FriendlyName="光束自动手枪"
+FriendlyNamePlural="光束自动手枪"
+BriefSummary="这种自动手枪的变体是我们共同努力减小便携式Elerium 电池的尺寸中的壮举之一。现在完全解放，该武器集中放出更多能量,能够对所有重甲目标造成伤害。"
+TacticalText="<Bullet/> 光束自动手枪是我们士兵可用的 most powerful handgun。\n<Bullet/> 自动手枪在近处比标准手枪更准确，在远处则较差。与光束手枪相比，它具有更高的基础伤害但对装甲目标造成的伤害更少。"
+AbilityDescName="自动手枪"
+
+[IsmsShadowborn X2AbilityTemplate]
+LocFriendlyName="影生"
+LocLongDescription="士兵在隐匿时更难被发现。同时，当目标敌人看不到你时，获得命中和暴击加成。"
+LocHelpText="-33% 隐匿时的被发现半径。当敌人看不到你时+15%命中和暴击。"
+LocFlyOverText="影生"
+LocPromotionPopupText="<Bullet/> -33% 被发现半径。<br/> <Bullet/> +15%命中和暴击适用于目标敌人看不到此士兵的任何时候。<br/><Bullet/> 处于隐匿状态将 always grant the bonuses。<br/><Bullet/> 射击处于其视线之外的敌人，例如使用小队视野，也将授予额外的命中和暴击。<br/>"
+
+[MZTransposition X2AbilityTemplate]
+LocFriendlyName="换位"
+LocLongDescription="与其他人交换位置。"
+LocHelpText="与其他人交换位置。"
+LocFlyOverText="换位"
+LocPromotionPopupText="<Bullet/> 与圣殿骑士的倒转不同，此能力可以用于天选者。<br/><Bullet/> 有<Ability:SELFCOOLDOWN/>回合冷却时间。"
+
+[MZDodgeSmoke X2AbilityTemplate]
+LocFriendlyName="旋雾"
+LocLongDescription="烟雾手榴弹额外提供5点防御和15点闪避。"
+LocHelpText="烟雾手榴弹额外提供5点防御和15点闪避。"
+LocFlyOverText="旋雾"
+
+[IRI_Rider_Gore X2AbilityTemplate]
+LocFriendlyName="血腥"
+LocLongDescription="杀死一个敌人有几率使附近的一些有机敌人恐慌。"
+LocHelpText="杀死一个敌人有几率使附近的一些有机敌人恐慌。"
+LocPromotionPopupText="<Bullet/> 血腥在单位每次杀死敌人时激活，然后对每个敌人单独恐慌。冷却时间：<Ability:GORE_COOLDOWN/>回合。<br/><Bullet/> 被此能力恐慌的敌人往往会移动，这可能触发监视射击能力，如溃散。<br/><Bullet/> 只有对被杀敌人有直接视线的有机敌人才能恐慌。<br/><Bullet/> 如果引起恐慌的士兵被杀死，恐慌会被移除。<br/><Bullet/> 恐慌几率 = 等级 * <Ability:GORE_PANIC_CHANCE_PER_RANK/> + 伤害 * <Ability:GORE_PANIC_CHANCE_PER_POINT_OF_DAMAGE/> + 最大生命值 * <Ability:GORE_PANIC_CHANCE_PER_POINT_OF_MAX_HP/> - 敌人意志，其中：<br/>等级 = 士兵等级，列兵算1级。<br/>伤害 = 士兵对被杀敌人造成的总伤害。<br/>最大生命值 = 被杀敌人的最大生命值。<br/>敌人意志 - 可能恐慌的敌人的意志。"
+LocFlyOverText="血腥"
+
+[IRI_Rider_Haymaker X2AbilityTemplate]
+LocFriendlyName="雷霆一击"
+LocLongDescription="一次主手近战攻击，移除敌人的许多积极效果并造成电击暴击伤害。"
+LocHelpText="一次主手近战攻击，移除敌人的许多积极效果并造成电击暴击伤害。"
+LocFlyOverText="雷霆一击"
+LocPromotionPopupText="<Bullet/> <Ability:HAYMAKER_COOLDOWN/>回合冷却时间。<br/><Bullet/> 雷霆一击总是造成暴击伤害：<Ability:HAYMAKER_ALWAYS_CRITS/>。<br/><Bullet/> 即使攻击只会命中或擦伤。<br/><Bullet/> 抗暴击敌人，如天选者，可以用此能力暴击。然而，免疫暴击的敌人仍然不能暴击。<br/><Bullet/> 由于此能力的必定暴击，只要不被闪避，可以绕过异变者的反击。<br/><Bullet/> 使用默认配置，重击将从目标移除这些积极效果：变种人 盾卫的能量护盾、狂战士的狂怒、执政官的狂热和变种人祭司的神圣战士。<br/><Bullet/> 效果在伤害施加之前被移除。"
+
+[F_WatchfulEye X2AbilityTemplate]
+LocFriendlyName="警惕之眼"
+LocFlyOverText="警惕之眼"
+LocLongDescription="当任何你已全息标记的目标移动或攻击时，你获得一次免费的监视射击。"
+LocHelpText="当任何你已全息标记的目标移动或攻击时，你获得一次免费的监视射击。"
+LocPromotionPopupText="<Bullet/> 当任何你已全息标记的目标移动或攻击时，你获得一次免费的监视射击。<br/><Bullet/> 仅适用于士兵自己已全息标记的目标。<br/><Bullet/> 即使全息标记的敌人仅通过小队视野可见，免费的监视射击也会发生。<br/><Bullet/> 每回合每个全息标记的敌人可以激活一次。<br/>"
+
+[WarCry X2AbilityTemplate]
+LocFriendlyName="战吼"
+LocLongDescription="授予友军异变者和狂战士主要的命中和意志和机动性加成，但不对自己生效。大多数其他生物和半机械盟友将获得较小的加成。不影响完全机械单位，持续2回合。使用时不会结束回合，并有5回合冷却时间。使用时打破隐匿。"
+LocHelpText="授予友军异变者和狂战士主要的属性加成，但不对自己生效，并授予大多数其他非机器人盟友较小的属性加成。"
+LocFlyOverText="战吼"
+LocPromotionPopupText="<Bullet/> 默认情况下，此能力授予任何友军异变者和狂战士20命中、20意志和4机动性。大多数其他有机盟友，包括像MEC士兵这样的半机械单位，被授予这些加成的50%。完全机械单位单位如SPARK不受影响。<br/><Bullet/> 持续2回合，包括使用它的那个回合，使用时不会结束回合，并有5回合冷却时间。\n<Bullet/> 使用者、蛹、灵能僵尸、圣殿骑士幽灵，以及任何眩晕或者恐惧的单位不会获得增益。\n<Bullet/> 与振作和恐惧打击者不同，战吼可以在隐匿时使用，但隐匿会立刻取消。"
+
+[IRI_Rider_Guard X2AbilityTemplate]
+LocPromotionPopupText="<Bullet/> 护卫通过降级攻击结果来降低敌人攻击的有效性：如果攻击会暴击，它将被降级为常规命中。命中被降级为擦伤，而擦伤（躲闪）将根本不会击中士兵。<br/><Bullet/> 护卫还将以消耗一次使用次数为代价，将爆炸伤害减少<Ability:GUARD_EXPLOSIVE_DAMAGE_MULTIPLIER/>。"
+
+[WOTC_APA_ReaperHack X2AbilityTemplate]
+LocFriendlyName="黑客入侵"
+LocLongDescription="尝试骇入相邻的变种人安全塔的安全系统。"
+LocHelpText="尝试骇入相邻的变种人安全塔的安全系统。"
+LocFlyOverText="黑客入侵"
+
+[GetOverHere X2AbilityTemplate]
+LocFriendlyName="舌抓"
+LocLongDescription="毒蛇的舌头和脖子十分强壮，可以从远处将人型敌人拖拽。如果命中，则捆绑挤压。目标敌人必须不近于3格，不远于12格。"
+LocHelpText="用你的舌头抓住一个人型敌人并将其拉到近战范围。如果命中，则捆绑挤压。目标敌人必须不近于3格，不远于12格。"
+LocFlyOverText="舌抓"
+LocMissMessage="抓取失败！"
+LocPromotionPopupText="<Bullet/> 使用时不会结束回合，尽管这通常不相关，除非被闪避，因为命中会自动捆绑挤压。\n<Bullet/> 一些十分大型的人形敌人如守护者则无效。"
+
+[Bind X2AbilityTemplate]
+LocFriendlyName="捆绑挤压"
+LocLongDescription="毒蛇的捆绑十分强大，可以处理一个相邻的人形敌人。一些十分大型的人形敌人如守护者则无效。"
+LocHelpText="捆绑一个相邻的人形敌人。一些十分大型的人形敌人如守护者则无效。"
+LocFlyOverText="捆绑"
+LocMissMessage="捆绑失败！"
+
+[SparkHackDefenseLW_T1 X2AbilityTemplate]
+LocFriendlyName="基本入侵防护"
+LocLongDescription="为此单位提供60点黑客防御。"
+LocHelpText="为此单位提供60点黑客防御。"
+LocFlyOverText="基本入侵防护"
+
+[SparkHackDefenseLW_T2 X2AbilityTemplate]
+LocFriendlyName="高级入侵防护"
+LocLongDescription="为此单位提供80点黑客防御。"
+LocHelpText="为此单位提供80点黑客防御。"
+LocFlyOverText="高级入侵防护"
+
+[SparkHackDefenseLW_T3 X2AbilityTemplate]
+LocFriendlyName="超级入侵防护"
+LocLongDescription="为此单位提供100点黑客防御。"
+LocHelpText="为此单位提供100点黑客防御。"
+LocFlyOverText="超级入侵防护"
+
+[HollowPointRounds X2AmmoTemplate]
+FriendlyName="空尖弹"
+FriendlyNamePlural="空尖弹"
+BriefSummary="一种对无甲单位造成更多伤害,但对有甲单位造成更少伤害的弹药。"
+TacticalText="<Bullet/> 这些弹药造成1点额外伤害，但减少2点穿甲。因此，它们会让你的射击对无装甲目标造成1点额外伤害，但对装甲目标的伤害减少1点。"
+
+[Bulky X2AbilityTemplate]
+LocFriendlyName="笨重"
+LocLongDescription="此单位的过重体积使它们不会成为诸如"正义"或"灵能牵引"等牵引目标类技能的目标。毒蛇也将无法拉动该单位。"
+LocHelpText="此单位的过重体积使它们不会成为诸如"正义"或"灵能牵引"等牵引目标类技能的目标。毒蛇也将无法拉动该单位。"
+LocFlyOverText="笨重"
+
+[Bombard X2AbilityTemplate]
+LocFriendlyName="轰击"
+LocLongDescription="发射BIT或从强化火箭筒发射一发射弹到任何可见位置，造成强大的爆炸，造成伤害，削减1点护甲并伤害地形。伤害基于你的BIT或强化火箭筒的科技等级增加。"
+LocHelpText="发射BIT以爆破半径内的所有单位。"
+LocPromotionPopupText="<Bullet/> 轰击可以射击到小队视野内的任何位置。它向上发射并落在目标区域，绕过视线阻挡物。<br/><Bullet/> 升级你的BIT或强化火箭筒将导致更多轰击伤害，但削甲值不变。<br/>"
+
+[BlindImmunity X2AbilityTemplate]
+LocFriendlyName="致盲免疫"
+LocLongDescription="此单位不能被致盲。"
+LocHelpText="此单位不能被致盲。"
+LocFlyOverText="致盲免疫"
+
+[FlashRes20 X2AbilityTemplate]
+LocFriendlyName="轻度闪光弹抗性"
+LocLongDescription="此单位有轻度（20%）几率抵抗闪光弹。"
+LocHelpText="有20%几率抵抗闪光弹。"
+LocFlyOverText="尝试抵抗闪光弹！"
+
+[FlashRes25 X2AbilityTemplate]
+LocFriendlyName="次要闪光弹抗性"
+LocLongDescription="此单位有次要（25%）几率抵抗闪光弹。"
+LocHelpText="有25%几率抵抗闪光弹。"
+LocFlyOverText="尝试抵抗闪光弹！"
+
+[FlashRes33 X2AbilityTemplate]
+LocFriendlyName="低等闪光弹抗性"
+LocLongDescription="此单位有低等（33%）几率抵抗闪光弹。"
+LocHelpText="有33%几率抵抗闪光弹。"
+LocFlyOverText="尝试抵抗闪光弹！"
+
+[FlashRes50 X2AbilityTemplate]
+LocFriendlyName="中等闪光弹抗性"
+LocLongDescription="此单位有中等（50%）几率抵抗闪光弹。"
+LocHelpText="有50%几率抵抗闪光弹。"
+LocFlyOverText="尝试抵抗闪光弹！"
+
+[FlashRes67 X2AbilityTemplate]
+LocFriendlyName="严重闪光弹抗性"
+LocLongDescription="此单位有严重（67%）几率抵抗闪光弹。"
+LocHelpText="有67%几率抵抗闪光弹。"
+LocFlyOverText="尝试抵抗闪光弹！"
+
+[FlashRes75 X2AbilityTemplate]
+LocFriendlyName="极端闪光弹抗性"
+LocLongDescription="此单位有极端（75%）几率抵抗闪光弹。"
+LocHelpText="有75%几率抵抗闪光弹。"
+LocFlyOverText="尝试抵抗闪光弹！"
+
+[FlashRes100 X2AbilityTemplate]
+LocFriendlyName="完全闪光弹免疫"
+LocLongDescription="闪光弹对此单位无效。"
+LocHelpText="甚至不要尝试对此使用闪光弹。"
+LocFlyOverText="徒劳的努力！"
+
+[TriggerGuardDummy X2AbilityTemplate]
+LocFriendlyName="扳机护圈"
+LocLongDescription="双持枪械时，所有近战攻击获得被动的+20命中。如果敌人已经在近战范围内，枪托打击不再结束回合。"
+LocHelpText="双持枪械时，所有近战攻击获得被动的+20命中。如果敌人已经在近战范围内，枪托打击不再结束回合。"
+
+[ShadowOps_HeatAmmo X2AbilityTemplate]
+LocFriendlyName="高热弹药库"
+LocLongDescription="赋予对机器人目标+30%伤害。"
+LocHelpText="赋予对机器人目标+30%伤害。"
+LocFlyOverText="高热弹药库"
+LocPromotionPopupText="<Bullet/> 高热弹药库对机器人敌人提供伤害加成。<br/><Bullet/> 伤害增加发生在伤害被护甲减少之前。<br/><Bullet/> 将高热弹药库与蓝屏弹结合将对任何机器人敌人造成毁灭性伤害。<br/><Bullet/> 高热弹药库影响所有伤害来源，包括但不限于枪械、爆炸物和近战攻击。<br/>"
+
+[ShadowOps_Aegis X2AbilityTemplate]
+LocFriendlyName="神盾"
+LocLongDescription="护盾协议还将所有传入伤害减少20%。"
+LocHelpText="护盾协议还将所有传入伤害减少20%。"
+LocFlyOverText="神盾"
+LocPromotionPopupText="<Bullet/> 减伤适用于护盾激活时承受的所有伤害，而不仅仅是护盾吸收的伤害。<br/>"
+
+[PlatedVest X2EquipmentTemplate]
+FriendlyName="战术背心"
+FriendlyNamePlural="战术背心"
+BriefSummary="沈改进了传统的纳米背心，增加了装甲板，提供来自护甲的防护以减少敌人攻击的伤害，并将敌人对你的暴击几率降低25%。"
+TacticalText="<Bullet/> 授予士兵3点生命值。提供1点护甲。敌人对你有-25%暴击几率。一次只能装备一件护甲板和一件背心。"
+
+[TracerRounds X2AmmoTemplate]
+FriendlyName="曳光弹"
+FriendlyNamePlural="曳光弹"
+BriefSummary="包含高科技“智能弹丸”，在发射时将详细的追踪数据传输回射击者，这种特质弹药在装备时为设计者命中率增加<Ability:TRACERROUNDSAIMBONUS/>，并授予机会主义能力，允许使用者的反应火力忽略目标的一半掩体加成。"
+TacticalText="<Bullet/>曳光弹在装备时授予士兵 bonus Aim。<br>"
+
+[TacticalVestBonus_MJ X2AbilityTemplate]
+LocFriendlyName="战术背心"
+LocLongDescription="将敌人对你的暴击几率降低25%。"
+LocHelpText="将敌人对你的暴击几率降低25%。"
+LocFlyOverText="战术背心"
+
+[PlatedVestProject X2TechTemplate]
+DisplayName="战术背心"
+Summary="战术背心将提供护甲和生命值，并降低传入攻击是暴击的几率。"
+
+[SoulMania X2AbilityTemplate]
+LocFriendlyName="灵魂狂热"
+LocLongDescription="对任何进入或从2格内攻击的敌人进行免费灵能攻击。保证命中，但不会以机器单位或有暗影步的单位为目标。"
+LocHelpText="对任何进入或从2格内攻击的敌人进行免费灵能攻击。保证命中，但不会以机器单位或有暗影步的单位为目标。"
+LocFlyOverText="灵魂狂热"
+LocPromotionPopupText="<Bullet/> 如果敌人在2格内开始他们的回合，灵魂狂热将在该敌人尝试攻击<Ability:ClassName/>时触发。<br/><Bullet/> 如果敌人不在2格内开始他们的回合，那么灵魂狂热将在该敌人移动到该范围内时触发。<br/><Bullet/> 灵魂狂热造成与灵魂火相同的基础灵能伤害，并且同样不能以机器人为目标，但不像灵魂火那样忽略护甲或护盾。<br/><Bullet/> 灵魂狂热保证命中，但仍被视为反应攻击，因此不会以拥有暗影步的单位为目标。<br/><Bullet/> 不会在<Ability:ClassName/>自己的回合触发。\n<Bullet/> 如果使用者被压制，燃烧或混乱，则不会激活。"
+
+[SoulManiaAttack X2AbilityTemplate]
+LocFriendlyName="灵魂狂热"
+LocLongDescription="对任何进入或从2格内攻击的敌人进行免费灵能攻击。保证命中，但不会以机器人或有 Shadowstep 的单位为目标。"
+LocHelpText="对任何进入或从2格内攻击的敌人进行免费灵能攻击。保证命中，但不会以机器人或有暗影步的单位为目标。"
+LocFlyOverText="灵魂狂热"
+LocPromotionPopupText="<Bullet/> 如果敌人在2格内开始他们的回合，灵魂狂热将在该敌人尝试攻击<Ability:ClassName/>时触发。<br/><Bullet/>  如果敌人不在2格内开始他们的回合，那么灵魂狂热将在该敌人移动到该范围内时触发。<br/><Bullet/> 灵魂狂热造成与灵魂火相同的基础灵能伤害，并且同样不能以机器人为目标，但不像灵魂火那样忽略护甲或护盾。<br/><Bullet/> 灵魂狂热保证命中，但仍被视为反应攻击，因此不会以拥有暗影步的单位为目标。<br/><Bullet/> 不会在<Ability:ClassName/>自己的回合触发。\n<Bullet/> 如果使用者被压制，或正在燃烧或混乱，则不会激活。"
+
+[ChosenImmunitiesMJ X2AbilityTemplate]
+LocFriendlyName="天选者免疫"
+LocLongDescription="天选者不能被以下任何能力作为目标：静滞，静滞力场，遏制力场，倒转，换位，或冰封墓穴。"
+LocHelpText="天选者不能被以下任何能力作为目标：静滞，静滞力场，遏制力场，倒转，换位，或冰封墓穴。"
+LocFlyOverText="天选者免疫"
+
+[ShadowOps_CoverMe X2AbilityTemplate]
+LocFriendlyName="掩护我"
+LocLongDescription="授予一名盟友一次额外的监视射击和镇定自若能力。<Ability:SelfCooldown/>回合冷却时间。"
+LocHelpText="授予一名盟友一次额外的监视射击和镇定自若能力。"
+LocFlyOverText="掩护我"
+LocPromotionPopupText="<Bullet/> 监视射击和镇定自若持续到你的下回合开始。<br/><Bullet/> 镇定自若授予监视和其他反应射击+<Ability:COOLUNDERPRESSUREBONUS/>命中，并且它们可以暴击。<br/><Bullet/> 此能力可以用于任何盟友,无关范围或视线。"
+
+
+[ShadowOps_Airstrike X2AbilityTemplate]
+LocFriendlyName="空袭"
+LocLongDescription="每任务一次，呼叫一次空袭，在大范围内造成8-12点伤害。消耗两个行动点。"
+LocHelpText="呼叫一次空袭，在大范围内造成8-12点伤害。消耗两个行动点。"
+LocFlyOverText="空袭"
+LocPromotionPopupText="<Bullet/> 空袭将摧毁效果区域内几乎所有掩体。<br/><Bullet/> 此能力可以在你的小队有视野的任何地方使用，即使使用者没有直接视线。<br/>"
+
+[ShadowOps_Scrounger X2AbilityTemplate]
+LocFriendlyName="搜刮者"
+LocLongDescription="每当此士兵在任务中时，一个随机敌人上会有一次额外的战利品掉落。其他有搜刮者的小队成员会叠加该能力。"
+LocHelpText="每当此士兵在任务中时，一个随机敌人上会有一次额外的战利品掉落。其他有搜刮者的小队成员会叠加该能力。"
+
+[ShadowOps_SlamFire X2AbilityTemplate]
+LocFriendlyName="猛击开火"
+LocLongDescription="在此回合的剩余时间内，每当你的<Ability:WeaponName/>造成暴击时，你的行动点被返还。有 <Ability:SelfCooldown/> 回合冷却时间。"
+LocHelpText="在此回合的剩余时间内，每当你的<Ability:WeaponName/>造成暴击时，你的行动点被返还。"
+LocFlyOverText="猛击开火"
+LocPromotionPopupText="<Bullet/> 通过适当的设置，你可以在一个回合内触发猛击开火多次。<br/><Bullet/> 如果你在回合开始时激活猛击开火，你可以在射击之间移动或重新装弹（一次）。<br/><Bullet/> 为你的武器配备激光瞄准器和扩展弹匣或自动装弹器以最大化猛击开火的能力。<br/>"
+
+[ShadowOps_Bullseye X2AbilityTemplate]
+LocFriendlyName="正中靶心"
+LocLongDescription="发射一击造成暴击伤害并使目标受到命中、防御和意志惩罚的射击。<Ability:SelfCooldown/>回合冷却时间。"
+LocHelpText="发射一击造成暴击伤害并使目标受到命中、防御和意志惩罚的射击。"
+LocFlyOverText="正中靶心"
+LocPromotionPopupText="<Bullet/> 靶心适用于削弱难缠的敌人同时造成额外伤害。<br/><Bullet/> 正中靶心应用-20的命中、防御和意志惩罚，持续到战斗结束。<br/><Bullet/> 靶心会暴击，即使射击只会命中或擦伤。<br/><Bullet/> 抗暴击敌人，如天选者，可以用此能力暴击。然而，免疫暴击的敌人仍然不能暴击。<br/><Bullet/> 正中靶心有<Ability:SelfCooldown/>回合冷却时间。<br/>"
+
+[ShadowOps_ImprovedSuppression X2AbilityTemplate]
+LocFriendlyName="改进型压制"
+LocLongDescription="你的压制和区域压制能力还会混乱主要目标。"
+LocHelpText="你的压制和区域压制能力还会混乱主要目标。"
+LocFlyOverText="改进型压制"
+LocPromotionPopupText="<Bullet/> 被混乱的单位命中和机动性降低，并且不能使用大多数特殊能力。<br/><Bullet/>混乱在你激活压制时施加。<br/><Bullet/> 此能力将混乱任何单位（包括机器人敌人），除非该单位免疫混乱。<br/><Bullet/> 压制被打破不会提前移除减益。<br/>"
+
+[LeadTheTarget_LW X2AbilityTemplate]
+LocFriendlyName="引导射击"
+LocFlyOverText="引导射击"
+LocHelpText="授予+<Ability:LEAD_TARGET_AIM_BONUS/>% 命中增加，但延迟射击直到目标在当前回合或敌人的下回合移动。消耗两个行动点，并有<Ability:SelfCooldown_LW/>回合冷却时间。"
+LocLongDescription="授予+<Ability:LEAD_TARGET_AIM_BONUS/>% 命中增加，但延迟射击直到目标在当前回合或敌人的下回合移动。消耗两个行动点，并有<Ability:SelfCooldown_LW/>回合冷却时间。"
+LocPromotionPopupText="<Bullet/> 仔细盯着目标，授予+<Ability:LEAD_TARGET_AIM_BONUS/>% increased chance to hit，但延迟射击直到目标敌人在当前回合或敌人的下回合移动。消耗两个行动点。<br/><Bullet/> 此射击被视为标准射击，而不是反应射击，这意味着诸如暗影步和闪电反射等能力将无效。<br/><Bullet/> 可以像驱赶这样迫使敌人移动的能力用于在XCOM的回合触发射击。<br/><Bullet/> 如果敌人不移动或敌人太快移出视线，射击将不会触发。<br/><Bullet/> 预判目标有<Ability:SelfCooldown_LW/>回合冷却时间。<br/>"
+
+[Avenger_LW X2AbilityTemplate]
+LocFriendlyName="复仇者"
+LocFlyOverText="复仇者"
+LocLongDescription="每回合一次，用你的<Ability:WeaponName/>对已采取攻击行动（例如向可见的盟友开火）的可见敌人进行一次反应射击。"
+LocHelpText="每回合一次，用你的<Ability:WeaponName/>对已采取攻击行动（例如向可见的盟友开火）的可见敌人进行一次反应射击。"
+LocPromotionPopupText="<Bullet/> 如果此单位被射击，复仇者将不会激活。<br/><Bullet/> 只能在敌人的回合激活。<br/><Bullet/> 进攻行动包括但不限于：向视线内的盟友开火、作为增援空降、无面者暴露、 神圣战士正被施加于视野内的另一个敌人身上、包括以上这些都会触发。<br/><Bullet/> 每回合只能触发一次。<br/>"
+
+[Dedication_LW X2AbilityTemplate]
+LocFriendlyName="奉献精神"
+LocFlyOverText="奉献精神"
+LocLongDescription="免费行动。获得2点机动性并忽略此回合剩余时间的反应射击。有<Ability:SelfCooldown_LW/>回合冷却时间。"
+LocHelpText="免费行动。获得2点机动性并忽略此回合剩余时间的反应射击。有<Ability:SelfCooldown_LW/>回合冷却时间。"
+LocPromotionPopupText="<Bullet/> 获得2点机动性并忽略此回合剩余时间的反应射击。<br/><Bullet/> 免费行动。<br/><Bullet/> 奉献精神有<Ability:SelfCooldown_LW/>回合冷却时间。<br/>"
+
+[Meditation X2AbilityTemplate]
+LocFriendlyName="冥想"
+LocFlyOverText="冥想"
+LocLongDescription="为<Ability:ClassName/>增加最多<Ability:MeditationFocusRecovery/>点集中。需要1次充能。每次<Ability:ClassName/>获得击杀时获得1次充能。任何给定时间只能储存1次充能。"
+LocHelpText="为<Ability:ClassName/>增加最多<Ability:MeditationFocusRecovery/>点集中。需要1次充能。每次<Ability:ClassName/>获得击杀时获得1次充能。"
+LocPromotionPopupText="<Bullet/> 为<Ability:ClassName/>增加<Ability:MeditationFocusRecovery/>点集中力。<br/><Bullet/> 需要1个行动点，并且不结束<Ability:ClassName/>的回合。<br/><Bullet/> 有<Ability:SelfCooldown/>回合冷却时间。<br/><Bullet/> 从0充能开始，<Ability:ClassName/>每造成一次击杀获得1次充能。使用冥想需要1次充能，任何给定时间只能储存1次充能。"
+
+[MZSilveredRounds X2AmmoTemplate]
+FriendlyName="棘刺弹"
+FriendlyNamePlural="棘刺弹"
+BriefSummary="穿甲弹和空尖弹的混合版，这些弹丸设计用于在穿透护甲后以比标准弹丸更专注于破碎，造成严重流血。仅对生物单位有效。"
+TacticalText="<Bullet/> 我们的反应火力将能够利用这些弹丸。<br/><Bullet/> 流血造成+2伤害，考虑到这种弹药类型的额外两点伤害，这种弹药可以防止敌人濒死的情况。<br/><Bullet/> 擦伤攻击可以施加流血。"
+
+[MZ削减derRoundsAbility X2AbilityTemplate]
+LocFriendlyName="智能弹"
+
+[MZ削减derRounds X2AmmoTemplate]
+FriendlyName="智能弹"
+FriendlyNamePlural="智能弹"
+BriefSummary="对幽灵和微型发射器工作原理的革命性理解为我们提供了一种独特的弹药类型，这种弹药能在飞行过程中自主制导，虽然不完美，但一些弹丸将总是连接到敌方，造成降低但必中伤害,制导弹丸还会尝试击中敌人的弱点，对其护甲也造成一定伤害, 削减护甲。这些弹丸仅由冲锋枪和突击步枪使用"
+TacticalText="<Bullet/> 这些弹丸在被闪避时仍能造成伤害，使其成为我们反应火力的最佳弹药类型。<br/><Bullet/> 只需要瞄准敌人的大致方向并射击， 但要注意，由于我们预算有限，这些自导子弹的伤害会很小，因为并非所有子弹都能引导自身回到敌人身边。<br/><Bullet/> 变种人单位如果被击中会痛苦地退缩并且不会不会试图发起进攻,这能阻止任何反应攻击，并迫使它们采取防御行动，比如警戒。<br/>"
+
+[MZ削减derRoundsProject X2TechTemplate]
+FriendlyName="智能弹"
+FriendlyNamePlural="智能弹"
+BriefSummary="对幽灵和 MEC 微型发射器工作原理的革命性理解使我们能够制造出一种独特的弹药类型，这种弹药能在飞行过程中自主制导。虽然并不完美，但一些弹丸总能击中士兵瞄准的目标，造成虽有降低但必定存在的伤害。这些弹丸仅可由冲锋枪和突击步枪使用。"
+TacticalText="<Bullet/> 这些弹丸在未命中时也能造成伤害，使其成为我们反应火力士兵的最佳弹药类型。\n <Bullet/> 只需瞄准敌人的大致方向射击，但要注意，由于我们预算有限，这些自导子弹的伤害会很小，因为并非所有子弹都能引导自身回到敌人身边。\n <Bullet/> 变种人单位如果被击中会痛苦地退缩，不会试图发起进攻，这能阻止任何反应攻击，并迫使它们采取防御行动，比如监视。\n"
+
+[MZShimmerWeaveProject X2TechTemplate]
+FriendlyName="微光编织"
+FriendlyNamePlural="微光编织"
+BriefSummary="这款缓冲金属背心由眩晕枪手护甲制成，极其轻便，移动时会产生一种闪光效果，能扭曲士兵的身形，使其更难被反应射击击中。背心中的特殊缓冲材料还能吸收坠落或任何击退来源（如震荡冲击波、磁性手雷或灵能军团猛禽的灵能打击）带来的动能冲击。这款背心足够轻盈，不会妨碍使用者的机动性，但不提供任何属性加成。"
+TacticalText="<Bullet/> 赋予移动目标（对反应射击 + 15 防御、+50 闪避）效果，由于重量可忽略不计，该背心的机动性值为中性。<br/><Bullet/> 还能提供对击退和坠落伤害的免疫效果。<br/><Bullet/> 若由已拥有 “移动目标” 技能的风暴兵穿着，其效果将翻倍，使其成为在无法获得 “闪电反射” 技能时，突破警戒状态的最佳选择。<br/>"
+
+[MZShimmerWeave X2EquipmentTemplate]
+FriendlyName="微光编织"
+FriendlyNamePlural="微光编织"
+BriefSummary="这款缓冲金属背心由眩晕枪手护甲制成，极其轻便，移动时会产生一种闪光效果，能扭曲士兵的身形，使其更难被反应射击击中。背心中的特殊缓冲材料还能吸收坠落或任何击退来源（如震荡冲击波、磁性手雷或灵能军团猛禽的灵能打击）带来的动能冲击。这款背心足够轻盈，不会妨碍使用者的机动性，但不提供任何属性加成。"
+TacticalText="<Bullet/> 赋予移动目标（对反应射击 + 15 防御、+50 闪避）效果，由于重量可忽略不计，该背心的机动性值为中性。<br/><Bullet/> 还能提供对击退和坠落伤害的免疫效果。<br/><Bullet/> 若由已拥有 “移动目标” 技能的风暴兵穿着，其效果将翻倍，使其成为在无法获得 “闪电反射” 技能时，突破警戒状态的最佳选择。<br/>"
+
+[XComBarrierShield X2WeaponTemplate]
+FriendlyName="屏障盾"
+FriendlyNamePlural="屏障盾"
+BriefSummary="这款革命性的盾牌利用冰晶石的冷却能力来维持其力场发生器的稳定温度。虽然在耐久性上不及守护者盾牌，但它能通过修复使用者损失的烧蚀层来弥补这一不足，从而提升使用者在长时间战斗中的生存能力。该盾牌还有一项次要功能：可将力场重新导向，作为磁盾使用，借助磁斥力大幅降低来袭近战攻击的速度。"
+TacticalText="<Bullet/> 提供持续的烧蚀层修复功能，但必须在所有护盾耗尽后，盾牌才能正常重新激活。得益于灵能核心和冰晶石，其修复能力不受限制，但盾牌的闪避效果弱于合金盾牌。<br/><Bullet/> 具备‘预判’特性，可使受到的近战攻击伤害降低 50%。<br/><Bullet/> 这款盾牌能让我们的重装步兵更难受到碎屑伤害和爆炸伤害，但由于闪避较低，对高伤害攻击或能造成状态效果的弹药防御效果较差。<br/>"
+
+[XComBarrierShield X2AbilityTemplate]
+LocFriendlyName="屏障盾"
+LocLongDescription="<Bullet/> 提供+2护甲和+15闪避，屏障盾比守护者更灵活，使其在近战战斗中稍好，+1伤害。\n"
+LocHelpText="<Bullet/> 提供+2护甲和+15闪避，屏障盾比守护者更灵活，使其在近战战斗中稍好，+1伤害。\n"
+
+[ShimmerWeaveMJ X2AbilityTemplate]
+LocFriendlyName="微光护甲"
+LocLongDescription="提供+1生命值和+15闪避。"
+LocHelpText="<Bullet/> 提供+1生命值和+15闪避。\n"
+
+[ShieldStatsMJ_Barrier X2AbilityTemplate]
+LocFriendlyName="屏障盾"
+LocLongDescription="提供+2护甲和+15闪避，屏障盾比守护者更灵活，使其在近战战斗中稍好，+1伤害。"
+LocHelpText="<Bullet/> 提供+2护甲和+15闪避，屏障盾比守护者更灵活，使其在近战战斗中稍好，+1伤害。\n"
+
+[SonicWeapons X2TechTemplate]
+DisplayName="音波武器"
+Summary="随着我们为人类自由而战的持续进行，始终需要新的武器。指挥官，我们或许有一些能让您感兴趣的东西：变种人已经开始为其机枪兵部署特殊的声波武器，我们应该能够复制他们的技术和武器并打造出我们自己的版本。我们只需要一些变种人机枪兵武器的样本和资源，就可以着手进行了。我预计突击步枪和加农炮可能会是研发成果.."
+LongDescription="我们成功制造出了便携式声波武器，这些特殊武器使用元素核心为强大的元素晶体共振器供能，共振器会产生集中的声波，沿枪管方向发射。这些超声波在空气中传播，其能量消散时会迫使路径上的所有物质按自身频率振动。这对气体或液体而言并无太大影响，但如果这种力量遇到金属或血肉之类的物质，就会产生分子级别的破裂，从而粉碎装甲或撕裂血肉与器官 —— 类似目标被爆炸压力波击中的效果。"
+UnlockedDescription="原型音波步枪已添加到军械库，供我们的游侠、专家和其他人使用。"
+
+[AssaultRifle_S X2WeaponTemplate]
+FriendlyName="音波突击步枪"
+BriefSummary="这是一款外观不祥的步枪，发射的集中声波能粉碎敌人的装甲并造成分子级别的撕裂，每次射击还有 30% 的几率使目标眩晕 1 点行动点。"
+TacticalText="<Bullet/> 与线圈武器威力相当，不同之处在于这类武器会削减装甲而非穿透装甲，且能造成+1点的撕裂效果。\n<Bullet/> 声波会对环境造成显著破坏，击中目标时有 30% 的几率使其眩晕 1 点行动点，这意味着该单位回合开始时仅有 1 点行动点，极大限制了其所能执行的操作。"
+AbilityDescName="音波突击步枪"
+
+[Cannon_S X2WeaponTemplate]
+FriendlyName="音波加农炮"
+BriefSummary="这种重型武器能将人化为红色的雾气 —— 声波撕裂金属与血肉的威力不分伯仲。这种重型武器可粉碎装甲、造成撕裂伤，即便目标侥幸存活，也可能被击晕。"
+TacticalText="<Bullet/> 与线圈加农炮相当， 不同之处在于该武器会削减装甲，且撕裂效果 + 1。\n<Bullet/> 声波会对环境造成显著破坏，击中目标时有 30% 的几率使其眩晕 1 点行动点，被击中的单位回合开始时会减少 1 点行动点，行动因此受到限制。"
+AbilityDescName="音波加农炮"
+
+[ChosenBleedingRounds X2AbilityTemplate]
+FriendlyName="棘刺弹"
+FriendlyNamePlural="棘刺弹"
+BriefSummary="穿甲弹和空尖弹的混合版，这些弹丸设计用于在穿透护甲后以比标准弹丸更精彩的方式破碎，造成严重流血。仅对生物单位有效。"
+TacticalText="<Bullet/> 对所有有机敌人+2点伤害的弹药，对机器人无效。\n"
+
+[VektorRifle_LS X2WeaponTemplate]
+FriendlyName="深红长枪"
+FriendlyNamePlural="深红长枪"
+BriefSummary="深红长枪用高密度脉冲持续时间调制激光振荡器增强了标准的维克托框架。它不如我们更大的脉冲武器设计强大，但其易用性和平台稳定性赋予其无与伦比的精度。覆盖的散热器减少了该武器的热信号，使其更难追踪用户。"
+TacticalText="深红长枪用高密度脉冲持续时间调制激光振荡器增强了标准的维克托框架。它不如我们更大的脉冲武器设计强大，但其易用性和平台稳定性赋予其无与伦比的精度。覆盖的散热器减少了该武器的热信号，使其更难追踪用户。\n<Bullet/> 在没有特殊训练的情况下，使用主武器开火总是结束士兵的回合。\n<Bullet/> 使用从敌人那里缴获的升级来提高深红长枪的战术效力。"
+AbilityDescName="维克托步枪"
+
+[VektorRifle_CG X2WeaponTemplate]
+FriendlyName="特斯拉长枪"
+FriendlyNamePlural="特斯拉长枪"
+BriefSummary="特斯拉长枪因其采用电力点燃弹壳中推进剂的方式而得名。其长身管线膛枪管采用内部稳定设计，且在全长范围内不与武器框架接触。这两个因素使该武器极为精准且易于操作。"
+TacticalText=" 特斯拉长枪因其采用电力点燃弹壳中推进剂的方式而得名。其长身管线膛枪管采用内部稳定设计，且在全长范围内不与武器框架接触。这两个因素使该武器极为精准且易于操作。\n<Bullet/> 在未经过特殊训练的情况下，使用主武器开火后，士兵的回合将立即结束。\n<Bullet/> 可利用从敌人那里缴获的升级部件来提升特斯拉长枪的战术效能。"
+AbilityDescName="维克托步枪"
+
+[Vektor_LS X2WeaponTemplate]
+FriendlyName="深红长枪"
+FriendlyNamePlural="深红长枪"
+BriefSummary="深红长枪在标准维克托框架上集成了高密度脉冲持续时间调制激光振荡器。它不如我们的大型脉冲武器设计强大，但其易用性和平台稳定性赋予了它无与伦比的精度。覆盖式散热器降低了此武器的热信号特征，使其使用者更难被追踪。"
+TacticalText="深红长枪在标准维克托框架上集成了高密度脉冲持续时间调制激光振荡器。它不如我们的大型脉冲武器设计强大，但其易用性和平台稳定性赋予了它无与伦比的精度。覆盖式散热器降低了此武器的热信号特征，使其使用者更难被追踪。\n<Bullet/> 在没有特殊训练的情况下，使用主武器开火总会结束士兵的回合。\n<Bullet/> 使用从敌人那里缴获的升级部件来提高深红长枪的战术效能。"
+AbilityDescName="维克托步枪"
+
+[Vektor_CG X2WeaponTemplate]
+FriendlyName="特斯拉长枪"
+FriendlyNamePlural="特斯拉长枪"
+BriefSummary="特斯拉长枪因其通过电流点燃弹壳中推进剂的方法而得名。长线膛枪管内部稳定，且整个长度不与武器框架接触。这两个因素使得该武器极其精确且易于操控。"
+TacticalText="特斯拉长枪因其通过电流点燃弹壳中推进剂的方法而得名。长线膛枪管内部稳定，且整个长度不与武器框架接触。这两个因素使得该武器极其精确且易于操控。\n<Bullet/> 在没有特殊训练的情况下，使用主武器开火总会结束士兵的回合。\n<Bullet/> 使用从敌人那里缴获的升级部件来提高特斯拉长枪的战术效能。"
+AbilityDescName="维克托步枪"
+
+[Bullpup_LS X2WeaponTemplate]
+FriendlyName="Kal-33 无托步枪"
+FriendlyNamePlural="Kal-33 无托步枪"
+BriefSummary="与我们大多数的脉冲激光设计不同，无托版本有更严格的尺寸要求，因此我们不得不大幅降低脉冲速率以防止武器过热。这使得该武器感觉更像传统的自动火器而非连续光束武器，并且更难造成深度、强烈的灼伤，尽管这确实使其在近距离更容易使用。"
+TacticalText="与我们大多数的脉冲激光设计不同，无托版本有更严格的尺寸要求，因此我们不得不大幅降低脉冲速率以防止武器过热。这使得该武器感觉更像传统的自动火器而非连续光束武器，并且更难造成深度、强烈的灼伤，尽管这确实使其在近距离更容易使用。\n<Bullet/> 使用无托步枪不会结束破法者的回合，并且可以在一个回合内开火两次。\n<Bullet/> 无托式武器在近距离极为有效，但其精度在远距离会迅速下降。\n<Bullet/> 使用从敌人那里缴获的升级部件来提高卡尔-33无托步枪的战术效能。"
+AbilityDescName="无托步枪"
+
+[Bullpup_CG X2WeaponTemplate]
+FriendlyName="Kal-50 无托步枪"
+FriendlyNamePlural="Kal-50 无托步枪"
+BriefSummary="根据贝托斯本人提供的规格设计，破法者无托步枪的线圈版本是一款紧凑且平衡性良好的武器。减少的磁力线圈数量和较小的装药量限制了其在中远距离的制止力和精度，但卓越的平衡性和高射速使其在近距离易于操控且可靠。"
+TacticalText="根据贝托斯本人提供的规格设计，破法者无托步枪的线圈版本是一款紧凑且平衡性良好的武器。减少的磁力线圈数量和较小的装药量限制了其在中远距离的制止力和精度，但卓越的平衡性和高射速使其在近距离易于操控且可靠。\n<Bullet/> 使用无托步枪不会结束破法者的回合，并且可以在一个回合内开火两次。\n<Bullet/> 无托式武器在近距离极为有效，但其精度在远距离会迅速下降。\n<Bullet/> 使用从敌人那里缴获的升级部件来提高卡尔-50无托步枪的战术效能。"
+AbilityDescName="无托步枪"
+
+[SparkRifle_LS X2WeaponTemplate]
+FriendlyName="喷火脉冲炮"
+FriendlyNamePlural="喷火脉冲炮"
+BriefSummary="喷火脉冲炮是我们武库中最大的便携式自动激光武器。使用旋转枪管组件解决了过热问题，脆弱的枪管部件由独立的可伸缩护罩保护。"
+TacticalText="喷火脉冲炮是我们武库中最大的便携式自动激光武器。使用旋转枪管组件解决了过热问题，脆弱的枪管部件由独立的可伸缩护罩保护。\n<Bullet/> 在没有特殊训练的情况下，使用主武器开火总会结束士兵的回合。\n<Bullet/> 使用从敌人那里缴获的升级部件来提高喷火脉冲炮的战术效能。"
+AbilityDescName="自动炮"
+
+[SparkRifle_CG X2WeaponTemplate]
+FriendlyName="速纳-纳米高斯炮"
+FriendlyNamePlural="速纳-纳米高斯炮"
+BriefSummary="新型以超铀核心为基础的、纳米级间距的速射电容器的引入，使我们能够开发出一种新型自动炮，在射击过程中电容器会依次过载和放电，从而在连续射击期间保持持续的高伤害输出。"
+TacticalText="新型以超铀核心为基础的、纳米级间距的速射电容器的引入，使我们能够开发出一种新型自动炮，在射击过程中电容器会依次过载和放电，从而在连续射击期间保持持续的高伤害输出。\n<Bullet/> 在没有特殊训练的情况下，使用主武器开火总会结束士兵的回合。\n<Bullet/> 使用从敌人那里缴获的升级部件来提高喷火脉冲炮的战术效能。"
+AbilityDescName="自动炮"
+
+[ThermalPlating X2EquipmentTemplate]
+FriendlyName="绝缘镀层"
+FriendlyNamePlural="绝缘镀层"
+BriefSummary="绝缘镀层是我们陶瓷镀层的升级版。提供2点护甲并保护士兵免受冰冻效果影响。"
+TacticalText="<Bullet/> 提供2点护甲并对冰冻效果免疫。<br/><Bullet/> 这些生命值一旦损失，在本任务剩余时间内无法恢复。<br/><Bullet/> 损失吸收性生命值不会增加负伤时间。\n<Bullet/> 一次只能装备一件镀层物品和一件背心。"
+
+[ThermalCoating X2AbilityTemplate]
+LocFriendlyName="绝缘镀层"
+LocFlyOverText="防冻"
+LocLongDescription="该士兵对冰冻效果免疫"
+LocHelpText="对冰冻效果免疫"
+
+[PsiOperative X2SoldierClassTemplate]
+
+AbilityTreeTitles[2]="秘术"
+AbilityTreeTitles[3]="XCOM"
+AbilityTreeTitles[4]="手枪"
+
+[ABB_TakeDown X2AbilityTemplate]
+LocFriendlyName="制服"
+LocFlyOverText="制服"
+LocHelpText="一个近战终结技，永远不会失手，即使用于冲刺移动也不会结束你的回合，但只能以生命值受损且生命值在3点或以下的敌人为目标。每回合可使用一次。<Ability:SelfCooldown_LW/>回合冷却时间。"
+LocLongDescription="一个近战终结技，永远不会失手，即使用于冲刺移动也不会结束你的回合，但只能以生命值受损且生命值在3点或以下的敌人为目标。每回合可使用一次。<Ability:SelfCooldown_LW/>回合冷却时间。"
+LocPromotionPopupText="<Bullet/> 此攻击总是造成5点伤害。如果敌人有足够的护甲或其他伤害抗性，制服不一定会导致击杀。\n<Bullet/> 制服每回合可使用一次，且仅当作为第一个行动时才能用于冲刺。\n<Bullet/> 与‘压制’不同，制服不依赖近战武器。人类士兵会用枪托，某些外星人会挥拳或用爪子劈砍。"
+
+[BU_All_Tier4_Tech X2TechTemplate]
+DisplayName="BU计划：巨机甲级改进"
+Summary="既然我们已经研究了巨机甲，就可以将相关知识应用到我们量产的单位上。它们都将获得‘重炮手’能力并变得免疫暴击。此外，除MEC变体和废旧SPARK外的所有单位都将获得‘双倍时间’能力，所有MEC变体都将获得‘残暴伺服’能力。"
+LongDescription="这些额外能力将适用于任何已建造的单位以及未来的单位。"
+
+[AHWFloaterArmorProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>夏基斯女武神装甲</font>"
+Summary="我们对浮飞兵的研究为我们提供了一种突破性的战斗可能性：女武神装甲。"
+CodeName="浮飞兵装甲"
+LongDescription="<Bullet/> 这种独特的设计将浮飞兵设计中所用技术的优势与装甲相结合，使我方士兵能够将战斗延伸至天空。"
+
+[AHWRequiemSwordProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>塔兹纳突击刃</font>"
+Summary="能够造成<font color='#df07b7'>9-12</font>点伤害，并在对目标要害命中时额外造成<font color='#df07b7'>6</font>点暴击伤害，这柄独特的<font color='#df07b7'>剑</font>是对天选者刺客自身利刃的致命致敬。最初设计用于在破法者叛乱后切割变种人的装甲，塔兹纳突击刃每次攻击都能撕裂<font color='#df07b7'>1</font>点护甲，已成为蛇形军团士兵的标准近战武装。作为一种利用<font color='#df07b7'>安魂曲核心</font>的<font color='#df07b7'>安魂曲武装</font>，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+CodeName="安魂曲之剑"
+LongDescription="<Bullet/> 塔兹纳突击刃是一种强大的近战选择，也是近距离作战可靠的备用武器。"
+
+[AHWRequiemPistolProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>哈科尔爆裂卡宾枪 </font>"
+Summary="一把超轻量卡宾枪，单发可造成<font color='#df07b7'>6-9</font>点伤害，并在对目标要害命中时额外造成<font color='#df07b7'>4</font>点暴击伤害，这柄独特的<font color='#df07b7'>手枪</font>是猎人的首选武装。作为一种利用<font color='#df07b7'>安魂曲核心</font>的<font color='#df07b7'>安魂曲武装</font>，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+CodeName="安魂曲手枪"
+LongDescription="<Bullet/> 哈科尔爆裂卡宾枪拥有快速充电动力单元，无需装弹，其能量释放率远低于哈杜姆，每发射击消耗一点行动点。\n<Bullet/> 然而，与哈杜姆类似，哈科尔的单发伤害较低。"
+
+[AHWRequiemBolterProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>科尔卡赞重型爆弹枪</font>"
+Summary="这款重型爆弹枪单发可造成<font color='#df07b7'>11-14</font>点伤害，并在对目标要害命中时额外造成<font color='#df07b7'>8</font>点暴击伤害，这种独特的<font color='#df07b7'>步枪</font>变体主要设计为蛇形人员便携的反器材步枪，能够穿透<font color='#df07b7'>2</font>点护甲，并对机械单位造成额外伤害。作为一种利用<font color='#df07b7'>安魂曲核心</font>的<font color='#df07b7'>安魂曲武装</font>，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+CodeName="安魂曲爆弹枪"
+LongDescription="<Bullet/> 令人恐惧的泰潘的安魂曲首选武装的回收版本。\n<Bullet/> 能够穿透中等量护甲，科尔卡赞是一种强大的爆弹枪，其穿刺爆弹能造成巨量的暴击伤害。"
+
+[AHWRequiemSniperProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>塔尔卡赞超重型爆弹枪</font>"
+Summary="这款超重型爆弹枪单发可对区域内所有目标造成<font color='#df07b7'>7-10</font>点伤害，并在对目标要害命中时额外造成<font color='#df07b7'>4</font>点暴击伤害，这种独特的<font color='#df07b7'>狙击步枪</font>变体主要设计为蛇形人员便携的反器材步枪，能够撕裂<font color='#df07b7'>1</font>点护甲，并对机械单位造成额外伤害。作为一种利用<font color='#df07b7'>安魂曲核心</font>的<font color='#df07b7'>安魂曲武装</font>，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+CodeName="安魂曲狙击枪"
+LongDescription="<Bullet/> 尽管其开火前需要充能和开火后需要冷却的特性限制了其可用性且无法用于监视，但它为对抗机械目标提供了无与伦比的火力。\n<Bullet/> 塔尔卡赞完全无视护盾，穿透所有护甲，在小范围内造成伤害，并大幅撕裂任何被命中单位的装甲。"
+
+[AHWKosmaGrenadeProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>科斯玛手雷</font>"
+Summary="一种注入了<font color='#df07b7'>安魂曲精华</font>的特殊手雷。虽然初始伤害不高，初始爆炸仅造成<font color='#df07b7'>1-4</font>点伤害，但它可以与<font color='#df07b7'>科斯玛发射器</font>配对使用，从而在战场上产生毁灭性效果。作为一种安魂曲武装，此手雷会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+CodeName="科斯玛手雷"
+LongDescription="<Bullet/> 科斯玛手雷无法撕裂护甲，但它们能干扰能量护盾，并且如果其初始爆炸能杀死敌人，则会阻止持续效果激活。\n<Bullet/> 被科斯玛手雷伤害的单位会感染<font color='#df07b7'>安魂曲腐蚀</font>。"
+
+[AHWRequiemShotgunProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>巴拉杜姆爆裂炮</font>" ; (Burst Cannon保留英文或译为“ burst 炮”，根据上下文判断为武器类型名)
+Summary="一款轻型炮，单发可造成<font color='#df07b7'>11-14</font>点伤害，穿透<font color='#df07b7'>1</font>点护甲，并在对目标要害命中时额外造成<font color='#df07b7'>8</font>点暴击伤害，这种独特的<font color='#df07b7'>霰弹枪</font>是安魂曲军团前线蛇形人员的标准<font color='#df07b7'>安魂曲武装</font>。作为一种利用<font color='#df07b7'>安魂曲核心</font>的<font color='#df07b7'>安魂曲武装</font>，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+CodeName="安魂曲霰弹枪"
+LongDescription="<Bullet/> 近距离战斗充满危险，但巴拉杜姆爆裂炮的持有者永远不必担心火力不足。\n<Bullet/> 巴拉杜姆爆裂炮在近距离不可能失手，无视掩护。\n<Bullet/> 然而，其精度随距离增加会迅速降至零。"
+
+[AHWRequiemCannonProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>巴拉卡尔区域压制炮</font>"
+Summary="这款重型炮单次 burst 可造成<font color='#df07b7'>9-12</font>点伤害，穿透并撕裂<font color='#df07b7'>1</font>点护甲，并在对目标要害命中时额外造成<font color='#df07b7'>4</font>点暴击伤害，这种独特的<font color='#df07b7'>轻机枪</font>变体配备了一个高效电容器，使其装弹功能上瞬间完成且毫不费力。作为一种利用<font color='#df07b7'>安魂曲核心</font>的<font color='#df07b7'>安魂曲武装</font>，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+CodeName="安魂曲炮"
+LongDescription="<Bullet/> 巴拉卡尔重炮提供了卓越的区域控制能力，代价是机动性。\n<Bullet/> 巴拉卡尔重炮拥有巨大的能量储备，使其能够维持高射速，且装弹次数很少。"
+
+[AHWRequiemMagnetronProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>夏奎兹磁力仪</font>"
+Summary="这款微型炮单次单目标爆炸可造成<font color='#df07b7'>10-15</font>点伤害，穿透并撕裂<font color='#df07b7'>2</font>点护甲，并在对目标要害命中时额外造成<font color='#df07b7'>5</font>点暴击伤害，并且能够重新定位类人体型的目标同时对其造成严重伤害。这种独特的<font color='#df07b7'>重型武器</font>可以定期 recharge。作为一种利用<font color='#df07b7'>安魂曲核心</font>的<font color='#df07b7'>安魂曲武装</font>，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+CodeName="安魂曲磁力仪"
+LongDescription="<Bullet/> 夏奎兹能够强行重新定位其目标并同时对其造成严重伤害。"
+
+[AHWRequiemHeavyRifleProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>卡拉玛压制者步枪</font>"
+Summary="这款重型步枪炮单次单目标爆炸可造成<font color='#df07b7'>12-15</font>点伤害，穿透<font color='#df07b7'>1</font>点护甲，并在对目标要害命中时额外造成<font color='#df07b7'>5</font>点暴击伤害，其恐怖的压制火力将严重阻碍敌人。这种独特的<font color='#df07b7'>步枪</font>变体是安卓梅利德的标准制式武装。作为一种利用<font color='#df07b7'>安魂曲核心</font>的<font color='#df07b7'>安魂曲武装</font>，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+CodeName="安魂曲重型步枪"
+LongDescription="<Bullet/> 卡拉玛是一种极其有效的武器，提供强大的集中火力攻击和实用性。"
+
+[RequiemNivenBoosterProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>尼文电容器</font>"
+Summary="这些灵能电容器增强了士兵的灵能容量，使所有造成的灵能伤害增加+20%，并且对于那些能够利用它的人，提供一个额外的专注点。"
+CodeName="尼文电容器"
+LongDescription="<Bullet/> 这些灵能电容器增强了士兵的灵能容量，使所有造成的灵能伤害增加+20%，并且对于那些能够利用它的人，提供一个额外的专注点。"
+
+[AHWStainlessSparkProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>加特达姆不锈钢底盘</font>"
+Summary="这款不锈钢底盘作为我们机械化单位的重型加固框架，由<font color='#df07b7'>安魂曲核心</font>提供动力，能够承受巨大伤害，相当于我们最先进SPARK装甲的理论容量，但配备了从机械战争机甲回收的奇异材料制造的冗余结构支撑系统。这些冗余系统兼作内部装甲，能够大幅降低对核心单元造成暴击的几率，使核心单元免疫<font color='#df07b7'>安魂曲腐蚀</font>，并随着不锈钢底盘受损程度的增加， 不断减轻外界因素对核心单元的影响."
+CodeName="不锈钢底盘"
+LongDescription="<Bullet/> 不锈钢镀层是我们MEC和SPARK对抗腐蚀性武器的主要保护手段。"
+
+[AHWRequiemSparkSniperProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>夏玛拉粉碎者炮</font>"
+Summary="一门<font color='#df07b7'>SPARK便携式</font>重炮，设计用于利用<font color='#df07b7'>安魂曲核心</font>。此武装对于远距离精确打击最为有效。作为一种安魂曲武装，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+LongDescription="<Bullet/> 夏玛拉粉碎者炮的成功攻击若将目标生命值降至较低水平，则有几率立即杀死目标。剩余生命值越低，几率越高。"
+CodeName="夏玛拉粉碎者炮"
+
+[AHWRequiemRifleProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>塔兹科尔突击步枪</font>"
+Summary="一款中量<font color='#df07b7'>assault rifle</font>，设计用于利用<font color='#df07b7'>安魂曲核心</font>。塔兹科尔 assault rifle 提供伤害和 versatility。作为一种安魂曲武装，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+LongDescription="<Bullet/> 用途广泛，致命，塔兹科尔 assault rifle 在任何情况下都很有用。\n<Bullet/> 先进光学系统使使用者能够在战场上获得极大的 versatility。"
+CodeName="塔兹科尔突击步枪"
+
+[AHWKosmaLauncherProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>科斯玛发射器</font>"
+Summary="一款<font color='#df07b7'>榴弹发射器</font>，设计用于利用<font color='#df07b7'>安魂曲核心</font>。就其本身而言，它在一定情况下比磁加速榴弹发射器有所改进，但与<font color='#df07b7'>科斯玛手雷</font>配对使用时，它能产生极具破坏力的效果。"
+LongDescription="<Bullet/> 科斯玛发射器比磁加速榴弹发射器射程远得多，但为发射的弹药提供的爆炸半径并不等效。\n<Bullet/> 由于拥有安魂曲核心来生产所需的安魂曲精华，它能够在战场上有限地补充科斯玛弹药。"
+CodeName="科斯玛发射器"
+
+[AHWRequiemSuperSparkRifleProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>夏奎兹主宰炮</font>"
+Summary="一门<font color='#df07b7'>SPARK便携式</font>重炮，设计用于利用<font color='#df07b7'>安魂曲核心</font>。此武装设计用于中距离快速交火。作为一种安魂曲武装，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+LongDescription="<Bullet/> 夏奎兹主宰炮可以在不结束回合的情况下开火。\n<Bullet/>"
+CodeName="夏奎兹主宰炮"
+
+[AHWRequiemBlasterProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>夏爆破枪</font>"
+Summary="一种独特的<font color='#df07b7'>重型武器</font>，设计用于利用<font color='#df07b7'>安魂曲核心</font>。这款微型化巨机甲爆破枪拥有无限弹药，一个回合内可以多次射击，并有小几率击晕命中的目标。然而，它在远距离非常不准。作为一种安魂曲武装，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+LongDescription="<Bullet/> 夏爆破枪拥有无限弹药，并有小几率击晕命中的目标。"
+CodeName="夏爆破枪"
+
+[AHWRequiemSeekerArmorProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>塔兹玛拉幻影装甲</font>"
+Summary="我们对潜行兵的研究为我们提供了一种突破性的战斗可能性：幻影装甲。"
+LongDescription="<Bullet/> 这种独特的设计将潜行兵设计中所用技术的优势与我方装甲相结合，使我方士兵能够执行外科手术式的隐秘行动。"
+CodeName="幻影装甲"
+
+[AHWRequiemAltarArmorProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>夏科尔破晓者战服</font>"
+Summary="我们对圣坛的研究为我们提供了一种突破性的战斗可能性：破晓者战服。"
+LongDescription="<Bullet/> 这种独特的设计将安魂曲军团设计中所用技术的优势与我方装甲相结合，赋予我方士兵防御和攻击能力的巨大提升。"
+CodeName="破晓者战服"
+
+[AHWRequiemSMGProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>哈杜姆围攻卡宾枪</font>"
+Summary="一款轻型<font color='#df07b7'>无托式卡宾枪</font>，设计用于利用<font color='#df07b7'>安魂曲核心</font>。虽然其伤害远低于其更强大的同类武器，但哈杜姆围攻卡宾枪提供了独特的优势。作为一种安魂曲武装，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+LongDescription="<Bullet/> 哈杜姆围攻卡宾枪造成的伤害低于所有其他主要安魂曲武装，但有能力使电容器过载以对目标进行聚焦射击。\n<Bullet/> 凭借扩展弹匣和自动装弹器，仅此武器就能扭转战局。"
+CodeName="围攻卡宾枪"
+
+[AHWRequiemLanceProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>巴拉科尔核心钻取炮</font>"
+Summary="一门<font color='#df07b7'>SPARK便携式</font>重炮，设计用于利用<font color='#df07b7'>安魂曲核心</font>。它牺牲射程以换取发射能熔化血肉和结构的光束的能力。作为一种安魂曲武装，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+LongDescription="<Bullet/> 巴拉科尔核心钻取炮可以发射能熔化结构和血肉的光束，代价是有效射程有限。"
+CodeName="核心钻取炮"
+
+[AHWRequiemScoutSniperProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>莫尔卡赞隐秘爆弹枪</font>"
+Summary="一款轻型单发<font color='#df07b7'>维克托步枪</font>，设计用于利用<font color='#df07b7'>安魂曲核心</font>。其火力远逊于其姐妹型号塔尔卡赞，但为使用者提供了卓越的 utility。作为一种安魂曲武装，此武器会造成<font color='#df07b7'>安魂曲腐蚀</font>。"
+LongDescription="<Bullet/> 莫尔卡赞提供的火力显著低于塔尔卡赞，也低于大多数其他主要安魂曲武装。\n<Bullet/> 作为其低伤害和单发特性的交换，其轻量允许使用者在射击后快速重新定位或重新隐蔽。"
+CodeName="隐秘爆弹枪"
+
+[AHWRequiemHavocGrenadeProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>浩劫谐振器</font>"
+Summary="一种特殊的<font color='#df07b7'>手雷</font>，利用<font color='#df07b7'>安魂曲精华</font>。虽然其激活本身是非伤害性的，但一系列<font color='#df07b7'>安魂曲精华</font>放大的、在噩梦波长上的灵能共振脉冲将导致其效果范围内的爆炸物连环爆炸。"
+LongDescription="<Bullet/> 浩劫谐振器天生不具备伤害能力，但会导致携带的爆炸物大规模爆炸。"
+CodeName="浩劫谐振器"
+
+[AHWRequiemMechapedePCSProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>自动化战术处理器</font>"
+Summary="授予使用者额外意志力、命中，并且使用者会在回合结束时进入监视状态。"
+LongDescription="<Bullet/> 授予使用者额外意志力、命中，并且使用者会在回合结束时进入监视状态。"
+CodeName="自动化战术处理器"
+
+[RequiemNavigatorPCSProject X2TechTemplate]
+DisplayName="<font color='#df07b7'>认知调节器</font>"
+Summary="授予使用者额外意志力、闪避、持续效果和神经韧性，大幅减少所受灵能伤害。"
+LongDescription="<Bullet/> 授予使用者额外意志力、闪避、持续效果和神经韧性，大幅减少所受灵能伤害。"
+CodeName="认知调节器"

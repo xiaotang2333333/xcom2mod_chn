@@ -1,0 +1,319 @@
+[PartyBarSoldierStaffSlot X2StaffSlotTemplate]
+EmptyText="开放：为士兵举办派对"
+BonusEmptyText="选择受誉者。"
+BonusDefaultText="派对"
+BonusText="心情焕新"
+FilledText="船员们正在为%UNITNAME举办派对！"
+LockedText="休假中（参加派对）"
+
+[Mood_Nothing X2AbilityTemplate]
+LocFriendlyName="毫无情绪"
+LocLongDescription="该单位无法感知任何人类情绪。属性无变化"
+LocHelpText="该单位无法感知任何人类情绪。属性无变化"
+LocFlyOverText="毫无情绪"
+
+[Mood_Neutral X2AbilityTemplate]
+LocFriendlyName="感觉良好"
+LocLongDescription="该士兵与船员们相互交流、分享故事，与大家相处时心情愉悦。属性无变化"
+LocHelpText="该士兵与船员们相互交流、分享故事，与大家相处时心情愉悦。属性无变化"
+LocFlyOverText="感觉良好"
+
+[Mood_Jubilant X2AbilityTemplate]
+LocFriendlyName="欣喜若狂"
+LocLongDescription="在近期为其举办的庆功活动后，该士兵极度兴奋。派对让他们活力满满！生命值+2，机动性+2，命中率+15"
+LocHelpText="在近期为其举办的庆功活动后，该士兵极度兴奋。派对让他们活力满满！生命值+2，机动性+2，命中率+15"
+LocFlyOverText="欣喜若狂"
+
+[Mood_Amused X2AbilityTemplate]
+LocFriendlyName="觉得好笑"
+LocLongDescription="晚餐时，一名队友惟妙惟肖地模仿布拉德福德，逗得该士兵笑个不停。意志力+5，灵能攻击+10"
+LocHelpText="晚餐时，一名队友惟妙惟肖地模仿布拉德福德，逗得该士兵笑个不停。意志力+5，灵能攻击+10"
+LocFlyOverText="觉得好笑"
+
+[Mood_Anxious X2AbilityTemplate]
+LocFriendlyName="焦虑不安"
+LocLongDescription="该士兵无法放松，担心下次任务中稍有失手就会让团队付出惨痛代价。防御力-5，灵能攻击-10"
+LocHelpText="该士兵无法放松，担心下次任务中稍有失手就会让团队付出惨痛代价。防御力-5，灵能攻击-10"
+LocFlyOverText="焦虑不安"
+
+[Mood_Angry X2AbilityTemplate]
+LocFriendlyName="怒火中烧"
+LocLongDescription="一名战友对该士兵近期的表现发表了轻率评论，这让其怒火冲天。命中率+10，暴击率-20"
+LocHelpText="一名战友对该士兵近期的表现发表了轻率评论，这让其怒火冲天。命中率+10，暴击率-20"
+LocFlyOverText="怒火中烧"
+
+[Mood_Annoyed X2AbilityTemplate]
+LocFriendlyName="心生厌烦"
+LocLongDescription="在任务简报会上，总有人吹嘘自己潜入变种人设施的“绝妙主意”，该士兵已经听够了。暴击率-5，意志力-5"
+LocHelpText="在任务简报会上，总有人吹嘘自己潜入变种人设施的“绝妙主意”，该士兵已经听够了。暴击率-5，意志力-5"
+LocFlyOverText="心生厌烦"
+
+[Mood_Bored X2AbilityTemplate]
+LocFriendlyName="感到无聊"
+LocLongDescription="该士兵在复仇者号上闲逛，漫无目的地摆弄装备，试图找点有意思的事做。机动性-1，意志力-3"
+LocHelpText="该士兵在复仇者号上闲逛，漫无目的地摆弄装备，试图找点有意思的事做。机动性-1，意志力-3"
+LocFlyOverText="感到无聊"
+
+[Mood_Brave X2AbilityTemplate]
+LocFriendlyName="勇敢无畏"
+LocLongDescription="在与狂战士的模拟对战中，该士兵坚守阵地，如今已迫不及待想迎接真正的战斗。生命值+3，意志力+3"
+LocHelpText="在与狂战士的模拟对战中，该士兵坚守阵地，如今已迫不及待想迎接真正的战斗。生命值+3，意志力+3"
+LocFlyOverText="勇敢无畏"
+
+[Mood_Cheerful X2AbilityTemplate]
+LocFriendlyName="心情愉悦"
+LocLongDescription="在团队扑克游戏中大胜对手后，该士兵的笑声在复仇者号上回荡。意志力+10"
+LocHelpText="在团队扑克游戏中大胜对手后，该士兵的笑声在复仇者号上回荡。意志力+10"
+LocFlyOverText="心情愉悦"
+
+[Mood_Clumsy X2AbilityTemplate]
+LocFriendlyName="笨手笨脚"
+LocLongDescription="该士兵在前往舰桥的路上绊倒了，引得几名船员发笑。生命值-1，闪避率-5"
+LocHelpText="该士兵在前往舰桥的路上绊倒了，引得几名船员发笑。生命值-1，闪避率-5"
+LocFlyOverText="笨手笨脚"
+
+[Mood_Confident X2AbilityTemplate]
+LocFriendlyName="信心十足"
+LocLongDescription="该士兵近期一直在指导新兵，鼓励并帮助他们为下次任务做准备。暴击率+10，力量+8"
+LocHelpText="该士兵近期一直在指导新兵，鼓励并帮助他们为下次任务做准备。暴击率+10，力量+8"
+LocFlyOverText="信心十足"
+
+[Mood_Confused X2AbilityTemplate]
+LocFriendlyName="困惑不解"
+LocLongDescription="该士兵研究了任务中带回的部分外星科技，却始终无法弄明白其原理。黑客技术-15"
+LocHelpText="该士兵研究了任务中带回的部分外星科技，却始终无法弄明白其原理。黑客技术-15"
+LocFlyOverText="困惑不解"
+
+[Mood_Curious X2AbilityTemplate]
+LocFriendlyName="充满好奇"
+LocLongDescription="该士兵花了更多时间与沈和泰根相处，迫切想要了解敌人及其技术。视野+3"
+LocHelpText="该士兵花了更多时间与沈和泰根相处，迫切想要了解敌人及其技术。视野+3"
+LocFlyOverText="充满好奇"
+
+[Mood_Disappointed X2AbilityTemplate]
+LocFriendlyName="失望沮丧"
+LocLongDescription="该士兵未被选入某次任务，于是一整天独自待在军械库擦拭武器。防御力-10，意志力-8"
+LocHelpText="该士兵未被选入某次任务，于是一整天独自待在军械库擦拭武器。防御力-10，意志力-8"
+LocFlyOverText="失望沮丧"
+
+[Mood_Distracted X2AbilityTemplate]
+LocFriendlyName="注意力不集中"
+LocLongDescription="该士兵一直在回想上次与天选者的遭遇，在最近一次战术会议上走神了。命中率-5，视野-1"
+LocHelpText="该士兵一直在回想上次与天选者的遭遇，在最近一次战术会议上走神了。命中率-5，视野-1"
+LocFlyOverText="注意力不集中"
+
+[Mood_Embarrassed X2AbilityTemplate]
+LocFriendlyName="尴尬难堪"
+LocLongDescription="在训练演习中，该士兵的护甲出现故障，如今不敢与团队其他成员对视。机动性+1，闪避率+5"
+LocHelpText="在训练演习中，该士兵的护甲出现故障，如今不敢与团队其他成员对视。机动性+1，闪避率+5"
+LocFlyOverText="尴尬难堪"
+
+[Mood_Energetic X2AbilityTemplate]
+LocFriendlyName="精力充沛"
+LocLongDescription="该士兵加入了小队的清晨慢跑，还享用了一顿丰盛的早餐。生命值+1，机动性+2"
+LocHelpText="该士兵加入了小队的清晨慢跑，还享用了一顿丰盛的早餐。生命值+1，机动性+2"
+LocFlyOverText="精力充沛"
+
+[Mood_Excited X2AbilityTemplate]
+LocFriendlyName="兴奋不已"
+LocLongDescription="该士兵听说了一项新的秘密行动，迫不及待想向变种人发起进攻。暴击率+15"
+LocHelpText="该士兵听说了一项新的秘密行动，迫不及待想向变种人发起进攻。暴击率+15"
+LocFlyOverText="兴奋不已"
+
+[Mood_Focused X2AbilityTemplate]
+LocFriendlyName="专注投入"
+LocLongDescription="该士兵一整天都在练习爆头射击，认为自己已准备好在下次任务中带头冲锋。命中率+5，暴击率+3"
+LocHelpText="该士兵一整天都在练习爆头射击，认为自己已准备好在下次任务中带头冲锋。命中率+5，暴击率+3"
+LocFlyOverText="专注投入"
+
+[Mood_Grateful X2AbilityTemplate]
+LocFriendlyName="心怀感激"
+LocLongDescription="该士兵与工程团队共进晚餐，并感谢他们所提供的一切帮助。防御力+15"
+LocHelpText="该士兵与工程团队共进晚餐，并感谢他们所提供的一切帮助。防御力+15"
+LocFlyOverText="心怀感激"
+
+[Mood_Groggy X2AbilityTemplate]
+LocFriendlyName="昏昏沉沉"
+LocLongDescription="该士兵在酒吧喝多了，现在难以集中注意力。命中率-10"
+LocHelpText="该士兵在酒吧喝多了，现在难以集中注意力。命中率-10"
+LocFlyOverText="昏昏沉沉"
+
+[Mood_Happy X2AbilityTemplate]
+LocFriendlyName="心情愉快"
+LocLongDescription="该士兵与团队其他成员一同庆祝艰难赢得的胜利，欢声笑语不断。生命值+2，灵能攻击+10"
+LocHelpText="该士兵与团队其他成员一同庆祝艰难赢得的胜利，欢声笑语不断。生命值+2，灵能攻击+10"
+LocFlyOverText="心情愉快"
+
+[Mood_Hungry X2AbilityTemplate]
+LocFriendlyName="饥肠辘辘"
+LocLongDescription="该士兵没吃早餐，现在肚子饿得咕咕叫，声音大到可能暴露隐蔽状态。生命值-1，灵能攻击-5"
+LocHelpText="该士兵没吃早餐，现在肚子饿得咕咕叫，声音大到可能暴露隐蔽状态。生命值-1，灵能攻击-5"
+LocFlyOverText="饥肠辘辘"
+
+[Mood_Impatient X2AbilityTemplate]
+LocFriendlyName="焦躁不耐"
+LocLongDescription="该士兵急不可耐地想接手新任务，渴望检验自己近期学到的技能。机动性+3，命中率-5"
+LocHelpText="该士兵急不可耐地想接手新任务，渴望检验自己近期学到的技能。机动性+3，命中率-5"
+LocFlyOverText="焦躁不耐"
+
+[Mood_Inspired X2AbilityTemplate]
+LocFriendlyName="深受鼓舞"
+LocLongDescription="听说抵抗组织最近取得的胜利后，该士兵重新找到了奋斗目标。意志力+8"
+LocHelpText="听说抵抗组织最近取得的胜利后，该士兵重新找到了奋斗目标。意志力+8"
+LocFlyOverText="深受鼓舞"
+
+[Mood_Lonely X2AbilityTemplate]
+LocFriendlyName="孤独寂寞"
+LocLongDescription="该士兵一整晚都在电脑前度过，渴望与人社交互动。灵能攻击-10，黑客技术+10"
+LocHelpText="该士兵一整晚都在电脑前度过，渴望与人社交互动。灵能攻击-10，黑客技术+10"
+LocFlyOverText="孤独寂寞"
+
+[Mood_Loved X2AbilityTemplate]
+LocFriendlyName="倍感关爱"
+LocLongDescription="该士兵收到了家乡亲人发来的暖心消息，内心充满温暖。防御力-5，灵能攻击+5"
+LocHelpText="该士兵收到了家乡亲人发来的暖心消息，内心充满温暖。防御力-5，灵能攻击+5"
+LocFlyOverText="倍感关爱"
+
+[Mood_Lucky X2AbilityTemplate]
+LocFriendlyName="感觉幸运"
+LocLongDescription="在训练中，该士兵侥幸躲过一发子弹，此后一直满面笑容。闪避率+10"
+LocHelpText="在训练中，该士兵侥幸躲过一发子弹，此后一直满面笑容。闪避率+10"
+LocFlyOverText="感觉幸运"
+
+[Mood_Motivated X2AbilityTemplate]
+LocFriendlyName="干劲十足"
+LocLongDescription="该士兵无意中听到沈谈论新型先进武器的研发计划，迫不及待想试用。暴击率+5，视野+1"
+LocHelpText="该士兵无意中听到沈谈论新型先进武器的研发计划，迫不及待想试用。暴击率+5，视野+1"
+LocFlyOverText="干劲十足"
+
+[Mood_Nervous X2AbilityTemplate]
+LocFriendlyName="紧张不安"
+LocLongDescription="该士兵听到有关即将到来的高风险任务的传言，不愿参与其中。防御力+20，命中率-10"
+LocHelpText="该士兵听到有关即将到来的高风险任务的传言，不愿参与其中。防御力+20，命中率-10"
+LocFlyOverText="紧张不安"
+
+[Mood_Nostalgic X2AbilityTemplate]
+LocFriendlyName="怀旧感伤"
+LocLongDescription="该士兵在收音机里听到一首往日喜爱的歌曲，多年来第一次有了回家的感觉。灵能攻击+5，护甲+1"
+LocHelpText="该士兵在收音机里听到一首往日喜爱的歌曲，多年来第一次有了回家的感觉。灵能攻击+5，护甲+1"
+LocFlyOverText="怀旧感伤"
+
+[Mood_Optimistic X2AbilityTemplate]
+LocFriendlyName="乐观积极"
+LocLongDescription="看到抵抗组织对抗变种人的力量不断壮大，该士兵从中看到了希望的曙光。生命值+1，意志力+5"
+LocHelpText="看到抵抗组织对抗变种人的力量不断壮大，该士兵从中看到了希望的曙光。生命值+1，意志力+5"
+LocFlyOverText="乐观积极"
+
+[Mood_Productive X2AbilityTemplate]
+LocFriendlyName="富有成效"
+LocLongDescription="该士兵下午在复仇者号的指挥中心努力分析外星数据，试图理清头绪。灵能攻击+10，黑客技术+10"
+LocHelpText="该士兵下午在复仇者号的指挥中心努力分析外星数据，试图理清头绪。灵能攻击+10，黑客技术+10"
+LocFlyOverText="富有成效"
+
+[Mood_Proud X2AbilityTemplate]
+LocFriendlyName="自豪骄傲"
+LocLongDescription="该士兵协助设计了一套新的战斗训练方案，小队表现已因此得到提升。命中率+10，灵能攻击+5"
+LocHelpText="该士兵协助设计了一套新的战斗训练方案，小队表现已因此得到提升。命中率+10，灵能攻击+5"
+LocFlyOverText="自豪骄傲"
+
+[Mood_Queasy X2AbilityTemplate]
+LocFriendlyName="恶心不适"
+LocLongDescription="该士兵尝试了变种人汉堡，刚吃完就后悔了。生命值-2"
+LocHelpText="该士兵尝试了变种人汉堡，刚吃完就后悔了。生命值-2"
+LocFlyOverText="恶心不适"
+
+[Mood_Refreshed X2AbilityTemplate]
+LocFriendlyName="神清气爽"
+LocLongDescription="在一次完美完成的任务后，该士兵和船员们在酒吧即兴庆祝。闪避率+5，命中率+5"
+LocHelpText="在一次完美完成的任务后，该士兵和船员们在酒吧即兴庆祝。闪避率+5，命中率+5"
+LocFlyOverText="神清气爽"
+
+[Mood_Regretful X2AbilityTemplate]
+LocFriendlyName="懊悔不已"
+LocLongDescription="该士兵无法停止回想：要是当初那一枪没打偏，事情会不会变得不一样。防御力-10，力量-5"
+LocHelpText="该士兵无法停止回想：要是当初那一枪没打偏，事情会不会变得不一样。防御力-10，力量-5"
+LocFlyOverText="懊悔不已"
+
+[Mood_Relaxed X2AbilityTemplate]
+LocFriendlyName="放松惬意"
+LocLongDescription="该士兵在飞船上找到了一个安静的角落观赏日落，尽情享受这难得的宁静时刻。生命值+1，闪避率-10"
+LocHelpText="该士兵在飞船上找到了一个安静的角落观赏日落，尽情享受这难得的宁静时刻。生命值+1，闪避率-10"
+LocFlyOverText="放松惬意"
+
+[Mood_Restless X2AbilityTemplate]
+LocFriendlyName="坐立不安"
+LocLongDescription="上次任务的肾上腺素仍未消退，该士兵一整晚都在复仇者号上踱步。命中率+2，意志力-5"
+LocHelpText="上次任务的肾上腺素仍未消退，该士兵一整晚都在复仇者号上踱步。命中率+2，意志力-5"
+LocFlyOverText="坐立不安"
+
+[Mood_Sad X2AbilityTemplate]
+LocFriendlyName="悲伤难过"
+LocLongDescription="该士兵得知自己亲近的人去了变种人诊所后就再也没回来。生命值-1，机动性-2"
+LocHelpText="该士兵得知自己亲近的人去了变种人诊所后就再也没回来。生命值-1，机动性-2"
+LocFlyOverText="悲伤难过"
+
+[Mood_Shy X2AbilityTemplate]
+LocFriendlyName="害羞腼腆"
+LocLongDescription="在休息时间，该士兵悄悄避开人群，选择看书、喝酒独处。意志力-10，力量-10"
+LocHelpText="在休息时间，该士兵悄悄避开人群，选择看书、喝酒独处。意志力-10，力量-10"
+[Mood_Sleepy X2AbilityTemplate]
+
+[Mood_Sleepy X2AbilityTemplate]
+LocFriendlyName="昏昏欲睡"
+LocLongDescription="经过漫长的任务执行与复仇者号值班后，该士兵已难以保持清醒。灵能攻击-8"
+LocHelpText="经过漫长的任务执行与复仇者号值班后，该士兵已难以保持清醒。灵能攻击-8"
+LocFlyOverText="昏昏欲睡"
+
+[Mood_Sore X2AbilityTemplate]
+LocFriendlyName="浑身酸痛"
+LocLongDescription="该士兵额外花了数小时锻炼，如今每一次肌肉活动都十分吃力。机动性-3，力量+10"
+LocHelpText="该士兵额外花了数小时锻炼，如今每一次肌肉活动都十分吃力。机动性-3，力量+10"
+LocFlyOverText="浑身酸痛"
+
+[Mood_Spooked X2AbilityTemplate]
+LocFriendlyName="惊恐不安"
+LocLongDescription="该士兵无意中听到船员们讨论“无面者”，现在看到任何影子都会心生疑虑。视野-2"
+LocHelpText="该士兵无意中听到船员们讨论“无面者”，现在看到任何影子都会心生疑虑。视野-2"
+LocFlyOverText="惊恐不安"
+
+[Mood_Surprised X2AbilityTemplate]
+LocFriendlyName="意外惊喜"
+LocLongDescription="该士兵收到了其他船员送的礼物，而且今天甚至不是他的生日。护甲+2"
+LocHelpText="该士兵收到了其他船员送的礼物，而且今天甚至不是他的生日。护甲+2"
+LocFlyOverText="意外惊喜"
+
+[Mood_Worried X2AbilityTemplate]
+LocFriendlyName="忧心忡忡"
+LocLongDescription="该士兵花了数小时查看安全摄像头，坚信自己看到了工程舱内有异动。闪避率-5，黑客技术+20"
+LocHelpText="该士兵花了数小时查看安全摄像头，坚信自己看到了工程舱内有异动。闪避率-5，黑客技术+20"
+LocFlyOverText="忧心忡忡"
+
+[Mood_Naughty X2AbilityTemplate]
+LocFriendlyName="调皮捣蛋"
+LocLongDescription="该士兵黑入了医务室系统，为上次任务后的半数小队成员安排了“强制眼部校准”。暴击率+10，黑客技术+10"
+LocHelpText="该士兵黑入了医务室系统，为上次任务后的半数小队成员安排了“强制眼部校准”。暴击率+10，黑客技术+10"
+LocFlyOverText="调皮捣蛋"
+
+[Mood_Insecure X2AbilityTemplate]
+LocFriendlyName="缺乏自信"
+LocLongDescription="该士兵在下层甲板徘徊，暗自揣测指挥官是否会注意到自己的贡献。生命值-1，暴击率-10"
+LocHelpText="该士兵在下层甲板徘徊，暗自揣测指挥官是否会注意到自己的贡献。生命值-1，暴击率-10"
+LocFlyOverText="缺乏自信"
+
+[Mood_Lazy X2AbilityTemplate]
+LocFriendlyName="慵懒懈怠"
+LocLongDescription="该士兵认为把椅子搬到射击场就算完成了当天的锻炼，选择坐着练习狙击。机动性-2，视野-1"
+LocHelpText="该士兵认为把椅子搬到射击场就算完成了当天的锻炼，选择坐着练习狙击。机动性-2，视野-1"
+LocFlyOverText="慵懒懈怠"
+
+[Mood_Agitated X2AbilityTemplate]
+LocFriendlyName="烦躁不安"
+LocLongDescription="该士兵不得不加班清理堵塞的马桶，拖地时还不停嘟囔抱怨。闪避率-5，防御力+5"
+LocHelpText="该士兵不得不加班清理堵塞的马桶，拖地时还不停嘟囔抱怨。闪避率-5，防御力+5"
+LocFlyOverText="烦躁不安"
+
+[Mood_Playful X2AbilityTemplate]
+LocFriendlyName="嬉皮笑脸"
+LocLongDescription="该士兵用手榴弹即兴表演杂耍，逗得营房里的人喝彩，直到布拉德福德发现才停下。机动性+2，意志力+5"
+LocHelpText="该士兵用手榴弹即兴表演杂耍，逗得营房里的人喝彩，直到布拉德福德发现才停下。机动性+2，意志力+5"
+LocFlyOverText="嬉皮笑脸"

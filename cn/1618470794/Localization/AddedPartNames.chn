@@ -1,0 +1,176 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+.LegsTemplate="KevJillOutfit_Legs_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - A"
+
+.LegsTemplate="KevJillOutfit_LegsB_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - B"
+
+.TorsoTemplate="KevJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="KevJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+
+
+.LegsTemplate="LtPltedJillOutfit_Legs_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - A"
+
+.LegsTemplate="LtPltedJillOutfit_LegsB_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - B"
+
+.TorsoTemplate="LtPltedJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="LtPltedJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+
+.LegsTemplate="MdPltedJillOutfit_Legs_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - A"
+
+.LegsTemplate="MdPltedJillOutfit_LegsB_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - B"
+
+.TorsoTemplate="MdPltedJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="MdPltedJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+
+.LegsTemplate="HvyPlatedJillOutfit_Legs_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - A"
+
+.LegsTemplate="HvyPlatedJillOutfit_LegsB_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - B"
+
+.TorsoTemplate="HvyPlatedJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="HvyPlatedJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+
+.LegsTemplate="LgtPoweredJillOutfit_Legs_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - A"
+
+.LegsTemplate="LgtPoweredJillOutfit_LegsB_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - B"
+
+.TorsoTemplate="LgtPoweredJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="LgtPoweredJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+
+.LegsTemplate="MdPoweredJillOutfit_Legs_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - A"
+
+.LegsTemplate="MdPoweredJillOutfit_LegsB_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - B"
+
+.TorsoTemplate="MdPoweredJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="MdPoweredJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+
+.LegsTemplate="HvyPoweredJillOutfit_Legs_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - A"
+
+.LegsTemplate="HvyPoweredJillOutfit_LegsB_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - B"
+
+.TorsoTemplate="HvyPoweredJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="HvyPoweredJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+;
+;Reaper Soldier Cosmetics
+;
+
+.LegsTemplate="RPR_KevJillOutfit_Legs_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - A"
+
+.LegsTemplate="RPR_KevJillOutfit_LegsB_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - B"
+
+.TorsoTemplate="RPR_KevJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="RPR_KevJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+.TorsoTemplate="RPR_MdPltedJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="RPR_MdPltedJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+.TorsoTemplate="RPR_MdPoweredJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="RPR_MdPoweredJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+;
+;Skirmisher Soldier Cosmetics
+;
+
+.LegsTemplate="SKR_KevJillOutfit_Legs_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - A"
+
+.LegsTemplate="SKR_KevJillOutfit_LegsB_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - B"
+
+.TorsoTemplate="SKR_KevJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="SKR_KevJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+.TorsoTemplate="SKR_MdPltedJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="SKR_MdPltedJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+.TorsoTemplate="SKR_MdPoweredJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="SKR_MdPoweredJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+;
+;Templar Soldier Cosmetics
+;
+
+.LegsTemplate="TMP_KevJillOutfit_Legs_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - A"
+
+.LegsTemplate="TMP_KevJillOutfit_LegsB_T"
+.LegsName="吉尔瓦伦汀 - 便服 - 下肢 - B"
+
+.TorsoTemplate="TMP_KevJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="TMP_KevJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+.TorsoTemplate="TMP_MdPltedJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="TMP_MdPltedJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"
+
+.TorsoTemplate="TMP_MdPoweredJillOutfit_Torso_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 饰品"
+
+.TorsoTemplate="TMP_MdPoweredJillOutfit_Torso_B_T"
+.TorsoName="吉尔瓦伦汀 - 便服 - 衬衣 + 无饰品"

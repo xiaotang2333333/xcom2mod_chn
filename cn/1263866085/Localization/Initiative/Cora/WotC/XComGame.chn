@@ -1,0 +1,70 @@
+; ===========================================================================================
+; *******************************************************************************************
+;
+; War of the Chosen Faction Heroes
+;
+; *******************************************************************************************
+; ===========================================================================================
+
+;
+; Reaper
+;
+
+;
+; Arms
+;
+
+[CNV_WotC_RPR_MamaMEA_Initiative_Cora_Arm_Left_F X2BodyPartTemplate]
+DisplayName="蔻拉套装 - 左臂"
+
+[CNV_WotC_RPR_MamaMEA_Initiative_Cora_Shoulder_Left_F X2BodyPartTemplate]
+DisplayName="蔻拉套装 - 左肩"
+
+
+[CNV_WotC_RPR_MamaMEA_Initiative_Cora_Arm_Right_F X2BodyPartTemplate]
+DisplayName="蔻拉套装 - 右臂"
+
+[CNV_WotC_RPR_MamaMEA_Initiative_Cora_Shoulder_Right_F X2BodyPartTemplate]
+DisplayName="蔻拉套装 - 右肩"
+
+;
+; Skirmisher
+;
+
+;
+; Arms
+;
+
+[CNV_WotC_SKR_MamaMEA_Initiative_Cora_Arm_Left_F X2BodyPartTemplate]
+DisplayName="蔻拉套装 - 左臂"
+
+[CNV_WotC_SKR_MamaMEA_Initiative_Cora_Shoulder_Left_F X2BodyPartTemplate]
+DisplayName="蔻拉套装 - 左肩"
+
+
+[CNV_WotC_SKR_MamaMEA_Initiative_Cora_Arm_Right_F X2BodyPartTemplate]
+DisplayName="蔻拉套装 - 右臂"
+
+[CNV_WotC_SKR_MamaMEA_Initiative_Cora_Shoulder_Right_F X2BodyPartTemplate]
+DisplayName="蔻拉套装 - 右肩"
+
+;
+; Templar
+;
+
+;
+; Arms
+;
+
+[CNV_WotC_TMP_MamaMEA_Initiative_Cora_Arm_Left_F X2BodyPartTemplate]
+DisplayName="蔻拉套装 - 左臂"
+
+[CNV_WotC_TMP_MamaMEA_Initiative_Cora_Shoulder_Left_F X2BodyPartTemplate]
+DisplayName="蔻拉套装 - 左肩"
+
+
+[CNV_WotC_TMP_MamaMEA_Initiative_Cora_Arm_Right_F X2BodyPartTemplate]
+DisplayName="蔻拉套装 - 右臂"
+
+[CNV_WotC_TMP_MamaMEA_Initiative_Cora_Shoulder_Right_F X2BodyPartTemplate]
+DisplayName="蔻拉套装 - 右肩"

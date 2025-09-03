@@ -1,0 +1,32 @@
+[SPARKAblativeShields X2AbilityTemplate]
+LocFriendlyName="SPARK销蚀护盾器"
+LocLongDescription="在每场战斗的开始时，SPARK获得<Ability:SPARK_SHIELD/>点护盾值。"
+LocHelpText="SPARK获得<Ability:SPARK_SHIELD/>点护盾值。"
+LocPromotionPopupText="<Bullet/>在每场战斗的开始时，SPARK获得<Ability:SPARK_SHIELD/>点护盾值。<br/><Bullet/>护盾会代替单位的生命值承受伤害，直到耗尽。<br/><Bullet/>护盾值的损失不会增加SPARK的维修时间。"
+
+[SPARKAblativeShields X2TechTemplate]
+DisplayName="SPARK销蚀护盾器"
+Summary="尽管我们在复制变种人持盾者的便携盾牌生成器或其保护队友的能力上遇到了问题，但我们可以为SPARK设计一个防护系统。它可以保护SPARK免受前几次攻击的伤害。"
+
+[MECAblativeShields X2AbilityTemplate]
+LocFriendlyName="MEC销蚀护盾器"
+LocLongDescription="在每场战斗的开始时，MEC获得<Ability:MEC_SHIELD/>点护盾值。"
+LocHelpText="MEC获得<Ability:MEC_SHIELD/>点护盾值。"
+LocPromotionPopupText="<Bullet/>在每场战斗的开始时，MEC获得<Ability:MEC_SHIELD/>点护盾值。<br/><Bullet/>护盾会代替单位的生命值承受伤害，直到耗尽。<br/><Bullet/>护盾值的损失不会增加MEC的维修时间。
+
+[MECAblativeShields X2TechTemplate]
+DisplayName="MEC销蚀护盾器"
+Summary="尽管我们在复制变种人持盾者的便携盾牌生成器或其保护队友的能力上遇到了问题，但我们可以为MEC设计一个防护系统。它可以保护MEC免受前几次攻击的伤害。"
+
+
+[ShieldHardener X2AbilityTemplate]
+LocFriendlyName="护盾硬化器"
+LocLongDescription="单位的护盾会阻挡所有导致其被击破的攻击溢出伤害。"
+LocHelpText="单位的护盾会阻挡所有导致其被击破的攻击溢出伤害。"
+LocPromotionPopupText="<Bullet/>单位的护盾会阻挡所有导致其被击破的攻击溢出伤害。<br/>"
+
+[Hardener X2EquipmentTemplate]
+FriendlyName="护盾硬化器"
+FriendlyNamePlural="护盾硬化器"
+BriefSummary="护盾硬化器是SPARK防护盾的增强装置。当单位受到攻击导致护盾被击破时，护盾仍会阻挡整个攻击，不让任何伤害通过。"
+TacticalText="<Bullet/>这个护盾会阻挡所有它可以阻挡的伤害。<br/><Bullet/>提供一点护盾抗性。"

@@ -1,0 +1,762 @@
+;Genji Helmet
+
+[WotC_OW_Genji_Helmet X2BodyPartTemplate]
+DisplayName="源氏 头"
+
+[WotC_OW_Genji_Helmet_CF X2BodyPartTemplate]
+DisplayName="源氏 头 (碳纤维)"
+
+[WotC_OW_Genji_Helmet_CHR X2BodyPartTemplate]
+DisplayName="源氏 头 (铬合金)"
+
+[Invisible_Head_Genji X2BodyPartTemplate]
+DisplayName="透明头部 - 源氏"
+
+
+; Genji LEFT ARM
+[CNV_WotC_SLD_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+[LPL_WotC_SLD_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+[MPL_WotC_SLD_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+[HPL_WotC_SLD_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+[LPW_WotC_SLD_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+[MPW_WotC_SLD_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+[HPW_WotC_SLD_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+;
+; Genji RIGHT ARM
+[CNV_WotC_SLD_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+[LPL_WotC_SLD_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+[MPL_WotC_SLD_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+[HPL_WotC_SLD_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+[LPW_WotC_SLD_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+[MPW_WotC_SLD_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+[HPW_WotC_SLD_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+;=============================================================================================
+;									CARBON FIBER
+;=============================================================================================
+
+; Genji LEFT ARM CF
+[CNV_WotC_SLD_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+[LPL_WotC_SLD_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+[MPL_WotC_SLD_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+[HPL_WotC_SLD_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+[LPW_WotC_SLD_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+[MPW_WotC_SLD_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+[HPW_WotC_SLD_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+;
+; Genji RIGHT ARM
+[CNV_WotC_SLD_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+[LPL_WotC_SLD_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+[MPL_WotC_SLD_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+[HPL_WotC_SLD_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+[LPW_WotC_SLD_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+[MPW_WotC_SLD_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+[HPW_WotC_SLD_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+;=============================================================================================
+;									CHROME
+;=============================================================================================
+
+; Genji LEFT ARM CF
+[CNV_WotC_SLD_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+[LPL_WotC_SLD_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+[MPL_WotC_SLD_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+[HPL_WotC_SLD_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+[LPW_WotC_SLD_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+[MPW_WotC_SLD_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+[HPW_WotC_SLD_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+;
+; Genji RIGHT ARM
+[CNV_WotC_SLD_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+[LPL_WotC_SLD_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+[MPL_WotC_SLD_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+[HPL_WotC_SLD_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+[LPW_WotC_SLD_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+[MPW_WotC_SLD_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+[HPW_WotC_SLD_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+;
+;
+; War of the Chosen 
+;
+;
+
+;
+; Reaper
+;
+
+; Genji LEFT ARM
+[CNV_WotC_RPR_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+[MPL_WotC_RPR_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+[MPW_WotC_RPR_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+;
+; Genji RIGHT ARM
+[CNV_WotC_RPR_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+[MPL_WotC_RPR_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+[MPW_WotC_RPR_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+;=============================================================================================
+;									CARBON FIBER
+;=============================================================================================
+
+; Genji LEFT ARM CF
+[CNV_WotC_RPR_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+[MPL_WotC_RPR_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+[MPW_WotC_RPR_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+;
+; Genji RIGHT ARM
+[CNV_WotC_RPR_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+[MPL_WotC_RPR_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+[MPW_WotC_RPR_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+;=============================================================================================
+;									CHROME
+;=============================================================================================
+
+; Genji LEFT ARM CF
+[CNV_WotC_RPR_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+[MPL_WotC_RPR_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+[MPW_WotC_RPR_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+;
+; Genji RIGHT ARM
+
+[CNV_WotC_RPR_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+[MPL_WotC_RPR_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+[MPW_WotC_RPR_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+
+;
+; Skirmisher
+;
+
+; Genji LEFT ARM
+
+[CNV_WotC_SKR_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+[MPL_WotC_SKR_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+[MPW_WotC_SKR_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+;
+; Genji RIGHT ARM
+
+[CNV_WotC_SKR_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+[MPL_WotC_SKR_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+[MPW_WotC_SKR_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+;=============================================================================================
+;									CARBON FIBER
+;=============================================================================================
+
+; Genji LEFT ARM CF
+[CNV_WotC_SKR_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+[MPL_WotC_SKR_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+[MPW_WotC_SKR_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+;
+; Genji RIGHT ARM
+
+[CNV_WotC_SKR_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+[MPL_WotC_SKR_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+[MPW_WotC_SKR_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+;=============================================================================================
+;									CHROME
+;=============================================================================================
+
+; Genji LEFT ARM CF
+[CNV_WotC_SKR_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+[MPL_WotC_SKR_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+[MPW_WotC_SKR_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+;
+; Genji RIGHT ARM
+[CNV_WotC_SKR_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+[MPL_WotC_SKR_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+[MPW_WotC_SKR_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+
+;
+; Templars
+;
+
+; Genji LEFT ARM
+[CNV_WotC_TMP_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+[MPL_WotC_TMP_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+[MPW_WotC_TMP_OW_Genji_LeftArm X2BodyPartTemplate]
+DisplayName="源氏 左臂"
+
+;
+; Genji RIGHT ARM
+[CNV_WotC_TMP_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+[MPL_WotC_TMP_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+[MPW_WotC_TMP_OW_Genji_RightArm X2BodyPartTemplate]
+DisplayName="源氏 右臂"
+
+;=============================================================================================
+;									CARBON FIBER
+;=============================================================================================
+
+; Genji LEFT ARM CF
+[CNV_WotC_TMP_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+[MPL_WotC_TMP_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+[MPW_WotC_TMP_OW_Genji_LeftArm_CF X2BodyPartTemplate]
+DisplayName="源氏 左臂 (碳纤维)"
+
+;
+; Genji RIGHT ARM
+[CNV_WotC_TMP_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+[MPL_WotC_TMP_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+[MPW_WotC_TMP_OW_Genji_RightArm_CF X2BodyPartTemplate]
+DisplayName="源氏 右臂 (碳纤维)"
+
+;=============================================================================================
+;									CHROME
+;=============================================================================================
+
+; Genji LEFT ARM CF
+[CNV_WotC_TMP_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+[MPL_WotC_TMP_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+[MPW_WotC_TMP_OW_Genji_LeftArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 左臂 (铬合金)"
+
+;
+; Genji RIGHT ARM
+[CNV_WotC_TMP_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+[MPL_WotC_TMP_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+[MPW_WotC_TMP_OW_Genji_RightArm_CHR X2BodyPartTemplate]
+DisplayName="源氏 右臂 (铬合金)"
+
+
+[CNV_WotC_SLD_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+[LPL_WotC_SLD_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+[MPL_WotC_SLD_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+[HPL_WotC_SLD_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+[LPW_WotC_SLD_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+[MPW_WotC_SLD_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+[HPW_WotC_SLD_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+[CNV_WotC_SLD_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+[CNV_WotC_SLD_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+[LPL_WotC_SLD_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+[MPL_WotC_SLD_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+[HPL_WotC_SLD_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+[LPW_WotC_SLD_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+[MPW_WotC_SLD_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+[HPW_WotC_SLD_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+[CNV_WotC_SLD_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+;=============================================================================================
+;									CARBON FIBER
+;=============================================================================================
+
+[CNV_WotC_SLD_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+[LPL_WotC_SLD_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+[MPL_WotC_SLD_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+[HPL_WotC_SLD_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+[LPW_WotC_SLD_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+[MPW_WotC_SLD_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+[HPW_WotC_SLD_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+[CNV_WotC_SLD_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+[LPL_WotC_SLD_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+[MPL_WotC_SLD_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+[HPL_WotC_SLD_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+[LPW_WotC_SLD_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+[MPW_WotC_SLD_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+[HPW_WotC_SLD_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+;=============================================================================================
+;									CHROME
+;=============================================================================================
+
+[CNV_WotC_SLD_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+[LPL_WotC_SLD_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+[MPL_WotC_SLD_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+[HPL_WotC_SLD_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+[LPW_WotC_SLD_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+[MPW_WotC_SLD_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+[HPW_WotC_SLD_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+[CNV_WotC_SLD_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+[LPL_WotC_SLD_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+[MPL_WotC_SLD_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+[HPL_WotC_SLD_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+[LPW_WotC_SLD_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+[MPW_WotC_SLD_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+[HPW_WotC_SLD_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+;
+;
+; War of the Chosen
+;
+;
+
+;
+; Reaper
+;
+
+;=============================================================================================
+;									Standard
+;=============================================================================================
+
+[CNV_WotC_RPR_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+[MPL_WotC_RPR_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+[MPW_WotC_RPR_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+
+[CNV_WotC_RPR_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+[MPL_WotC_RPR_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+[MPW_WotC_RPR_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+;=============================================================================================
+;									CARBON FIBER
+;=============================================================================================
+
+[CNV_WotC_RPR_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+[MPL_WotC_RPR_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+[MPW_WotC_RPR_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+[CNV_WotC_RPR_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+[MPL_WotC_RPR_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+[MPW_WotC_RPR_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+;=============================================================================================
+;									CHROME
+;=============================================================================================
+
+[CNV_WotC_RPR_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+[MPL_WotC_RPR_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+[MPW_WotC_RPR_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+
+[CNV_WotC_RPR_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+[MPL_WotC_RPR_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+[MPW_WotC_RPR_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+
+
+;
+; Skirmisher
+;
+
+;=============================================================================================
+;									Standard
+;=============================================================================================
+
+[CNV_WotC_SKR_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+[MPL_WotC_SKR_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+[MPW_WotC_SKR_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+
+[CNV_WotC_SKR_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+[MPL_WotC_SKR_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+[MPW_WotC_SKR_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+;=============================================================================================
+;									CARBON FIBER
+;=============================================================================================
+
+[CNV_WotC_SKR_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+[MPL_WotC_SKR_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+[MPW_WotC_SKR_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+
+[CNV_WotC_SKR_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+[MPL_WotC_SKR_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+[MPW_WotC_SKR_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+;=============================================================================================
+;									CHROME
+;=============================================================================================
+
+[CNV_WotC_SKR_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+
+[MPL_WotC_SKR_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+[MPW_WotC_SKR_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+
+[CNV_WotC_SKR_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+[MPL_WotC_SKR_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+[MPW_WotC_SKR_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+
+
+
+;
+; Templars
+;
+
+;=============================================================================================
+;									Standard
+;=============================================================================================
+
+[CNV_WotC_TMP_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+[MPL_WotC_TMP_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+[MPW_WotC_TMP_OW_Genji_Torso X2BodyPartTemplate]
+DisplayName="源氏 身体 (默认版)"
+
+
+[CNV_WotC_TMP_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+[MPL_WotC_TMP_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+[MPW_WotC_TMP_OW_Genji_Legs X2BodyPartTemplate]
+DisplayName="源氏 腿 (默认版)"
+
+;=============================================================================================
+;									CARBON FIBER
+;=============================================================================================
+
+[CNV_WotC_TMP_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+[MPL_WotC_TMP_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+[MPW_WotC_TMP_OW_Genji_Torso_CF X2BodyPartTemplate]
+DisplayName="源氏 身体 (碳纤维)"
+
+
+[CNV_WotC_TMP_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+[MPL_WotC_TMP_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+[MPW_WotC_TMP_OW_Genji_Legs_CF X2BodyPartTemplate]
+DisplayName="源氏 腿 (碳纤维)"
+
+;=============================================================================================
+;									CHROME
+;=============================================================================================
+
+[CNV_WotC_TMP_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+
+[MPL_WotC_TMP_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+[MPW_WotC_TMP_OW_Genji_Torso_CHR X2BodyPartTemplate]
+DisplayName="源氏 身体 (铬合金)"
+
+
+[CNV_WotC_TMP_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+[MPL_WotC_TMP_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+
+[MPW_WotC_TMP_OW_Genji_Legs_CHR X2BodyPartTemplate]
+DisplayName="源氏 腿 (铬合金)"
+

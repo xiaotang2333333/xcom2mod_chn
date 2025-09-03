@@ -1,0 +1,467 @@
+[X2StrategyElement_SoldierLifeEvents]
+m_strInjured="%UNIT 因一个事件导致受伤!"
+m_strBuffed="<XGParam:StrValue0/!FirstName/> 已经获得了 <XGParam:StrValue1/!StatName/> buff 从一个事件中!"
+m_strPromoted="%UNIT 从一个事件中获得了晋升!"
+m_strShaken="%UNIT 从一个事件中动摇!"
+m_strItem="%ITEM 从一个事件中被制造!"
+m_strDebuffed="<XGParam:StrValue0/!FirstName/> 获得了 <XGParam:StrValue1/!StatName/> debuff 从一个事件中!"
+m_strCrewLevel="%UNIT 从一个事件中获得了团队等级!"
+m_strCrewDelevel="%UNIT 从一个事件中失去了团队等级!"
+m_strAbility="<XGParam:StrValue0/!FirstName/> 获得了能力 <XGParam:StrValue1/!AbilityName/> 从一个事件中!"
+m_strIncomeIncreased="<XGParam:StrValue0/!RegionName/> 获得了 +§<XGParam:IntValue0/!RegionIncome/> 从一个事件中!"
+m_strIncomeDecreased="<XGParam:StrValue0/!RegionName/> 失去了 -§<XGParam:IntValue0/!RegionIncome/> 从一个事件中!"
+
+[UIEventBox]
+m_strCentral="军事官"
+m_strCentralName="约翰 · 布拉德福德"
+
+[SoldierLifeEvent_Event1 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="紧张的局势"
++EventImage="img:///UILibrary_SoldierLifeEvents.RestlessTensions"
++EventDesc="走在走廊上时，你无意中听到两名士兵之间的激烈争吵. 听起来 <XGParam:StrValue1/!SoldierName1/> 声音太大了, 令人不安 <XGParam:StrValue2/!SoldierName2/> 在漫长的任务后想休息. 由于他们都坚持自己的立场，紧张局势正在加剧."
++SafeString="睡觉是我们负担不起的奢饰品. 在别人睡觉时安静一点。"
++RiskyString="你是XCOM, 即使世界分崩离析你也能睡着。"
++NeutralString="你们两个都消停点, 要不然所有人都没法睡了。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 -10, <XGParam:StrValue2/!SoldierName2/>: HP +1)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 命中 +5, <XGParam:StrValue2/!SoldierName2/>: HP -2)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 -5, <XGParam:StrValue2/!SoldierName2/>: 意志 -5)"
+
+[SoldierLifeEvent_Event2 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="友军误伤"
++EventImage="img:///UILibrary_SoldierLifeEvents.FriendlyFire"
++EventDesc="在一次训练演习中，<XGParam:StrValue1/!SoldierName1/>意外地用模拟弹击中了<XGParam:StrValue2/!SoldierName2/>。这本是一个小失误，却迅速升级为一场激烈的争吵，双方互相辱骂。其他士兵停下来，不确定是否应该介入还是任其发展。"
++SafeString="我不只要担心外星人，还得处理你们互相射击的问题。"
++RiskyString="失误难免，但真有人得学学怎么躲闪。"
++NeutralString="再比一轮解决吧。别找借口。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 -10, <XGParam:StrValue2/!SoldierName2/>: 命中 +5)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 闪避 +5, <XGParam:StrValue2/!SoldierName2/>: 命中 -5)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 +1, <XGParam:StrValue2/!SoldierName2/>: 命中 +3)"
+
+[SoldierLifeEvent_Event3 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="豪赌"
++EventImage="img:///UILibrary_SoldierLifeEvents.HighStakes"
++EventDesc="你注意到一群士兵围在生活区的临时扑克桌旁。早已过了熄灯时间，但牌局依然火热。<XGParam:StrValue1/!SoldierName1/>得意地笑着，渴望再来一轮。与此同时，<XGParam:StrValue2/!SoldierName2/>疲惫地叹了口气向后靠去，坚持该结束了。"
++SafeString="适当的休息时间对士气有好处。再待一会儿吧，别让布拉德福德抓到就行。"
++RiskyString="回你们的铺位去。我需要你们都休息好。外星人随时可能发动攻击。"
++NeutralString="发我牌。让我们来点刺激的。赢家可以获得指挥官的一个恩惠。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 +5, <XGParam:StrValue2/!SoldierName2/>: 防御 -5)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 视野 -1, <XGParam:StrValue2/!SoldierName2/>: 生命值 +3)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 -1, <XGParam:StrValue2/!SoldierName2/>: 生命值 -1)"
+
+[SoldierLifeEvent_Event4 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="食堂大战"
++EventImage="img:///UILibrary_SoldierLifeEvents.FoodFight"
++EventDesc="在食堂里，<XGParam:StrValue1/!SoldierName1/>对食物发表了刻薄的评论，立刻招来了<XGParam:StrValue2/!SoldierName2/>的怒视，后者在厨房帮忙了好几个小时。言语升级，很快一勺土豆泥就飞过了桌子。事情即将变得一团糟。"
++SafeString="心存感激吧。这总比饿肚子强。"
++RiskyString="帮忙是好事，但厨房需要的是厨师而不是士兵。"
++NeutralString="如果你们弄乱了，我就让你们俩都去擦地板。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 命中 -4, <XGParam:StrValue2/!SoldierName2/>: 灵能 +10)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 命中 +5, <XGParam:StrValue2/!SoldierName2/>: 防御 -6)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 闪避 -3, <XGParam:StrValue2/!SoldierName2/>: 灵能 -5)"
+
+[SoldierLifeEvent_Event5 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="意外才艺"
++EventImage="img:///UILibrary_SoldierLifeEvents.UnexpectedTalent"
++EventDesc="在休息时间，<XGParam:StrValue1/!SoldierName1/>坐在酒吧的角落里弹吉他。虽然一些士兵跟着节奏点头，但<XGParam:StrValue2/!SoldierName2/>看起来不太高兴，沮丧地揉着太阳穴。感觉如果你不尽快干预，那把吉他就要被砸了。"
++SafeString="我不知道你弹得这么好。继续弹吧，这比收音机强多了。"
++RiskyString="这里可不是开音乐会的地方，可能有人想要安静休息。"
++NeutralString="你接受点歌吗？也许我可以唱一首。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 +2, <XGParam:StrValue2/!SoldierName2/>: 命中 -5)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 -2, <XGParam:StrValue2/!SoldierName2/>: 生命值 +2)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 闪避 +5, <XGParam:StrValue2/!SoldierName2/>: 闪避 +5)"
+
+[SoldierLifeEvent_Event6 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="举重记录"
++EventImage="img:///UILibrary_SoldierLifeEvents.WeightliftingRecord"
++EventDesc="你注意到GTS训练中心一阵骚动，<XGParam:StrValue1/!SoldierName1/>正在给杠铃加重，逐渐接近打破当前的卧推记录。一小群人围拢过来，有的欢呼，有的悄悄下注。<XGParam:StrValue2/!SoldierName2/>双臂交叉密切关注着，等待看自己的记录是否会被打破。"
++SafeString="加油，你能行的！让他们看看你的实力！"
++RiskyString="你们要为个愚蠢的记录过度劳累吗，都散了吧。"
++NeutralString="没必要搞得这么夸张。记录就是用来被打破的。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 +2, <XGParam:StrValue2/!SoldierName2/>: 防御 -5)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 -10, <XGParam:StrValue2/!SoldierName2/>: 防御 +15)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 -1, <XGParam:StrValue2/!SoldierName2/>: 防御 -5)"
+
+[SoldierLifeEvent_Event7 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="武器过载"
++EventImage="img:///UILibrary_SoldierLifeEvents.OverchargedWeapon"
++EventDesc="在军械库的例行维护中，<XGParam:StrValue1/!SoldierName1/>笨拙地进行修理，导致武器过热并发出尖锐的嘶嘶声。一股能量突然爆发，<XGParam:StrValue2/!SoldierName2/>踉跄后退，刚好在危险区域之外。烟雾在空中弥漫，两名士兵都在检查自己是否受伤。"
++SafeString="这可能会害死人的。小心一点。"
++RiskyString="这是外星科技，你站那么近干嘛？你应该知道可能会发生这种事。"
++NeutralString="谁弄坏的谁修好。你们两个一起。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 命中 -5, <XGParam:StrValue2/!SoldierName2/>: 闪避 +5)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 +10, <XGParam:StrValue2/!SoldierName2/>: 生命值 -1)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 +5, <XGParam:StrValue2/!SoldierName2/>: 黑客 +5)
+
+[SoldierLifeEvent_Event8 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="运输机赌局"
++EventImage="img:///UILibrary_SoldierLifeEvents.TheSkyrangerBet"
++EventDesc="你无意中听到<XGParam:StrValue1/!SoldierName1/>告诉别人，他们测试天际游侠号是否能够完成完整桶滚机动的计划已经开始实施了。<XGParam:StrValue2/!SoldierName2/>也听到了这话，难以置信地睁大了眼睛，立即提出抗议，警告这可能会导致灾难。"
++SafeString="我也真的很想知道答案，你确定红恶魔不在附近吗？"
++RiskyString="我见过士兵们打赌，但这太过分了。不行，我们不能测试这个。"
++NeutralString="如果天空行者出了任何问题，我就找你们俩负责。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 +15, <XGParam:StrValue2/!SoldierName2/>: 防御 -10)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 -10, <XGParam:StrValue2/!SoldierName2/>: 防御 +10)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 +1, <XGParam:StrValue2/!SoldierName2/>: 移动力 +1)"
+
+[SoldierLifeEvent_Event9 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="故障的小精灵"
++EventImage="img:///UILibrary_SoldierLifeEvents.MalfunctioningGremlin"
++EventDesc="在例行维护期间，一个小精灵突然失控，在复仇者号里四处乱窜，引发混乱。它在躲避抓捕时火花四溅。<XGParam:StrValue1/!SoldierName1/>急忙跑去阻止这个小机器人，而<XGParam:StrValue2/!SoldierName2/>则在一旁观望，脸上露出笑容。"
++SafeString="在那小无人机弄坏重要东西之前抓住它！"
++RiskyString="它又绕回来了！注意你的头！"
++NeutralString="在沈看到之前把这里清理干净。我刚想起来，我有个重要的地方要去。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 -10, <XGParam:StrValue2/!SoldierName2/>: 灵能 +10)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 +10, <XGParam:StrValue2/!SoldierName2/>: 闪避 -5)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 -5, <XGParam:StrValue2/!SoldierName2/>: 黑客 -5)"
+
+[SoldierLifeEvent_Event10 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="损坏的通讯中继器"
++EventImage="img:///UILibrary_SoldierLifeEvents.BrokenCommsRelay"
++EventDesc="复仇者号的通讯中继器发生了小故障。沈正忙于另一个项目，呼吁任何有技术技能的士兵来帮忙。<XGParam:StrValue1/!SoldierName1/>主动站出来，渴望提供帮助，但<XGParam:StrValue2/!SoldierName2/>怀疑地看着他们，明显质疑他们的工程能力。"
++SafeString="我相信你，如果你能入侵变种人，你就能修好这个小中继器。"
++RiskyString="也许最好等沈来处理。我们别再冒险把它弄得更坏了。"
++NeutralString="看来你们俩今天都要学点新东西了。去拿工具吧。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 +10, <XGParam:StrValue2/!SoldierName2/>: 命中 -3)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 -10, <XGParam:StrValue2/!SoldierName2/>: 防御 +5)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 +5, <XGParam:StrValue2/!SoldierName2/>: 闪避 +5)"
+
+[SoldierLifeEvent_Event11 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="'友好'掰手腕"
++EventImage="img:///UILibrary_SoldierLifeEvents.FriendlyArmWrestling"
++EventDesc="<XGParam:StrValue1/!SoldierName1/>向<XGParam:StrValue2/!SoldierName2/>发起了一场掰手腕挑战。这个挑战立刻引起了大家的兴趣，很快一小群人就围了过来，想看看谁会胜出。两人都对自己的力量充满信心，准备开始较量，空气中充满了期待。"
++SafeString="我知道我会赌谁赢。"
++RiskyString="我相信你们都有更好的事情要做，去做那些事吧。"
++NeutralString="能不能在全基地的人都来下注之前结束这个？"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 +15, <XGParam:StrValue2/!SoldierName2/>: 命中 -5)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 命中 -5, <XGParam:StrValue2/!SoldierName2/>: 命中 +5)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 -5, <XGParam:StrValue2/!SoldierName2/>: 命中 -2)
+
+[SoldierLifeEvent_Event12 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="未经授权的纹身"
++EventImage="img:///UILibrary_SoldierLifeEvents.UnauthorizedTattoos"
++EventDesc="<XGParam:StrValue1/!SoldierName1/>一直在生活区用搜刮来的材料和捐赠的墨水给其他士兵纹身。这个临时设置吸引了一群人，但<XGParam:StrValue2/!SoldierName2/>明显对卫生状况表示怀疑，并警告您需要进行干预。"
++SafeString="我会给你提供合适的材料。别再使用废料堆里的自制墨水瓶和针了。"
++RiskyString="别让我之后还得处理医疗紧急情况。"
++NeutralString="我需要先批准设计图案，你们必须保持体面。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 +5, <XGParam:StrValue2/!SoldierName2/>: 防御 -5)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 -10, <XGParam:StrValue2/!SoldierName2/>: 生命值 +2)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 +2, <XGParam:StrValue2/!SoldierName2/>: 防御 +2)
+
+[SoldierLifeEvent_Event13 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="身体不适"
++EventImage="img:///UILibrary_SoldierLifeEvents.UnderTheWeather"
++EventDesc="在飞越太平洋时，复仇者号遭遇了猛烈的风暴，导致飞船剧烈颠簸。<XGParam:StrValue1/!SoldierName1/>保持冷静，专注地抓住座位，而<XGParam:StrValue2/!SoldierName2/>开始惊慌失措，睁大眼睛准备应对冲击。"
++SafeString="你害怕这点小风暴吗？你抖得比飞船还厉害。"
++RiskyString="我希望在看到战友明显紧张时，能表现出更多的战友情谊。"
++NeutralString="我们连外星人的导弹都幸存了，这点颠簸算什么。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 防御 +15, <XGParam:StrValue2/!SoldierName2/>: 灵能 -15)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 闪避 -5, <XGParam:StrValue2/!SoldierName2/>: 防御 +10)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 防御 +5, <XGParam:StrValue2/!SoldierName2/>: 闪避 +5)
+
+[SoldierLifeEvent_Event14 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="DIY武器改装"
++EventImage="img:///UILibrary_SoldierLifeEvents.DIYWeaponMods"
++EventDesc="<XGParam:StrValue1/!SoldierName1/>一直在秘密改装自己的武器，未经许可进行小幅调整。<XGParam:StrValue2/!SoldierName2/>来找您，显然很担心，敦促说这些未经批准的改动可能很危险，不应该允许在任务中使用。"
++SafeString="你显然不适合做这个，别再扮演工程师了。"
++RiskyString="我们会给你提供所需的一切，确保下次能做得正确。"
++NeutralString="可以进行升级，但要保持专业。不许自制爆炸物。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 -10, <XGParam:StrValue2/!SoldierName2/>: 防御 +5)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 命中 +5, <XGParam:StrValue2/!SoldierName2/>: 命中 -5)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 +5, <XGParam:StrValue2/!SoldierName2/>: 黑客 +5)
+
+[SoldierLifeEvent_Event15 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="外星人录音"
++EventImage="img:///UILibrary_SoldierLifeEvents.AlienRecording"
++EventDesc="两名士兵偶然发现了深埋在飞船数据文件中的一段古老的外星宣传录音。<XGParam:StrValue1/!SoldierName1/>开始播放它，对他们可能学到的东西很感兴趣，但<XGParam:StrValue2/!SoldierName2/>认为保留它可能很危险，最好删除它。"
++SafeString="这里面可能有我们能用来对付他们的东西。"
++RiskyString="我们不需要他们的谎言毒害我们的船员。"
++NeutralString="如果我们害怕他们的话语，那我们就已经输了。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 +5, <XGParam:StrValue2/!SoldierName2/>: 意志 -5)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 -5, <XGParam:StrValue2/!SoldierName2/>: 意志 +5)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 +5, <XGParam:StrValue2/!SoldierName2/>: 灵能 +5)
+
+[SoldierLifeEvent_Event16 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="神秘的肉"
++EventImage="img:///UILibrary_SoldierLifeEvents.MysteryMeat"
++EventDesc="食堂提供的最新餐食有着……可疑的质地。<XGParam:StrValue1/!SoldierName1/>毫不犹豫地大口吃起来，完全不为所动，而<XGParam:StrValue2/!SoldierName2/>则盯着自己的盘子，确信这种肉不是来自这个星球。"
++SafeString="如果它能让你继续战斗，那就够好了。"
++RiskyString="他们在这食物里放了什么，狂战士的肉吗？"
++NeutralString="没有比这更新鲜的了，我们上次任务刚杀的。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 +2, <XGParam:StrValue2/!SoldierName2/>: 生命值 -2)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 防御 -10, <XGParam:StrValue2/!SoldierName2/>: 生命值 +2)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 -1, <XGParam:StrValue2/!SoldierName2/>: 生命值 -1)
+
+[SoldierLifeEvent_Event17 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="物资失窃"
++EventImage="img:///UILibrary_SoldierLifeEvents.StolenSupplies"
++EventDesc="一小批物资不见了，<XGParam:StrValue1/!SoldierName1/>立即指责是<XGParam:StrValue2/!SoldierName2/>拿走的。当后者否认指控，坚称自己没有理由拿走那些箱子里的浴室用品时，紧张气氛弥漫开来。"
++SafeString="我们需要知道是谁拿走了我们的物资。我会要求检查摄像头。"
++RiskyString="你确定你不是数错了？"
++NeutralString="其实是我拿的。不知道还需要获得许可。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 视野 +2, <XGParam:StrValue2/!SoldierName2/>: 闪避 -10)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 视野 -1, <XGParam:StrValue2/!SoldierName2/>: 命中 +8)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 命中 -3, <XGParam:StrValue2/!SoldierName2/>: 命中 -3)
+
+[SoldierLifeEvent_Event18 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="战术辩论"
++EventImage="img:///UILibrary_SoldierLifeEvents.TacticalDebate"
++EventDesc="一场关于战斗战术的争论在训练室里已经持续了一段时间。<XGParam:StrValue1/!SoldierName1/>主张采取冒进战术，渴望快速猛烈打击，而<XGParam:StrValue2/!SoldierName2/>则坚持谨慎站位的重要性，倾向更策略性的方法。"
++SafeString="躲着是赢不了战争的。外星人开枪的机会越少，对我们越有利。"
++RiskyString="小心谨慎更重要。缓慢而稳健才能让你们远离医务室。"
++NeutralString="这取决于任务，我要你们在接到命令时随时准备好执行任何一种。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 命中 +5, <XGParam:StrValue2/!SoldierName2/>: 防御 -5)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 命中 -5, <XGParam:StrValue2/!SoldierName2/>: 防御 +10)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 闪避 +3, <XGParam:StrValue2/!SoldierName2/>: 移动力 +3)
+
+[SoldierLifeEvent_Event19 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="奇怪的梦"
++EventImage="img:///UILibrary_SoldierLifeEvents.StrangeDreams"
++EventDesc="在医务室探望时，你无意中听到<XGParam:StrValue1/!SoldierName1/>正在和医生交谈，声称自己一直在做生动的、令人不安的梦境，感觉像是外星人的精神控制。他发誓这不仅仅是噩梦。<XGParam:StrValue2/!SoldierName2/>对此不以为然，坚持认为这只是持续战斗带来的压力。"
++SafeString="我会让泰根检查你的脑波模式。我们不能忽视任何感觉'不对劲'的事情。"
++RiskyString="你完全是在偏执。你需要好好睡觉。"
++NeutralString="你知道吗，我曾被外星人直接对大脑说话。我可以给你们俩一些建议。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 +15, <XGParam:StrValue2/!SoldierName2/>: 灵能 -5)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 -10, <XGParam:StrValue2/!SoldierName2/>: 意志 +10)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 +5, <XGParam:StrValue2/!SoldierName2/>: 灵能 +5)
+
+[SoldierLifeEvent_Event20 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="惊喜生日"
++EventImage="img:///UILibrary_SoldierLifeEvents.SurpriseBirthday"
++EventDesc="原来<XGParam:StrValue1/!SoldierName1/>的生日快到了，船员们想举办一个小型惊喜派对来鼓舞他们的士气。然而，<XGParam:StrValue2/!SoldierName2/>认为这会分散对战争的注意力，建议他们应该专注于任务。"
++SafeString="我们需要在能笑的时候笑。办个大派对吧。"
++RiskyString="没时间庆祝。我们战斗，我们胜利。"
++NeutralString="低调但有意义就好。短暂的快乐时刻无伤大雅。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 +2, <XGParam:StrValue2/!SoldierName2/>: 命中 -5)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 -1, <XGParam:StrValue2/!SoldierName2/>: 命中 +5)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 闪避 +3, <XGParam:StrValue2/!SoldierName2/>: 移动力 +1)
+
+[SoldierLifeEvent_Event21 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="午夜零食"
++EventImage="img:///UILibrary_SoldierLifeEvents.MidnightSnack"
++EventDesc="在复仇者号深夜巡逻时，你发现<XGParam:StrValue1/!SoldierName1/>偷偷溜进酒吧，想安静地喝一杯。但令他们惊讶的是，<XGParam:StrValue2/!SoldierName2/>已经在那里了，手里拿着吃了一半的蛋白质棒。当你和士兵们对视时，房间里充满了短暂而愧疚的沉默。"
++SafeString="出去吧，如果需要更多食物，你应该告诉厨房管理员。"
++RiskyString="睡不着？不如去来个快速的午夜慢跑？"
++NeutralString="你们俩今晚都吃饱了。别让这成为习惯。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 -2, <XGParam:StrValue2/!SoldierName2/>: 视野 +2)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 +1, <XGParam:StrValue2/!SoldierName2/>: 移动力 +1)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 +1, <XGParam:StrValue2/!SoldierName2/>: 生命值 +1)
+
+[SoldierLifeEvent_Event21 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="午夜零食"
++EventImage="img:///UILibrary_SoldierLifeEvents.MidnightSnack"
++EventDesc="在复仇者号深夜巡逻时，你发现<XGParam:StrValue1/!SoldierName1/>偷偷溜进酒吧，想安静地喝一杯。但令他们惊讶的是，<XGParam:StrValue2/!SoldierName2/>已经在那里了，手里拿着吃了一半的蛋白质棒。当你和士兵们对视时，房间里充满了短暂而愧疚的沉默。"
++SafeString="出去吧，如果需要更多食物，你应该告诉厨房管理员。"
++RiskyString="睡不着？不如去来个快速的午夜慢跑？"
++NeutralString="你们俩今晚都吃饱了。别让这成为习惯。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 -2, <XGParam:StrValue2/!SoldierName2/>: 视野 +2)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 +1, <XGParam:StrValue2/!SoldierName2/>: 移动力 +1)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 +1, <XGParam:StrValue2/!SoldierName2/>: 生命值 +1)
+
+[SoldierLifeEvent_Event23 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="水源配给"
++EventImage="img:///UILibrary_SoldierLifeEvents.WaterRationing"
++EventDesc="复仇者号的水储备再次告急，<XGParam:StrValue1/!SoldierName1/>坚持要洗往常的热水澡，无视日益减少的供应。<XGParam:StrValue2/!SoldierName2/>主张在指挥部开始实施严格限制之前，每个人都应该节约用水。"
++SafeString="水不只是用来洗澡的。如果我们用光了，我就让你喝自己的汗。"
++RiskyString="所以，公主喜欢洗长时间的热水澡，是吧？还要什么，足底按摩吗？"
++NeutralString="一点热水不会让我们输掉战争。我明天会安排去取水。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 -1, <XGParam:StrValue2/!SoldierName2/>: 防御 +10)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 -2, <XGParam:StrValue2/!SoldierName2/>: 命中 +8)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 +1, <XGParam:StrValue2/!SoldierName2/>: 生命值 +1)
+
+[SoldierLifeEvent_Event24 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="电影之夜"
++EventImage="img:///UILibrary_SoldierLifeEvents.MovieNight"
++EventDesc="在一次艰苦的任务之后，<XGParam:StrValue1/!SoldierName1/>和其他几个人急切地想看一部经典动作片来放松一下。当他们布置电影时，房间里充满了兴奋，但<XGParam:StrValue2/!SoldierName2/>看起来并不感兴趣，显然不是这种类型的粉丝。"
++SafeString="你真的要扫大家的兴吗？相信我，你还会遇到更糟的情况。"
++RiskyString="你可以选择不参加，这样我们就不用听你抱怨了。"
++NeutralString="好了好了，爱抱怨的家伙。电影之夜取消了，去睡你的美容觉吧。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 防御 +15, <XGParam:StrValue2/!SoldierName2/>: 生命值 -2)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 防御 +5, <XGParam:StrValue2/!SoldierName2/>: 生命值 +1)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 -25, <XGParam:StrValue2/!SoldierName2/>: 生命值 +3)
+
+[SoldierLifeEvent_Event25 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="研究毒蛇怪"
++EventImage="img:///UILibrary_SoldierLifeEvents.StudyingVipers"
++EventDesc="当你经过研究实验室时，看到两名士兵抬着一具毒蛇怪的尸体。'研究...说得真好听...'你听到<XGParam:StrValue1/!SoldierName1/>嘀咕道。与此同时，<XGParam:StrValue2/!SoldierName2/>注意到你站在那里时，惊讶地睁大了眼睛。"
++SafeString="不是所有事情都需要开玩笑。我们的医疗包就是从这些东西里提取的。"
++RiskyString="你以为我们会让那些完全可以使用的毒囊浪费掉吗？"
++NeutralString="还有一具狂战士的尸体需要搬运，也许你觉得那个没那么让人分心。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 视野 -1, <XGParam:StrValue2/!SoldierName2/>: 闪避 +10)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 +10, <XGParam:StrValue2/!SoldierName2/>: 移动力 -1)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 闪避 -5, <XGParam:StrValue2/!SoldierName2/>: 闪避 -5)
+
+[SoldierLifeEvent_Event26 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="洗衣日风波"
++EventImage="img:///UILibrary_SoldierLifeEvents.LaundryDayDrama"
++EventDesc="<XGParam:StrValue1/!SoldierName1/>怒气冲冲地闯进浴室，愤怒地说他们幸运的任务袜子不见了。他们的声音充满了沮丧，要求给个说法。<XGParam:StrValue2/!SoldierName2/>站在角落里，可疑地避免眼神接触，显然在试图隐藏什么。"
++SafeString="如果你偷了袜子，在事情变得难看之前还回来。"
++RiskyString="那些袜子简直是战争罪行。也许是时候放手了。"
++NeutralString="复仇者号上所有的袜子都是一样的，你永远也找不到它们了。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 +1, <XGParam:StrValue2/!SoldierName2/>: 闪避 -10)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 -2, <XGParam:StrValue2/!SoldierName2/>: 命中 +5)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 -1, <XGParam:StrValue2/!SoldierName2/>: 移动力 +1)
+
+[SoldierLifeEvent_Event27 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="宠物烦恼"
++EventImage="img:///UILibrary_SoldierLifeEvents.PetPeeves"
++EventDesc="<XGParam:StrValue1/!SoldierName1/>喜欢上了一只偷偷溜上船的抵抗军野猫，把它当成了非官方宠物。然而，<XGParam:StrValue2/!SoldierName2/>对猫过敏，对这只猫的频繁造访感到不满，在猫在房间里闲逛时不停地打喷嚏。"
++SafeString="猫留下。如果我们能对付寄生兽，我们就能对付一点猫毛。"
++RiskyString="过敏反应可能会影响任务执行。猫必须离开。"
++NeutralString="这只猫现在是复仇者号的安保成员。如果它能尽职抓老鼠，就可以留下。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 视野 +1, <XGParam:StrValue2/!SoldierName2/>: 生命值 -1)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 -10, <XGParam:StrValue2/!SoldierName2/>: 生命值 +2)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 +5, <XGParam:StrValue2/!SoldierName2/>: 闪避 +5)
+
+[SoldierLifeEvent_Event28 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="海报之争"
++EventImage="img:///UILibrary_SoldierLifeEvents.PosterWars"
++EventDesc="当你进入酒吧想喝一杯时，你看到<XGParam:StrValue1/!SoldierName1/>的个人战争海报贴在墙上。<XGParam:StrValue2/!SoldierName2/>瞪着海报，显然不以为然，嘟囔着说这很讨厌。他们建议换成小队合影。"
++SafeString="自信能赢得战争。把海报留着。"
++RiskyString="这是团队努力，不是个人秀。小队团结第一。"
++NeutralString="如果你想要海报，必须通过正规程序获得批准。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 +10, <XGParam:StrValue2/!SoldierName2/>: 防御 -5)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 -15, <XGParam:StrValue2/!SoldierName2/>: 防御 +15)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 命中 -3, <XGParam:StrValue2/!SoldierName2/>: 意志 -3)
+
+[SoldierLifeEvent_Event29 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="偷渡老鼠"
++EventImage="img:///UILibrary_SoldierLifeEvents.StowawayRat"
++EventDesc="一个抵抗军补给箱送达时带了个意外的偷渡者——一只相当大且异常具有攻击性的老鼠。<XGParam:StrValue1/!SoldierName1/>觉得这很有趣，想把它当吉祥物养着。与此同时，<XGParam:StrValue2/!SoldierName2/>却不太高兴，要求立即处理掉它。"
++SafeString="它在战区活了这么久。看看能不能训练它。"
++RiskyString="我光是防止你们互相撕咬就够忙的了。处理掉它。"
++NeutralString="如果它能在公平决斗中打败一个新兵，就可以留下。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 +10, <XGParam:StrValue2/!SoldierName2/>: 防御 -10)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 防御 -5, <XGParam:StrValue2/!SoldierName2/>: 移动力 +1)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 +1, <XGParam:StrValue2/!SoldierName2/>: 生命值 -1)
+
+[SoldierLifeEvent_Event30 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="装饰大厅"
++EventImage="img:///UILibrary_SoldierLifeEvents.DeckingtheHalls"
++EventDesc="虽然还没到节日季，但<XGParam:StrValue1/!SoldierName1/>坚持要用滑稽、俗气的灯饰和小玩意儿装饰整个生活区，把这里变成了一个 gaudy spectacle（花里胡哨的景象）。<XGParam:StrValue2/!SoldierName2/>对此不以为然，要求在下一次任务前把所有东西都清理掉。"
++SafeString="早点感受节日气氛没什么不好……留着吧。"
++RiskyString="这不是节日游轮。把那些灯泡收起来。"
++NeutralString="如果你们能就一个共同主题达成一致，我可以允许保留一周。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 +5, <XGParam:StrValue2/!SoldierName2/>: 灵能 -15)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 -10, <XGParam:StrValue2/!SoldierName2/>: 闪避 +10)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 防御 +3, <XGParam:StrValue2/!SoldierName2/>: 防御 +3)
+
+[SoldierLifeEvent_Event31 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="迷信"
++EventImage="img:///UILibrary_SoldierLifeEvents.Superstitions"
++EventDesc="在部署训练期间，<XGParam:StrValue1/!SoldierName1/>坚持要执行一个奇怪的任务前仪式，紧握他们的'幸运'石头并低声嘀咕。<XGParam:StrValue2/!SoldierName2/>扬着眉毛看着，明显在嘲笑他们相信这种迷信。"
++SafeString="如果这对你有用，那对我就有用。让我们保持好运继续。"
++RiskyString="我们没有时间搞仪式。这是战争，不是碰运气的游戏。"
++NeutralString="你能找个比奇怪石头正常点的东西吗？"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 闪避 +10, <XGParam:StrValue2/!SoldierName2/>: 闪避 -10)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 闪避 -15, <XGParam:StrValue2/!SoldierName2/>: 命中 +5)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 闪避 -3, <XGParam:StrValue2/!SoldierName2/>: 防御 -2)
+
+[SoldierLifeEvent_Event32 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="指挥官座椅"
++EventImage="img:///UILibrary_SoldierLifeEvents.CaptainsChair"
++EventDesc="当你走进舰桥时，你发现<XGParam:StrValue1/!SoldierName1/>正坐在简报室里你的椅子上，声称在完成一项艰巨任务后这是他们应得的。<XGParam:StrValue2/!SoldierName2/>看到你后迅速上前，告诉那名士兵起身道歉。"
++SafeString="舒服吧？对我的背部有奇效。"
++RiskyString="起来！那可是我最喜欢的椅子排名第三！"
++NeutralString="椅子归你了，现在布拉德福德会来烦你关于化身计划的事了。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 +1, <XGParam:StrValue2/!SoldierName2/>: 灵能 -10)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 命中 -5, <XGParam:StrValue2/!SoldierName2/>: 防御 +10)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 +5, <XGParam:StrValue2/!SoldierName2/>: 意志 +5)
+
+[SoldierLifeEvent_Event33 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="战术小憩"
++EventImage="img:///UILibrary_SoldierLifeEvents.TacticalNaps"
++EventDesc="在军械库里，你无意中听到一些士兵的对话。<XGParam:StrValue1/!SoldierName1/>总是在任务间隙小睡，尽可能抓住时间休息。<XGParam:StrValue2/!SoldierName2/>摇着头，认为这是'偷懒'和'对工作不够认真'。"
++SafeString="休息和训练同样重要。想睡多久就睡多久。"
++RiskyString="如果你有时间打盹，你就有时间训练。我会调整你的日程安排。"
++NeutralString="如果再让我抓到有人在军械库里打鼾，你们就得加练了。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 +3, <XGParam:StrValue2/!SoldierName2/>: 命中 -10)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 -1, <XGParam:StrValue2/!SoldierName2/>: 命中 +5)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 -1, <XGParam:StrValue2/!SoldierName2/>: 移动力 -1)
+
+[SoldierLifeEvent_Event34 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="内部通讯"
++EventImage="img:///UILibrary_SoldierLifeEvents.TheNewsletter"
++EventDesc="你收到电脑上的一个通知。<XGParam:StrValue1/!SoldierName1/>开始为复仇者号船员编写一份内部通讯，里面充满了八卦、任务报告和随机观点。一些船员已经在讨论它了。<XGParam:StrValue2/!SoldierName2/>对此嗤之以鼻，认为这很不专业。"
++SafeString="这是士气提升器。发挥创意吧，每个人都有权知道发生了什么！"
++RiskyString="我不想你把时间浪费在阅读'十大最火辣抵抗军战士'这类东西上。"
++NeutralString="你可以做你的通讯，但请先把我提前退订了。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 视野 +1, <XGParam:StrValue2/!SoldierName2/>: 灵能 -10)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 -10, <XGParam:StrValue2/!SoldierName2/>: 防御 +10)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 -5, <XGParam:StrValue2/!SoldierName2/>: 意志 -5)
+
+[SoldierLifeEvent_Event35 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="深度思考"
++EventImage="img:///UILibrary_SoldierLifeEvents.DeepThoughts"
++EventDesc="<XGParam:StrValue1/!SoldierName1/>最近迷上了存在主义哲学，并不断试图说服<XGParam:StrValue2/!SoldierName2/>相信，认为与外星人的战争是生命意义的隐喻。后者越来越沮丧地听着，显然对哲学思考不感兴趣。"
++SafeString="嘿，你可能说到点子上了。也许外星人只是个隐喻。很有深度。"
++RiskyString="他们是真的想杀了我们。你不会被哲学性的爆头。"
++NeutralString="不如我们先打败外星人，然后再坐下来质疑它们是否真实存在。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 +15, <XGParam:StrValue2/!SoldierName2/>: 防御 -10)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 -20, <XGParam:StrValue2/!SoldierName2/>: 护甲 +1)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 +5, <XGParam:StrValue2/!SoldierName2/>: 灵能 +5)
+
+[SoldierLifeEvent_Event36 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="分身疑云"
++EventImage="img:///UILibrary_SoldierLifeEvents.DoppelgangerDilemma"
++EventDesc="两名士兵向你走来，<XGParam:StrValue1/!SoldierName1/>看起来很紧张，坚称他们有一个失散多年的双胞胎兄弟在为外星人工作。他们确信在任务中见过对方，并指出了一些似是而非的线索。<XGParam:StrValue2/!SoldierName2/>迅速介入，说这全是需要停止的幻想。"
++SafeString="我们见过更奇怪的事情。留意那个双胞胎。我们不能相信任何人。"
++RiskyString="人们可以长得像其他人，而不一定是外星克隆体。"
++NeutralString="你觉得无面怪是否正在适应来模仿XCOM人员的外貌？"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 视野 +2, <XGParam:StrValue2/!SoldierName2/>: 灵能 -20)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 防御 -5, <XGParam:StrValue2/!SoldierName2/>: 灵能 +10)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 灵能 -5, <XGParam:StrValue2/!SoldierName2/>: 灵能 -5)
+
+[SoldierLifeEvent_Event37 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="上下铺之争"
++EventImage="img:///UILibrary_SoldierLifeEvents.BunkBedWoes"
++EventDesc="已是深夜，但生活区的灯还亮着。<XGParam:StrValue1/!SoldierName1/>在大声争论，坚持要换到离浴室更近的铺位。<XGParam:StrValue2/!SoldierName2/>完全不买账，抱怨着不便以及让出床位是多么不公平。"
++SafeString="换铺位吧。没错，我就是偏心。"
++RiskyString="先到先得。我没时间处理分配床位的事。"
++NeutralString="好吧，你们共用这个铺位。每周轮换一次。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 生命值 +2, <XGParam:StrValue2/!SoldierName2/>: 生命值 -2)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 -3, <XGParam:StrValue2/!SoldierName2/>: 移动力 +3)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 移动力 -1, <XGParam:StrValue2/!SoldierName2/>: 生命值 -1)
+
+[SoldierLifeEvent_Event38 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="神秘爱慕者"
++EventImage="img:///UILibrary_SoldierLifeEvents.SecretAdmirer"
++EventDesc="当你走向工程部时，<XGParam:StrValue1/!SoldierName1/>跑到你面前，拿着一张纸条。他们告诉你发现了一封写给<XGParam:StrValue2/!SoldierName2/>的神秘情书。不清楚这是恶作剧，还是真的有个秘密爱慕者潜伏在船上。"
++SafeString="谁能先搞清楚是谁写的就有奖励，我请客浪漫晚餐。"
++RiskyString="这不是你的东西，确保它送到预定收件人手里。"
++NeutralString="可能是任何人。我们别为此紧张了。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 +15, <XGParam:StrValue2/!SoldierName2/>: 防御 -5)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 -10, <XGParam:StrValue2/!SoldierName2/>: 意志 +10)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 视野 -1, <XGParam:StrValue2/!SoldierName2/>: 护甲 +1)
+
+[SoldierLifeEvent_Event39 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="表情包狂潮"
++EventImage="img:///UILibrary_SoldierLifeEvents.MemeMadness"
++EventDesc="你发现两名士兵在舰桥外的走廊里闲逛。<XGParam:StrValue1/!SoldierName1/>正咧嘴笑着看手机，在船员聊天群里狂发 随机表情包。但这开始让<XGParam:StrValue2/!SoldierName2/>心烦意乱，后者一直在用聊天群进行交流。"
++SafeString="你们有个表情包分享群，而我居然不在里面？"
++RiskyString="如果你想发表情包，建个新群聊。"
++NeutralString="什么是表情包？"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 命中 +5, <XGParam:StrValue2/!SoldierName2/>: 闪避 -10)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 命中 -5, <XGParam:StrValue2/!SoldierName2/>: 黑客 +5)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 +6, <XGParam:StrValue2/!SoldierName2/>: 黑客 +9)
+
+[SoldierLifeEvent_Event40 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="怀旧之争"
++EventImage="img:///UILibrary_SoldierLifeEvents.RetroRivals"
++EventDesc="两名士兵向你走来，<XGParam:StrValue1/!SoldierName1/>滔滔不绝地说着老游戏就是更好，声称现代游戏已经失去了魅力。与此同时，<XGParam:StrValue2/!SoldierName2/>则争辩说新游戏在画面和叙事上都有巨大进步。两名士兵都在陈述自己的观点。"
++SafeString="老派游戏很特别。它们有灵魂，没有什么能比得上那种像素艺术。"
++RiskyString="你不能贬低新游戏。叙事、图形、机制，全都更好！"
++NeutralString="我没时间玩电子游戏，更没时间争论它们。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 护甲 +2, <XGParam:StrValue2/!SoldierName2/>: 视野 -3)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 闪避 -15, <XGParam:StrValue2/!SoldierName2/>: 黑客 +20)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 黑客 -5, <XGParam:StrValue2/!SoldierName2/>: 黑客 -5)
+
+[SoldierLifeEvent_Event41 X2StrategyElement_SoldierLifeEventTemplate]
++EventName="时尚警察"
++EventImage="img:///UILibrary_SoldierLifeEvents.FashionPolice"
++EventDesc="你走进生活区，发现两名士兵正在为复仇者号上的着装规范（或者说缺乏规范）而争吵。<XGParam:StrValue1/!SoldierName1/>希望随时都能自由选择着装，而<XGParam:StrValue2/!SoldierName2/>则坚持无论执勤还是休假都要实用。"
++SafeString="如果这能让你更自信，你可以穿你想穿的。"
++RiskyString="我们不想看起来像完全的小丑。我会为你们的制服强制执行着装规范。"
++NeutralString="在我们没被枪击的时候，着装规范只适用于战场。"
++SafeDescString="(<XGParam:StrValue1/!SoldierName1/>: 意志 +10, <XGParam:StrValue2/!SoldierName2/>: 移动力 -1)"
++RiskyDescString="(<XGParam:StrValue1/!SoldierName1/>: 命中 -8, <XGParam:StrValue2/!SoldierName2/>: 护甲 +2)"
++NeutralDescString="(<XGParam:StrValue1/!SoldierName1/>: 防御 +2, <XGParam:StrValue2/!SoldierName2/>: 护甲 +1)

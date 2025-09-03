@@ -1,0 +1,16 @@
+[UISoldierBondListItem_ComplexBonds]
+ToggleRomanticInterest="切换爱慕意向"
+RomanticInterestLabel="标记爱慕意向"
+UnmarkRomanticInterestLabel="取消标记爱慕意向"
+ToggleFamilyRelation="切换家庭成员"
+FamilyRelationLabel="标记家庭成员"
+UnmarkFamilyRelationLabel="取消标记家庭成员"
+ToggleCloseFriendship="切换亲密好友"
+CloseFriendshipLabel="标记亲密好友"
+UnmarkCloseFriendshipLabel="取消标记亲密好友"
+ToggleSwornEnemies="切换死对头"
+SwornEnemiesLabel="标记死对头"
+UnmarkSwornEnemiesLabel="取消标记死对头"
+
+[UIScreenListener_BondmatePanelButton]
+m_sOpenBondPanelLabel = "编辑关系"

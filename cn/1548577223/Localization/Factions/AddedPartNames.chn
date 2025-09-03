@@ -1,0 +1,109 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; Reaper Plated
+;
+
+.TorsoTemplate="Reaper_PltMed_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="Reaper_PltMed_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+
+.LegsTemplate="Reaper_PltMed_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="Reaper_PltMed_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+
+;
+; Reaper Powered
+;
+
+.TorsoTemplate="Reaper_PwrMed_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="Reaper_PwrMed_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="Reaper_PwrMed_PlatedBase_Torso_F"
+.TorsoName="Legacy Plated"
+.TorsoTemplate="Reaper_PwrMed_PlatedBase_Torso_M"
+.TorsoName="Legacy Plated"
+
+.LegsTemplate="Reaper_PwrMed_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="Reaper_PwrMed_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="Reaper_PwrMed_PlatedBase_Legs_F"
+.LegsName="Legacy Plated"
+.LegsTemplate="Reaper_PwrMed_PlatedBase_Legs_M"
+.LegsName="Legacy Plated"
+
+;
+; Skirmisher Plated
+;
+
+.TorsoTemplate="Skirmisher_PltMed_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="Skirmisher_PltMed_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+
+.LegsTemplate="Skirmisher_PltMed_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="Skirmisher_PltMed_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+
+;
+; Skirmisher Powered
+;
+
+.TorsoTemplate="Skirmisher_PwrMed_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="Skirmisher_PwrMed_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="Skirmisher_PwrMed_PlatedBase_Torso_F"
+.TorsoName="Legacy Plated"
+.TorsoTemplate="Skirmisher_PwrMed_PlatedBase_Torso_M"
+.TorsoName="Legacy Plated"
+
+.LegsTemplate="Skirmisher_PwrMed_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="Skirmisher_PwrMed_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="Skirmisher_PwrMed_PlatedBase_Legs_F"
+.LegsName="Legacy Plated"
+.LegsTemplate="Skirmisher_PwrMed_PlatedBase_Legs_M"
+.LegsName="Legacy Plated"
+
+;
+; Templar Plated
+;
+
+.TorsoTemplate="Templar_PltMed_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="Templar_PltMed_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+
+.LegsTemplate="Templar_PltMed_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="Templar_PltMed_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+
+;
+; Templar Powered
+;
+
+.TorsoTemplate="Templar_PwrMed_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="Templar_PwrMed_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="Templar_PwrMed_PlatedBase_Torso_F"
+.TorsoName="Legacy Plated"
+.TorsoTemplate="Templar_PwrMed_PlatedBase_Torso_M"
+.TorsoName="Legacy Plated"
+
+.LegsTemplate="Templar_PwrMed_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="Templar_PwrMed_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="Templar_PwrMed_PlatedBase_Legs_F"
+.LegsName="Legacy Plated"
+.LegsTemplate="Templar_PwrMed_PlatedBase_Legs_M"
+.LegsName="Legacy Plated"

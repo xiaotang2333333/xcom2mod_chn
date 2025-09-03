@@ -1,0 +1,10 @@
+[AbiziTech_NewCITechs]
+OtherThanStarting = "Ignoring the starting region:"
+RelayRequirementText = "required number of Radio Relays:"
+
++ChainNames = (ChainName = "ActivityChain_GatherSupplies", ChainString = "Interrupt Supplies Transfer")
++ChainNames = (ChainName = "ActivityChain_SupplyRaid", ChainString = "Raid Supply Convoy")
++ChainNames = (ChainName = "ActivityChain_RescueEngineer", ChainString = "Rescue Engineer")
++ChainNames = (ChainName = "ActivityChain_RescueScientist", ChainString = "Rescue Scientist")
++ChainNames = (ChainName = "ActivityChain_JailbreakCapturedSoldier", ChainString = "Rescue Soldier")
++ChainNames = (ChainName = "ActivityChain_JailbreakChosenSoldier", ChainString = "Rescue Soldier from Chosen")

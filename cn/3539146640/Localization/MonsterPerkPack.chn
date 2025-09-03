@@ -1,0 +1,26 @@
+[X2Ability_Envoy_MPP]
+CrowdsourceStatAdjustName="群体智慧"
+NeuralNetworkStatAdjustName="神经网络"
+
+EffectFriendlyName="狂暴"
+EffectLostFriendlyName="狂暴解除"
+EffectFriendlyDesc="狂暴！此单位已完全丧失理智。"
+EffectFailedFriendlyName="抵抗狂暴。"
+EffectAcquiredString="<XGParam:StrValue0/!UnitName/>陷入狂暴。"
+EffectTickedString="<XGParam:StrValue0/!UnitName/>仍处于狂暴状态。"
+EffectLostString="<XGParam:StrValue0/!UnitName/>已摆脱狂暴。"
+
+[X2Effect_NetworkRegen_MPP]
+HealedMessage="恢复+<Heal/>生命值"
+
+[X2Effect_Levitate_MPP]
+KineticImmobilizeName="悬浮"
+KineticImmobilizeDesc="将敌人悬至空中，目标每回合受到1点碾压伤害且必定被命中。\n悬浮结束时将目标猛砸向地面，粉碎其护甲。"
+KineticImmobilizeTickFlyover="悬浮剩余：<Ability:TurnsRemaining/>回合"
+KineticImmobilizeAddedString="<XGParam:StrValue0/!UnitName/>被悬至半空。"
+KineticImmobilizePersistsString="<XGParam:StrValue0/!UnitName/>仍悬浮于空中。"
+KineticImmobilizeRemovedString="<XGParam:StrValue0/!UnitName/>已落地。"
+KineticImmobilizeTitle="浮空"
+
+[X2Effect_NeuralNetwork_MPP]
+NeuralNetworkEffectAcquiredString="<XGParam:StrValue0/!UnitName/>已接入<font color='#bf80ff'>神经网络</font>。"

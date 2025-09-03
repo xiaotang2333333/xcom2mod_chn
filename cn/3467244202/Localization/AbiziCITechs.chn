@@ -1,0 +1,10 @@
+[AbiziTech_NewCITechs]
+OtherThanStarting = "忽略起始区域:"
+RelayRequirementText = "所需的无线电中继站数量:"
+
++ChainNames = (ChainName = "ActivityChain_GatherSupplies", ChainString = "中断物资运输")
++ChainNames = (ChainName = "ActivityChain_SupplyRaid", ChainString = "突袭物资运输队")
++ChainNames = (ChainName = "ActivityChain_RescueEngineer", ChainString = "救援工程师")
++ChainNames = (ChainName = "ActivityChain_RescueScientist", ChainString = "救援科学家")
++ChainNames = (ChainName = "ActivityChain_JailbreakCapturedSoldier", ChainString = "救援士兵")
++ChainNames = (ChainName = "ActivityChain_JailbreakChosenSoldier", ChainString = "从“天选者”手中救援士兵")

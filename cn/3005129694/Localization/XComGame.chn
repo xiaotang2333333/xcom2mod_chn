@@ -1,0 +1,17 @@
+[PR_Electrician X2SoldierClassTemplate]
++DisplayName="电工"
++ClassSummary="电工拥有提供宝贵压制能力的特长，能通过电弧发射器使敌人丧失战斗力，或使用特制弹药让机械单位深感自己存在的悲哀。"
++LeftAbilityTreeTitle="电击枪"
++RightAbilityTreeTitle="震击者"
+AbilityTreeTitles[0]="特技射击"
+AbilityTreeTitles[1]="压制手"
+AbilityTreeTitles[2]="泰瑟枪"
+AbilityTreeTitles[3]="XCOM"
+AbilityTreeTitles[4]="手枪技能"
+
++RandomNickNames[0]="震撼者"
++RandomNickNames[1]="电击侠"
++RandomNickNames[2]="电闸"
++RandomNickNames[3]="枪手"
++RandomNickNames[4]="有力者"
++RandomNickNames[5]="电池"

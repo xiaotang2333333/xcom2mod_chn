@@ -1,0 +1,43 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+
+
+.TorsoTemplate="下装躯干 M"
+.TorsoName="圣赫利内衣"
+
+.TorsoTemplate="下装 躯干 F"
+.TorsoName="圣赫利内衣"
+
+.TorsoTemplate="下装躯干替换 M"
+.TorsoName="圣赫利内衣 (可着色)"
+
+.TorsoTemplate="下装躯干替换 F"
+.TorsoName="圣赫利内衣 (可着色)"
+
+
+
+.LegsTemplate="内裤腿"
+.LegsName="圣赫利内衣"
+
+.LegsTemplate="内裤腿替换 M"
+.LegsName="圣赫利内衣 (可着色)"
+
+.LegsTemplate="内裤腿 F"
+.LegsName="圣赫利内衣"
+
+.LegsTemplate="内裤腿替换 F"
+.LegsName="圣赫利内衣 (可着色)"
+
+
+
+.LegsTemplate="H2A 支腿M"
+.LegsName="精英鞋子"
+
+.LegsTemplate="H2A 支腿替换 M"
+.LegsName="精英鞋子 (可着色)"
+
+.LegsTemplate="H2A 支腿 F"
+.LegsName="精英鞋子"
+
+.LegsTemplate="H2A 支腿替换 F"
+.LegsName="精英鞋子 (可着色)"

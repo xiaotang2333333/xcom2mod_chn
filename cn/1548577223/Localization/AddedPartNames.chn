@@ -1,0 +1,109 @@
+[X2DownloadableContentInfo_AddedPartNames]
+
+;
+; Predator
+;
+
+.TorsoTemplate="PltMed_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="PltMed_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+
+.LegsTemplate="PltMed_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="PltMed_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+
+;
+; Spider
+;
+
+.TorsoTemplate="PltLgt_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="PltLgt_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+
+.LegsTemplate="PltLgt_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="PltLgt_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+
+;
+; E.X.O.
+;
+
+.TorsoTemplate="PltHvy_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="PltHvy_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+
+.LegsTemplate="PltHvy_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="PltHvy_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+
+;
+; Warden	
+;
+
+.TorsoTemplate="PwrMed_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="PwrMed_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="PwrMed_PlatedBase_Torso_F"
+.TorsoName="Legacy Plated"
+.TorsoTemplate="PwrMed_PlatedBase_Torso_M"
+.TorsoName="Legacy Plated"
+
+.LegsTemplate="PwrMed_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="PwrMed_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="PwrMed_PlatedBase_Legs_F"
+.LegsName="Legacy Plated"
+.LegsTemplate="PwrMed_PlatedBase_Legs_M"
+.LegsName="Legacy Plated"
+
+;
+; Wraith
+;
+
+.TorsoTemplate="PwrLgt_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="PwrLgt_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="PwrLgt_PlatedBase_Torso_F"
+.TorsoName="Legacy Plated"
+.TorsoTemplate="PwrLgt_PlatedBase_Torso_M"
+.TorsoName="Legacy Plated"
+
+.LegsTemplate="PwrLgt_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="PwrLgt_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="PwrLgt_PlatedBase_Legs_F"
+.LegsName="Legacy Plated"
+.LegsTemplate="PwrLgt_PlatedBase_Legs_M"
+.LegsName="Legacy Plated"
+
+;
+; W.A.R.
+;
+
+.TorsoTemplate="PwrHvy_KevlarBase_Torso_F"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="PwrHvy_KevlarBase_Torso_M"
+.TorsoName="Legacy Kevlar"
+.TorsoTemplate="PwrHvy_PlatedBase_Torso_F"
+.TorsoName="Legacy Plated"
+.TorsoTemplate="PwrHvy_PlatedBase_Torso_M"
+.TorsoName="Legacy Plated"
+
+.LegsTemplate="PwrHvy_PlatedBase_Legs_F"
+.LegsName="Legacy Plated"
+.LegsTemplate="PwrHvy_PlatedBase_Legs_M"
+.LegsName="Legacy Plated"
+.LegsTemplate="PwrHvy_KevlarBase_Legs_F"
+.LegsName="Legacy Kevlar"
+.LegsTemplate="PwrHvy_KevlarBase_Legs_M"
+.LegsName="Legacy Kevlar"
