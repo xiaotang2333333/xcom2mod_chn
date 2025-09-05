@@ -6,19 +6,10 @@ import sys
 import codecs
 import re
 
-def contains_chinese(text):
-    """
-    检查文本中是否包含中文字符
-    
-    Args:
-        text: 要检查的文本
-        
-    Returns:
-        bool: 如果包含中文字符返回True，否则返回False
-    """
-    # 中文字符的Unicode范围
-    chinese_pattern = re.compile(r'[\u4e00-\u9fff\u3400-\u4dbf\U00020000-\U0002a6df\U0002a700-\U0002b73f\U0002b740-\U0002b81f\U0002b820-\U0002ceaf\U0002f800-\U0002fa1f]')
-    return bool(chinese_pattern.search(text))
+CHINESE_PATTERN = re.compile(r'[\u4e00-\u9fff]')
+
+def contains_chinese(text: str) -> bool:
+    return bool(CHINESE_PATTERN.search(text))
 
 def check_chn_files_for_chinese(directory='.'):
     """
