@@ -15,20 +15,24 @@ for root, dirs, files in os.walk(target_path):
 
                     result = from_bytes(raw).best()
                     if result is None:
-                        print(f"{fpath}: unknown")
+                        print(f"{fpath}: unknown encoding")
                         continue
 
                     enc = result.encoding.lower()
-                    if enc not in ("utf_16"):
-                        print(f"{fpath}: detected as {enc}, confidence={result.chaos:.3f}")
+                    print(f"{fpath}: detected as {enc}, chaos={result.chaos:.3f}")
 
-                        # 检测为utf8或gb18030时，重新按utf16le保存
-                        if enc in ("utf_8", "gb18030"):
-                            try:
-                                text = raw.decode(enc)
-                                with open(fpath, "wb") as fw:
-                                    fw.write(text.encode("utf-16le"))
-                                print(f"{fpath}: converted to utf-16le")
-                            except Exception as e:
-                                print(f"{fpath}: convert failed - {e}")
+                    # 已经是 utf-16/utf-16le/utf-16le-sig，跳过
+                    if enc.startswith("utf-16"):
+                        continue
+
+                    # 遇到 utf-8 / gb18030 需要转码
+                    if enc in ("utf-8", "gb18030"):
+                        try:
+                            text = raw.decode(enc)
+                            with open(fpath, "w", encoding="utf-16") as fw:
+                                fw.write(text)
+                            print(f"{fpath}: converted to UTF-16LE with BOM")
+                        except Exception as e:
+                            print(f"{fpath}: convert failed - {e}")
+
 
